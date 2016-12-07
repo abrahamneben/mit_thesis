@@ -1,0 +1,191 @@
+\chapter{Technical Introduction}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Observational cosmology: The state of the union}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% paragraph 1
+% what is the picture of the universe that has emerged over the past decades
+% and how have these things been determined
+Much like particle physics, cosmology today finds itself in the enviable yet frustrating position of having a broadly supported picture of the universe which leaves only the most challenging and fundamental questions  unanswered. Many intersecting lines of evidence point to a universe which began hot, dense, homogenous, and rapidly expanding 13.8 billion years ago, eventually cooled enough for bound objects to form, and is now accelerating. Studies of the Cosmic Microwave Background (CMB), high-z supernovae, distant galaxies, primordial element abundances, the matter power spectrum, and others all converge on this model. It is largely, however, a mal-understood and entirely unexpected \textit{dark} universe, whose total energy budget is dominated by constituents whose gravitational properties are well understood, but whose fundamental nature remains mystery. 
+
+This universe is described by its energy densities of dark energy, $\Omega_\Lambda=0.691\pm0.006$, matter, $\Omega_M=0.309\pm0.006$, baryons, $\Omega_b=0.0455\pm0.0003$, and radiation, $\Omega_\gamma=(0.92\pm0.02)\times10^{-4}$. These densities are given as the present energy densities of these constituents relative to the present critical density $\rho_c=3H_0^2/8\pi G$, where the present expansion rate is $(70\pm2$)\,km/s/Mpc \footnote{I've estimated the uncertainty on $H_0$ as the approximate spread between the CMB measurement of $67.74\pm0.46$ km/s/Mpc and the local measurement of $73.2\pm1.7$}. Our universe is flat (ie, deviating from Euclidian geometry only due to a homogenous and isotropic expansion), with a measured curvature density of $\Omega_K=0.008\pm0.004$ which is consistent with zero. Further, the dark energy is consistent with being a cosmological constant, equivalent to a uniform vacuum energy, with an equation of state of $w=-1.02\pm0.08$, consistent with $-1$. These measurement represent the best combined constraints reported by \citet{planck16}, and have been made possible by the avalanche of data on the CMB, weak lensing statistics, baryon acoustic oscillations, and type 1a supernova surveys collected in recent years. 
+
+Even with these precision measurements and the deluge of cosmology data, Joe Cosmologist has a sinking feeling at the pit of his stomach. Direct detection experiments for weakly interacting massive particles (WIMPs), the most natural dark matter candidate, have excluded essentially all reasonable parameter space for a particle freezing out at just the right time in the early universe to today's observed abundance. The easiest to swallow WIMP candidate was Supersymmetry's lightest, and thus stable, particle, the neutralino. But the mass scale of the supersymmetric partners was always a free parameter, and hopes of creating WIMPs at the Large Hadron Collider have been largely dashed. And dark energy is so challenging a problem that some some have even proposed it heralds the end of progress in the field \citep{darkenergybad}. 
+
+Despite these questions, the general history of the universe is fairly well established. Nuclear reactions in the first few minutes of the universe created Hydrogen, Helium, Lithium, and trace amounts of XXX. Astronomers have verified these predictions of primordial abundances in XXX. After 370,000 years of expansion and cooling, the photon mean free path increased to larger than the Hubble radius and protons and neutrons formed into atoms. That photon bath still permeates the universe as the CMB, and its anisotropies represent order $10^-5$ density and temperature fluctuations at recombination. After the release of the CMB, before sources formed, those slight fluctuations began to collapse under gravity during a period known as the dark ages. After a few hundred million years, sufficient densities and temperatures were reached in these collapsing halos to form the first bright sources in a period known as the cosmic dawn, culminating in the epoch of reionization. These bright sources are thought to have irradiated the IGM with ionizing photons, reionizing the formerly neutral Hydrogen. The deepest galaxy surveys reach barely reach back to this epoch, detecting only a handful of the rarest and brightest galaxies, leaving mysterious the general characteristics of the cosmic dawn.
+
+Many questions remain about this first generation of sources. How big were they? How bright? How numerous? Were they stars? Black-hole binaries? Quasars? NEED SOME OTHER QUESTIONS TO POSE HERE
+
+After this epoch, though, our knowledge becomes firmer. Observations of the Lyman alpha forest in quasar sightlines have revealed the reionization of the universe progressing from small bubbles into the whole volume. Galaxy redshift surveys have confirmed predicted statistics of the matter distribution at essentially all but galactic scales, and numerical simulations are beginning to nail down the complex astrophysics of galaxy formation.
+
+New generations of observatories are coming on in the coming years to tackle all these problems, at the very least by drowning us in data. LSST will survey the sky every night, discovering tens of thousands of supernova to characterize the acceleration to unprecedented precision. Redshift surveys like WFIRST and EUCLID will measure millions of galaxy redshifts to trace the statistics of structure over time, and the James Webb Space Telescope will probe deeper into the EOR in just hours than Hubble probed in XX days. (IS THAT RIGHT???). Perhaps in more ways than one, we are on the verge of first light.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Closing in on the cosmic dawn}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+In our history of the universe, the clear gap in observations is the cosmic dawn. In this section we go into detail into what is known about this epoch from indirect measurements and what uncertainties remain.
+
+% paragraph 6
+% closing in from high z
+CMB and numerical simulations closing in from high z side
+CMB optical depth
+post CMB universe is neutral and homogenous
+
+% paragraph 7
+% closing in from low z
+deep galaxy surveys (HUDF)
+present universe is ionized, and clumpy
+gunn-peterson trough
+some conflicting constraints with high z (tau)
+
+% paragraph 8
+% simulating the EOR
+astrophysics of reionization / feedback effects 
+
+% paragraph 9
+% first sources
+pop III stars
+low energy SNe (cite Alex Ji's paper)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{21cm tomography}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% paragraph 10
+% basic idea
+detect 21cm emission from neutral hydrogen during the EOR
+negative images of the growing ionized bubbles around galaxies
+
+% paragraph 11
+% 21cm emission
+few words about history
+	first spectral line identified for radio astronomy (van der Hulst and Oort)
+	rotation curve measurements of the galaxy => dark matter halo
+physics of the hyperfine transition \citep{griffithshyperfine}
+
+% paragraph 12
+% 21cm from the EOR
+Consider a radiation field with intensity $I_0$ behind a cloud of Hydrogen with optical depth $\tau$. The emergent intensity is $I_\nu=I_0e^{-\tau}+S_\nu(1-e^{-\tau})$. Cosmological redshift reduces the observed energy flux by $(1+z)$, then formulating in terms of brightness temperatures and assuming $\tau<<1$ gives:
+
+\begin{equation}
+\delta T=\frac{T_s-T_\gamma(z)}{1+z}
+\end{equation}
+where $T_s$ is the brightness temperature of 21cm radiation from the gas, equal to the spin temperature of the gas. This can be proved using $S_\nu=j_\nu/\alpha_\nu\propto A n_2/(n_1B_{12}-n_2B_{21})=\nu^2 T_s$, where the last equality uses $A\sim\nu^3B$, which is the rayleigh jeans relation with the spin temperature. Now we just need the optical depth through the cloud with size $ds$.
+
+\begin{equation}
+\tau=\int\alpha ds=\int\frac{h\nu}{c}\phi(\Delta\nu)(n_1B_{12}-n_2B_{21})ds
+\end{equation}
+Then using $g_1B_{12}=g_2B_{21}$, $g_2/g_1=3$, and $n_2/n_1=3e^{-h\nu/kT_s}$ gives
+
+\begin{equation}
+\tau=\int\frac{h\nu}{c}\phi(\Delta\nu)\frac{n_H}{4}B_{12}(1-e^{-h\nu/kT_s})ds
+\end{equation}
+using $n_H=n_1/4$, given that $T_s>>h\nu/k=0.1$K. Recall that $B$ has units of $A$ divided by energy density per frequency, giving $A\sim Bh\nu^3/c^3$, and to be precise there is an $8\pi$ here. Also taylor expand the exponential:
+
+\begin{equation}
+\tau=\phi(\Delta\nu)\frac{n_H}{4}\frac{Ac^2}{8\pi\nu}\frac{h}{kT_s}\Delta s
+\end{equation}
+Now use that photons travel on geodesics so we may replace $\Delta s=a(t)\Delta r$ by $c\Delta t=c\Delta z/(1+z)H(z)$, and also use that the line is doppler broadened by $\Delta\nu/\nu=v/c=H(z)\Delta s/c$, with $\phi(\Delta\nu)=1/\Delta \nu$, giving:
+\begin{equation}
+\tau=\frac{n_H}{4}\frac{Ac^2}{\nu}\frac{h}{8\pi kT}\frac{c}{H(z)\nu}
+\end{equation}
+
+\begin{equation}
+\tau=\frac{T_s-T_\gamma(z)}{1+z}\frac{\Omega_b\rho_c(1+z)^3}{4}\frac{Ac^2}{8\pi\nu}\frac{h}{kT_s}\frac{c}{H_0\sqrt{\Omega_m}(1+z)^{3/2}\nu}
+\end{equation}
+
+\begin{eqnarray}
+\delta T&=&\sqrt{1+z}\left(1-\frac{T_\gamma(z)}{T_s}\right)\frac{\Omega_b}{4}\frac{3H_0}{8\pi Gm_p}\frac{h}{8\pi k}\frac{c}{\sqrt{\Omega_m}}\left(\frac{c^2A}{\nu^2}\right)\\
+&=&10\text{mK}\left(\frac{1+z}{10}\right)^{1/2}\left(1-\frac{T_\gamma(z)}{T_s}\right)
+\end{eqnarray}
+where $T_s>>T_\gamma$ during reionization. 
+
+% the global signal
+As we see above, the brightness temperature of the 21cm signal is determined by the spin temperature. That temperature is affected by three processes: collisional coupling with atoms and free electrons which couple the gas kinetic temperature to the spin temperature, radiative coupling to the CMB, and Ly$\alpha$-induced spin-flips via an excited state. 
+
+\textbf{$1100>z>200$} The universe is dense enough so that collisional coupling between atoms and residual free electrons holds $T_\text{gas}=T_\gamma=T_s$, and $\delta T=0$.
+
+\textbf{$200>z>50$} Now the gas is cooling adiabatically with $PV^\gamma=$const, with $\gamma=c_p/c_v=1+1/c_v$, and $c_v=f/2$. Note also that $TV^{\gamma-1}=$const, giving that $T\sim (1+z)^2$ for $f=3$ for a monotonic ideal gas. So the gas cools below the CMB temperature, and the spin temperature is still coupled to the gas temperature. Thus 21cm signal is now visible in absorption. This is the pristine cosmological signal, and is the long run focus of 21cm cosmology.
+
+\textbf{$50>z>z_\text{re}$} This is the epoch of heating at reionization, and the exact sequence of events is quite uncertain. The spin temperature gets heated far above the CMB temperature by the first luminous sources. 21cm fluctuations are sourced by some combinations of Ly$\alpha$ flux, density fluctuations, and neutral fraction fluctuations.  
+
+\textbf{$z_\text{re}>z$} Most of the universe is ionized, and 21cm signal is now only visible in large scale 21cm overdensities. 
+
+
+% paragraph 13
+% tomography
+low optical depth (ie, long lifetime, very weak transition) spectral line ==> tomography!!
+redshift corresponds to line of sight distance
+and angle corresponds to transverse distance
+
+% paragraph 14
+% a problem: foregrounds
+extragalactic sources
+galactic synchrotron
+huge thermal noise 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{The radio interferometry renaissance}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% paragraph 15
+% what types of instruments are needed to detect the faint signal
+first generation instruments : power spectrum measurements
+related to the matter power spectrum
+targeted to ultra low surface brightness emission ==> compact arrays
+large N / small D (with advances in computing power, large dipole arrays)
+
+% paragraph 16
+% power spectrum measurements with interferometers
+physics of radio interferometry (van der cittert-zernike theorem)
+relating visibilities to power spectr
+
+% paragraph 17
+% global signal measurements
+EDGES (lower limit on EOR duration)
+
+% paragraph 18
+% first generation interferometers
+MWA
+PAPER
+	power spectrum expts (lower limit on the EOR spin temp)
+GMRT
+
+% paragraph 19
+% challenges
+calibration => omniscape
+antenna characterization
+deconvolution and surveys (Patti and Jack's work, Danny's 2013 paper)
+faint RFI flagging
+
+% paragraph 20
+% next generation interferometers
+HERA happening now
+SKA happing over the next decade
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Completing the picture with cross correlations}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% paragraph 21
+% basics of why xcors will help
+confirming any detections
+	systematics are pernicious
+	more sensitive radio interferometry than every before
+extending the science
+	IGM connects to stellar properties, connects to galaxy surveys
+
+% paragraph 22
+% 21cm/optical
+Tzu-Ching
+Beardsley (adding context to JWST)
+
+% paragraph 23
+% 21cm/Ly-alpha
+brief intro to my project
+

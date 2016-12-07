@@ -1,0 +1,108 @@
+\contentsline {chapter}{\numberline {1}Introduction}{19}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cosmology and the cosmic dawn}{19}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Modern cosmology and the history of the universe}{19}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}The known and unknown of the cosmic dawn}{21}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}21cm tomography}{21}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Radio emission from neutral hydrogen}{21}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}21cm emission from the Dark Ages and Epoch of Reionization}{23}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Microscopic radiative transfer using Einstein A and B coefficients}{23}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Brightness temperature of 21\tmspace +\thinmuskip {.1667em}cm cloud at the EOR}{26}{subsubsection.1.2.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.3}History of the global 21\tmspace +\thinmuskip {.1667em}cm signal}{27}{subsubsection.1.2.2.3}
+\contentsline {subsection}{\numberline {1.2.3}how to get from image cubes to power spectra (ie, unit transforms and FFTs)}{28}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}A new generation of radio interferometers}{29}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}The basics of radio interferometry and power spectrum estimation}{29}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}sensitivity requirements for EOR science and large D / small N regime}{31}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}new gain/phase/primary beam calibration techniques/challenges}{31}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}The problem of foregrounds}{31}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}physics of galactic synchrotron}{31}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}extragalactic radio sources}{33}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}foreground subtraction / avoidance}{33}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}Completing the picture with cross correlations}{33}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}examples of successful cross correlation results}{33}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}what could be learned from IR cross correlation}{33}{subsection.1.5.2}
+\contentsline {chapter}{\numberline {2}Measuring High Dynamic Range MWA Beampatterns using 137 MHz ORBCOMM Satellites}{35}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{36}{section.2.1}
+\contentsline {section}{\numberline {2.2}Measurement System}{40}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Overview}{40}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}ORBCOMM Satellite Constellation}{42}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Reference Antenna}{43}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Data Acquisition Hardware}{44}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Data Analysis}{45}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Processing Satellite Passes}{45}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Forming Power Patterns}{46}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Assessing Systematics with a Null Experiment}{46}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}MWA Antenna Tile}{50}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Model Beampatterns}{51}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Beampattern Measurements}{52}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Error Analysis}{54}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Discussion}{55}{section.2.5}
+\contentsline {section}{\numberline {2.6}Appendix: Measurement of the unpolarized beampattern}{59}{section.2.6}
+\contentsline {section}{\numberline {2.7}Acknowledgments}{61}{section.2.7}
+\contentsline {chapter}{\numberline {3}Beamforming Errors in MWA Antenna Tiles and their Effects on EOR Science}{63}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{64}{section.3.1}
+\contentsline {section}{\numberline {3.2}Laboratory Measurements of Beamforming Errors}{67}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Overview of Beamforming in the MWA}{67}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Gain and Group Delay Experiments}{69}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}LNA Measurements}{69}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Cable Measurements}{70}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}Beamformer Measurements}{71}{subsubsection.3.2.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Tile Tilts and Rotation}{71}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Budget of Beamforming Errors}{71}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Simulating Beams with Beamforming Errors}{72}{section.3.3}
+\contentsline {section}{\numberline {3.4}Effects on Power Spectrum Analyses}{75}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Calibration and Forming Image Cubes}{76}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Power Spectrum}{77}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Discussion}{80}{section.3.5}
+\contentsline {section}{\numberline {3.6}Appendix: Design of the MWA Antenna Tile}{82}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Design and Science Requirements}{82}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Dipole Element}{83}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Ground Screen}{84}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Beamformer}{85}{subsection.3.6.4}
+\contentsline {section}{\numberline {3.7}Acknowledgements}{86}{section.3.7}
+\contentsline {chapter}{\numberline {4}The HERA Dish: Beam Measurements and Science Implications}{97}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{98}{section.4.1}
+\contentsline {section}{\numberline {4.2}Dish Design and Modeling}{102}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Design of the HERA Dish}{102}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Dish Modeling}{104}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Experimental Setup}{105}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}ORBCOMM Beam Mapping System Review}{105}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}HERA--Green Bank: A three-element prototype array}{107}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Assessing Experimental Systematics}{108}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Dish Measurements}{109}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Power pattern measurements}{109}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Sensitivity}{111}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Foreground Delay Spectrum Simulations}{113}{section.4.5}
+\contentsline {section}{\numberline {4.6}Discussion}{115}{section.4.6}
+\contentsline {section}{\numberline {4.7}Acknowledgements}{118}{section.4.7}
+\contentsline {chapter}{\numberline {5}New Power Spectrum Limits from Early MWA 128-Tile Data using Empirical Covariance Modeling}{123}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{124}{section.5.1}
+\contentsline {section}{\numberline {5.2}Empirical Covariance Modeling}{127}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Quadratic Power Spectrum Estimator Review}{128}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}What Does Our Covariance Model Represent?}{129}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Empirical Covariance Modeling Technique}{131}{subsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.3.1}Compute sample covariances in $uv$ annuli}{133}{subsubsection.5.2.3.1}
+\contentsline {subsubsection}{\numberline {5.2.3.2}Subtract the properly projected noise covariance.}{135}{subsubsection.5.2.3.2}
+\contentsline {subsubsection}{\numberline {5.2.3.3}Perform a $k_\delimiter "026B30D $ filter on the covariance.}{136}{subsubsection.5.2.3.3}
+\contentsline {subsubsection}{\numberline {5.2.3.4}Cut out modes attributable to noise.}{140}{subsubsection.5.2.3.4}
+\contentsline {subsection}{\numberline {5.2.4}Review of Assumptions and Caveats}{140}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Results}{143}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Observation Summary}{143}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Calibration and Mapmaking Summary}{144}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Power Spectrum Results}{147}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Summary and Future Directions}{156}{section.5.4}
+\contentsline {section}{\numberline {5.5}Acknowledgements}{158}{section.5.5}
+\contentsline {chapter}{\numberline {6}Foreground and sensitivity analysis for 21cm/Infrared intensity mapping correlation studies from the Epoch of Reionization}{161}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{162}{section.6.1}
+\contentsline {section}{\numberline {6.2}Power spectra of residual foreground}{162}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Power spectrum conventions}{162}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}21\tmspace +\thinmuskip {.1667em}cm foreground power spectra}{162}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}IR foreground power spectra}{162}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Sensitivity and Experimental Design Study}{162}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Cross spectrum vs coherence}{162}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Sensitivity framework}{162}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}Cross spectrum results}{162}{section.6.4}
+\contentsline {section}{\numberline {6.5}Discussion}{162}{section.6.5}
+\contentsline {chapter}{\numberline {7}Conclusion}{163}{chapter.7}
+\contentsline {chapter}{\numberline {A}Review of noise in radio interferometers}{165}{appendix.A}
+\contentsline {section}{\numberline {A.1}The Radio Sky and Radio Interferometry}{165}{section.A.1}
+\contentsline {section}{\numberline {A.2}Sky Noise, Self Noise, and Receiver Noise}{168}{section.A.2}

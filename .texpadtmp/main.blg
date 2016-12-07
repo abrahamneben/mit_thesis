@@ -1,0 +1,389 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.aux
+A level-1 auxiliary file: cover.aux
+A level-1 auxiliary file: contents.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: chap1_precision_beammapping.aux
+A level-1 auxiliary file: chap2_beamforming_errors.aux
+A level-1 auxiliary file: chap3_hera_beammapping.aux
+A level-1 auxiliary file: chap4_empirical_covariance.aux
+Case mismatch error between cite keys GSM and gsm
+---line 100 of file chap4_empirical_covariance.aux
+ : \citation{GSM
+ :              }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys HEALPIX and healpix
+---line 124 of file chap4_empirical_covariance.aux
+ : \citation{HEALPIX
+ :                  }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: chap5_xcor.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: skynoise.aux
+A level-1 auxiliary file: biblio.aux
+The style file: ../apj.bst
+Database file #1: ../main.bib
+Repeated entry---line 1484 of file ../main.bib
+ : @article{21cmfast
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1788 of file ../main.bib
+ : @article{lofar
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1874 of file ../main.bib
+ : @article{zheng14
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1886 of file ../main.bib
+ : @article{mwascience
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1895 of file ../main.bib
+ : @article{tingay13
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1919 of file ../main.bib
+ : @article{nithya13
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2245 of file ../main.bib
+ : @article{miguelreview
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2260 of file ../main.bib
+ : @article{PritchardLoebReview
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2276 of file ../main.bib
+ : @incollection{zaroubi
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2289 of file ../main.bib
+ : @book{aviBook
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2300 of file ../main.bib
+ : @article{PoberNextGen
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2336 of file ../main.bib
+ : @article{Dattapowerspec
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2352 of file ../main.bib
+ : @article{VedanthamWedge
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2372 of file ../main.bib
+ : @article{X13
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2398 of file ../main.bib
+ : @article{MoralesPSShapes
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2416 of file ../main.bib
+ : @article{CathWedge
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2433 of file ../main.bib
+ : @article{AdrianWedge1
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2450 of file ../main.bib
+ : @article{AdrianWedge2
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2473 of file ../main.bib
+ : @article{jelic2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2487 of file ../main.bib
+ : @article{braun2013
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2498 of file ../main.bib
+ : @article{healpix
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2510 of file ../main.bib
+ : @phdthesis{williamsthesis2012
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2517 of file ../main.bib
+ : @article{bowman07
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2583 of file ../main.bib
+ : @article{lofar
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2655 of file ../main.bib
+ : @inproceedings{Whitepaper5
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2661 of file ../main.bib
+ : @article{zheng14
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2693 of file ../main.bib
+ : @article{tingay13
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2728 of file ../main.bib
+ : @article{lonsdale09
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2756 of file ../main.bib
+ : @article{nithya13
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2810 of file ../main.bib
+ : @article{pober12
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2835 of file ../main.bib
+ : @mastersthesis{ries07
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2846 of file ../main.bib
+ : @article{moralesandmatejek
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2933 of file ../main.bib
+ : @article{FurlanettoReview
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2946 of file ../main.bib
+ : @article{miguelreview
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2961 of file ../main.bib
+ : @article{PritchardLoebReview
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2977 of file ../main.bib
+ : @incollection{zaroubi
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2990 of file ../main.bib
+ : @book{aviBook
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3001 of file ../main.bib
+ : @article{PoberNextGen
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3013 of file ../main.bib
+ : @article{mwascience
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3052 of file ../main.bib
+ :    @article{TrottObservingModes
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3069 of file ../main.bib
+ : @article{nithya15
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3112 of file ../main.bib
+ : @article{nithya15b
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3147 of file ../main.bib
+ : @article{Dattapowerspec
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3163 of file ../main.bib
+ : @article{VedanthamWedge
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3183 of file ../main.bib
+ : @article{X13
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3229 of file ../main.bib
+ : @article{MoralesPSShapes
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3247 of file ../main.bib
+ : @article{CathWedge
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3264 of file ../main.bib
+ : @article{AdrianWedge1
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3281 of file ../main.bib
+ : @article{AdrianWedge2
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3301 of file ../main.bib
+ : @article{braun2013
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3321 of file ../main.bib
+ : @article{healpix
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3347 of file ../main.bib
+ : @article{Slee1995
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3359 of file ../main.bib
+ : @article{MWACS
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3376 of file ../main.bib
+ : @article{parsons12a
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3394 of file ../main.bib
+ : @article{parsons12b
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3412 of file ../main.bib
+ : @article{21cmfast
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3645 of file ../main.bib
+ : @book{aviBook
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3671 of file ../main.bib
+ : @article{AaronSensitivity
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3860 of file ../main.bib
+ : @article{X13
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3893 of file ../main.bib
+ : @article{PritchardLoebReview
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4077 of file ../main.bib
+ : @article{CathWedge
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4096 of file ../main.bib
+ : @article{TrottObservingModes
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4256 of file ../main.bib
+ : @article{MoralesPSShapes
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4276 of file ../main.bib
+ : @article{Dattapowerspec
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5004 of file ../main.bib
+ : @article{FurlanettoReview
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5160 of file ../main.bib
+ : @article{Slee1995
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5531 of file ../main.bib
+ : @inproceedings{Whitepaper5
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5586 of file ../main.bib
+ : @article{miguelreview
+ :                      ,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 5837 of file ../main.bib
+ :    
+ :    volume = 499,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 5911 of file ../main.bib
+ : @article{VedanthamWedge
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6149 of file ../main.bib
+ : @article{HEALPIX
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6248 of file ../main.bib
+ : @article{PoberNextGen
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6269 of file ../main.bib
+ : @article{MWACS
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6650 of file ../main.bib
+ : @book{ThompsonMoranSwenson
+ :                           ,
+I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 7170 of file ../main.bib
+ : @article{21CMFAST
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "sutinjo2015"
+Warning--I didn't find a database entry for "paperinstrument"
+Warning--I didn't find a database entry for "PoberWedge"
+Warning--I didn't find a database entry for "ali2015"
+Warning--I didn't find a database entry for "sutinjo2014"
+Warning--I didn't find a database entry for "mapmaking"
+Warning--I didn't find a database entry for "TingaySummary"
+Warning--I didn't find a database entry for "PAPER64Limits"
+Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
+while executing---line 1562 of file ../apj.bst
+Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
+while executing---line 1562 of file ../apj.bst
+Warning--empty journal in Gong2014
+Warning--empty publisher in ska
+Warning--empty journal in Heneka2016
+Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
+while executing---line 1645 of file ../apj.bst
+Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
+while executing---line 1645 of file ../apj.bst
+You've used 155 entries,
+            2988 wiz_defined-function locations,
+            1506 strings with 66854 characters,
+and the built_in function-call counts, 90447 in all, are:
+= -- 5584
+> -- 9722
+< -- 57
++ -- 3274
+- -- 3084
+* -- 9417
+:= -- 17995
+add.period$ -- 155
+call.type$ -- 155
+change.case$ -- 984
+chr.to.int$ -- 151
+cite$ -- 158
+duplicate$ -- 2859
+empty$ -- 4215
+format.name$ -- 3597
+if$ -- 16833
+int.to.chr$ -- 8
+int.to.str$ -- 1
+missing$ -- 134
+newline$ -- 469
+num.names$ -- 623
+pop$ -- 990
+preamble$ -- 1
+purify$ -- 974
+quote$ -- 0
+skip$ -- 2438
+stack$ -- 0
+substring$ -- 3093
+swap$ -- 61
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1380
+warning$ -- 3
+while$ -- 487
+width$ -- 0
+write$ -- 1539
+(There were 81 error messages)

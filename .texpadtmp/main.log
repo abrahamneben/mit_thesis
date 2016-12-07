@@ -1,0 +1,1004 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  7 DEC 2016 12:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, german-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabic, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnish, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, slovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(./mitthesis.cls
+Document Class: mitthesis 1999/10/20
+\vithesis=\count80
+Intentionally Leaving Pages Blank
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+Thesis document copyright MIT unless otherwise (manually) specified
+\@titlesupervisor=\box26
+\@abstractsupervisor=\box27
+\c@savepage=\count90
+) (./lgrind.sty
+Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
+\lc@unt=\count91
+\ln@xt=\count92
+\LGnuminterval=\count93
+\LGindent=\skip43
+\LGsloppy=\skip44
+\procbox=\box28
+\ls@far=\box29
+\tb@x=\box30
+\TBw@d=\dimen103
+\@ts=\dimen104
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+ (/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen107
+)) (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks16
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks17
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks18
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)) (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+ (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen116
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count109
+ (/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetexconfig/hyperref.cfg
+File: hyperref.cfg 2008/07/11 v1.2 hyperref configuration for XeLaTeX
+)
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count110
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count111
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count112
+\c@Item=\count113
+\c@Hfootnote=\count114
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/05/13 v6.82q Hyperref driver for XeTeX
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/05/13 v6.82q Hyperref: PDF Unicode definition (HO)
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box33
+\c@Hy@AnnotLevel=\count115
+\HyField@AnnotCount=\count116
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+(rerunfilecheck)             Therefore file contents cannot be checked efficiently
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip50
+) (./aas_macros.sty) (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.bbl) (/usr/local/texlive/2012/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
+
+Package cmap Warning: pdftex not detected - exiting.
+
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.aux (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/cover.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/contents.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/introduction.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap1_precision_beammapping.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap2_beamforming_errors.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap3_hera_beammapping.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap4_empirical_covariance.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap5_xcor.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/conclusion.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/skynoise.aux
+
+LaTeX Warning: Label `eqn:vismean' multiply defined.
+
+) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/biblio.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 50.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+ (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+ (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.out) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+\openout2 = `cover.aux'.
+
+ (./cover.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+ (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+) [1
+
+
+
+] [2
+
+] (./abstract.tex) [3
+
+] [4
+
+]
+Underfull \vbox (badness 4229) has occurred while \output is active []
+
+ [5]) [6]
+\openout2 = `contents.aux'.
+
+ (./contents.tex (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [7
+
+
+
+] [8] [9]
+Overfull \hbox (0.27116pt too wide) in paragraph at lines 94--94
+ [] [][]\T1/cmr/bx/n/12 Foreground and sen-si-tiv-ity anal-y-sis for 21cm/Infrared in-ten-sity map- 
+ []
+
+[10])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [11] [12
+
+] (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.lof [13] [14])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [15] [16
+
+] (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+) [17]
+\openout2 = `introduction.aux'.
+
+ (./introduction.tex [18
+
+
+
+]
+Chapter 1.
+
+Underfull \vbox (badness 6559) has occurred while \output is active []
+
+ [19] [20] [21]
+File: chap0_intro/500px-Hydrogen-SpinFlip.svg.png Graphic file (type QTm)
+ <use  "chap0_intro/500px-Hydrogen-SpinFlip.svg.png" > [22] [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Overfull \hbox (25.12213pt too wide) in paragraph at lines 71--73
+\T1/cmr/m/n/12 Note that $\OML/cmm/m/it/12 A$ \T1/cmr/m/n/12 has units of $[][]$, and the $\OML/cmm/m/it/12 B$\T1/cmr/m/n/12 's have units of $[][]\OT1/cmr/m/n/12 ([])[]$\T1/cmr/m/n/12 .
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.95827pt
+(hyperref)                removed on input line 98.
+
+[26]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.95827pt
+(hyperref)                removed on input line 136.
+
+[27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+File: chap0_intro/radio_interferometer_diagram.png Graphic file (type QTm)
+ <use  "chap0_intro/radio_interferometer_diagram.png" > [29]
+File: chap0_intro/ifo_space.pdf Graphic file (type QTm)
+ <use  "chap0_intro/ifo_space.pdf" > [30]
+Overfull \hbox (57.3092pt too wide) in paragraph at lines 206--206
+[]\T1/cmr/bx/n/14.4 new gain/phase/primary beam cal-i-bra-tion tech-niques/challenges 
+ []
+
+[31]
+File: chap0_intro/synchrotrondiagram.png Graphic file (type QTm)
+ <use  "chap0_intro/synchrotrondiagram.png" > [32]) [33]
+\openout2 = `chap1_precision_beammapping.aux'.
+
+ (./chap1_precision_beammapping.tex [34
+
+
+
+]
+Chapter 2.
+Missing character: There is no – in font ecrm1200!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+[35] [36]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [39]
+File: chap1_precision_beammapping_figures/system_overview_diagram.pdf Graphic file (type QTm)
+ <use  "chap1_precision_beammapping_figures/system_overview_diagram.pdf" >
+Overfull \hbox (72.27pt too wide) in paragraph at lines 41--42
+[][] 
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 42.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [40] [41] [42]
+Overfull \hbox (15.13701pt too wide) in paragraph at lines 61--62
+\T1/cmr/m/n/12 ground plane us-ing CST Mi-crowave Stu-dio (https://www.cst.com/Products/CSTMWS).
+ []
+
+File: chap1_precision_beammapping_figures/ref_ant.jpg Graphic file (type QTm)
+<use  "chap1_precision_beammapping_figures/ref_ant.jpg" >
+File: chap1_precision_beammapping_figures/apr14tile.jpg Graphic file (type QTm)
+ <use  "chap1_precision_beammapping_figures/apr14tile.jpg" >
+Overfull \hbox (31.20264pt too wide) in paragraph at lines 64--66
+[][] [] 
+ []
+
+
+Underfull \vbox (badness 1253) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44] [45] [46]
+File: chap1_precision_beammapping_figures/null2sat23_pass75332.eps Graphic file (type eps)
+ <chap1_precision_beammapping_figures/null2sat23_pass75332.eps>
+Overfull \hbox (36.135pt too wide) in paragraph at lines 105--106
+[][] 
+ []
+
+File: chap1_precision_beammapping_figures/null2_abs.pdf Graphic file (type QTm)
+<use  "chap1_precision_beammapping_figures/null2_abs.pdf" >
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [47] [48] [49]
+File: chap1_precision_beammapping_figures/skynoise_null2.pdf Graphic file (type QTm)
+ <use  "chap1_precision_beammapping_figures/skynoise_null2.pdf" > [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+
+Package natbib Warning: Citation `sutinjo2015' on page 52 undefined on input line 143.
+
+
+Package natbib Warning: Citation `sutinjo2015' on page 52 undefined on input line 147.
+
+File: chap1_precision_beammapping_figures/Zenith_abs.eps Graphic file (type eps)
+<chap1_precision_beammapping_figures/Zenith_abs.eps>
+
+Package natbib Warning: Citation `sutinjo2015' on page 52 undefined on input line 151.
+
+
+Package natbib Warning: Citation `sutinjo2015' on page 52 undefined on input line 151.
+
+[52] [53] [54]
+File: chap1_precision_beammapping_figures/E03S00_abs.eps Graphic file (type eps)
+ <chap1_precision_beammapping_figures/E03S00_abs.eps>
+File: chap1_precision_beammapping_figures/W03S00_abs.eps Graphic file (type eps)
+ <chap1_precision_beammapping_figures/W03S00_abs.eps> [55] [56] [57]
+
+Package natbib Warning: Citation `sutinjo2015' on page 58 undefined on input line 192.
+
+
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [58]
+Overfull \hbox (14.24069pt too wide) in paragraph at lines 196--196
+[]\T1/cmr/bx/n/17.28 Appendix: Mea-sure-ment of the un-po-lar-ized beam-
+ []
+
+
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+ [59]
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+ [60] [61]) [62]
+\openout2 = `chap2_beamforming_errors.aux'.
+
+ (./chap2_beamforming_errors.tex
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[63
+
+
+
+] [64]
+
+Package natbib Warning: Citation `paperinstrument' on page 65 undefined on input line 13.
+
+File: chap2_beamforming_errors/tile_photo.pdf Graphic file (type QTm)
+<use  "chap2_beamforming_errors/tile_photo.pdf" >
+Underfull \vbox (badness 1173) has occurred while \output is active []
+
+ [65]
+File: chap2_beamforming_errors/zenith_and_offzenith_beams-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/zenith_and_offzenith_beams-eps-converted-to.pdf" >
+Overfull \hbox (24.96967pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+Underfull \vbox (badness 3009) has occurred while \output is active []
+
+ [67]
+File: chap2_beamforming_errors/vna_measurements_diagram.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/vna_measurements_diagram.pdf" >
+File: chap2_beamforming_errors/new_lna_setup.jpg Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/new_lna_setup.jpg" >
+File: chap2_beamforming_errors/lnas_gains_delays-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/lnas_gains_delays-eps-converted-to.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: chap2_beamforming_errors/cables_gains_delays-eps-converted-to.pdf Graphic file (type QTm)
+<use  "chap2_beamforming_errors/cables_gains_delays-eps-converted-to.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: chap2_beamforming_errors/bf00000_gains_and_delays-eps-converted-to.pdf Graphic file (type QTm)
+<use  "chap2_beamforming_errors/bf00000_gains_and_delays-eps-converted-to.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68] [69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+File: chap2_beamforming_errors/mwa_tilt_map-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/mwa_tilt_map-eps-converted-to.pdf" >
+Overfull \hbox (72.27pt too wide) in paragraph at lines 108--109
+ [][] 
+ []
+
+[71]
+File: chap2_beamforming_errors/groupdelays50ps_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/groupdelays50ps_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf" >
+File: chap2_beamforming_errors/thetaall0_3deg_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/thetaall0_3deg_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf" >
+File: chap2_beamforming_errors/gains0_5dB_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/gains0_5dB_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: chap2_beamforming_errors/groupdelays50psgains0_5dBthetaall0_3deg_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf Graphic file (type QTm)
+<use  "chap2_beamforming_errors/groupdelays50psgains0_5dBthetaall0_3deg_baselinemean_and_std_power_beamzenith-eps-converted-to.pdf" >
+File: chap2_beamforming_errors/groupdelays50psgains0_5dBthetaall0_3deg_baselinemean_and_std_power_beamoffzenith-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/groupdelays50psgains0_5dBthetaall0_3deg_baselinemean_and_std_power_beamoffzenith-eps-converted-to.pdf" >
+File: chap2_beamforming_errors/groupdelays50psgains0_5dBthetaall0_3deg_simbeams-eps-converted-to.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/groupdelays50psgains0_5dBthetaall0_3deg_simbeams-eps-converted-to.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: chap2_beamforming_errors/test_beam_averaging_zoom1.pdf Graphic file (type QTm)
+<use  "chap2_beamforming_errors/test_beam_averaging_zoom1.pdf" >
+File: chap2_beamforming_errors/test_beam_averaging_zoom2.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/test_beam_averaging_zoom2.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 1661) has occurred while \output is active []
+
+ [72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [74] [75] [76]
+File: chap2_beamforming_errors/bf_errors_in_visibilities.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/bf_errors_in_visibilities.pdf" >
+Overfull \hbox (72.27pt too wide) in paragraph at lines 225--226
+[][] 
+ []
+
+[77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 4229) has occurred while \output is active []
+
+ [80]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [81] [82]
+File: chap2_beamforming_errors/beamformer_signal_path.pdf Graphic file (type QTm)
+ <use  "chap2_beamforming_errors/beamformer_signal_path.pdf" >
+Overfull \hbox (72.27pt too wide) in paragraph at lines 269--270
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[83] [84]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]) [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
+\openout2 = `chap3_hera_beammapping.aux'.
+
+ (./chap3_hera_beammapping.tex [96
+
+
+
+]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[97] [98]
+
+Package natbib Warning: Citation `PoberWedge' on page 99 undefined on input line 50.
+
+
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [101] [102]
+File: chap3_hera_beammapping/dish_and_feed_diagram.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/dish_and_feed_diagram.pdf" >
+File: chap3_hera_beammapping/feed.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/feed.pdf" > [103]
+File: chap3_hera_beammapping/dave195_rich195_airy_beams.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/dave195_rich195_airy_beams.pdf" >
+Overfull \hbox (72.27pt too wide) in paragraph at lines 199--200
+ [][] 
+ []
+
+[104] [105]
+Underfull \vbox (badness 2261) has occurred while \output is active []
+
+ [106]
+File: chap3_hera_beammapping/ref_dipole_and_hera_dish.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/ref_dipole_and_hera_dish.pdf" >
+File: chap3_hera_beammapping/null_expt_rel_beam_maps.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/null_expt_rel_beam_maps.pdf" >
+Overfull \hbox (36.135pt too wide) in paragraph at lines 275--276
+ [][] 
+ []
+
+[107] [108]
+File: chap3_hera_beammapping/measured_beams_and_models_maps.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/measured_beams_and_models_maps.pdf" >
+Overfull \hbox (36.135pt too wide) in paragraph at lines 291--292
+ [][] 
+ []
+
+File: chap3_hera_beammapping/measured_beams_and_models_slices.pdf Graphic file (type QTm)
+<use  "chap3_hera_beammapping/measured_beams_and_models_slices.pdf" >
+Overfull \hbox (36.135pt too wide) in paragraph at lines 298--299
+ [][] 
+ []
+
+[109]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [110] [111] [112]
+
+Package natbib Warning: Citation `ali2015' on page 113 undefined on input line 351.
+
+[113]
+File: chap3_hera_beammapping/nithya_fg_pspec_all_lst.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/nithya_fg_pspec_all_lst.pdf" >
+File: chap3_hera_beammapping/nithya_fg_pspec_lst0deg.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/nithya_fg_pspec_lst0deg.pdf" >
+File: chap3_hera_beammapping/nithya_fg_pspec_lst60deg.pdf Graphic file (type QTm)
+ <use  "chap3_hera_beammapping/nithya_fg_pspec_lst60deg.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: chap3_hera_beammapping/gsm_kelvin_LST_2deg_and_62deg.pdf Graphic file (type QTm)
+<use  "chap3_hera_beammapping/gsm_kelvin_LST_2deg_and_62deg.pdf" > [114] [115]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [116]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [117]
+
+Package natbib Warning: Citation `ali2015' on page 118 undefined on input line 391.
+
+) [118] [119] [120] [121] [122]
+\openout2 = `chap4_empirical_covariance.aux'.
+
+ (./chap4_empirical_covariance.tex
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+[123
+
+
+
+] [124]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [125]
+
+Package natbib Warning: Citation `sutinjo2014' on page 126 undefined on input line 69.
+
+
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [126] [127]
+Underfull \vbox (badness 1888) has occurred while \output is active []
+
+ [128] [129]
+
+Package natbib Warning: Citation `mapmaking' on page 130 undefined on input line 116.
+
+[130] [131]
+Underfull \vbox (badness 5460) has occurred while \output is active []
+
+ [132]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+[133]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 168.
+
+File: chap4_empirical_covariance/wedge_eigenvalues.pdf Graphic file (type QTm)
+<use  "chap4_empirical_covariance/wedge_eigenvalues.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134] [135]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 198.
+
+File: chap4_empirical_covariance/fourier_diagonal.pdf Graphic file (type QTm)
+<use  "chap4_empirical_covariance/fourier_diagonal.pdf" >
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 207.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 207.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\delimiter' on input line 207.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 207.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 211.
+
+File: chap4_empirical_covariance/eigenvectors.pdf Graphic file (type QTm)
+<use  "chap4_empirical_covariance/eigenvectors.pdf" > [136] [137] [138]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [139]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 236.
+
+File: chap4_empirical_covariance/eigenvalue_stages.pdf Graphic file (type QTm)
+<use  "chap4_empirical_covariance/eigenvalue_stages.pdf" > [140] [141]
+Overfull \hbox (2.78305pt too wide) in paragraph at lines 256--257
+[]\T1/cmr/m/n/12 We ap-prox-i-mate the frequency-frequency fore-ground co-vari-ance as con-stant within
+ []
+
+[142]
+
+Package natbib Warning: Citation `TingaySummary' on page 143 undefined on input line 274.
+
+
+Package natbib Warning: Citation `GSM' on page 143 undefined on input line 276.
+
+[143] [144]
+
+Package natbib Warning: Citation `HEALPIX' on page 145 undefined on input line 291.
+
+
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [145]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 304.
+
+File: chap4_empirical_covariance/2dPk.png Graphic file (type QTm)
+<use  "chap4_empirical_covariance/2dPk.png" > [147] [148]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 315.
+
+File: chap4_empirical_covariance/2dPkArcSinh.png Graphic file (type QTm)
+<use  "chap4_empirical_covariance/2dPkArcSinh.png" > [149]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 326.
+
+File: chap4_empirical_covariance/2dError.png Graphic file (type QTm)
+<use  "chap4_empirical_covariance/2dError.png" >
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 335.
+
+File: chap4_empirical_covariance/2dSNR.png Graphic file (type QTm)
+<use  "chap4_empirical_covariance/2dSNR.png" >
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [150] [151] [152]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 346.
+
+File: chap4_empirical_covariance/1dDeltaSqMultiRedshift.pdf Graphic file (type QTm)
+<use  "chap4_empirical_covariance/1dDeltaSqMultiRedshift.pdf" >
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [153] [154]
+Overfull \hbox (9.1998pt too wide) in paragraph at lines 358--359
+[]\T1/cmr/m/n/12 Our best up-per limit at 95% con-fi-dence is $\OT1/cmr/m/n/12 ^^A[](\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 ) \OML/cmm/m/it/12 < \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 10[]$\T1/cmr/m/n/12 mK$[]$ at $\OML/cmm/m/it/12 k \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18$$\OML/cmm/m/it/12 h$\T1/cmr/m/n/12 Mpc$[]$
+ []
+
+
+Package natbib Warning: Citation `PAPER64Limits' on page 155 undefined on input line 360.
+
+[155] [156]
+
+Package natbib Warning: Citation `mapmaking' on page 157 undefined on input line 376.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]) [159]
+\openout2 = `chap5_xcor.aux'.
+
+ (./chap5_xcor.tex [160
+
+
+
+]
+Chapter 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.95827pt
+(hyperref)                removed on input line 9.
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161] [162]
+\openout2 = `conclusion.aux'.
+
+ (./conclusion.tex
+Chapter 7.
+) [163
+
+
+
+]
+\openout2 = `skynoise.aux'.
+
+ (./skynoise.tex [164
+
+
+
+]
+Appendix A.
+[165]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167] [168] [169]
+File: skynoise/array2by2.pdf Graphic file (type QTm)
+ <use  "skynoise/array2by2.pdf" >
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [170]) [171]
+\openout2 = `biblio.aux'.
+
+ (./biblio.tex (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.bbl [172
+
+
+
+] [173] [174] [175]
+Underfull \hbox (badness 1137) in paragraph at lines 430--432
+[]\T1/cmr/m/n/12 Mao, Y., Tegmark, M., Mc-Quinn, M., Zal-dar-riaga, M., & Zahn, O. 2008,
+ []
+
+[176] [177] [178] [179])) [180]
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+(/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.aux (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/cover.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/contents.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/introduction.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap1_precision_beammapping.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap2_beamforming_errors.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap3_hera_beammapping.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap4_empirical_covariance.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/chap5_xcor.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/conclusion.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/skynoise.aux) (/Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/biblio.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 70.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+ ) 
+Here is how much of TeX's memory you used:
+ 8647 strings out of 494004
+ 126939 string characters out of 3150890
+ 254760 words of memory out of 3000000
+ 11638 multiletter control sequences out of 15000+200000
+ 31216 words of font info for 84 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 33i,12n,47p,2445b,747s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on /Users/abrahamn/Documents/Physics/papers/mit_thesis/.texpadtmp/main.pdf (180 pages).
