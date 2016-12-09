@@ -1,4 +1,4 @@
-\begin{thebibliography}{155}
+\begin{thebibliography}{157}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ali} {et~al.}(2015){Ali}, {Parsons}, {Zheng}, {Pober}, {Liu},
@@ -133,6 +133,10 @@ Colegate, T., {et~al.} 2014, in Antenna Measurements Applications (CAMA), 2014
   Broderick}]{nvss}
 Condon, J.~J., Cotton, W.~D., Greisen, E.~W., Yin, Q.~F., Perley, R.~A.,
   Taylor, G.~B., \& Broderick, J.~J. 1998, The Astronomical Journal, 115, 1693
+
+\bibitem[{Cyburt {et~al.}(2016)Cyburt, Fields, Olive, \& Yeh}]{bbn}
+Cyburt, R.~H., Fields, B.~D., Olive, K.~A., \& Yeh, T.-H. 2016, Rev. Mod.
+  Phys., 88, 015004
 
 \bibitem[{Czekala \& Bradley(2010{\natexlab{a}})}]{CzekalaAndBradley2010}
 Czekala, I., \& Bradley, R. 2010{\natexlab{a}}, american Institute of
@@ -306,16 +310,21 @@ Hurtado, M., Lorente, H., \& Muravchik, C. 2001, IEEE Transactions on
 \bibitem[{Jacobs {et~al.}(2013)Jacobs, Bowman, \& Aguirre}]{jacobs2013}
 Jacobs, D., Bowman, J., \& Aguirre, J. 2013, The Astrophysical Journal, 769, 5
 
+\bibitem[{{Jacobs} {et~al.}(2016{\natexlab{a}}){Jacobs}, {Burba}, {Bowman},
+  {Neben}, {Stinnett}, \& {Turner}}]{drone3}
+{Jacobs}, D.~C., {Burba}, J., {Bowman}, J., {Neben}, A.~R., {Stinnett}, B., \&
+  {Turner}, L. 2016{\natexlab{a}}, ArXiv e-prints
+
 \bibitem[{{Jacobs} {et~al.}(2015){Jacobs}, {Pober}, {Parsons}, {Aguirre},
   {Ali}, {Bowman}, {Bradley}, {Carilli}, {DeBoer}, {Dexter}, {Gugliucci},
   {Klima}, {Liu}, {MacMahon}, {Manley}, {Moore}, {Stefan}, \&
   {Walbrugh}}]{DannyMultiRedshift}
 {Jacobs}, D.~C., {et~al.} 2015, \apj, 801, 51
 
-\bibitem[{{Jacobs} {et~al.}(2016){Jacobs}, {Hazelton}, {Trott}, {Dillon},
-  {Pindor}, {Sullivan}, {Pober}, {Barry}, {Beardsley}, {Bernardi}, {Bowman},
-  {Briggs}, {Cappallo}, {Carroll}, {Corey}, {de Oliveira-Costa}, {Emrich},
-  {Ewall-Wice}, {Feng}, {Gaensler}, {Goeke}, {Greenhill}, {Hewitt},
+\bibitem[{{Jacobs} {et~al.}(2016{\natexlab{b}}){Jacobs}, {Hazelton}, {Trott},
+  {Dillon}, {Pindor}, {Sullivan}, {Pober}, {Barry}, {Beardsley}, {Bernardi},
+  {Bowman}, {Briggs}, {Cappallo}, {Carroll}, {Corey}, {de Oliveira-Costa},
+  {Emrich}, {Ewall-Wice}, {Feng}, {Gaensler}, {Goeke}, {Greenhill}, {Hewitt},
   {Hurley-Walker}, {Johnston-Hollitt}, {Kaplan}, {Kasper}, {Kim},
   {Kratzenberg}, {Lenc}, {Line}, {Loeb}, {Lonsdale}, {Lynch}, {McKinley},
   {McWhirter}, {Mitchell}, {Morales}, {Morgan}, {Neben}, {Thyagarajan},
@@ -323,7 +332,7 @@ Jacobs, D., Bowman, J., \& Aguirre, J. 2013, The Astrophysical Journal, 769, 5
   {Roshi}, {Udaya Shankar}, {Sethi}, {Srivani}, {Subrahmanyan}, {Tegmark},
   {Tingay}, {Waterson}, {Wayth}, {Webster}, {Whitney}, {Williams}, {Williams},
   {Wu}, \& {Wyithe}}]{JacobsPipelines}
----. 2016, The Astrophysical Journal, 825, 114
+---. 2016{\natexlab{b}}, The Astrophysical Journal, 825, 114
 
 \bibitem[{Jeli\'{c} {et~al.}(2010)Jeli\'{c}, Zaroubi, Labropoulos, Bernardi,
   de~Bruyn, \& Koopmans}]{jelic2010}

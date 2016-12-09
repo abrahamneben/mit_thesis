@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  7 DEC 2016 12:11
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  9 DEC 2016 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -333,7 +333,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ] [4
 
 ]
-Underfull \vbox (badness 4229) has occurred while \output is active []
+Underfull \vbox (badness 2452) has occurred while \output is active []
 
  [5]) [6]
 \openout2 = `contents.aux'.
@@ -380,56 +380,54 @@ Overfull \hbox (0.27116pt too wide) in paragraph at lines 94--94
 
 ]
 Chapter 1.
+[19]
+Overfull \hbox (4.63072pt too wide) in paragraph at lines 18--19
+\T1/cmr/m/n/12 neu-tral in-ter-galac-tic medium. Nu-cle-osyn-the-sis pro-cesses in their su-per-nova are thought
+ []
 
-Underfull \vbox (badness 6559) has occurred while \output is active []
 
- [19] [20] [21]
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+ [20] [21]
 File: chap0_intro/500px-Hydrogen-SpinFlip.svg.png Graphic file (type QTm)
- <use  "chap0_intro/500px-Hydrogen-SpinFlip.svg.png" > [22] [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-Overfull \hbox (25.12213pt too wide) in paragraph at lines 71--73
+ <use  "chap0_intro/500px-Hydrogen-SpinFlip.svg.png" > [22] [23] [24] [25]
+Overfull \hbox (25.12213pt too wide) in paragraph at lines 80--82
 \T1/cmr/m/n/12 Note that $\OML/cmm/m/it/12 A$ \T1/cmr/m/n/12 has units of $[][]$, and the $\OML/cmm/m/it/12 B$\T1/cmr/m/n/12 's have units of $[][]\OT1/cmr/m/n/12 ([])[]$\T1/cmr/m/n/12 .
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
+ [26]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 98.
-
-[26]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 136.
+(hyperref)                removed on input line 107.
 
 [27]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.95827pt
+(hyperref)                removed on input line 145.
+
+[28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [29]
 File: chap0_intro/radio_interferometer_diagram.png Graphic file (type QTm)
- <use  "chap0_intro/radio_interferometer_diagram.png" > [29]
+ <use  "chap0_intro/radio_interferometer_diagram.png" > [30]
 File: chap0_intro/ifo_space.pdf Graphic file (type QTm)
- <use  "chap0_intro/ifo_space.pdf" > [30]
-Overfull \hbox (57.3092pt too wide) in paragraph at lines 206--206
+ <use  "chap0_intro/ifo_space.pdf" > [31]
+Overfull \hbox (57.3092pt too wide) in paragraph at lines 215--215
 []\T1/cmr/bx/n/14.4 new gain/phase/primary beam cal-i-bra-tion tech-niques/challenges 
  []
 
-[31]
+[32]
 File: chap0_intro/synchrotrondiagram.png Graphic file (type QTm)
- <use  "chap0_intro/synchrotrondiagram.png" > [32]) [33]
+ <use  "chap0_intro/synchrotrondiagram.png" > [33]) [34]
 \openout2 = `chap1_precision_beammapping.aux'.
 
- (./chap1_precision_beammapping.tex [34
-
-
-
-]
+ (./chap1_precision_beammapping.tex
 Chapter 2.
 Missing character: There is no – in font ecrm1200!
 
@@ -437,7 +435,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[35] [36]
+[35
+
+
+
+] [36]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [37]
@@ -973,7 +975,7 @@ Underfull \vbox (badness 1430) has occurred while \output is active []
 
 
 ] [173] [174] [175]
-Underfull \hbox (badness 1137) in paragraph at lines 430--432
+Underfull \hbox (badness 1137) in paragraph at lines 439--441
 []\T1/cmr/m/n/12 Mao, Y., Tegmark, M., Mc-Quinn, M., Zal-dar-riaga, M., & Zahn, O. 2008,
  []
 
@@ -993,10 +995,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 8647 strings out of 494004
- 126939 string characters out of 3150890
- 254760 words of memory out of 3000000
- 11638 multiletter control sequences out of 15000+200000
+ 8656 strings out of 494004
+ 127055 string characters out of 3150890
+ 255159 words of memory out of 3000000
+ 11647 multiletter control sequences out of 15000+200000
  31216 words of font info for 84 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  33i,12n,47p,2445b,747s stack positions out of 5000i,500n,10000p,200000b,50000s

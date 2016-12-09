@@ -1,25 +1,25 @@
 \contentsline {chapter}{\numberline {1}Introduction}{19}{chapter.1}
 \contentsline {section}{\numberline {1.1}Cosmology and the cosmic dawn}{19}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Modern cosmology and the history of the universe}{19}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}The known and unknown of the cosmic dawn}{21}{subsection.1.1.2}
-\contentsline {section}{\numberline {1.2}21cm tomography}{21}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Radio emission from neutral hydrogen}{21}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}21cm emission from the Dark Ages and Epoch of Reionization}{23}{subsection.1.2.2}
-\contentsline {subsubsection}{\numberline {1.2.2.1}Microscopic radiative transfer using Einstein A and B coefficients}{23}{subsubsection.1.2.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2.2}Brightness temperature of 21\tmspace +\thinmuskip {.1667em}cm cloud at the EOR}{26}{subsubsection.1.2.2.2}
-\contentsline {subsubsection}{\numberline {1.2.2.3}History of the global 21\tmspace +\thinmuskip {.1667em}cm signal}{27}{subsubsection.1.2.2.3}
-\contentsline {subsection}{\numberline {1.2.3}how to get from image cubes to power spectra (ie, unit transforms and FFTs)}{28}{subsection.1.2.3}
-\contentsline {section}{\numberline {1.3}A new generation of radio interferometers}{29}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}The basics of radio interferometry and power spectrum estimation}{29}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}sensitivity requirements for EOR science and large D / small N regime}{31}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}new gain/phase/primary beam calibration techniques/challenges}{31}{subsection.1.3.3}
-\contentsline {section}{\numberline {1.4}The problem of foregrounds}{31}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}physics of galactic synchrotron}{31}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}extragalactic radio sources}{33}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}foreground subtraction / avoidance}{33}{subsection.1.4.3}
-\contentsline {section}{\numberline {1.5}Completing the picture with cross correlations}{33}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}examples of successful cross correlation results}{33}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}what could be learned from IR cross correlation}{33}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.1.2}The cosmic dawn}{22}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}21cm tomography}{22}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Radio emission from neutral hydrogen}{22}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}21cm emission from the Dark Ages and Epoch of Reionization}{24}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Microscopic radiative transfer using Einstein A and B coefficients}{24}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Brightness temperature of 21\tmspace +\thinmuskip {.1667em}cm cloud at the EOR}{27}{subsubsection.1.2.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.3}History of the global 21\tmspace +\thinmuskip {.1667em}cm signal}{28}{subsubsection.1.2.2.3}
+\contentsline {subsection}{\numberline {1.2.3}how to get from image cubes to power spectra (ie, unit transforms and FFTs)}{29}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}A new generation of radio interferometers}{30}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}The basics of radio interferometry and power spectrum estimation}{30}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}sensitivity requirements for EOR science and large D / small N regime}{32}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}new gain/phase/primary beam calibration techniques/challenges}{32}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}The problem of foregrounds}{32}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}physics of galactic synchrotron}{32}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}extragalactic radio sources}{34}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}foreground subtraction / avoidance}{34}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}Completing the picture with cross correlations}{34}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}examples of successful cross correlation results}{34}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}what could be learned from IR cross correlation}{34}{subsection.1.5.2}
 \contentsline {chapter}{\numberline {2}Measuring High Dynamic Range MWA Beampatterns using 137 MHz ORBCOMM Satellites}{35}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{36}{section.2.1}
 \contentsline {section}{\numberline {2.2}Measurement System}{40}{section.2.2}
