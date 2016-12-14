@@ -1,53 +1,57 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1-1}{\ignorespaces Diagram of the two Hydrogen ground states resulting from hyperfine splitting.}}{23}{figure.1.1}
-\contentsline {figure}{\numberline {1-2}{\ignorespaces Diagram of a two element radio interferometer}}{30}{figure.1.2}
-\contentsline {figure}{\numberline {1-3}{\ignorespaces Representation of the relation between image space, fourier space, and interferometer space}}{31}{figure.1.3}
-\contentsline {figure}{\numberline {1-4}{\ignorespaces Diagram of electron gyration around a magnetic field line, resulting in synchrotron radiation.}}{33}{figure.1.4}
+\contentsline {figure}{\numberline {1-1}{\ignorespaces Diagram of the two Hydrogen ground states resulting from hyperfine splitting.}}{21}{figure.1.1}
+\contentsline {figure}{\numberline {1-2}{\ignorespaces aoeuaoeu}}{27}{figure.1.2}
+\contentsline {figure}{\numberline {1-3}{\ignorespaces aoeuaoeu}}{29}{figure.1.3}
+\contentsline {figure}{\numberline {1-4}{\ignorespaces Diagram of a two element radio interferometer}}{30}{figure.1.4}
+\contentsline {figure}{\numberline {1-5}{\ignorespaces Representation of the relation between image space, fourier space, and interferometer space}}{33}{figure.1.5}
+\contentsline {figure}{\numberline {1-6}{\ignorespaces Representation of the relation between image space, fourier space, and interferometer space}}{34}{figure.1.6}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces Simplified diagram of our beam measurement system and data flow.}}{41}{figure.2.1}
-\contentsline {figure}{\numberline {2-2}{\ignorespaces Photos of our reference antenna (left) and the MWA tile (right)}}{44}{figure.2.2}
-\contentsline {figure}{\numberline {2-3}{\ignorespaces Analysis of a typical satellite pass from our null experiment.}}{48}{figure.2.3}
-\contentsline {figure}{\numberline {2-4}{\ignorespaces Results from our null experiment.}}{49}{figure.2.4}
-\contentsline {figure}{\numberline {2-5}{\ignorespaces Observed reference antenna background levels.}}{50}{figure.2.5}
-\contentsline {figure}{\numberline {2-6}{\ignorespaces Measured MWA tile beampattern for the zenith pointing.}}{53}{figure.2.6}
-\contentsline {figure}{\numberline {2-7}{\ignorespaces The measured MWA tile beampattern for the 20 degree West pointing.}}{56}{figure.2.7}
-\contentsline {figure}{\numberline {2-8}{\ignorespaces The measured MWA tile beampattern for the 20 degree East pointing.}}{57}{figure.2.8}
+\contentsline {figure}{\numberline {2-1}{\ignorespaces Simplified diagram of our beam measurement system and data flow.}}{48}{figure.2.1}
+\contentsline {figure}{\numberline {2-2}{\ignorespaces Photos of our reference antenna (left) and the MWA tile (right)}}{50}{figure.2.2}
+\contentsline {figure}{\numberline {2-3}{\ignorespaces Analysis of a typical satellite pass from our null experiment.}}{54}{figure.2.3}
+\contentsline {figure}{\numberline {2-4}{\ignorespaces Results from our null experiment.}}{56}{figure.2.4}
+\contentsline {figure}{\numberline {2-5}{\ignorespaces Observed reference antenna background levels.}}{57}{figure.2.5}
+\contentsline {figure}{\numberline {2-6}{\ignorespaces Measured MWA tile beampattern for the zenith pointing.}}{60}{figure.2.6}
+\contentsline {figure}{\numberline {2-7}{\ignorespaces The measured MWA tile beampattern for the 20 degree West pointing.}}{62}{figure.2.7}
+\contentsline {figure}{\numberline {2-8}{\ignorespaces The measured MWA tile beampattern for the 20 degree East pointing.}}{63}{figure.2.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces A deployed MWA tile in the Murchison Radio Observatory.}}{65}{figure.3.1}
-\contentsline {figure}{\numberline {3-2}{\ignorespaces Ideal (no beamforming errors) beams for zenith (left) and off-zenith (right) pointings.}}{67}{figure.3.2}
-\contentsline {figure}{\numberline {3-3}{\ignorespaces Diagram showing our LNA and beamformer testing setups.}}{68}{figure.3.3}
-\contentsline {figure}{\numberline {3-4}{\ignorespaces Photograph of the LNA ground plate setup.}}{87}{figure.3.4}
-\contentsline {figure}{\numberline {3-5}{\ignorespaces Gain and group delay measurements on a set of 16 LNAs are shown relative to the mean LNA.}}{87}{figure.3.5}
-\contentsline {figure}{\numberline {3-6}{\ignorespaces Gain and group delay measurements on a set of 10 dipole cables are shown relative to the mean cable.}}{88}{figure.3.6}
-\contentsline {figure}{\numberline {3-7}{\ignorespaces Gain and group delay measurements on the \textit {shortest} delays of 16 beamformer inputs for one polarization are shown relative to the mean.}}{88}{figure.3.7}
-\contentsline {figure}{\numberline {3-8}{\ignorespaces Map of the tilt magnitude of the MWA site.}}{89}{figure.3.8}
-\contentsline {figure}{\numberline {3-9}{\ignorespaces Baseline-averaged beam (left) and standard deviation (right) of simulated beams relative to the ideal model.}}{90}{figure.3.9}
-\contentsline {figure}{\numberline {3-10}{\ignorespaces Baseline-averaged beam (left) and standard deviation (right) of simulated beams using the full beamforming error budget.}}{91}{figure.3.10}
-\contentsline {figure}{\numberline {3-11}{\ignorespaces Each row shows a realization of a simulated beam relative to the ideal beam.}}{92}{figure.3.11}
-\contentsline {figure}{\numberline {3-12}{\ignorespaces Zoom in around the first null and near the horizon along a NS slice through the beam in full beamforming errors simulations.}}{93}{figure.3.12}
-\contentsline {figure}{\numberline {3-13}{\ignorespaces Simulations of the effects of beamforming errors on foreground subtraction and avoidance techniques for a single baseline analysis.}}{94}{figure.3.13}
-\contentsline {figure}{\numberline {3-14}{\ignorespaces Beamformer signal path.}}{95}{figure.3.14}
+\contentsline {figure}{\numberline {3-1}{\ignorespaces A deployed MWA tile in the Murchison Radio Observatory.}}{72}{figure.3.1}
+\contentsline {figure}{\numberline {3-2}{\ignorespaces Ideal (no beamforming errors) beams for zenith (left) and off-zenith (right) pointings.}}{73}{figure.3.2}
+\contentsline {figure}{\numberline {3-3}{\ignorespaces Diagram showing our LNA and beamformer testing setups.}}{74}{figure.3.3}
+\contentsline {figure}{\numberline {3-4}{\ignorespaces Photograph of the LNA ground plate setup.}}{93}{figure.3.4}
+\contentsline {figure}{\numberline {3-5}{\ignorespaces Gain and group delay measurements on a set of 16 LNAs are shown relative to the mean LNA.}}{93}{figure.3.5}
+\contentsline {figure}{\numberline {3-6}{\ignorespaces Gain and group delay measurements on a set of 10 dipole cables are shown relative to the mean cable.}}{94}{figure.3.6}
+\contentsline {figure}{\numberline {3-7}{\ignorespaces Gain and group delay measurements on the \textit {shortest} delays of 16 beamformer inputs for one polarization are shown relative to the mean.}}{94}{figure.3.7}
+\contentsline {figure}{\numberline {3-8}{\ignorespaces Map of the tilt magnitude of the MWA site.}}{95}{figure.3.8}
+\contentsline {figure}{\numberline {3-9}{\ignorespaces Baseline-averaged beam (left) and standard deviation (right) of simulated beams relative to the ideal model.}}{96}{figure.3.9}
+\contentsline {figure}{\numberline {3-10}{\ignorespaces Baseline-averaged beam (left) and standard deviation (right) of simulated beams using the full beamforming error budget.}}{97}{figure.3.10}
+\contentsline {figure}{\numberline {3-11}{\ignorespaces Each row shows a realization of a simulated beam relative to the ideal beam.}}{98}{figure.3.11}
+\contentsline {figure}{\numberline {3-12}{\ignorespaces Zoom in around the first null and near the horizon along a NS slice through the beam in full beamforming errors simulations.}}{99}{figure.3.12}
+\contentsline {figure}{\numberline {3-13}{\ignorespaces Simulations of the effects of beamforming errors on foreground subtraction and avoidance techniques for a single baseline analysis.}}{100}{figure.3.13}
+\contentsline {figure}{\numberline {3-14}{\ignorespaces Beamformer signal path.}}{101}{figure.3.14}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces Diagram showing the dimensions and layout of the parabolic HERA dish and suspended feed.}}{103}{figure.4.1}
-\contentsline {figure}{\numberline {4-2}{\ignorespaces Prototype HERA feed seen here outside the dish and upside-down for preliminary characterization.}}{103}{figure.4.2}
-\contentsline {figure}{\numberline {4-3}{\ignorespaces Simulated dish power patterns.}}{104}{figure.4.3}
-\contentsline {figure}{\numberline {4-4}{\ignorespaces The dish with its suspended feed is seen in the back of this image.}}{107}{figure.4.4}
-\contentsline {figure}{\numberline {4-5}{\ignorespaces Null experiment results to characterize systematic errors.}}{108}{figure.4.5}
-\contentsline {figure}{\numberline {4-6}{\ignorespaces Measured dish power patterns at three feed rigging heights.}}{119}{figure.4.6}
-\contentsline {figure}{\numberline {4-7}{\ignorespaces Slices through the E (red) and H (cyan) planes through the measured dish power patterns (points) and numerical models (curves).}}{120}{figure.4.7}
-\contentsline {figure}{\numberline {4-8}{\ignorespaces We plot simulated foreground delay spectra using the full-faceted beam at various LSTs (top panel).}}{121}{figure.4.8}
-\contentsline {figure}{\numberline {4-9}{\ignorespaces Global Sky Model.}}{122}{figure.4.9}
+\contentsline {figure}{\numberline {4-1}{\ignorespaces Diagram showing the dimensions and layout of the parabolic HERA dish and suspended feed.}}{109}{figure.4.1}
+\contentsline {figure}{\numberline {4-2}{\ignorespaces Prototype HERA feed seen here outside the dish and upside-down for preliminary characterization.}}{110}{figure.4.2}
+\contentsline {figure}{\numberline {4-3}{\ignorespaces Simulated dish power patterns.}}{111}{figure.4.3}
+\contentsline {figure}{\numberline {4-4}{\ignorespaces The dish with its suspended feed is seen in the back of this image.}}{113}{figure.4.4}
+\contentsline {figure}{\numberline {4-5}{\ignorespaces Null experiment results to characterize systematic errors.}}{125}{figure.4.5}
+\contentsline {figure}{\numberline {4-6}{\ignorespaces Measured dish power patterns at three feed rigging heights.}}{126}{figure.4.6}
+\contentsline {figure}{\numberline {4-7}{\ignorespaces Slices through the E (red) and H (cyan) planes through the measured dish power patterns (points) and numerical models (curves).}}{127}{figure.4.7}
+\contentsline {figure}{\numberline {4-8}{\ignorespaces We plot simulated foreground delay spectra using the full-faceted beam at various LSTs (top panel).}}{128}{figure.4.8}
+\contentsline {figure}{\numberline {4-9}{\ignorespaces Global Sky Model.}}{129}{figure.4.9}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5-1}{\ignorespaces Plot of the 30 largest eigenvalues of the observed residual foreground covariance matrix.}}{134}{figure.5.1}
-\contentsline {figure}{\numberline {5-2}{\ignorespaces Examination of the diagonal elements of the observed residual and inferred foreground covariance matrices in Fourier space.}}{137}{figure.5.2}
-\contentsline {figure}{\numberline {5-3}{\ignorespaces Results of fourier filtering the eigenmodes.}}{138}{figure.5.3}
-\contentsline {figure}{\numberline {5-4}{\ignorespaces The evolution of the eigenvalues of our estimated foreground covariance matrix for a mode in the annulus corresponding to $k_\perp \approx 0.010$\tmspace +\thinmuskip {.1667em}$h$\tmspace +\thinmuskip {.1667em}Mpc$^{-1}$.}}{141}{figure.5.4}
-\contentsline {figure}{\numberline {5-5}{\ignorespaces Power spectrum results, exhibiting typical EoR window structure with orders-of-magnitude suppression of foregrounds in the EoR window.}}{148}{figure.5.5}
-\contentsline {figure}{\numberline {5-6}{\ignorespaces By using an estimator of the power spectrum with uncorrelated errors between bins, we can see that most of the EoR window is noise dominated.}}{149}{figure.5.6}
-\contentsline {figure}{\numberline {5-7}{\ignorespaces Expected variance on each band power.}}{151}{figure.5.7}
-\contentsline {figure}{\numberline {5-8}{\ignorespaces The foreground wedge is clear in the ratio of our measured power spectrum to the modeled variance}}{152}{figure.5.8}
-\contentsline {figure}{\numberline {5-9}{\ignorespaces Limits on the 21\tmspace +\thinmuskip {.1667em}cm power spectrum at three redshifts.}}{154}{figure.5.9}
+\contentsline {figure}{\numberline {5-1}{\ignorespaces Plot of the 30 largest eigenvalues of the observed residual foreground covariance matrix.}}{143}{figure.5.1}
+\contentsline {figure}{\numberline {5-2}{\ignorespaces Examination of the diagonal elements of the observed residual and inferred foreground covariance matrices in Fourier space.}}{145}{figure.5.2}
+\contentsline {figure}{\numberline {5-3}{\ignorespaces Results of fourier filtering the eigenmodes.}}{147}{figure.5.3}
+\contentsline {figure}{\numberline {5-4}{\ignorespaces The evolution of the eigenvalues of our estimated foreground covariance matrix for a mode in the annulus corresponding to $k_\perp \approx 0.010$\tmspace +\thinmuskip {.1667em}$h$\tmspace +\thinmuskip {.1667em}Mpc$^{-1}$.}}{149}{figure.5.4}
+\contentsline {figure}{\numberline {5-5}{\ignorespaces Power spectrum results, exhibiting typical EoR window structure with orders-of-magnitude suppression of foregrounds in the EoR window.}}{156}{figure.5.5}
+\contentsline {figure}{\numberline {5-6}{\ignorespaces By using an estimator of the power spectrum with uncorrelated errors between bins, we can see that most of the EoR window is noise dominated.}}{157}{figure.5.6}
+\contentsline {figure}{\numberline {5-7}{\ignorespaces Expected variance on each band power.}}{159}{figure.5.7}
+\contentsline {figure}{\numberline {5-8}{\ignorespaces The foreground wedge is clear in the ratio of our measured power spectrum to the modeled variance}}{160}{figure.5.8}
+\contentsline {figure}{\numberline {5-9}{\ignorespaces Limits on the 21\tmspace +\thinmuskip {.1667em}cm power spectrum at three redshifts.}}{162}{figure.5.9}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A-1}{\ignorespaces The level of self noise in baselines is set by their separation.}}{170}{figure.A.1}
+\contentsline {figure}{\numberline {A-1}{\ignorespaces The level of self noise in baselines is set by their separation.}}{178}{figure.A.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B-1}{\ignorespaces Diagram of electron gyration around a magnetic field line, resulting in synchrotron radiation.}}{182}{figure.B.1}

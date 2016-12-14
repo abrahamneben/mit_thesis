@@ -7,7 +7,7 @@
 
 Much like particle physics, cosmology today finds itself in the enviable yet frustrating position of having a broadly supported picture of the universe with only the most challenging and fundamental questions unanswered. Many intersecting lines of evidence point to a universe which began hot, dense, homogenous, and rapidly expanding 13.8 billion years ago, eventually cooled enough for bound objects to form, and is now accelerating. Studies of the Cosmic Microwave Background (CMB), high-z supernovae, distant galaxies, primordial element abundances, the matter power spectrum, and other observables all converge on this model. It is largely, however, a mal-understood and entirely unexpected \textit{dark} universe, whose total energy budget is dominated by constituents whose gravitational properties are well understood, but whose fundamental nature remains mysterious. 
 
-The simplest (i.e., \textit{vanilla} model which agrees with all available data is parameterized by the energy densities of baryons ($\Omega_b=0.0455\pm0.0003$), cold dark matter  ($\Omega_m=0.3089\pm0.0062$), and vacuum energy ($\Omega_\Lambda=0.69\pm0.0062$), the amplitude ($\ln (10^{10}A_s)=3.064\pm0.023$) and spectral index ($n_s=0.9667\pm0.004$) of the primordial power spectrum, and the optical depth to reionization ($0.066\pm0.012$). 
+The simplest (i.e., \textit{vanilla}) model which agrees with all available data is parameterized by the energy densities of baryons ($\Omega_b=0.0455\pm0.0003$), cold dark matter  ($\Omega_m=0.3089\pm0.0062$), and vacuum energy ($\Omega_\Lambda=0.69\pm0.0062$), the amplitude ($\ln (10^{10}A_s)=3.064\pm0.023$) and spectral index ($n_s=0.9667\pm0.004$) of the primordial power spectrum, and the optical depth to reionization ($0.066\pm0.012$). 
 The energy densities are given as the present densities of these constituents relative to the present critical density $\rho_c=3H_0^2/8\pi G$, where the present expansion rate is $(70\pm3$)\,km/s/Mpc
 \footnote{I've taken the uncertainty on $H_0$ to be the spread between the CMB measurement of $67.74\pm0.46$ km/s/Mpc \citep{planck16} and the local measurement of $73.2\pm1.7$ \citep{reiss16}.}. 
 On scales larger than hundreds of Mpc, our universe is flat, deviating from Euclidian geometry only due to a homogenous and isotropic expansion, with a measured curvature density consistent with zero of $\Omega_K=0.008\pm0.004$. 
@@ -17,30 +17,33 @@ In this framework, the history of the universe is fairly well established. Nucle
 
 The basic sequence of events is well understood. These very massive and bright stars (known as Population III stars) formed from primordial (metal-free\footnote{Note that in astronomy nomenclature, all atoms heavier than Helium are known as \text{metals}.}) gas are thought to have irradiated the IGM with ionizing photons, reionizing the formerly neutral intergalactic medium. Nucleosynthesis processes in their supernova are thought to have polluted galaxies with the metals needed for gas to more easily collapse and cool, allowing modern stars to form. 
 
-Many questions remain about this first generation of sources. How massive were they? How bright? How numerous? What were the relative contributions of stars, black hole binaries, and quasars? When exactly did these first stars form and how long did it take? How many linger in stellar halos? Simple n-body simulations can model the gravitational collapse of the cosmic web and dark matter halos, but complex feedback models as well as subgrid physics are needed to understand the the baryonic processes involved in the formation of stars and galaxies. 
+Many questions remain about this first generation of sources. How massive were they? How bright? How numerous? What were the relative contributions of stars, black hole binaries, and quasars? When exactly did these first stars form and how long did it take? How many linger in stellar halos? Simple n-body simulations can model the gravitational collapse of the cosmic web and dark matter halos, but complex feedback and subgrid physics models are needed to understand the the baryonic processes involved in the formation of stars and galaxies. It is no wonder progress has been slow, these stars and galaxies are by definition the farthest and faintest ones that can ever hope to observe, and understanding their formation, before any stars even shone at all, is even more of a challenge. 
 
-After this epoch, though, our knowledge becomes firmer. Observations of the Lyman alpha forest in quasar sightlines have revealed the reionization of the universe progressing from small bubbles into the whole volume. Galaxy redshift surveys have confirmed predicted statistics of the matter distribution at essentially all but galactic scales, and numerical simulations are beginning to nail down the complex astrophysics of galaxy formation. It is no wonder progress has been slow, these stars and galaxies are by definition the farthest and faintest ones that can ever hope to observe, and understanding their formation, before any stars even shone at all, is even more of a challenge. 
-
-This thesis presents experimental work in the field of 21\,cm cosmology, a promising avenue to circumvent the catch-22 of wanting to observe stars and galaxies before they began to emit light. The idea, which I review in detail in Sec. \ref{sec:intro21cmsection}, is to study not the galaxies themselves, but instead the intergalactic medium between them. In particular, we seek to measure the slight low frequency radio emission from the neutral hydrogen between galaxies in order to map out the matter distribution of the universe, and then once stars begin to form and irradiate this neutral gas, observe the resulting ionized bubbles growing around galaxies over cosmic time. 
+This thesis presents experimental work in the field of 21\,cm cosmology, a promising avenue to circumvent the catch-22 of how to study galaxies before they began to emit light. The idea, which I discuss in detail in Sec. \ref{sec:intro21cmsection}, is to study not the galaxies themselves, but instead the intergalactic medium between them. In particular, we seek to measure the slight low frequency radio emission from the neutral hydrogen between galaxies in order to map out the matter distribution of the universe, and then once stars begin to form and irradiate this neutral gas, observe the resulting ionized bubbles growing around galaxies over cosmic time. 
 
 Eventually the whole volume of the intergalactic medium is ionized, and this last phase transition of the universe is known as the Epoch of Reionization, thought to have occurred in the first few hundred million years of the universe ($6\lesssim z\lesssim12$), following the Dark Ages ($20\lesssim z\lesssim 1100$) when gravitational collapse assembled the galaxies themselves. Broadly, the study of the formation and evolution of these first stars and galaxies is known as the Cosmic Dawn, and it is the missing link between the hot, smooth post-big bang universe and the modern clumpy universe we know today.
 
-\subsection{The cosmic dawn}
-indirect constraints
-n-body simulations
-deep galaxy surveys
- Ly-alpha forest
- 
-properties of first stars/galaxies/SNe
-timing of reionization (relation to optical depth)
-new expts: JWST/WFIRST
+\subsection{Reaching towards the cosmic dawn}
 
-\section{21cm tomography}
+For all the questions about the astrophysics of reionization and the lack of direct observations, a number of indirect constraints establish a rough picture of the EOR and bound its beginning and end. 
+
+% Ly-alpha forest
+
+% deep galaxy surveys (photometry) (Hubble and JWST)
+
+% CMB optical depth measurements
+
+% stellar archaeology
+
+% n-body simulations
+
+ 
+\section{Theory of 21cm tomography}
 \label{sec:intro21cmsection}
 
 \subsection{Radio emission from neutral hydrogen}
 
-A standard result of quantum mechanics \citep[e.g.,][]{griffithsqm} is that, to first order, the energy levels of the Hydrogen atom are $E_n\approx13.6\,\text{eV}/n^2$, where $n=1,2,3,...$. Each state corresponds to a solution to the Schrodinger equation describing an electron with some angular momentum bound to a proton, neglecting their finite sizes, intrinsic spins, and relativistic effects. At thermal equilibrium, statistical mechanics predicts the relative fraction of atoms in the $n$'th state is given by the Boltzmann factor $e^{-E_n/kT}$, so that typically only low integer states are populated, and transitions between them release the energy differences as ultraviolet, optical, or near infrared photons. 
+A standard result of quantum mechanics \citep[e.g.,][]{griffithsqm} is that, to first order, the energy levels of the Hydrogen atom are $E_n\approx13.6\,\text{eV}/n^2$, where $n=1,2,3,...$. Each state corresponds to a solution to the Schrodinger equation describing an electron bound to a proton, neglecting their finite sizes, intrinsic spins, and relativistic effects. At thermal equilibrium, statistical mechanics predicts the relative fraction of atoms in the $n$'th state is given by the Boltzmann factor $e^{-E_n/kT}$, so that typically only low integer states are populated, and transitions between them release the energy differences as ultraviolet, optical, or near infrared photons. 
 
 At higher order, relativistic effects shift the energy levels, and the coupling of the electron's spin and orbital angular momentum split each $n$ state into several $\ell$ states. The sum of these effects is known is Hydrogen fine structure, though as the ground state has no orbital angular momentum, it is not split at this order. 
 
@@ -63,14 +66,11 @@ In this section I review theoretical calculacions of the observed 21\,cm brightn
 
 \subsubsection{Microscopic radiative transfer using Einstein A and B coefficients}
 
-The Hydrogen atom is not a simple quantum mechanical system, and even less so taking into account fine and hyperfine structure, but fortunately in the cool, dilute intergalactic medium, the problem simplifies greatly. Essentially all hydrogen atoms are in the ground state at temperatures  $T<<10\text{eV}/k_B\sim10^5$K, which is always the case before the EOR when gas temperatures are $10-100$\,K, and after the EOR when they are $100-1000$\,K \citep{FurlanettoReview}. Thus only the hyperfine states are allowed, and we may regard such atoms at two level systems with an energy spacing of $\Delta E=hc/\lambda\approx6\mu$\,eV, where $\lambda=21$\,cm, and a three-fold degeneracy of the upper state. The four states are roughly equally populated as $T>>\Delta E/k_B =0.06$K, giving number densities of excited ($n=2$) and ground ($n=1$) state atoms as $n_2=\frac{3}{4}n_H$, and $n_1=\frac{1}{4}n_H$, where $n_H$ is the overall density of hydrogen atoms. Note that this $n$ indexes only the energy levels in this two level system, it is not the general $n$ used above to index the energy levels of hydrogen. Lastly, note that the spontaneous emission lifetime of the upper excited state is roughly $10^7$\,years.
+The Hydrogen atom is not a simple quantum mechanical system, and even less so taking into account fine and hyperfine structure, but fortunately in the cool, dilute intergalactic medium, the problem simplifies greatly. Essentially all hydrogen atoms are in the ground state at temperatures  $T<<10\text{eV}/k_B\sim10^5$K, which is always the case before the EOR when gas temperatures are $10-100$\,K, and after the EOR when they are $100-1000$\,K \citep{FurlanettoReview}. Thus only the hyperfine states are allowed, and we may regard such atoms at two level systems with an energy spacing of $\Delta E=hc/\lambda\approx6\mu$\,eV, where $\lambda=21$\,cm, and there is a three-fold degeneracy of the upper state. The four states are roughly equally populated as $T>>\Delta E/k_B =0.06$K, giving number densities of excited ($n=2$) and ground ($n=1$) state atoms as $n_2=\frac{3}{4}n_H$, and $n_1=\frac{1}{4}n_H$, where $n_H$ is the overall density of hydrogen atoms. Note that this $n=1,2$ indexes only the two hyperfine states, it is not the general $n$ used above to index all the energy levels of hydrogen. Lastly, note that the spontaneous emission lifetime of the upper excited state is roughly $10^7$\,years.
 
+Before considering radiative transfer through the universe of 21\,cm emission from a hydrogen cloud at high redshift, we first comment on the different parts of this non-thermodynamic equilibrium problem, and present the Einstein A and B coefficients we will use to treat them. The three temperatures in this problem are: (1) the hydrogen gas temperature, encodinge the root mean square velocities of the particles; (2), the spin temperature, defined as the temperature of an ensemble of two level atoms having the same ratio of excited to ground state atoms as our system; and (3) the temperature of the cosmic microwave background, a blackbody radiation field which backlights our neutral hydrogen clouds during the EOR. 
 
-MAYBE REPRODUCE A PLOT FROM FURLANETTO OR PRITCHARD SHOWING THE EVOLUTION OF ALL THREE TEMPERATURES
-
-Before considering radiative transfer through the universe of 21\,cm emission from a hydrogen cloud at high redshift, we first comment on the different parts of this non thermodynamic equilibrium problem, and present the Einstein A and B coefficients we will use to synthesize them. The three temperatures in this problem are: (1) the hydrogen gas temperature, describing the root mean square velocities of the particles; (2), the spin temperature, defined as the temperature of an ensemble of two level atoms having the same ratio of excited to ground state atoms; and (3) the temperature of the cosmic microwave background, a blackbody radiation field which backlights our HI clouds during the EOR. 
-
-Our problem is to calculate the emergent intensity of an HI cloud with optical depth $\tau$ backlit by the CMB. From standard radiative transfer theory, the answer is $I_\nu=I_0e^{-\tau}+S_\nu(1-e^{-\tau})$, however because our three temperatures are not the same, the source function $S_\nu\equiv j_\nu/\alpha_\nu$ does not in general equal a planck (i.e., blackbody) function\footnote{The planck function is given by $B_\nu(T)\propto\nu^3/(e^{h\nu/kT}-1)$} and we thus require a microscopic description of the radiation using the Einstein A and B coefficients.
+Our task is to calculate the emergent intensity through an HI cloud with optical depth $\tau$ backlit by the CMB. From standard radiative transfer theory, the answer is $I_\nu=I_0e^{-\tau}+S_\nu(1-e^{-\tau})$, however because our three temperatures are not the same, the source function $S_\nu\equiv j_\nu/\alpha_\nu$ does not in general equal a planck (i.e., blackbody) function\footnote{The planck function is given by $B_\nu(T)\propto\nu^3/(e^{h\nu/kT}-1)$} and we thus require a microscopic description of the radiation field using the Einstein A and B coefficients.
 
 Consider again our two level atom with number densities $n_2$ and $n_1$ in the excited and ground states, respectively. The Einstein coefficients are defined by:
 \begin{eqnarray}
@@ -78,13 +78,13 @@ Consider again our two level atom with number densities $n_2$ and $n_1$ in the e
 \text{\# stimulated emissions per volume per time}&=&B_{21}n_2u_\nu \nonumber\\
 \text{\# absorptions per volume per time}&=&B_{12}n_1u_\nu 
 \end{eqnarray}
-Note that $A$ has units of $\text{s}^{-1}$, and the $B$'s have units of $\text{s}^{-1}(\text{energy density per frequency})^{-1}$. We can construct the unit of energy density per frequency as $h\nu/(c/\nu)^3/\nu$, thus on purely dimensional grounds we expect $A\approx B (h\nu^3/c^3)$, which is the correct relation from atomic physics up to a factor of $8\pi$. This demonstrates that spontaneous emission will be negligible at low radio frequencies. In that case, at equilibrium, the stimulated emission rate equals the absorption rate, giving $n_2B_{21}=n_1B_{12}\to g_2B_{21}=g_1B_{12}$.
+where $u_\nu$ is the energy density per frequency of the radiation field. Note that $A$ has units of $\text{s}^{-1}$, and the $B$'s have units of $\text{s}^{-1}(\text{energy density per frequency})^{-1}$. We can construct the unit of energy density per frequency as $h\nu/(c/\nu)^3/\nu$, thus on purely dimensional grounds we expect $A\approx B (h\nu^3/c^3)$, which is the correct relation from atomic physics up to a factor of $8\pi$. Einstein showed that $g_1B_{12}=g_2B_{21}$ (where in our case $g_1=1$, $g_2=3$) regardless of whether the atoms are in thermal equilibrium with the radiation field.
 
-What, then, is the source function of a system of such atoms? The radiative transfer equation is
+Before calculating the radiation source function, let us look at the radiative transfer equation to understand how to treat stimulated emission,
 \begin{equation}
 \frac{dI_\nu}{ds}=j_\nu-\alpha_\nu I_\nu
 \end{equation}
-where $I_\nu$ is the specific intensity, with units of energy per area per solid angle per frequency per time. As the stimulated emission rate is proportional to the radiation density it makes sense to think of it contributing negatively to the absorption coefficient. So the emission coefficient is due solely to spontaneous emission, and has units of energy per volume per time per solid angle per frequency. Integrating over the spectral line, the energy emitted per volume per time per solid angle is:
+where $I_\nu$ is the specific intensity, with units of energy per area per solid angle per frequency per time. As the stimulated emission rate is proportional to the radiation density it makes sense to think of it contributing \textit{negatively} to the absorption coefficient. So the emission coefficient is due solely to spontaneous emission, and has units of energy per volume per time per solid angle per frequency. Integrating over the spectral line, the energy emitted per volume per time per solid angle is:
 \begin{equation}
 \int j_\nu d\nu=\frac{1}{4\pi}h\nu n_2 A
 \end{equation}
@@ -104,13 +104,13 @@ Then the source function is
 \end{equation}
 which is valid even if the atoms are not in thermodynamic equilibrium with the radiation field. 
 
-\subsubsection{Brightness temperature of 21\,cm cloud at the EOR}
+\subsubsection{Brightness temperature of an HI cloud in the EOR}
 
 Now let us put the pieces of this calculation together and relate them to the observed emergent intensity of the CMB shining through an HI cloud during the EOR. As above, considering a radiation field with intensity $I_0$ behind a cloud of Hydrogen with optical depth $\tau$, the emergent intensity is $I_\nu=I_0e^{-\tau}+S_\nu(1-e^{-\tau})$. Cosmological redshift reduces the observed energy flux by $(1+z)$, and then reformulating the equation in terms of brightness temperatures and assuming $\tau<<1$ (because this is a very weak transition) gives
 \begin{equation}
 \delta T=\frac{T_s-T_\gamma(z)}{1+z}\tau 
 \end{equation}
-where $T_s$ is the brightness temperature of 21\,cm radiation from the gas, equal to the spin temperature of the gas\footnote{We can prove that the spin temperature equals the brightness temperature of the gas noting that $S_\nu=j_\nu/\alpha_\nu\propto A n_2/(n_1B_{12}-n_2B_{21})=\nu^2 T_s$, where the last equality uses $A\sim\nu^3B$, which is the rayleigh jeans relation with the spin temperature instead of the typical gas temperature}. Now we just need the optical depth through the cloud with size $ds$.
+where $T_s$ is the brightness temperature of 21\,cm radiation from the gas, equal to the spin temperature of the gas\footnote{We can prove that the spin temperature equals the brightness temperature of the gas noting that $S_\nu=j_\nu/\alpha_\nu\propto A n_2/(n_1B_{12}-n_2B_{21})\propto\nu^3n_2/(3n_1-n_2/n_1)\approx\nu^2 T_s$, which is the rayleigh jeans relation with the spin temperature instead of the typical gas temperature. Note that we have used  $A\propto\nu^3B$ and $n_2/n_1\equiv3e^{-h\nu/kT_s}\approx3(1-h\nu/kT_s)$}. Now we just need the optical depth through the cloud with size $ds$.
 
 \begin{equation}
 \tau=\int\alpha ds=\int\frac{h\nu}{c}\phi(\Delta\nu)(n_1B_{12}-n_2B_{21})ds
@@ -137,165 +137,166 @@ Now use that photons travel on geodesics so we may replace $\Delta s=a(t)\Delta 
 
 \begin{eqnarray}
 \delta T&=&\sqrt{1+z}\left(1-\frac{T_\gamma(z)}{T_s}\right)\frac{\Omega_b}{4}\frac{3H_0}{8\pi Gm_p}\frac{h}{8\pi k}\frac{c}  {\sqrt{\Omega_m}}\left(\frac{c^2A}{\nu^2}\right)\\
-&=&10\text{mK}\left(\frac{1+z}{10}\right)^{1/2}\left(1-\frac{T_\gamma(z)}{T_s}\right)
+&=&10\text{mK}\left(\frac{1+z}{10}\right)^{1/2}\left(1-\frac{T_\gamma(z)}{T_s}\right) 
 \end{eqnarray}
 
-where $T_s>>T_\gamma$ during reionization. This leads naturally into a discussion of the global history of the 21cm signal.
+again assuming $T_s>>T_\gamma$, which is the case during reionization. This derivation gives a sense of the magnitude of the differential 21\,cm brightness temperature from during reionization, which is seen to be of order tens of mK. However the exact distribution of 21\,cm emission seen in the sky depends on the density, temperature, and ionization fields. During reionization, the ionization field has the greatest influence on the 21\,cm brightness. Simulations suggest that as the first stars form, they blow out ionized bubbles around their galaxies, and the bubbles eventually merge and ionize the whole volume of the universe, save extreme overdensities in clusters. Fig. \ref{fig:mcquinneorsims} shows four different simulations of the ionization field (columns) over as a function of time (rows) during reionization. Determining which of these models, which vary parameters such as the masses and numbers of the galaxies which dominate the ionizing photon flux, is a goal of 21\,cm cosmology.
 
-\subsubsection{History of the global 21\,cm signal}
-
-SHOW A PLOT OF THE GLOBAL SIGNAL VS REDSHIFT
-
-As we see above, the brightness temperature of the 21cm signal is determined by the spin temperature. That temperature is affected by three processes: collisional coupling with atoms and free electrons which couple the gas kinetic temperature to the spin temperature, radiative coupling to the CMB, and Ly$\alpha$-induced spin-flips via an excited state. 
-
-$1100>z>200$
-The universe is dense enough so that collisional coupling between atoms and residual free electrons holds $T_\text{gas}=T_\gamma=T_s$, and $\delta T=0$.
-
-$200>z>50$
-Now the gas is cooling adiabatically with $PV^\gamma=$const, with $\gamma=c_p/c_v=1+1/c_v$, and $c_v=f/2$. Note also that $TV^{\gamma-1}=$const, giving that $T\sim (1+z)^2$ for $f=3$ for a monotonic ideal gas. So the gas cools below the CMB temperature, and the spin temperature is still coupled to the gas temperature. Thus 21cm signal is now visible in absorption. This is the pristine cosmological signal, and is the long run focus of 21cm cosmology.
-
-$50>z>z_\text{re}$
-This is the epoch of heating at reionization, and the exact sequence of events is quite uncertain. The spin temperature gets heated far above the CMB temperature by the first luminous sources. 21cm fluctuations are sourced by some combinations of Ly$\alpha$ flux, density fluctuations, and neutral fraction fluctuations.  
-
-$z_\text{re}>z$
-Most of the universe is ionized, and 21cm signal is now only visible in large scale 21cm overdensities. 
+\begin{figure}
+	\centering
+	\includegraphics[width=7in]{chap0_intro/mcquinn_ionized_region_sims.eps}
+	\caption[aoeuaoeu]{aeuoaoeu. Reproduced from \citet{McQuinn06}}
+	\label{fig:mcquinneorsims}
+\end{figure}
 
 
-\subsection{how to get from image cubes to power spectra (ie, unit transforms and FFTs)}
 
-FT along freq to get fourier cube,
-FT along u/v to get image cube 
+\subsection{Evolution of the global 21\,cm signal}
 
-optimal quadratic power spectrum estimators, essentially, generalized FT with arbitrary weighting
+In this section we seek a sense the magnitude of the mean 21\,cm signal over cosmic time. Indeed as we saw, the brightness temperature of the 21cm signal is determined by the spin temperature, which is affected by three processes: collisional coupling with atoms and free electrons which couple the gas kinetic temperature to the spin temperature, radiative coupling to the CMB, and Ly$\alpha$-induced spin-flips via an excited state. 
 
+As the universe evolves, the relative importance of each of these processes changes, and the spin temperature evolves accordingly. Fig. \ref{fig:pritchardloebtemperatures} shows the gas, spin, and CMB temperatures (top), the ionized fraction (center), and the differential 21\,cm brightness temperature (i.e., the 21\,cm spin temperature relative to the CMB (bottom) as a function of redshift. Three different reionization models, giving different spin and differential brightness temperature histories are presented. At $1100>z>200$ (A), the universe is dense enough so that collisional coupling between atoms and residual free electrons holds $T_\text{gas}\approx T_\gamma=T_s$, so the relative 21\,cm brightness temperature is close to zero. Then over $200>z>50$ the gas cools adiabatically, implying\footnote{Adiabatic cooling implies $PV^\gamma=$const, where $\gamma=c_p/c_v=1+1/c_v$. For a monotonic ideal gas, the specific heat at constant volume is given by $c_v=3/2$. Note also that $TV^{\gamma-1}=$const, which gives $T\sim (1+z)^2$} $T\sim (1+z)^2$. The spin temperature thus cools a factor of $1/(1+z)$ faster than the CMB, so the differential brightness temperature becomes negative (B). Note that the gas is cooling below the CMB temperature, but the gas temperature is still coupled to the spin temperature. At these high redshifts, structure is still largely linear, so that the brightness temperature traces the matter density field without corrupting \textit{gastrophysics}\footnote{Gastrophysics is a neologism refering to the astrophysics (i.e., non-cosmological) effects on the 21\,cm signal due especially to non-linear galaxy formation and feedback effects which are challenging to model.} 
 
-\section{A new generation of radio interferometers}
+\begin{figure}
+	\centering
+	\includegraphics[width=7in]{chap0_intro/pritchard_and_loeb_temperatures_annotated.pdf}
+	\caption[aoeuaoeu]{aeuoaoeu. Reproduced from \citet{PritchardLoebReview}}
+	\label{fig:pritchardloebtemperatures}
+\end{figure}
 
-\subsection{The basics of radio interferometry and power spectrum estimation}
+From here on, the exact sequence of events becomes quite uncertain. It is thought that as the universe continues to expand, the gas becomes too dilute for collisions to couple the gas and spin temperatures, and the spin temperature falls back into equilibrium with the CMB, reducing the differential brightness temperature towards zero (C). When the first sources form and begin to emit ionizing radiation, the Ly$\alpha$-induced spin flops mentioned above couple the spin temperature back to the gas temperature, which at this point is much colder than the CMB (D). In quick succession, heating of the IGM from this radiation becomes significant, raising the 21\,cm signal over the CMB temperature (E), until the bulk of the universe becomes ionized and there are no further large neutral regions to emit 21\,cm radiation (F).
 
-A radio interferometer is an array of separate antennas whose outputs are correlated with each other, and combined to form an image. It is ofter cheaper and easier to use such a ``synthetic aperture'' to improve resolution and collecting area than to simply build ever bigger single dish antennas. In this section I will review how we get from the individual antenna outputs to a sky image in a simple case.
+\section{Measuring the 21\,cm signal with radio interferometers}
+
+\subsection{The basics of radio interferometry}
+
+A radio interferometer is an array of separate antennas whose outputs are correlated with each other, and combined to form an image. It is ofter cheaper and easier to use such a ``synthetic aperture'' to resolution and collecting area than to simply build ever bigger single dish antennas, especially given advances in computing over the past decades permitting real time correlation of hundreds of antennas. In this section I will review how we get from the individual antenna outputs to a sky image for a simple 1D array viewing a 1D sky.
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.95\textwidth]{chap0_intro/radio_interferometer_diagram.png}
+    \includegraphics[width=0.95\textwidth]{chap0_intro/radio_interferometer_diagram.pdf}
     \caption[Diagram of a two element radio interferometer]{A single baseline (i.e., pair of antennas) displaced by $b$ on the ground receive radiation from a distant source at an angle $\theta$ from zenith. The source is distant enough that its surfaces of constant phase are planes which are orthogonal to $\vec{k}$, the wavevector of the radiation. The radiation arriving at Antenna 1 accumulates extra phase due to the path length difference $\Delta s$ compared to that arriving at Antenna 2.}
     \label{fig:radiointerferometerdiagram}
 \end{figure}
 
-Consider first a pair of antennas on the ground, known as a baseline, separated by $b$. Radiation arrives from a distant source at an angle $\theta$ from zenith. Note that after the surface of constant phase reaches Antenna 1, it propagates an extra path length of $\Delta s$ before reaching Antenna 2, equaling an extra phase of $\vec{k}\cdot \vec{\Delta s}=2\pi\sin b/\lambda$. Then the time averaged cross correlation between the voltages measured at antenna 1 and 2, known as the visibility $V_{12}$, is
+Consider first a pair of antennas (termed a \textit{baseline}) on the ground separated by distance $b$. Radiation arrives from a distant source at an angle $\theta$ from zenith. Observe (Fig. \ref{fig:radiointerferometerdiagram}) that after the surface of constant phase reaches the first antenna, must it propagate an extra distance $\Delta s$ before reaching Antenna 2, equaling an extra phase of $\vec{k}\cdot \vec{b}=2\pi\Delta s/\lambda=2\pi\sin b/\lambda$. Then the time averaged cross correlation between the voltages measured at antenna 1 and 2, known as the visibility $V_{12}$, is
 \begin{equation}
-	V_{12}\equiv\langle V_1(t)V_2^*(t)\rangle=\langle(V_0^* e^{i\omega t})(V_0e^{-i(\omega t-2\pi\sin b/\lambda)})\rangle \approx e^{2\pi i b\theta/\lambda}
+	V_{12}\equiv\langle V_1(t)V_2^*(t)\rangle=\langle(V_0^* e^{i\omega t})(V_0e^{-i(\omega t-2\pi\sin u)})\rangle \approx e^{2\pi i b\theta/\lambda}
 \end{equation}
-where we have used the small angle approximation. We can see that $b/\lambda$ and $\theta$ are fourier dual variables. If we can measure the visibility for many different $\vec{b}$ values, then we can grid them in $\vec{b}/\lambda$ space and take the fourier transform to get their representation in the $\theta$ space, also known as the sky image.
+where we have used the small angle approximation, and we have switched to measuring the baseline length in units of wavelengths $u\equiv b/\lambda$. We can see that $u$ and $\theta$ are fourier dual variables. If we can measure the visibility at many different baseline lengths, then we can grid them in $u$ space and take the fourier transform to get their representation in the $\theta$ space, which is simply the sky image.
 
-Suppose now that we have a pseudo random array of antennas with many different baseline lengths and orientations, described by the baseline sampling function $S(u,v)$, 
-\begin{equation}
-	 \mathcal{F}(S(u)Vs(u))=\mathcal{F}(\theta)\ast I(\theta)
-\end{equation}
-where $\mathcal{F}$ is the fourier transform operator and we have used the convolution theorem. Thus we recover the true image convolved with a point spread function, $\mathcal{F}(\theta)$, known in radio interferometry as the \textit{synthesized beam}. The synthesized beam is often non-compact and has significant sidelobes due to sparse $uv$ sampling, but can often be removed to quite high fidelity using iterative procedures like CLEAN \citep{hogbomclean}.
+Real world interferometers have non-uniform and incomplete sampling in $u$ space, encoded by a sampling function $S(u)$. We may view this function as a sum of delta functions located at all the sampled $u$ values: $S(u)=\sum_{i,j}\delta(u_i-u_j)$, where $i,j$ index the antennas. Multiplying the true visibility function $V(u)$ by this sampling function, then fourier transforming, is equivalent (by the convolution theorem) to convolving the true sky image by the fourier transform of the sampling function, known as the synthesized beam. This is known as the \textit{dirty image}. Unlike in optical astronomy where the point spread function is close to a gaussian or an Airy function, the synthesized beam is generally non-compact with significant sidelobes due to sparse baseline sampling.  
+
+The strategy is typically to distribute the antennas pseudo randomly to achieve as many different baselines as possible, calculate the dirty image, then use an iterative procedure known as CLEAN \citep{hogbomclean} to incrementally deconvolve the synthesized beam from the true sky image under the assumption that the true sky is predominantly a collection of isolated point sources. The statistics of the resulting \textit{clean image} are difficult to quantify as CLEAN is a non-linear algorithm, but in practice it is found to work quite well and is indispensable to characterizing the compact radio sources between us and the EOR signal (i.e., foregrounds).
+
+\subsection{From image cubes to power spectra}
+
+First generation experiments lack the sensitivity to directly image 21\,cm emission from the EOR, aiming instead to statistical detections of the signal through different methods of combining many pixels, each with SNR<1, into a significant detection. The most prominent of these methods is estimation of the power spectrum.
+
+To understand how cosmological power spectrum measurements are made, let us first consider the space the interferometer measurements live in. Interferometer measurements consist of cross correlations, or visibilities, at different frequencies. We have shown in the previous section that each visibility is a measurement of a different sky fourier mode $(u,v)$, which are dual coordinates to $(\theta_x,\theta_y)$. However, each frequency corresponds to a different cosmological redshift, and thus, distance from us. Interferometric visibilities thus live in an awkward mixed fourier space: To study foregrounds, we must fourier transform along $u$ and $v$ to reach 3D image space, but to make power spectrum measurements, we must transform along $f$ to reach 3D fourier space. This is illustrated in Fig. \ref{fig:ifospace}, where we denote the fourier dual to $f$ as $\eta$, termed \textit{delay}.
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{chap0_intro/ifo_space.pdf}
+    \includegraphics[width=1\textwidth]{chap0_intro/ifo_space.pdf}
     \caption[Representation of the relation between image space, fourier space, and interferometer space]{aoeuaoeu}
     \label{fig:ifospace}
 \end{figure}
 
+We seek to estimate the spatial power spectrum of 21\,cm emission in comoving units, that is, as a function of wave number $k$ with units of inverse comoving distance. We must first transform $u$ and $v$ to $k_x$ and $k_y$. For brevity, consider only the $x$ dimension. $u$ is defined by the fourier factor $e^{2\pi i u\theta}$, which we must match with $k_x$, defined by $e^{ik_x x}$, where $x$ is the comoving distance transverse to the line of sight. Setting their exponents equal and using $x=D\theta$, where $D$ is the comoving distance to the redshift of interest, we find.
 
+\begin{eqnarray}
+	k_x=\frac{2\pi u}{D} \\ 
+	k_y=\frac{2\pi v}{D} \\ 
+\end{eqnarray}
 
-
-antennas, receivers, correlators (FX) vs omniscope
-from baselines to images (FT)
-random vs redundant arrays
-
-\subsection{sensitivity requirements for EOR science and large D / small N regime}
-
-3D sensitivity calculations, following beardsley's paper, using my math
-
-\subsection{new gain/phase/primary beam calibration techniques/challenges}
-
-
-\section{The problem of foregrounds}
-
-\subsection{physics of galactic synchrotron}
-
-Synchrotron radiation is the radiation observed from relativistic electrons spiraling around magnetic field lines in sources such as in cosmic ray electrons in our galaxy's magnetic field or  or radio galaxies which emit jets of charged particles, or ionized particles moving around pulsar magnetic fields in supernova remnants (ie, pulsar wind nebulae like the Crab). This radiation has a power law spectrum and is typically polarized (due to the preferred direction introduced by the magnetic field). 
-
-First consider the effect of relativistic beaming. Radiation emitted isotropically in the frame of a particle moving relativistically is ``beamed'' in its direction of motion in the observer's frame. This is derived by Lorrentz transforming a photon's 4-momentum. Consider a photon emitted with angle $\theta$ from the $\hat{z}$ axis. Note $E=pc$.
+To relate $k_z$ to $\eta$, we must first match the exponents in $e^{i k_z x_\parallel}$ and $e^{i\omega \eta}$, where $x_\parallel$ is the comoving distance along the line of sight\footnote{Unfortunately we can't refer to this as $z$ because it's taken by the cosmological redshift.} and $\omega=2\pi f$ gives the observation frequency. Matching these, and using that $d x_\parallel/df=cf_0/H(z)f^2$, we find
 
 \begin{equation}
-\left(\begin{matrix}
-E'\\
-p_x'\\
-p_y'
-\end{matrix}\right)=
-\left(\begin{matrix}
-\gamma&\beta\gamma& 0\\
-\beta\gamma&\gamma &0\\
-0&0 &1
-\end{matrix}\right)
-\left(\begin{matrix}
-E\\
-p\cos\theta\\
-p\sin\theta
-\end{matrix}\right)=
-\left(\begin{matrix}
-E\gamma+p\cos\theta\beta\gamma\\
-E\beta\gamma+p\cos\theta\gamma\\
-p\sin\theta
-\end{matrix}\right)
+	k_z=\frac{2\pi\eta f_0 H(z)}{c(1+z)^2}
 \end{equation}
-
-So the photon, in our frame, was emitted at angle $\theta'$, given by:
-
-\begin{equation}
-\tan\theta'=\frac{\sin\theta}{\beta\gamma+\cos\theta\gamma}
-\end{equation}
-
-Consider radiation emitted at $\theta=\pi/2$ in the emitter's rest frame. If the object is highly relativistic, then $\beta\sim1$ and $\tan\theta'=1/\gamma$, giving $\theta'\sim1/\gamma$ Thus we may imagine relativistically moving emitters to be directing all their radiation out ahead of them into a cone with half angle $\theta'\sim1/\gamma$. 
-
-Now consider an electron spiraling around a magnetic field line at the relativistic cyclotron frequency $\omega=eB/\gamma m$. See Figure \ref{fig:synchrotrondiagram}. 
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.75\textwidth]{chap0_intro/synchrotrondiagram.png}
-    \caption[Diagram of electron gyration around a magnetic field line, resulting in synchrotron radiation.]{An electron gyrating around a magnetic field line, resulting in synchrotron radiation, from \citet{choudhuri2010astrophysics}.}
-    \label{fig:synchrotrondiagram}
+    \includegraphics[width=0.9\textwidth]{chap0_intro/ifo_space_cosmo.pdf}
+    \caption[Representation of the relation between image space, fourier space, and interferometer space]{aoeuaoeu}
+    \label{fig:ifospacecosmo}
 \end{figure}
 
-Consider the time difference between radiation emitted at A and B. 
+A last note is that to characterize foregrounds, we often combine $k_x$ and $k_y$ together to plot the \textit{cylindrically} binned power spectrum as a function of $k_\perp\equiv(k_x^2+k_y^2)^{1/2}$ and $k_\parallel\equiv k_z$.
+
+%optimal quadratic power spectrum estimators, essentially, generalized FT with arbitrary weighting
+
+
+
+\subsection{Sensitivity challenges}
+\label{sec:sensitivity}
+
+The two major challenges to observing redshifted 21\,cm emission from the dark ages and EOR are sensitivity and foregrounds. Interferometers at low frequencies are sky noise dominated, meaning that the diffuse galactic synchrotron dominates the received antenna power, and thus, the visibility noise. However it is so diffuse, and thus, so compact in $uv$ space, that its contribution to the visibility means is negligible. See Appendix A for a full discussion of sky noise. Our concern here is that in the coolest parts of the sky, at high galactic latitudes, galactic synchrotron has brightness temperatures of $\sim200$\,K \citep{Tsysmemo}. The cosmological global signal is at the tens of mK level, and simulations suggest that individual fourier modes are far smaller, at the few mK level. 
+
+Let us get a sense for the sensitivity challenge with a rough calculation. I show in Appendix A that the noise $\sigma_V$ on visibility $V_{ij}$ is given by $V_{ii}/\sqrt{Bt}$ where $V_{ii}$ is the autocorrelation, $B$ is the bandwidth, and $t$ is the observation time. Measuring the sky in brightness temperature units, the autocorrelation is given by $V_{ii}=\int T(\hat\theta)d\Omega\sim T_\text{sky}\Omega$, where $\Omega=\lambda^2/A$ is the solid angle of the beam main lobe. Comparing this brightness temperature noise with the expected few mK cosmological visibilities, gives roughly 100 hours for a 5$\sigma$ detection. Note that this is not the total length of time observing. As the earth rotates, baselines are projected and rotated to different parts of the $uv$ plane. Over several hours of observing, many baselines enter and exit the $uv$ cell in question, and in general many more than 100 hours of observing is needed to achieve 100 hours in each cell. 
+
+However, as alluded to above, we don't need 5$\sigma$ detections in every $uv$ cell to make a detection of the power spectrum of 21\,cm emission. Consider a simple case where we neglect the frequency dimension. Let raw visibilities have noise $\sigma_V$, and each $uv$ cell is the average of $N_\text{vis.per.cell}$ of them. Then the power spectrum is is estimated by averaging the power over the $N_\text{cells}$ cells with similar $\sqrt{u^2+v^2}$ magnitude. The noise on the mean visibility $\bar{V}$ in each cell is $\sigma_V/\sqrt{N_\text{vis.per.cell}}$, and the noise $\sigma_{\bar V^2}$ is $\sqrt{\langle\bar V^4\rangle-\langle\bar V^2\rangle^2}\sim\sigma_V/\sqrt{N_\text{vis.per.cell}}$, which is reduced by $1/\sqrt{N\text{cells}}$ when spherically binning. So we find 
 
 \begin{equation}
-\Delta t=t_A-t_B=\frac{d}{c}-\left(\frac{\theta}{\omega}+\frac{d-R\theta}{c}\right)
+	\sigma_P\propto\frac{\sigma_V^2}{N_\text{vis.per.cell}\sqrt{N_\text{cells}}}
 \end{equation}
-with $\theta\sim2/\gamma$ and $R=\omega v$. 
 
-\begin{equation}
-\Delta t = \frac{2m\gamma}{\gamma e B}-\frac{2mv\gamma}{\gamma eB c}=\frac{2m}{eB}(1-\beta)
-\end{equation}
-In the ultra-relativistic limit, $\beta\approx1-1/2\gamma^2$, giving $\Delta t=m/eB\gamma^2$. We thus expect the received radiation to have a strong frequency component at $f\sim1/\Delta t\to f\sim\gamma^2$. 
+Thus we see that there are two kinds of averaging which reduce the level of thermal noise in the power spectrum: \textit{coherent} averaging (by a factor of $1/N_\text{vis.per.cell}$) within individual $\vec{k}$ modes, and \textit{incoherent} averaging (by a factor of $1/\sqrt{N_\text{cells}}$) of power over different $\vec{k}$ modes falling into the same spherical $k$ bin. In the first case, we average different measurements of the same true value but with different noise, whereas in the second case, we average different realizations of the true spherical bandpower $k$. Were there no thermal noise on our measurements, the first average would do nothing, but the second would help to reduce sample variance noise. 
 
-Then for charged particle motion in a uniform magnetic field, the Larmor formula for total power emitted picks up a factor of $\gamma^2$. Let the number of emitters with energy between $E$ and $E+dE$ be $E^{-p}dE$. Note that $E\propto\gamma$. These particles with energy $E$ radiate their power at $f\sim\gamma^2$ (see previous question), and there are $E^{-p}dE\sim f^{-p/2}df/f^{1/2}$, so the frequency spectrum is $f^{(-p+1)/2}df$. Many astrophysical particle distributions have $p\approx-2.5$, which gives $f(\nu)\propto\nu^{-0.75}$.
+So we see that sensitivity of a real interferometer is set by the amount of coherent and incoherent binning of thermal noise, due to the 200\,K diffuse galactic synchrotron emission.  \citet{beardsley13} predict a $7\sigma$ detection of the power spectrum with the Murchison Widefield Array after 450\,hours, and \citet{PoberNextGen} predict a 3--7$\sigma$ detection after 1080\,hours, depending on foreground properties. In contrast to the MWA, whose antennas are distributed pseudo randomly to maximize the number of $uv$ modes sampled, PAPER's antennas are placed on a grid. Thus very few $uv$ modes are sampled, which makes imaging extremely challenging, but from a power spectrum point of view, they have optimized for coherent averaging at the expense of incoherent averaging. \citet{PoberNextGen} thus predict comparable sensitivities to the MWA despite their substantially smaller antennas. HERA builds on both sets of lessons learned, employing ultimately 350 14\,m dishes on a grid, and should yield tens of $\sigma$ detection \citet{neben16b,ewallwice16,nithya16,PoberNextGen}. 
 
-\subsection{extragalactic radio sources}
+\subsection{Foreground challenges}
+
+While the diffuse synchrotron emission in our galaxy generates the noise on our measurements, compact extragalactic radio sources between us and the EOR generate a bias. We term these these sources \text{foregrounds}, though the rest of the astronomy community terms them \textit{science}. Over the 100-200\,MHz band corresponding to redshifted 21\,cm emission from the EOR, foreground emission is sourced by radio synchrotron generated by relativistic electrons gyrating around galactic magnetic field lines. I derive in Appendix \ref{chap:synchrotron} that synchrotron emission has a power law spectrum with $I\sim\nu^{-0.75}$.
+
+The smooth spectral structure of foregrounds is key to distinguishing them from the blotchy reionizing universe (Fig. \ref{fig:mcquinneorsims}). A line of sight through the EOR passes through some neutral regions and some ionized regions, making the overall 21\,cm emission from the neutral regions, all at slightly different redshifts, appear spectrally very unsmooth. Early work proposed removing smooth structure  from every line of sight through the cube separately, subtracting splines, low order polynomials, or eigenforegrounds \citep{Judd08, paper1, paper2,xiaomin,LOFAR2,Harker,Jelic08,MoralesBowmanHewittFGsub}. However, simulations \citep{Dattapowerspec}, early theory \citep{VedanthamWedge,MoralesPSShapes,CathWedge,nithya13}, and early data analyses have shown that this is not the whole story. The frequency-dependent $uv$ sampling of interferometer baselines causes spectrally smooth foreground power to leak into higher $k_\parallel$ modes. Said differently, as a function of frequency, each baseline samples a different fourier mode of the sky, and that effect cannot be perfectly removed by simply gridding the baseline to a different $uv$ cell at different frequencies. Longer baselines move through $uv$ space faster with frequency, and this linear dependence manifests after gridding many baselines to $k_\perp,k_\parallel$ space as wedge-shaped region containing the preponderance of foreground power. 
+
+Work to understand this leakage is ongoing. \citet{AdrianWedge1,AdrianWedge2} show that it introduces not only a bias to the power spectrum but error correlations as well. It also manifests differently \citep{pober13} in the approximate power spectra computed using the per-baseline technique of \citet{parsonsandbacker,parsons12b} than using the image-based power spectra of \citep{beardsley16,dillonneben,X13}. 
+
+Knowing this, two basic approaches to foreground removed have been discussed in the literature: foreground avoidance and foreground subtraction. The former consists of simply excluding modes in the wedge from power spectrum estimation, albeit at a non-negligible sensitivity hit, while the latter requires subtraction of 99.99\% of foreground intensity. Both are challenging, and neither has yet resulted in an EOR detection, but new experiments such as the under-construction HERA \citep{neben16,ewallwice16,nithya16,deboer16} and the next generation SKA \citep{ska,ska1,ska2,ska3} should achieve highly significant detections in even the most pessimistic foreground cases. 
+
+\subsection{Large N--small D arrays and their challenges}
+
+In this section I will introduce the class of experiments being conducted to observe spatial fluctuations in 21\,cm emission from the EOR, and outline the experimental challenges they pose. As discussed in Sec. \ref{sec:sensitivity}, detection of 21\,cm from the EOR demands hundreds of hour integrations on arrays with hundreds of antennas. Even so, arrays such as MWA, PAPER, LOFAR, and now HERA are targeting only a statistical detection of the emission, that is, detection of a smooth power spectrum rather than high SNR images of ionizing bubbles. The latter demands even more sensitivity, and must await the Square Kilometer Array, an array planning literally nearly a square kilometer of antenna collecting area on the ground. 
+
+With these enormous demands on collecting area, cost of a handful of enormous dishes would be prohibitive, especially as it would need to steer around the sky to avoid foregrounds and the galactic plane. Typical radio interferometers over the past decades have consisted of a few or a few dozen steerable dishes such as the Very Large Array, the Giant Meterwave Radio Telescope, the Westerbork Synthesis Radio Telescope, and now the Atacama Large Millimeter Array. 
+
+The 21\,cm arrays listed above instead represent a new generation of low frequency radio interferometry made possible by advances in large scale digital signal processing, computing, and storage. Indeed PAPER was so named after Don Backer's famous aphorism that what was required to detect the EOR was ``paperclips and supercomputers.'' At meter-wavelengths, antenna fabrication precision is largely irrelevant, and pointing is done far more cheaply with beamforming (ie, by placing smaller antennas into phased arrays) than with steerable dishes. 
+
+Effectively eschewing hardware investment for software investment is not without its challenges, though, in fact many traditional techniques of radio astronomy are proving insufficient and the community is grappling with how to improve them. Work on better antenna measurement, gain and phase calibration, radio frequency interference flagging, source cataloging, and quality control is ongoing in order to make cosmological 21\,cm observations a reality, and this thesis is part of that larger effort. Over the remainder of this section, I will outline the specific challenges that large N--small D arrays are posing experimentally, and what is being done to address them.
+
+\begin{itemize}
+	\item \textbf{Antenna measurement} 
+	\item \textbf{Gain and phase calibration} 
+	\item \textbf{Quality control} 
+	\item \textbf{Source cataloging} 
+\end{itemize}
 
 
-AGN and zoo of active galaxies
 
-\subsection{foreground subtraction / avoidance}
+big data / quality control (cite beardsley)
+\citep{beardsley16}
 
-subtraction requirements
-the wedge (imaging wedge vs delay spectrum wedge)
+primary beam measurements, wide field problem, no clean fields
 
-\section{Completing the picture with cross correlations}
+gain calibration: sky models are imperfect at low frequencies, cite Aaron EW's recent calibration paper, an Braun, cite danny's precision+accuracy paper
+\citep{jacobs2013,braun2013,ewallwice16b}
 
-\subsection{examples of successful cross correlation results}
-Tzu-Ching's result \citep{Chang2010,Masui2013}
+a slightly bigger antenna element has an advantage (HERA)
+\citep{deboer16}
 
-\subsection{what could be learned from IR cross correlation}
-more about the sources: pop2 vs pop3
-topology of reionization, anticorrelation scale shows bubble size increasing over time
+%\section{Roadmap of this thesis}
 
-\citep{Heneka2016}
-\citep{Fernandez2014,Silva2012,Mao2014,Lidz2008,Gong2014,Fernandez2013}
 
+%\section{Completing the picture with cross correlations}
+%
+%\subsection{examples of successful cross correlation results}
+%Tzu-Ching's result \citep{Chang2010,Masui2013}
+%
+%\subsection{what could be learned from IR cross correlation}
+%more about the sources: pop2 vs pop3
+%topology of reionization, anticorrelation scale shows bubble size increasing over time
+%
+%\citep{Heneka2016}
+%\citep{Fernandez2014,Silva2012,Mao2014,Lidz2008,Gong2014,Fernandez2013}
+%

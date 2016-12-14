@@ -1,4 +1,4 @@
-\begin{thebibliography}{157}
+\begin{thebibliography}{162}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ali} {et~al.}(2015){Ali}, {Parsons}, {Zheng}, {Pober}, {Liu},
@@ -25,6 +25,11 @@
 {Barkana}, R. 2009, Monthly Notices of the Royal Astronomical Society, 397,
   1454
 
+\bibitem[{{Barry} {et~al.}(2016){Barry}, {Hazelton}, {Sullivan}, {Morales}, \&
+  {Pober}}]{barry16}
+{Barry}, N., {Hazelton}, B., {Sullivan}, I., {Morales}, M.~F., \& {Pober},
+  J.~C. 2016, \mnras, 461, 3135
+
 \bibitem[{{Beardsley} \& {others}(2015)}]{AdamDiffuse}
 {Beardsley}, A., \& {others}. 2015, in preparation.
 
@@ -39,6 +44,19 @@
   \& {Wyithe}}]{beardsley13}
 {Beardsley}, A.~P., {et~al.} 2013, Monthly Notices of The Royal Astronomical
   Society, 429, L5
+
+\bibitem[{{Beardsley} {et~al.}(2016){Beardsley}, {Hazelton}, {Sullivan},
+  {Carroll}, {Barry}, {Rahimi}, {Pindor}, {Trott}, {Line}, {Jacobs}, {Morales},
+  {Pober}, {Bernardi}, {Bowman}, {Busch}, {Briggs}, {Cappallo}, {Corey}, {de
+  Oliveira-Costa}, {Dillon}, {Emrich}, {Ewall-Wice}, {Feng}, {Gaensler},
+  {Goeke}, {Greenhill}, {Hewitt}, {Hurley-Walker}, {Johnston-Hollitt},
+  {Kaplan}, {Kasper}, {Kim}, {Kratzenberg}, {Lenc}, {Loeb}, {Lonsdale},
+  {Lynch}, {McKinley}, {McWhirter}, {Mitchell}, {Morgan}, {Neben},
+  {Thyagarajan}, {Oberoi}, {Offringa}, {Ord}, {Paul}, {Prabu}, {Procopio},
+  {Riding}, {Rogers}, {Roshi}, {Udaya Shankar}, {Sethi}, {Srivani},
+  {Subrahmanyan}, {Tegmark}, {Tingay}, {Waterson}, {Wayth}, {Webster},
+  {Whitney}, {Williams}, {Williams}, {Wu}, \& {Wyithe}}]{beardsley16}
+---. 2016, ArXiv e-prints
 
 \bibitem[{{Bernardi} {et~al.}(2009){Bernardi}, {de Bruyn}, {Brentjens},
   {Ciardi}, {Harker}, {Jeli{\'c}}, {Koopmans}, {Labropoulos}, {Offringa},
@@ -69,6 +87,9 @@ Bock, D. C.-J., Large, M.~I., \& Sadler, E.~M. 1999, The Astronomical Journal,
 \bibitem[{{Bowman} {et~al.}(2006){Bowman}, {Morales}, \& {Hewitt}}]{Judd06}
 {Bowman}, J.~D., {Morales}, M.~F., \& {Hewitt}, J.~N. 2006, The Astrophysical
   Journal, 638, 20
+
+\bibitem[{{Bowman} {et~al.}(2009){Bowman}, {Morales}, \& {Hewitt}}]{Judd08}
+---. 2009, The Astrophysical Journal, 695, 183
 
 \bibitem[{Bowman {et~al.}(2007)Bowman, Barnes, Briggs, Corey, Lynch, Bhat,
   Cappallo, Doeleman, Fanous, Herne, Hewitt, Johnston, Kasper, Kocz,
@@ -115,10 +136,6 @@ Butler, B. 1998, Options for {VLBA} Antennan Surface Measurement, Tech. rep.,
   {Wyithe}}]{PattiCatalog1}
 {Carroll}, P.~A., {et~al.} 2016, \mnras, 461, 4151
 
-\bibitem[{Chang {et~al.}(2010)Chang, Pen, Bandura, \& Peterson}]{Chang2010}
-Chang, T.-C., Pen, U.-L., Bandura, K., \& Peterson, J.~B. 2010, Nature, 466,
-  463
-
 \bibitem[{Choudhuri(2010)}]{choudhuri2010astrophysics}
 Choudhuri, A. 2010, Astrophysics for Physicists, Astrophysics for Physicists
   (Cambridge Unive rsity Press)
@@ -128,6 +145,11 @@ Choudhuri, A. 2010, Astrophysics for Physicists, Astrophysics for Physicists
   Razavi-Ghods, Tingay, \& Williams}]{colegate14}
 Colegate, T., {et~al.} 2014, in Antenna Measurements Applications (CAMA), 2014
   IEEE Conference on, 1--4
+
+\bibitem[{{Colegate} {et~al.}(2015){Colegate}, {Sutinjo}, {Hall}, {Padhi},
+  {Wayth}, {Bij de Vaate}, {Crosse}, {Emrich}, {Faulkner}, {Hurley-Walker}, {de
+  Lera Acedo}, {Juswardy}, {Razavi-Ghods}, {Tingay}, \& {Williams}}]{aavs}
+{Colegate}, T.~M., {et~al.} 2015, ArXiv e-prints
 
 \bibitem[{Condon {et~al.}(1998)Condon, Cotton, Greisen, Yin, Perley, Taylor, \&
   Broderick}]{nvss}
@@ -216,21 +238,17 @@ Dillon, J.~S., {et~al.} 2015, Phys. Rev. D, 91, 023002
 \bibitem[{Ellingson(2011)}]{ellingson2011}
 Ellingson, S. 2011, Antennas and Propagation, IEEE Transactions on, 59, 1855
 
-\bibitem[{{Ewall-Wice} {et~al.}(2016){Ewall-Wice}, {Bradley}, {Deboer},
-  {Hewitt}, {Parsons}, {Aguirre}, {Ali}, {Bowman}, {Cheng}, {Neben}, {Patra},
-  {Thyagarajan}, {Venter}, {de Lera Acedo}, {Dillon}, {Dickenson}, {Doolittle},
-  {Egan}, {Hedrick}, {Klima}, {Kohn}, {Schaffner}, {Shelton}, {Saliwanchik},
-  {Taylor}, {Taylor}, {Tegmark}, \& {Wirt}}]{ewallwice16}
-{Ewall-Wice}, A., {et~al.} 2016, \apj, 831, 196
+\bibitem[{{Ewall-Wice} {et~al.}(2016{\natexlab{a}}){Ewall-Wice}, {Dillon},
+  {Liu}, \& {Hewitt}}]{ewallwice16b}
+{Ewall-Wice}, A., {Dillon}, J.~S., {Liu}, A., \& {Hewitt}, J.
+  2016{\natexlab{a}}, ArXiv e-prints
 
-\bibitem[{Fernandez \& Zaroubi(2013)}]{Fernandez2013}
-Fernandez, E.~R., \& Zaroubi, S. 2013, Monthly Notices of the Royal
-  Astronomical Society, 433, 2047
-
-\bibitem[{{Fernandez} {et~al.}(2014){Fernandez}, {Zaroubi}, {Iliev}, {Mellema},
-  \& {Jeli{\'c}}}]{Fernandez2014}
-{Fernandez}, E.~R., {Zaroubi}, S., {Iliev}, I.~T., {Mellema}, G., \&
-  {Jeli{\'c}}, V. 2014, \mnras, 440, 298
+\bibitem[{{Ewall-Wice} {et~al.}(2016{\natexlab{b}}){Ewall-Wice}, {Bradley},
+  {Deboer}, {Hewitt}, {Parsons}, {Aguirre}, {Ali}, {Bowman}, {Cheng}, {Neben},
+  {Patra}, {Thyagarajan}, {Venter}, {de Lera Acedo}, {Dillon}, {Dickenson},
+  {Doolittle}, {Egan}, {Hedrick}, {Klima}, {Kohn}, {Schaffner}, {Shelton},
+  {Saliwanchik}, {Taylor}, {Taylor}, {Tegmark}, \& {Wirt}}]{ewallwice16}
+{Ewall-Wice}, A., {et~al.} 2016{\natexlab{b}}, \apj, 831, 196
 
 \bibitem[{Fukao {et~al.}(1985)Fukao, Sato, \& Kato}]{fukao85}
 Fukao, S., Sato, T., \& Kato, S. 1985, J. Geomag. Geoelectr., 37, 431
@@ -244,9 +262,6 @@ Furlanetto, S., Oh, S., \& Briggs, F. 2006, Physics Reports, 433, 181
 
 \bibitem[{Godwin \& et~al.(1986)}]{godwin86}
 Godwin, \& et~al. 1986, Astron. Astro., 167, 390
-
-\bibitem[{Gong {et~al.}(2014)Gong, Silva, Cooray, \& Santos}]{Gong2014}
-Gong, Y., Silva, M., Cooray, A., \& Santos, M.~G. 2014
 
 \bibitem[{G\'{o}rski {et~al.}(2005)G\'{o}rski, Hivon, Banday, Wandelt, Hansen,
   Reinecke, \& Bartelmann}]{healpix}
@@ -262,11 +277,16 @@ Griffiths, D. 2005, Introduction to Quantum Mechanics (Pearson Prentice Hall)
 \bibitem[{{Hall}(2005)}]{ska}
 {Hall}, P.~J. 2005, {The Square Kilometre Array: An Engineering Perspective}
 
+\bibitem[{{Harker} {et~al.}(2009){Harker}, {Zaroubi}, {Bernardi}, {Brentjens},
+  {de Bruyn}, {Ciardi}, {Jeli{\'c}}, {Koopmans}, {Labropoulos}, {Mellema},
+  {Offringa}, {Pandey}, {Schaye}, {Thomas}, \& {Yatawatta}}]{Harker}
+{Harker}, G., {et~al.} 2009, Monthly Notices of the Royal Astronomical Society,
+  397, 1138
+
 \bibitem[{{Harker} {et~al.}(2010){Harker}, {Zaroubi}, {Bernardi}, {Brentjens},
   {de Bruyn}, {Ciardi}, {Jeli{\'c}}, {Koopmans}, {Labropoulos}, {Mellema},
   {Offringa}, {Pandey}, {Pawlik}, {Schaye}, {Thomas}, \& {Yatawatta}}]{LOFAR2}
-{Harker}, G., {et~al.} 2010, Monthly Notices of the Royal Astronomical Society,
-  405, 2492
+---. 2010, Monthly Notices of the Royal Astronomical Society, 405, 2492
 
 \bibitem[{Harp {et~al.}(2011)Harp, Ackermann, Nadler, Blair, Davis, Wright,
   Forster, DeBoer, Welch, Atkinson, Backer, Backus, Barott, Bauermeister,
@@ -285,9 +305,6 @@ Harp, G., {et~al.} 2011, Antennas and Propagation, IEEE Transactions on, 59,
   {Sullivan}}]{Hazelton2013}
 {Hazelton}, B.~J., {Morales}, M.~F., \& {Sullivan}, I.~S. 2013, {The
   Astrophysical Journal}, 770, 156
-
-\bibitem[{Heneka {et~al.}(2016)Heneka, Cooray, \& Feng}]{Heneka2016}
-Heneka, C., Cooray, A., \& Feng, C. 2016
 
 \bibitem[{{H{\"o}gbom}(1974)}]{hogbomclean}
 {H{\"o}gbom}, J.~A. 1974, \aaps, 15, 417
@@ -310,16 +327,22 @@ Hurtado, M., Lorente, H., \& Muravchik, C. 2001, IEEE Transactions on
 \bibitem[{Jacobs {et~al.}(2013)Jacobs, Bowman, \& Aguirre}]{jacobs2013}
 Jacobs, D., Bowman, J., \& Aguirre, J. 2013, The Astrophysical Journal, 769, 5
 
+\bibitem[{{Jacobs} {et~al.}(2015{\natexlab{a}}){Jacobs}, {Beardsley},
+  {Hazelton}, {Thyagarajan}, \& {Trott}}]{Tsysmemo}
+{Jacobs}, D.~C., {Beardsley}, A., {Hazelton}, B., {Thyagarajan}, N., \&
+  {Trott}, C. 2015{\natexlab{a}}, System temperatures of 21 cm arrays 2015,
+  Tech. Rep.~10, HERA Memo Series
+
 \bibitem[{{Jacobs} {et~al.}(2016{\natexlab{a}}){Jacobs}, {Burba}, {Bowman},
   {Neben}, {Stinnett}, \& {Turner}}]{drone3}
 {Jacobs}, D.~C., {Burba}, J., {Bowman}, J., {Neben}, A.~R., {Stinnett}, B., \&
   {Turner}, L. 2016{\natexlab{a}}, ArXiv e-prints
 
-\bibitem[{{Jacobs} {et~al.}(2015){Jacobs}, {Pober}, {Parsons}, {Aguirre},
-  {Ali}, {Bowman}, {Bradley}, {Carilli}, {DeBoer}, {Dexter}, {Gugliucci},
-  {Klima}, {Liu}, {MacMahon}, {Manley}, {Moore}, {Stefan}, \&
+\bibitem[{{Jacobs} {et~al.}(2015{\natexlab{b}}){Jacobs}, {Pober}, {Parsons},
+  {Aguirre}, {Ali}, {Bowman}, {Bradley}, {Carilli}, {DeBoer}, {Dexter},
+  {Gugliucci}, {Klima}, {Liu}, {MacMahon}, {Manley}, {Moore}, {Stefan}, \&
   {Walbrugh}}]{DannyMultiRedshift}
-{Jacobs}, D.~C., {et~al.} 2015, \apj, 801, 51
+{Jacobs}, D.~C., {et~al.} 2015{\natexlab{b}}, \apj, 801, 51
 
 \bibitem[{{Jacobs} {et~al.}(2016{\natexlab{b}}){Jacobs}, {Hazelton}, {Trott},
   {Dillon}, {Pindor}, {Sullivan}, {Pober}, {Barry}, {Beardsley}, {Bernardi},
@@ -377,11 +400,6 @@ Lasenby, A. 1985, in Proc. ESO-IRAM-Onsala Workshop on '(Sub)Milimeter
 Law, D.~C., Khorrami, J.~R., Sessions, W.~B., \& Shanahan, M.~K. 1997, IEEE
   Transactions on Antennas and Propagation Magazine, 39, 88
 
-\bibitem[{{Lidz} {et~al.}(2009){Lidz}, {Zahn}, {Furlanetto}, {McQuinn},
-  {Hernquist}, \& {Zaldarriaga}}]{Lidz2008}
-{Lidz}, A., {Zahn}, O., {Furlanetto}, S.~R., {McQuinn}, M., {Hernquist}, L., \&
-  {Zaldarriaga}, M. 2009, \apj, 690, 252
-
 \bibitem[{{Lidz} {et~al.}(2008){Lidz}, {Zahn}, {McQuinn}, {Zaldarriaga}, \&
   {Hernquist}}]{LidzRiseFall}
 {Lidz}, A., {Zahn}, O., {McQuinn}, M., {Zaldarriaga}, M., \& {Hernquist}, L.
@@ -413,10 +431,21 @@ Law, D.~C., Khorrami, J.~R., Sessions, W.~B., \& Shanahan, M.~K. 1997, IEEE
 \bibitem[{{Liu} \& {Tegmark}(2012)}]{AdrianForegrounds}
 ---. 2012, Monthly Notices of the Royal Astronomical Society, 419, 3491
 
+\bibitem[{{Liu} {et~al.}(2009{\natexlab{a}}){Liu}, {Tegmark}, {Bowman},
+  {Hewitt}, \& {Zaldarriaga}}]{paper2}
+{Liu}, A., {Tegmark}, M., {Bowman}, J., {Hewitt}, J., \& {Zaldarriaga}, M.
+  2009{\natexlab{a}}, Monthly Notices of the Royal Astronomical Society, 398,
+  401
+
 \bibitem[{{Liu} {et~al.}(2010){Liu}, {Tegmark}, {Morrison}, {Lutomirski}, \&
   {Zaldarriaga}}]{liu10}
 {Liu}, A., {Tegmark}, M., {Morrison}, S., {Lutomirski}, A., \& {Zaldarriaga},
   M. 2010, Monthly Notices of the Royal Astronomical Society, 408, 1029
+
+\bibitem[{{Liu} {et~al.}(2009{\natexlab{b}}){Liu}, {Tegmark}, \&
+  {Zaldarriaga}}]{paper1}
+{Liu}, A., {Tegmark}, M., \& {Zaldarriaga}, M. 2009{\natexlab{b}}, Monthly
+  Notices of the Royal Astronomical Society, 394, 1575
 
 \bibitem[{{Loeb} \& {Furlanetto}(2013)}]{aviBook}
 {Loeb}, A., \& {Furlanetto}, S.~R. 2013, The First Galaxies In The Universe
@@ -431,24 +460,22 @@ Law, D.~C., Khorrami, J.~R., Sessions, W.~B., \& Shanahan, M.~K. 1997, IEEE
   Williams, \& Williams}]{lonsdale09}
 Lonsdale, C., {et~al.} 2009, Proceedings of the IEEE, 97, 1497
 
-\bibitem[{{Mao}(2014)}]{Mao2014}
-{Mao}, X.-C. 2014, \apj, 790, 148
-
 \bibitem[{{Mao} {et~al.}(2008){Mao}, {Tegmark}, {McQuinn}, {Zaldarriaga}, \&
   {Zahn}}]{mao08}
 {Mao}, Y., {Tegmark}, M., {McQuinn}, M., {Zaldarriaga}, M., \& {Zahn}, O. 2008,
   \prd, 78, 023529
-
-\bibitem[{Masui {et~al.}(2013)Masui, Switzer, Banavar, Bandura, Blake, Calin,
-  Chang, Chen, Li, Liao, NatarThe Astronomical~Journalan, Pen, Peterson, Shaw,
-  \& Voytek}]{Masui2013}
-Masui, K.~W., {et~al.} 2013, The Astrophysical Journal, 763, L20
 
 \bibitem[{Mauch {et~al.}(2003)Mauch, Murphy, Buttery, Curran, Hunstead,
   Piestrzynski, Robertson, \& Sadler}]{sumss2}
 Mauch, T., Murphy, T., Buttery, H.~J., Curran, J., Hunstead, R.~W.,
   Piestrzynski, B., Robertson, J.~G., \& Sadler, E.~M. 2003, Monthly Notices of
   the Royal Astronomical Society, 342, 1117
+
+\bibitem[{{McQuinn} {et~al.}(2007){McQuinn}, {Lidz}, {Zahn}, {Dutta},
+  {Hernquist}, \& {Zaldarriaga}}]{McQuinn06}
+{McQuinn}, M., {Lidz}, A., {Zahn}, O., {Dutta}, S., {Hernquist}, L., \&
+  {Zaldarriaga}, M. 2007, Monthly Notices of the Royal Astronomical Society,
+  377, 1043
 
 \bibitem[{{Mesinger} {et~al.}(2011){Mesinger}, {Furlanetto}, \&
   {Cen}}]{21cmfast}
@@ -503,13 +530,20 @@ Neben, A., Bradley, R., \& Hewitt, J. 2014, american Astronomical Society
   {Williams}}]{neben15}
 {Neben}, A.~R., {et~al.} 2015, Radio Science, 50, 614
 
-\bibitem[{{Neben} {et~al.}(2016){Neben}, {Hewitt}, {Bradley}, {Dillon},
-  {Bernardi}, {Bowman}, {Briggs}, {Cappallo}, {Corey}, {Deshpande}, {Goeke},
-  {Greenhill}, {Hazelton}, {Johnston-Hollitt}, {Kaplan}, {Lonsdale},
+\bibitem[{{Neben} {et~al.}(2016{\natexlab{a}}){Neben}, {Hewitt}, {Bradley},
+  {Dillon}, {Bernardi}, {Bowman}, {Briggs}, {Cappallo}, {Corey}, {Deshpande},
+  {Goeke}, {Greenhill}, {Hazelton}, {Johnston-Hollitt}, {Kaplan}, {Lonsdale},
   {McWhirter}, {Mitchell}, {Morales}, {Morgan}, {Oberoi}, {Ord}, {Prabu},
   {Udaya Shankar}, {Srivani}, {Subrahmanyan}, {Tingay}, {Wayth}, {Webster},
   {Williams}, \& {Williams}}]{neben16}
----. 2016, The Astrophysical Journal, 820, 44
+---. 2016{\natexlab{a}}, The Astrophysical Journal, 820, 44
+
+\bibitem[{{Neben} {et~al.}(2016{\natexlab{b}}){Neben}, {Bradley}, {Hewitt},
+  {DeBoer}, {Parsons}, {Aguirre}, {Ali}, {Cheng}, {Ewall-Wice}, {Patra},
+  {Thyagarajan}, {Bowman}, {Dickenson}, {Dillon}, {Doolittle}, {Egan},
+  {Hedrick}, {Jacobs}, {Kohn}, {Klima}, {Moodley}, {Saliwanchik}, {Schaffner},
+  {Shelton}, {Taylor}, {Taylor}, {Tegmark}, {Wirt}, \& {Zheng}}]{neben16b}
+---. 2016{\natexlab{b}}, The Astrophysical Journal, 826, 199
 
 \bibitem[{{Newburgh} {et~al.}(2014{\natexlab{a}}){Newburgh}, {Addison},
   {Amiri}, {Bandura}, {Bond}, {Connor}, {Cliche}, {Davis}, {Deng}, {Denman},
@@ -579,6 +613,9 @@ Parsons, A., \& DeBoer, D. 2015, Configuration of the HERA Element, Technical
 \bibitem[{{Parsons} {et~al.}(2012{\natexlab{b}}){Parsons}, {Pober}, {McQuinn},
   {Jacobs}, \& {Aguirre}}]{parsons12a}
 ---. 2012{\natexlab{b}}, The Astrophysical Journal, 753, 81
+
+\bibitem[{{Parsons} \& {Backer}(2009)}]{parsonsandbacker}
+{Parsons}, A.~R., \& {Backer}, D.~C. 2009, The Astronomical Journal, 138, 219
 
 \bibitem[{{Parsons} {et~al.}(2016){Parsons}, {Liu}, {Ali}, \&
   {Cheng}}]{parsonsoptimalfringeratefiltering}
@@ -684,11 +721,6 @@ Rochblatt, D., \& Seidel, B. 1992, IEEE Trans. Mic. Theory Tech., MTT-40, 1294
 {Shaw}, J.~R., {Sigurdson}, K., {Sitwell}, M., {Stebbins}, A., \& {Pen}, U.-L.
   2015, \prd, 91, 083514
 
-\bibitem[{{Silva} {et~al.}(2013){Silva}, {Santos}, {Gong}, {Cooray}, \&
-  {Bock}}]{Silva2012}
-{Silva}, M.~B., {Santos}, M.~G., {Gong}, Y., {Cooray}, A., \& {Bock}, J. 2013,
-  \apj, 763, 132
-
 \bibitem[{{Slee}(1995)}]{Slee1995}
 {Slee}, O.~B. 1995, Australian Journal of Physics, 48, 143
 
@@ -707,6 +739,12 @@ Rochblatt, D., \& Seidel, B. 1992, IEEE Trans. Mic. Theory Tech., MTT-40, 1294
   \& Tingay}]{sutinjo15}
 Sutinjo, A., O'Sullivan, J., Lenc, E., Wayth, R.~B., Padhi, S., Hall, P., \&
   Tingay, S.~J. 2015, Radio Science, 50, 52
+
+\bibitem[{{Sutinjo} {et~al.}(2015){Sutinjo}, {Colegate}, {Wayth}, {Hall}, {de
+  Lera Acedo}, {Booler}, {Faulkner}, {Feng}, {Hurley-Walker}, {Juswardy},
+  {Padhi}, {Razavi-Ghods}, {Sokolowski}, {Tingay}, \& {Bij de Vaate}}]{aavs2}
+{Sutinjo}, A.~T., {et~al.} 2015, IEEE Transactions on Antennas and Propagation,
+  63, 5433
 
 \bibitem[{{Sutter} {et~al.}(2012){Sutter}, {Wandelt}, \& {Malu}}]{GibbsPSE}
 {Sutter}, P.~M., {Wandelt}, B.~D., \& {Malu}, S.~S. 2012, The Astrophysical
@@ -845,6 +883,11 @@ Tingay, S.~J., {et~al.} 2013, PASA, 30
 Virone, G., Paonessa, F., Peverini, O., Addamo, G., Orta, R., Tascone, R., \&
   Bolli, P. 2014, in Antenna Measurements Applications (CAMA), 2014 IEEE
   Conference on, 1--2
+
+\bibitem[{{Wang} {et~al.}(2006){Wang}, {Tegmark}, {Santos}, \&
+  {Knox}}]{xiaomin}
+{Wang}, X., {Tegmark}, M., {Santos}, M.~G., \& {Knox}, L. 2006, The
+  Astrophysical Journal, 650, 529
 
 \bibitem[{{Wieringa}(1992)}]{redundant3}
 {Wieringa}, M.~H. 1992, Experimental Astronomy, 2, 203

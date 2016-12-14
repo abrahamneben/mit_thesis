@@ -9,326 +9,326 @@ A level-1 auxiliary file: chap2_beamforming_errors.aux
 A level-1 auxiliary file: chap3_hera_beammapping.aux
 A level-1 auxiliary file: chap4_empirical_covariance.aux
 Case mismatch error between cite keys GSM and gsm
----line 100 of file chap4_empirical_covariance.aux
+---line 101 of file chap4_empirical_covariance.aux
  : \citation{GSM
  :              }
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys HEALPIX and healpix
----line 124 of file chap4_empirical_covariance.aux
+---line 125 of file chap4_empirical_covariance.aux
  : \citation{HEALPIX
  :                  }
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: chap5_xcor.aux
 A level-1 auxiliary file: conclusion.aux
 A level-1 auxiliary file: skynoise.aux
+A level-1 auxiliary file: synchrotron.aux
 A level-1 auxiliary file: biblio.aux
 The style file: ../apj.bst
 Database file #1: ../main.bib
-Repeated entry---line 1500 of file ../main.bib
+Repeated entry---line 1552 of file ../main.bib
  : @article{21cmfast
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1819 of file ../main.bib
+Repeated entry---line 1871 of file ../main.bib
  : @article{lofar
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1905 of file ../main.bib
+Repeated entry---line 1957 of file ../main.bib
  : @article{zheng14
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1917 of file ../main.bib
+Repeated entry---line 1969 of file ../main.bib
  : @article{mwascience
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1926 of file ../main.bib
+Repeated entry---line 1978 of file ../main.bib
  : @article{tingay13
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1950 of file ../main.bib
+Repeated entry---line 2002 of file ../main.bib
  : @article{nithya13
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2276 of file ../main.bib
+Repeated entry---line 2328 of file ../main.bib
  : @article{miguelreview
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2291 of file ../main.bib
+Repeated entry---line 2343 of file ../main.bib
  : @article{PritchardLoebReview
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2307 of file ../main.bib
+Repeated entry---line 2359 of file ../main.bib
  : @incollection{zaroubi
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2320 of file ../main.bib
+Repeated entry---line 2372 of file ../main.bib
  : @book{aviBook
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2331 of file ../main.bib
+Repeated entry---line 2383 of file ../main.bib
  : @article{PoberNextGen
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2367 of file ../main.bib
+Repeated entry---line 2419 of file ../main.bib
  : @article{Dattapowerspec
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2383 of file ../main.bib
+Repeated entry---line 2435 of file ../main.bib
  : @article{VedanthamWedge
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2403 of file ../main.bib
+Repeated entry---line 2455 of file ../main.bib
  : @article{X13
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2429 of file ../main.bib
+Repeated entry---line 2481 of file ../main.bib
  : @article{MoralesPSShapes
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2447 of file ../main.bib
+Repeated entry---line 2499 of file ../main.bib
  : @article{CathWedge
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2464 of file ../main.bib
+Repeated entry---line 2516 of file ../main.bib
  : @article{AdrianWedge1
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2481 of file ../main.bib
+Repeated entry---line 2533 of file ../main.bib
  : @article{AdrianWedge2
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2504 of file ../main.bib
+Repeated entry---line 2556 of file ../main.bib
  : @article{jelic2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2518 of file ../main.bib
+Repeated entry---line 2570 of file ../main.bib
  : @article{braun2013
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2529 of file ../main.bib
+Repeated entry---line 2581 of file ../main.bib
  : @article{healpix
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2541 of file ../main.bib
+Repeated entry---line 2593 of file ../main.bib
  : @phdthesis{williamsthesis2012
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2548 of file ../main.bib
+Repeated entry---line 2600 of file ../main.bib
  : @article{bowman07
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2614 of file ../main.bib
+Repeated entry---line 2687 of file ../main.bib
  : @article{lofar
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2686 of file ../main.bib
+Repeated entry---line 2759 of file ../main.bib
  : @inproceedings{Whitepaper5
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2692 of file ../main.bib
+Repeated entry---line 2765 of file ../main.bib
  : @article{zheng14
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2724 of file ../main.bib
+Repeated entry---line 2797 of file ../main.bib
  : @article{tingay13
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2759 of file ../main.bib
+Repeated entry---line 2832 of file ../main.bib
  : @article{lonsdale09
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2787 of file ../main.bib
+Repeated entry---line 2860 of file ../main.bib
  : @article{nithya13
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2841 of file ../main.bib
+Repeated entry---line 2914 of file ../main.bib
  : @article{pober12
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2866 of file ../main.bib
+Repeated entry---line 2939 of file ../main.bib
  : @mastersthesis{ries07
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2877 of file ../main.bib
+Repeated entry---line 2950 of file ../main.bib
  : @article{moralesandmatejek
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2964 of file ../main.bib
+Repeated entry---line 3037 of file ../main.bib
  : @article{FurlanettoReview
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2977 of file ../main.bib
+Repeated entry---line 3050 of file ../main.bib
  : @article{miguelreview
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2992 of file ../main.bib
+Repeated entry---line 3065 of file ../main.bib
  : @article{PritchardLoebReview
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3008 of file ../main.bib
+Repeated entry---line 3081 of file ../main.bib
  : @incollection{zaroubi
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3021 of file ../main.bib
+Repeated entry---line 3094 of file ../main.bib
  : @book{aviBook
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3032 of file ../main.bib
+Repeated entry---line 3105 of file ../main.bib
  : @article{PoberNextGen
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3044 of file ../main.bib
+Repeated entry---line 3117 of file ../main.bib
  : @article{mwascience
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3083 of file ../main.bib
+Repeated entry---line 3156 of file ../main.bib
  :    @article{TrottObservingModes
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3100 of file ../main.bib
+Repeated entry---line 3173 of file ../main.bib
  : @article{nithya15
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3143 of file ../main.bib
+Repeated entry---line 3216 of file ../main.bib
  : @article{nithya15b
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3178 of file ../main.bib
+Repeated entry---line 3251 of file ../main.bib
  : @article{Dattapowerspec
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3194 of file ../main.bib
+Repeated entry---line 3267 of file ../main.bib
  : @article{VedanthamWedge
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3214 of file ../main.bib
+Repeated entry---line 3287 of file ../main.bib
  : @article{X13
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3260 of file ../main.bib
+Repeated entry---line 3333 of file ../main.bib
  : @article{MoralesPSShapes
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3278 of file ../main.bib
+Repeated entry---line 3351 of file ../main.bib
  : @article{CathWedge
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3295 of file ../main.bib
+Repeated entry---line 3368 of file ../main.bib
  : @article{AdrianWedge1
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3312 of file ../main.bib
+Repeated entry---line 3385 of file ../main.bib
  : @article{AdrianWedge2
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3332 of file ../main.bib
+Repeated entry---line 3405 of file ../main.bib
  : @article{braun2013
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3352 of file ../main.bib
+Repeated entry---line 3425 of file ../main.bib
  : @article{healpix
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3378 of file ../main.bib
+Repeated entry---line 3451 of file ../main.bib
  : @article{Slee1995
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3390 of file ../main.bib
+Repeated entry---line 3463 of file ../main.bib
  : @article{MWACS
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3407 of file ../main.bib
+Repeated entry---line 3480 of file ../main.bib
  : @article{parsons12a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3425 of file ../main.bib
+Repeated entry---line 3498 of file ../main.bib
  : @article{parsons12b
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3443 of file ../main.bib
+Repeated entry---line 3516 of file ../main.bib
  : @article{21cmfast
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3676 of file ../main.bib
+Repeated entry---line 3749 of file ../main.bib
  : @book{aviBook
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3702 of file ../main.bib
+Repeated entry---line 3775 of file ../main.bib
  : @article{AaronSensitivity
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3891 of file ../main.bib
+Repeated entry---line 3964 of file ../main.bib
  : @article{X13
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3924 of file ../main.bib
+Repeated entry---line 3997 of file ../main.bib
  : @article{PritchardLoebReview
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4108 of file ../main.bib
+Repeated entry---line 4181 of file ../main.bib
  : @article{CathWedge
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4127 of file ../main.bib
+Repeated entry---line 4200 of file ../main.bib
  : @article{TrottObservingModes
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4287 of file ../main.bib
+Repeated entry---line 4360 of file ../main.bib
  : @article{MoralesPSShapes
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4307 of file ../main.bib
+Repeated entry---line 4380 of file ../main.bib
  : @article{Dattapowerspec
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5035 of file ../main.bib
+Repeated entry---line 5108 of file ../main.bib
  : @article{FurlanettoReview
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5191 of file ../main.bib
+Repeated entry---line 5264 of file ../main.bib
  : @article{Slee1995
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5562 of file ../main.bib
+Repeated entry---line 5635 of file ../main.bib
  : @inproceedings{Whitepaper5
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5617 of file ../main.bib
+Repeated entry---line 5690 of file ../main.bib
  : @article{miguelreview
  :                      ,
 I'm skipping whatever remains of this entry
-I was expecting an "="---line 5868 of file ../main.bib
+I was expecting an "="---line 5941 of file ../main.bib
  :    
  :    volume = 499,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 5942 of file ../main.bib
+Repeated entry---line 6015 of file ../main.bib
  : @article{VedanthamWedge
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6180 of file ../main.bib
+Repeated entry---line 6239 of file ../main.bib
  : @article{HEALPIX
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6279 of file ../main.bib
+Repeated entry---line 6338 of file ../main.bib
  : @article{PoberNextGen
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6300 of file ../main.bib
+Repeated entry---line 6359 of file ../main.bib
  : @article{MWACS
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6681 of file ../main.bib
+Repeated entry---line 6740 of file ../main.bib
  : @book{ThompsonMoranSwenson
  :                           ,
 I'm skipping whatever remains of this entry
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 7201 of file ../main.bib
+Repeated entry---line 7260 of file ../main.bib
  : @article{21CMFAST
  :                  ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "sutinjo2015"
 Warning--I didn't find a database entry for "paperinstrument"
-Warning--I didn't find a database entry for "PoberWedge"
 Warning--I didn't find a database entry for "ali2015"
 Warning--I didn't find a database entry for "sutinjo2014"
 Warning--I didn't find a database entry for "mapmaking"
@@ -338,52 +338,50 @@ Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for 
 while executing---line 1562 of file ../apj.bst
 Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
 while executing---line 1562 of file ../apj.bst
-Warning--empty journal in Gong2014
 Warning--empty publisher in ska
-Warning--empty journal in Heneka2016
 Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
 while executing---line 1645 of file ../apj.bst
 Too many commas in name 1 of "Taylor, G. B.; Carilli, C. L.; Perley, R. A." for entry synthesisimaging
 while executing---line 1645 of file ../apj.bst
-You've used 157 entries,
+You've used 162 entries,
             2988 wiz_defined-function locations,
-            1515 strings with 67160 characters,
-and the built_in function-call counts, 91510 in all, are:
-= -- 5668
-> -- 9814
+            1527 strings with 69985 characters,
+and the built_in function-call counts, 95040 in all, are:
+= -- 5849
+> -- 10269
 < -- 57
-+ -- 3307
-- -- 3114
-* -- 9518
-:= -- 18197
-add.period$ -- 157
-call.type$ -- 157
-change.case$ -- 1002
-chr.to.int$ -- 152
-cite$ -- 160
-duplicate$ -- 2896
-empty$ -- 4267
-format.name$ -- 3633
-if$ -- 17034
-int.to.chr$ -- 9
++ -- 3462
+- -- 3260
+* -- 9946
+:= -- 18915
+add.period$ -- 162
+call.type$ -- 162
+change.case$ -- 1033
+chr.to.int$ -- 153
+cite$ -- 163
+duplicate$ -- 2988
+empty$ -- 4398
+format.name$ -- 3800
+if$ -- 17668
+int.to.chr$ -- 13
 int.to.str$ -- 1
-missing$ -- 136
-newline$ -- 475
-num.names$ -- 631
-pop$ -- 1010
+missing$ -- 140
+newline$ -- 490
+num.names$ -- 651
+pop$ -- 1045
 preamble$ -- 1
-purify$ -- 992
+purify$ -- 1023
 quote$ -- 0
-skip$ -- 2466
+skip$ -- 2523
 stack$ -- 0
-substring$ -- 3134
-swap$ -- 63
-text.length$ -- 6
+substring$ -- 3231
+swap$ -- 72
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1398
-warning$ -- 3
-while$ -- 494
+type$ -- 1443
+warning$ -- 1
+while$ -- 504
 width$ -- 0
-write$ -- 1558
+write$ -- 1610
 (There were 81 error messages)
