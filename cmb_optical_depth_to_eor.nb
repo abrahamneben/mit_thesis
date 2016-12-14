@@ -1,0 +1,116 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3092,        108]
+NotebookOptionsPosition[      2724,         90]
+NotebookOutlinePosition[      3085,        106]
+CellTagsIndexPosition[      3042,        103]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"\[Sigma]", "=", 
+    RowBox[{"6.65", " ", 
+     SuperscriptBox["10", 
+      RowBox[{"-", "29", " "}]]}]}], ";"}], " ", 
+  RowBox[{"(*", 
+   RowBox[{"m", "^", "2"}], "*)"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"c", "=", 
+   RowBox[{"3", " ", 
+    SuperscriptBox["10", "8"]}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"mp", " ", "=", " ", 
+   RowBox[{"1.67", " ", 
+    SuperscriptBox["10", 
+     RowBox[{"-", "27"}]]}]}], " ", 
+  RowBox[{"(*", "kg", "*)"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"\[CapitalOmega]m", "=", ".3"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"kmperMpc", "=", 
+   RowBox[{"3.24", " ", 
+    SuperscriptBox["10", 
+     RowBox[{"-", "20"}]]}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"H0", "=", " ", 
+   RowBox[{"70", " ", "*", "kmperMpc"}]}], ";", " ", 
+  RowBox[{"(*", 
+   RowBox[{"per", " ", "sec"}], "*)"}], "\[IndentingNewLine]", 
+  RowBox[{"G", "=", 
+   RowBox[{"6.67", " ", 
+    SuperscriptBox["10", 
+     RowBox[{"-", "11"}]]}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"\[Rho]c", "=", 
+   RowBox[{"3", " ", 
+    RowBox[{
+     SuperscriptBox["H0", "2"], "/", 
+     RowBox[{"(", 
+      RowBox[{"8", " ", "\[Pi]", " ", "G"}], ")"}]}]}]}], ";"}]}], "Input",
+ CellChangeTimes->{{3.69073296671525*^9, 3.690733201536264*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"\[Sigma]", " ", "c", " ", "\[CapitalOmega]m", " ", 
+  RowBox[{"NIntegrate", "[", 
+   RowBox[{
+    FractionBox[
+     SuperscriptBox[
+      RowBox[{"(", 
+       RowBox[{"1", "+", "z"}], ")"}], "2"], 
+     RowBox[{"H0", 
+      SqrtBox[
+       RowBox[{
+        RowBox[{"\[CapitalOmega]m", " ", 
+         SuperscriptBox[
+          RowBox[{"(", 
+           RowBox[{"1", "+", "z"}], ")"}], "3"]}], "+", ".7"}]]}]], ",", 
+    RowBox[{"{", 
+     RowBox[{"z", ",", "0", ",", "7"}], "}"}]}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.6907330243469553`*^9, 3.6907330385286093`*^9}, {
+  3.690733206817946*^9, 3.690733263486684*^9}}],
+
+Cell[BoxData["0.06697942812255231`"], "Output",
+ CellChangeTimes->{{3.690733245233862*^9, 3.690733263839633*^9}}]
+}, Open  ]]
+},
+WindowSize->{1278, 686},
+WindowMargins->{{Automatic, 4}, {-686, Automatic}},
+FrontEndVersion->"11.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September \
+21, 2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 1367, 42, 182, "Input"],
+Cell[CellGroupData[{
+Cell[1950, 66, 642, 18, 64, "Input"],
+Cell[2595, 86, 113, 1, 32, "Output"]
+}, Open  ]]
+}
+]
+*)
+
