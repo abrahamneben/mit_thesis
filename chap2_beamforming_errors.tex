@@ -255,6 +255,7 @@ The possibility of antenna-to-antenna variation was certainly not unexpected, th
 
 Building on lessons learned from development of the MWA and PAPER, HERA is pursuing a targeted experiment to detect the cosmological signal using zenith-tracking dishes rather than phased arrays, and foreground avoidance rather than the more challenging subtraction. In contrast, observatories relying both on beamforming and foreground subtraction (e.g., LOFAR and SKA-Low) must model the sky and primary beams (either through calibration or measurement) to four to five orders of magnitude of dynamic range lest foreground residuals swamp the feeble cosmological signal.
 
+\begin{subappendices}
 
 % in depth description of the MWA tile
 \section{Appendix: Design of the MWA Antenna Tile}
@@ -293,8 +294,14 @@ The beamformer contains two vertically offset delayline boards, one for each pol
 
 Digital communication to the beamformer to activate delay bits on each of the delay lines is transmitted in a ``data over coax'' configuration, multiplexed on the two RG-6 cables carrying the dual-polarization beamformer output to the receiver. 
 
-\section{Acknowledgements}
+\end{subappendices}
+
+\section*{Acknowledgements}
 
 This work was supported by NSF grant AST-0821321, the Marble Astrophysics Fund, and the MIT School of Science. We thank Aaron Ewall-Wice and Hamdi Mani for assistance in running these experiments, Steve Burns for debugging beamformer issues, and Danny Jacobs, Nithyanandan Thyagarajan, and Lu Feng for helpful discussions. 
 
 This scientific work makes use of the Murchison Radio-astronomy Observatory, operated by CSIRO. We acknowledge the Wajarri Yamatji people as the traditional owners of the Observatory site. Support for the MWA comes from the U.S. National Science Foundation (grants AST-0457585, PHY-0835713, CAREER-0847753, and AST-0908884), the Australian Research Council (LIEF grants LE0775621 and LE0882938), the U.S. Air Force Office of Scientific Research (grant FA9550-0510247), and the Centre for All-sky Astrophysics (an Australian Research Council Centre of Excellence funded by grant CE110001020). Support is also provided by the Smithsonian Astrophysical Observatory, the MIT School of Science, the Raman Research Institute, the Australian National University, and the Victoria University of Wellington (via grant MED-E1799 from the New Zealand Ministry of Economic Development and an IBM Shared University Research Grant). The Australian Federal government provides additional support via the Commonwealth Scientific and Industrial Research Organisation (CSIRO), National Collaborative Research Infrastructure Strategy, Education Investment Fund, and the Australia India Strategic Research Fund, and Astronomy Australia Limited, under contract to Curtin University. We acknowledge the iVEC Petabyte Data Store, the Initiative in Innovative Computing and the CUDA Center for Excellence sponsored by NVIDIA at Harvard University, and the International Centre for Radio Astronomy Research (ICRAR), a Joint Venture of Curtin University and The University of Western Australia, funded by the Western Australian State government.
+
+
+
+
