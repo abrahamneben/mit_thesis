@@ -38,6 +38,15 @@
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
 
+\usepackage{color}
+\usepackage[normalem]{ulem}
+\usepackage{url}
+
+\DeclareUrlCommand\ULurl{%
+  \renewcommand\UrlFont{\ttfamily\color{blue}}%
+  \renewcommand\UrlLeft{\bgroup}%
+  \renewcommand\UrlRight{\egroup}}
+
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.
 %% Krishna Sethuraman (1990).
