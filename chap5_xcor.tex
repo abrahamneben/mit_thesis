@@ -430,30 +430,30 @@ Also in Fig. \ref{fig:resxspec} we plot the radio--infrared foreground cross spe
 
 \section{Discussion}
 
-The goals 
-reminder of what the ultimate goals are
-correlations can verify purported detections, extend the science returns of 21cm measurements, 
-complementary to deep galaxy surveys (go below detection limits, probing the ionizing population)
-3D is cool, but expensive, 2D is much easier, and can do from the ground
 
+Radio and infrared surveys are on the cusp of direct observations of the two sides of the EOR. Deep infrared surveys are beginning to probe the bright end of ionizing population itself, and low frequency radio surveys are constraining the 21\,cm brightness of the neutral IGM. New radio and infrared instruments are all but assured to yield the first direct constraints on the astrophysics of the EOR, and combining these measurements will be crucial to confirm the first detections and extend their science reach. In particular, measurements of the predicted anticorrelation between redshifted radio and Ly$\alpha$ emission can shed light on properties and statistics of the ionizing sources which 21\,cm measurements are not directly sensitive to, while simultaneously yielding redshift information on the near infrared background for the first time. 
 
+3D correlation measurements are ultimate goal, but making infrared maps with sufficient resolution over large enough fields to match the comoving volumes probed by low frequency 21\,cm experiments is challenging and expensive. In contrast, 2D (i.e., broad band) infrared maps can be measured by many existing ground- and space-based observatories, and are a natural first step towards 3D experiments. 
 
-important points of this paper
-- there are FG flux correlations
+We have shown that foregrounds pose two significant challenges for 2D intensity mapping correlation experiments: (1) simple geometric effects result in percent-level correlations between fluxes in these two bands, even if their luminosities are uncorrelated; and (2) the largely uncorrelated radio and infrared foreground residuals contribute a sample variance noise to the cross spectrum. The first challenge demands measurements over large fields of view with many independent samples in order to average down uncorrelated radio and infrared power, while the second improves only with better foreground masking and subtraction.
 
-- can see NIRB flucts from the ground
+In the first part of this paper we quantified the flux correlations between 185\,MHz and 4.5\,$\mu$m sources in MWA and WISE catalogs, which would affect 21\.cm--H$\alpha$ correlation analyses. We detect a $\sim5\%$ correlation at $>6\sigma$ significance after masking 4.5\,$\mu$m down to 1\,mJy, corresponding to the flux below which extragalactic sources dominate the catalog. We reproduce this observed 185\,MHz--4.5\,$\mu$m correlation in a simulation, confirming that it is sourced by starforming galaxies rather than AGN. The narrow radio and infrared luminosity functions of the former make distance a much stronger effect than for AGN in calculating fluxes from luminosities. 
 
-- first simulations of 2D vs 3D spectra
+We then performed 850\,nm observations of the MWA field using the ATLAS telescope, and analyzed correlations between 185\,MHz and 850\,nm sources in MWA and ATLAS catalogs, which would affect 21\,cm--Ly$\alpha$ analyses. We observed a weaker correlation at the $\sim3\sigma$ lewel growing stronger towards our deepest 850\,nm mask depth of 0.1\,mJy. This is consistent with our findings that at 850\,nm, stars still dominate source counts above this flux. Deeper near infrared studies are needed to study how these correlations depend on mask depth to quantify what level of foreground removal is required to mitigate it. For now, we assume that radio--infrared flux correlations are at the percent-level for the purpose of weighing the effect of foreground flux correlations versus that of foreground sample variance noise in an experimental design study.
 
-- first limits on the EOR 21cm-Ly-alpha xspec
-- sensitivity estimates
+In the second part of this paper we analyzed the residual 185\,MHz and 850\,nm foregrounds in MWA and ATLAS images after subtracting radio sources and masking infrared sources. We compute power spectra of the band averaged images and find they agree with the $k_\parallel=0$ bin of the 3D power spectra of \citet{beardsley16}. Despite the fact that the MWA image is not thermal noise-limited, we find that foreground subtraction improves by a factor of 2 in power when the observations are spread over two weeks instead of a single night, consistent with ionosphere-induced calibration errors. This implies that if multiple fields are to be observed, the observing time should be rotated between them on a nightly cadence. 
+%The MWA residual power spectrum MENTION THE RESIDUAL POWER SPECTRUM BRIGHTNESS AT \ELL	=1000, AND HOW IT COMPARES TO THE PUBLISHED BRIGHTNESS IN BEARDSLEY WITH OUR RELATION BETWEEN 2D AND 3D SPECTRA...CAN'T SIMPLY SUBTRACT THE WEDGE IN 2D BECAUSE IT WOULD REMOVE THE BROADBAND SIGNAL WHICH IS ALL THAT A 2D IR EXPT CONTAINS
+%- THIS STUFF SHOULD GO IN THE RESULTS SECTION
 
-what about foreground flux correlations
+We have used the optimal quadratic estimator of \citet{Maxpowerspeclossless} to compute the power spectrum of the 850\,nm ATLAS image after masking sources at $2''$ resolution. These results agree well over $300<\ell<4000$ with the $1.1$\,$\mu$m power spectrum measured by \citep{zemcov14} using CIBER, a sounding rocket with $7''$ resolution and $\sim1^\circ$ field of view. Our larger field of view permits significantly improved precision at $\ell<1000$, and while our increased resolution \textit{should} permit better masking. However, the lack of improvement indicates that the power spectrum has hit a floor at these angular scales. \citet{mw15} show that mild improvement is possible using the Hubble's significantly improved $0.1''$ resolution, but argue that further improvement at these angular scales is stymied by Galactic dust. They demonstrate that significant improvement is only possible at larger $\ell$, angular scales largely inaccessible to 21\,cm observatories focusing on power spectrum estimation such as PAPER, the MWA, and HERA. Taking advantage of these infrared foreground reductions to reduce foregrounds in 21\,cm--Ly$\alpha$ correlation experiments will require the higher resolution images of  LOFAR and SKA-LOW.
 
-clear improvements:
-GMRT for source subtraction
-more resolution using MWA/HERA's long baselines
-wider IR (eg, ATLAS) survey
+Turning to cross spectrum experiments, we simulate the signal loss in 2D versus 3D EOR intensity mapping experiments. We find that 2D experiments can recover close to 100\% the signal at $k<0.2$\,Mpc$^{-1}$, but that power on shorter length scales  suppressed by a factor of $10-10^2$ in power due to averaging out of of $k_\parallel>0$ modes. 
+
+We then used our foreground subtracted and masked MWA and ATLAS images to set the first limits on the 21\,cm--Ly$\alpha$ cross spectrum from $z\sim7$. We adapted the optimal quadratic estimator to the cross spectrum case to properly account for the non-uniform $uv$ sampling of radio interferometers and the non-uniform image plane sampling of masked infrared images. Our results are consistent with zero correlation, and we set an upper limit on the EOR cross spectrum of XXXXXXX $(\text{mK}\cdot \text{kJy/sr})$ (95\%). 
+
+A percent-level correlation between radio and infrared foreground fluxes, of the sort suggested by our catalog correlation analysis, remains below this level, but will be crucial for future experiments. We weigh a percent-level radio--infrared foreground correlation against the sample variance noise due do their uncorrelated component for several possible future experiments. The simplest improvement we consider is increasing the ATLAS survey area by a factor of $\sim10$ and subtracting radio fluxes below the MWA's confusion limit using the GMRT catalog. We predict that the sensitivity boost of these improvements reveals the cross spectrum floor due to percent-level geometric flux correlations. Pushing down this floor requires foreground reduction due to higher resolution radio surveys such as LOFAR and SKA-LOW and infrared surveys such as Hubble and the Dark Energy Survey, though future work is needed to better understand these geometric flux correlations at very deep flux limits.
+
+We conclude that detecting the predicted EOR anti-correlation between the 2D structure of redshifted 21\,cm and Ly$\alpha$ emission is close to being within reach of current surveys, and future analyses using the SKA can begin to significantly rule out EOR parameter space. These experiments are a valuable complement to future 3D correlation analyses using infrared cubes measured using the proposed SPHEREx and the Cosmic Dawn Intensity Mapper. These 3D surveys exchange foregrounds for sensitivity,  field of view, and cost as the limiting factor, but will eventually probe the short spatial scales inaccessible to 2D surveys. The decade of direction observation of the EOR is upon us, and correlation experiments will help us transition from the era of detection to the era of astrophysics.
 
 
 \begin{subappendices}
