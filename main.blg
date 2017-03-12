@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: cover.aux
+A level-1 auxiliary file: contents.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: chap1_precision_beammapping.aux
+A level-1 auxiliary file: chap2_beamforming_errors.aux
+A level-1 auxiliary file: chap3_hera_beammapping.aux
+A level-1 auxiliary file: chap4_empirical_covariance.aux
+A level-1 auxiliary file: chap5_xcor.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: skynoise.aux
+A level-1 auxiliary file: synchrotron.aux
+A level-1 auxiliary file: biblio.aux
+The style file: plainnat.bst
+Reallocated field_info (elt_size=4) to 12224 items from 5000.
+Database file #1: main.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--empty title in AdamDiffuse
+Warning--empty institution in allwise
+Warning--there's a number but no volume in ska1
+Warning--empty publisher in ska
+Warning--empty title in HazeltonEppsilon
+You've used 258 entries,
+            2773 wiz_defined-function locations,
+            2183 strings with 114532 characters,
+and the built_in function-call counts, 287669 in all, are:
+= -- 20696
+> -- 37668
+< -- 83
++ -- 12587
+- -- 12315
+* -- 30995
+:= -- 49221
+add.period$ -- 1005
+call.type$ -- 258
+change.case$ -- 4869
+chr.to.int$ -- 244
+cite$ -- 521
+duplicate$ -- 5391
+empty$ -- 9223
+format.name$ -- 12635
+if$ -- 55010
+int.to.chr$ -- 15
+int.to.str$ -- 1
+missing$ -- 248
+newline$ -- 1526
+num.names$ -- 1042
+pop$ -- 9152
+preamble$ -- 1
+purify$ -- 4618
+quote$ -- 0
+skip$ -- 7092
+stack$ -- 0
+substring$ -- 3114
+swap$ -- 587
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2809
+warning$ -- 5
+while$ -- 919
+width$ -- 0
+write$ -- 3797
+(There were 5 warnings)

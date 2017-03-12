@@ -1,3 +1,6 @@
 main.pdf
 .DS_Store
 .texpadtmp/
+*.aux
+*.out
+*.log

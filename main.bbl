@@ -1,0 +1,3087 @@
+\begin{thebibliography}{258}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Ali} et~al.(2015){Ali}, {Parsons}, {Zheng}, {Pober}, {Liu},
+  {Aguirre}, {Bradley}, {Bernardi}, {Carilli}, {Cheng}, {DeBoer}, {Dexter},
+  {Grobbelaar}, {Horrell}, {Jacobs}, {Klima}, {MacMahon}, {Maree}, {Moore},
+  {Razavi}, {Stefan}, {Walbrugh}, and {Walker}]{ali15}
+Z.~S. {Ali}, A.~R. {Parsons}, H.~{Zheng}, J.~C. {Pober}, A.~{Liu}, J.~E.
+  {Aguirre}, R.~F. {Bradley}, G.~{Bernardi}, C.~L. {Carilli}, C.~{Cheng}, D.~R.
+  {DeBoer}, M.~R. {Dexter}, J.~{Grobbelaar}, J.~{Horrell}, D.~C. {Jacobs},
+  P.~{Klima}, D.~H.~E. {MacMahon}, M.~{Maree}, D.~F. {Moore}, N.~{Razavi},
+  I.~I. {Stefan}, W.~P. {Walbrugh}, and A.~{Walker}.
+\newblock {PAPER-64 Constraints on Reionization: The 21 cm Power Spectrum at z
+  = 8.4}.
+\newblock \emph{ApJ}, 809:\penalty0 61, August 2015.
+\newblock \doi{10.1088/0004-637X/809/1/61}.
+
+\bibitem[{Alvarez} et~al.(2012){Alvarez}, {Finlator}, and
+  {Trenti}]{Alvarez2012}
+M.~A. {Alvarez}, K.~{Finlator}, and M.~{Trenti}.
+\newblock {Constraints on the Ionizing Efficiency of the First Galaxies}.
+\newblock \emph{\apjl}, 759:\penalty0 L38, November 2012.
+\newblock \doi{10.1088/2041-8205/759/2/L38}.
+
+\bibitem[{Asad} et~al.(2015){Asad}, {Koopmans}, {Jeli{\'c}}, {Pandey}, {Ghosh},
+  {Abdalla}, {Bernardi}, {Brentjens}, {de Bruyn}, {Bus}, {Ciardi}, {Chapman},
+  {Daiboo}, {Fernandez}, {Harker}, {Iliev}, {Jensen}, {Martinez-Rubi},
+  {Mellema}, {Mevius}, {Offringa}, {Patil}, {Schaye}, {Thomas}, {van der Tol},
+  {Vedantham}, {Yatawatta}, and {Zaroubi}]{asad15}
+K.~M.~B. {Asad}, L.~V.~E. {Koopmans}, V.~{Jeli{\'c}}, V.~N. {Pandey},
+  A.~{Ghosh}, F.~B. {Abdalla}, G.~{Bernardi}, M.~A. {Brentjens}, A.~G. {de
+  Bruyn}, S.~{Bus}, B.~{Ciardi}, E.~{Chapman}, S.~{Daiboo}, E.~R. {Fernandez},
+  G.~{Harker}, I.~T. {Iliev}, H.~{Jensen}, O.~{Martinez-Rubi}, G.~{Mellema},
+  M.~{Mevius}, A.~R. {Offringa}, A.~H. {Patil}, J.~{Schaye}, R.~M. {Thomas},
+  S.~{van der Tol}, H.~K. {Vedantham}, S.~{Yatawatta}, and S.~{Zaroubi}.
+\newblock {Polarization leakage in epoch of reionization windows - I. Low
+  Frequency Array observations of the 3C196 field}.
+\newblock \emph{MNRAS}, 451:\penalty0 3709--3727, August 2015.
+\newblock \doi{10.1093/mnras/stv1107}.
+
+\bibitem[{Atek} et~al.(2015){Atek}, {Richard}, {Jauzac}, {Kneib}, {Natarajan},
+  {Limousin}, {Schaerer}, {Jullo}, {Ebeling}, {Egami}, and {Clement}]{Atek2015}
+H.~{Atek}, J.~{Richard}, M.~{Jauzac}, J.-P. {Kneib}, P.~{Natarajan},
+  M.~{Limousin}, D.~{Schaerer}, E.~{Jullo}, H.~{Ebeling}, E.~{Egami}, and
+  B.~{Clement}.
+\newblock {Are Ultra-faint Galaxies at z = 6-8 Responsible for Cosmic
+  Reionization? Combined Constraints from the Hubble Frontier Fields Clusters
+  and Parallels}.
+\newblock \emph{\apj}, 814:\penalty0 69, November 2015.
+\newblock \doi{10.1088/0004-637X/814/1/69}.
+
+\bibitem[{Backer} et~al.(2009){Backer}, {Aguirre}, {Bowman}, {Bradley},
+  {Carilli}, {Furlanetto}, {Greenhill}, {Hewitt}, {Lonsdale}, {Ord}, {Parsons},
+  and {Whitney}]{Whitepaper5}
+D.~C. {Backer}, J.~{Aguirre}, J.~D. {Bowman}, R.~{Bradley}, C.~L. {Carilli},
+  S.~R. {Furlanetto}, L.~J. {Greenhill}, J.~N. {Hewitt}, C.~{Lonsdale}, S.~M.
+  {Ord}, A.~{Parsons}, and A.~{Whitney}.
+\newblock Hera - hydrogen epoch of reionization arrays.
+\newblock In \emph{US Astro2010 Decadal Survey "Cosmology and Fundamental
+  Physics" Science Frontier Panel}, 2009.
+\newblock URL \url{http://reionization.org}.
+
+\bibitem[{Barkana}(2009)]{BarkanaPS2009}
+R.~{Barkana}.
+\newblock {Studying the sources of cosmic reionization with 21-cm
+  fluctuations}.
+\newblock \emph{MNRAS}, 397:\penalty0 1454--1463, August 2009.
+\newblock \doi{10.1111/j.1365-2966.2009.14929.x}.
+
+\bibitem[{Barry} et~al.(2016){Barry}, {Hazelton}, {Sullivan}, {Morales}, and
+  {Pober}]{barry16}
+N.~{Barry}, B.~{Hazelton}, I.~{Sullivan}, M.~F. {Morales}, and J.~C. {Pober}.
+\newblock {Calibration requirements for detecting the 21 cm epoch of
+  reionization power spectrum and implications for the SKA}.
+\newblock \emph{\mnras}, 461:\penalty0 3135--3144, September 2016.
+\newblock \doi{10.1093/mnras/stw1380}.
+
+\bibitem[{Bauer} et~al.(2015){Bauer}, {Springel}, {Vogelsberger}, {Genel},
+  {Torrey}, {Sijacki}, {Nelson}, and {Hernquist}]{Bauer2015}
+A.~{Bauer}, V.~{Springel}, M.~{Vogelsberger}, S.~{Genel}, P.~{Torrey},
+  D.~{Sijacki}, D.~{Nelson}, and L.~{Hernquist}.
+\newblock {Hydrogen reionization in the Illustris universe}.
+\newblock \emph{\mnras}, 453:\penalty0 3593--3610, November 2015.
+\newblock \doi{10.1093/mnras/stv1893}.
+
+\bibitem[{Beardsley} and {others}(2015)]{AdamDiffuse}
+A.~{Beardsley} and {others}.
+\newblock \emph{in preparation.}, 2015.
+
+\bibitem[{Beardsley} et~al.(2013){Beardsley}, {Hazelton}, {Morales}, {Arcus},
+  {Barnes}, {Bernardi}, {Bowman}, {Briggs}, {Bunton}, {Cappallo}, {Corey},
+  {Deshpande}, {deSouza}, {Emrich}, {Gaensler}, {Goeke}, {Greenhill}, {Herne},
+  {Hewitt}, {Johnston-Hollitt}, {Kaplan}, {Kasper}, {Kincaid}, {Koenig},
+  {Kratzenberg}, {Lonsdale}, {Lynch}, {McWhirter}, {Mitchell}, {Morgan},
+  {Oberoi}, {Ord}, {Pathikulangara}, {Prabu}, {Remillard}, {Rogers}, {Roshi},
+  {Salah}, {Sault}, {Udaya}, {Srivani}, {Stevens}, {Subrahmanyan}, {Tingay},
+  {Wayth}, {Waterson}, {Webster}, {Whitney}, {Williams}, {Williams}, and
+  {Wyithe}]{beardsley13}
+A.~P. {Beardsley}, B.~J. {Hazelton}, M.~F. {Morales}, W.~{Arcus}, D.~{Barnes},
+  G.~{Bernardi}, J.~D. {Bowman}, F.~H. {Briggs}, J.~D. {Bunton}, R.~J.
+  {Cappallo}, B.~E. {Corey}, A.~{Deshpande}, L.~{deSouza}, D.~{Emrich}, B.~M.
+  {Gaensler}, R.~{Goeke}, L.~J. {Greenhill}, D.~{Herne}, J.~N. {Hewitt},
+  M.~{Johnston-Hollitt}, D.~L. {Kaplan}, J.~C. {Kasper}, B.~B. {Kincaid},
+  R.~{Koenig}, E.~{Kratzenberg}, C.~J. {Lonsdale}, M.~J. {Lynch}, S.~R.
+  {McWhirter}, D.~A. {Mitchell}, E.~{Morgan}, D.~{Oberoi}, S.~M. {Ord},
+  J.~{Pathikulangara}, T.~{Prabu}, R.~A. {Remillard}, A.~E.~E. {Rogers},
+  A.~{Roshi}, J.~E. {Salah}, R.~J. {Sault}, S.~N. {Udaya}, K.~S. {Srivani},
+  J.~{Stevens}, R.~{Subrahmanyan}, S.~J. {Tingay}, R.~B. {Wayth},
+  M.~{Waterson}, R.~L. {Webster}, A.~R. {Whitney}, A.~{Williams}, C.~L.
+  {Williams}, and J.~S.~B. {Wyithe}.
+\newblock {The {E}o{R} sensitivity of the Murchison Widefield Array}.
+\newblock \emph{MNRAS}, 429:\penalty0 L5--L9, February 2013.
+\newblock \doi{10.1093/mnrasl/sls013}.
+
+\bibitem[{Beardsley} et~al.(2015){Beardsley}, {Morales}, {Lidz}, {Malloy}, and
+  {Sutter}]{beardsley15}
+A.~P. {Beardsley}, M.~F. {Morales}, A.~{Lidz}, M.~{Malloy}, and P.~M. {Sutter}.
+\newblock {Adding Context to James Webb Space Telescope Surveys with Current
+  and Future 21 cm Radio Observations}.
+\newblock \emph{\apj}, 800:\penalty0 128, February 2015.
+\newblock \doi{10.1088/0004-637X/800/2/128}.
+
+\bibitem[{Beardsley} et~al.(2016){Beardsley}, {Hazelton}, {Sullivan},
+  {Carroll}, {Barry}, {Rahimi}, {Pindor}, {Trott}, {Line}, {Jacobs}, {Morales},
+  {Pober}, {Bernardi}, {Bowman}, {Busch}, {Briggs}, {Cappallo}, {Corey}, {de
+  Oliveira-Costa}, {Dillon}, {Emrich}, {Ewall-Wice}, {Feng}, {Gaensler},
+  {Goeke}, {Greenhill}, {Hewitt}, {Hurley-Walker}, {Johnston-Hollitt},
+  {Kaplan}, {Kasper}, {Kim}, {Kratzenberg}, {Lenc}, {Loeb}, {Lonsdale},
+  {Lynch}, {McKinley}, {McWhirter}, {Mitchell}, {Morgan}, {Neben},
+  {Thyagarajan}, {Oberoi}, {Offringa}, {Ord}, {Paul}, {Prabu}, {Procopio},
+  {Riding}, {Rogers}, {Roshi}, {Udaya Shankar}, {Sethi}, {Srivani},
+  {Subrahmanyan}, {Tegmark}, {Tingay}, {Waterson}, {Wayth}, {Webster},
+  {Whitney}, {Williams}, {Williams}, {Wu}, and {Wyithe}]{beardsley16}
+A.~P. {Beardsley}, B.~J. {Hazelton}, I.~S. {Sullivan}, P.~{Carroll},
+  N.~{Barry}, M.~{Rahimi}, B.~{Pindor}, C.~M. {Trott}, J.~{Line}, D.~C.
+  {Jacobs}, M.~F. {Morales}, J.~C. {Pober}, G.~{Bernardi}, J.~D. {Bowman},
+  M.~P. {Busch}, F.~{Briggs}, R.~J. {Cappallo}, B.~E. {Corey}, A.~{de
+  Oliveira-Costa}, J.~S. {Dillon}, D.~{Emrich}, A.~{Ewall-Wice}, L.~{Feng},
+  B.~M. {Gaensler}, R.~{Goeke}, L.~J. {Greenhill}, J.~N. {Hewitt},
+  N.~{Hurley-Walker}, M.~{Johnston-Hollitt}, D.~L. {Kaplan}, J.~C. {Kasper},
+  H.~S. {Kim}, E.~{Kratzenberg}, E.~{Lenc}, A.~{Loeb}, C.~J. {Lonsdale}, M.~J.
+  {Lynch}, B.~{McKinley}, S.~R. {McWhirter}, D.~A. {Mitchell}, E.~{Morgan},
+  A.~R. {Neben}, N.~{Thyagarajan}, D.~{Oberoi}, A.~R. {Offringa}, S.~M. {Ord},
+  S.~{Paul}, T.~{Prabu}, P.~{Procopio}, J.~{Riding}, A.~E.~E. {Rogers},
+  A.~{Roshi}, N.~{Udaya Shankar}, S.~K. {Sethi}, K.~S. {Srivani},
+  R.~{Subrahmanyan}, M.~{Tegmark}, S.~J. {Tingay}, M.~{Waterson}, R.~B.
+  {Wayth}, R.~L. {Webster}, A.~R. {Whitney}, A.~{Williams}, C.~L. {Williams},
+  C.~{Wu}, and J.~S.~B. {Wyithe}.
+\newblock {First Season MWA EoR Power Spectrum Results at Redshift 7}.
+\newblock \emph{ArXiv e-prints}, August 2016.
+
+\bibitem[{Bernard} et~al.(2016){Bernard}, {Carrasco}, {Trenti}, {Oesch}, {Wu},
+  {Bradley}, {Schmidt}, {Bouwens}, {Calvi}, {Mason}, {Stiavelli}, and
+  {Treu}]{Bernard2016}
+S.~R. {Bernard}, D.~{Carrasco}, M.~{Trenti}, P.~A. {Oesch}, J.~F. {Wu}, L.~D.
+  {Bradley}, K.~B. {Schmidt}, R.~J. {Bouwens}, V.~{Calvi}, C.~A. {Mason},
+  M.~{Stiavelli}, and T.~{Treu}.
+\newblock {Galaxy Candidates at z~10 in Archival Data from the Brightest of
+  Reionizing Galaxies (BORG[z8]) Survey}.
+\newblock \emph{\apj}, 827:\penalty0 76, August 2016.
+\newblock \doi{10.3847/0004-637X/827/1/76}.
+
+\bibitem[{Bernardi} et~al.(2009){Bernardi}, {de Bruyn}, {Brentjens}, {Ciardi},
+  {Harker}, {Jeli{\'c}}, {Koopmans}, {Labropoulos}, {Offringa}, {Pandey},
+  {Schaye}, {Thomas}, {Yatawatta}, and {Zaroubi}]{BernardiForegrounds}
+G.~{Bernardi}, A.~G. {de Bruyn}, M.~A. {Brentjens}, B.~{Ciardi}, G.~{Harker},
+  V.~{Jeli{\'c}}, L.~V.~E. {Koopmans}, P.~{Labropoulos}, A.~{Offringa}, V.~N.
+  {Pandey}, J.~{Schaye}, R.~M. {Thomas}, S.~{Yatawatta}, and S.~{Zaroubi}.
+\newblock {Foregrounds for observations of the cosmological 21 cm line. I.
+  First Westerbork measurements of Galactic emission at 150 MHz in a low
+  latitude field}.
+\newblock \emph{\aap}, 500:\penalty0 965--979, June 2009.
+\newblock \doi{10.1051/0004-6361/200911627}.
+
+\bibitem[Bernardi et~al.(2013)Bernardi, Greenhill, Mitchell, Ord, Hazelton,
+  Gaensler, de~Oliveira-Costa, Morales, Shankar, Subrahmanyan, Wayth, Lenc,
+  Williams, Arcus, Arora, Barnes, Bowman, Briggs, Bunton, Cappallo, Corey,
+  Deshpande, deSouza, Emrich, Goeke, Herne, Hewitt, Johnston-Hollitt, Kaplan,
+  Kasper, Kincaid, Koenig, Kratzenberg, Lonsdale, Lynch, McWhirter, Morgan,
+  Oberoi, Pathikulangara, Prabu, Remillard, Rogers, Roshi, Salah, Sault,
+  Srivani, Stevens, Tingay, Waterson, Webster, Whitney, Williams, and
+  Wyithe]{bernardi13}
+G.~Bernardi, L.~J. Greenhill, D.~A. Mitchell, S.~M. Ord, B.~J. Hazelton, B.~M.
+  Gaensler, A.~de~Oliveira-Costa, M.~F. Morales, N.~Udaya Shankar,
+  R.~Subrahmanyan, R.~B. Wayth, E.~Lenc, C.~L. Williams, W.~Arcus, B.~S. Arora,
+  D.~G. Barnes, J.~D. Bowman, F.~H. Briggs, J.~D. Bunton, R.~J. Cappallo, B.~E.
+  Corey, A.~Deshpande, L.~deSouza, D.~Emrich, R.~Goeke, D.~Herne, J.~N. Hewitt,
+  M.~Johnston-Hollitt, D.~Kaplan, J.~C. Kasper, B.~B. Kincaid, R.~Koenig,
+  E.~Kratzenberg, C.~J. Lonsdale, M.~J. Lynch, S.~R. McWhirter, E.~Morgan,
+  D.~Oberoi, J.~Pathikulangara, T.~Prabu, R.~A. Remillard, A.~E.~E. Rogers,
+  A.~Roshi, J.~E. Salah, R.~J. Sault, K.~S. Srivani, J.~Stevens, S.~J. Tingay,
+  M.~Waterson, R.~L. Webster, A.~R. Whitney, A.~Williams, and J.~S.~B. Wyithe.
+\newblock A 189 mhz, 2400 deg2 polarization survey with the murchison
+  widefield array 32-element prototype.
+\newblock \emph{ApJ}, 771\penalty0 (2):\penalty0 105, 2013.
+\newblock URL \url{http://stacks.iop.org/0004-637X/771/i=2/a=105}.
+
+\bibitem[{Bertin} and {Arnouts}(1996)]{sextractor}
+E.~{Bertin} and S.~{Arnouts}.
+\newblock {SExtractor: Software for source extraction.}
+\newblock \emph{\aaps}, 117:\penalty0 393--404, June 1996.
+\newblock \doi{10.1051/aas:1996164}.
+
+\bibitem[{Bertin} et~al.(2002){Bertin}, {Mellier}, {Radovich}, {Missonnier},
+  {Didelon}, and {Morin}]{swarp}
+E.~{Bertin}, Y.~{Mellier}, M.~{Radovich}, G.~{Missonnier}, P.~{Didelon}, and
+  B.~{Morin}.
+\newblock {The TERAPIX Pipeline}.
+\newblock In D.~A. {Bohlender}, D.~{Durand}, and T.~H. {Handley}, editors,
+  \emph{Astronomical Data Analysis Software and Systems XI}, volume 281 of
+  \emph{Astronomical Society of the Pacific Conference Series}, page 228, 2002.
+
+\bibitem[bij~de Vaate et~al.(2011)bij~de Vaate, de~Lera~Acedo, Virone, Jiwani,
+  Razavi, Perini, Zarb-Adami, Monari, Padhi, Addamo, Peverini, Montebugnoli,
+  Gunst, Hall, Faulkner, and van Ardenne]{ska3}
+J.G. bij~de Vaate, E.~de~Lera~Acedo, G.~Virone, A.~Jiwani, N.~Razavi,
+  F.~Perini, K.~Zarb-Adami, J.~Monari, S.~Padhi, G.~Addamo, O.~Peverini,
+  S.~Montebugnoli, A.~Gunst, P.~Hall, A.~Faulkner, and A.~van Ardenne.
+\newblock Low frequency aperture array developments for phase 1 ska.
+\newblock In \emph{General Assembly and Scientific Symposium, 2011 XXXth URSI},
+  pages 1--4, Aug 2011.
+\newblock \doi{10.1109/URSIGASS.2011.6051197}.
+
+\bibitem[Bock et~al.(1999)Bock, Large, and Sadler]{sumss}
+D.~C.-J. Bock, M.~I. Large, and Elaine~M. Sadler.
+\newblock Sumss: A wide-field radio imaging survey of the southern sky. i.
+  science goals, survey design, and instrumentation.
+\newblock \emph{The Astronomical Journal}, 117\penalty0 (3):\penalty0 1578,
+  1999.
+\newblock URL \url{http://stacks.iop.org/1538-3881/117/i=3/a=1578}.
+
+\bibitem[{Bouwens}(2016)]{Bouwens2016b}
+R.~{Bouwens}.
+\newblock {High-Redshift Galaxy Surveys and the Reionization of the Universe}.
+\newblock In A.~{Mesinger}, editor, \emph{Understanding the Epoch of Cosmic
+  Reionization: Challenges and Progress}, volume 423 of \emph{Astrophysics and
+  Space Science Library}, page 111, 2016.
+\newblock \doi{10.1007/978-3-319-21957-8_4}.
+
+\bibitem[{Bouwens} et~al.(2011){Bouwens}, {Illingworth}, {Oesch}, {Labb{\'e}},
+  {Trenti}, {van Dokkum}, {Franx}, {Stiavelli}, {Carollo}, {Magee}, and
+  {Gonzalez}]{Bouwens2011}
+R.~J. {Bouwens}, G.~D. {Illingworth}, P.~A. {Oesch}, I.~{Labb{\'e}},
+  M.~{Trenti}, P.~{van Dokkum}, M.~{Franx}, M.~{Stiavelli}, C.~M. {Carollo},
+  D.~{Magee}, and V.~{Gonzalez}.
+\newblock {Ultraviolet Luminosity Functions from 132 z \~{} 7 and z \~{} 8
+  Lyman-break Galaxies in the Ultra-deep HUDF09 and Wide-area Early Release
+  Science WFC3/IR Observations}.
+\newblock \emph{\apj}, 737:\penalty0 90, August 2011.
+\newblock \doi{10.1088/0004-637X/737/2/90}.
+
+\bibitem[{Bouwens} et~al.(2014){Bouwens}, {Illingworth}, {Oesch}, {Labb{\'e}},
+  {van Dokkum}, {Trenti}, {Franx}, {Smit}, {Gonzalez}, and
+  {Magee}]{Bouwens2013}
+R.~J. {Bouwens}, G.~D. {Illingworth}, P.~A. {Oesch}, I.~{Labb{\'e}}, P.~G. {van
+  Dokkum}, M.~{Trenti}, M.~{Franx}, R.~{Smit}, V.~{Gonzalez}, and D.~{Magee}.
+\newblock {UV-continuum Slopes of >4000 z~4-8 Galaxies from the HUDF/XDF,
+  HUDF09, ERS, CANDELS-South, and CANDELS-North Fields}.
+\newblock \emph{\apj}, 793:\penalty0 115, October 2014.
+\newblock \doi{10.1088/0004-637X/793/2/115}.
+
+\bibitem[{Bouwens} et~al.(2015){Bouwens}, {Illingworth}, {Oesch}, {Trenti},
+  {Labb{\'e}}, {Bradley}, {Carollo}, {van Dokkum}, {Gonzalez}, {Holwerda},
+  {Franx}, {Spitler}, {Smit}, and {Magee}]{Bouwens2015}
+R.~J. {Bouwens}, G.~D. {Illingworth}, P.~A. {Oesch}, M.~{Trenti},
+  I.~{Labb{\'e}}, L.~{Bradley}, M.~{Carollo}, P.~G. {van Dokkum},
+  V.~{Gonzalez}, B.~{Holwerda}, M.~{Franx}, L.~{Spitler}, R.~{Smit}, and
+  D.~{Magee}.
+\newblock {UV Luminosity Functions at Redshifts z~4 to z~10: 10,000 Galaxies
+  from HST Legacy Fields}.
+\newblock \emph{\apj}, 803:\penalty0 34, April 2015.
+\newblock \doi{10.1088/0004-637X/803/1/34}.
+
+\bibitem[{Bouwens} et~al.(2016{\natexlab{a}}){Bouwens}, {Oesch}, {Illingworth},
+  {Ellis}, and {Stefanon}]{Bouwens2016}
+R.~J. {Bouwens}, P.~A. {Oesch}, G.~D. {Illingworth}, R.~S. {Ellis}, and
+  M.~{Stefanon}.
+\newblock {The z~6 Luminosity Function Fainter than -15 mag from the Hubble
+  Frontier Fields: The Impact of Magnification Uncertainties}.
+\newblock \emph{ArXiv e-prints}, October 2016{\natexlab{a}}.
+
+\bibitem[{Bouwens} et~al.(2016{\natexlab{b}}){Bouwens}, {Oesch}, {Labb{\'e}},
+  {Illingworth}, {Fazio}, {Coe}, {Holwerda}, {Smit}, {Stefanon}, {van Dokkum},
+  {Trenti}, {Ashby}, {Huang}, {Spitler}, {Straatman}, {Bradley}, and
+  {Magee}]{Bouwens2016a}
+R.~J. {Bouwens}, P.~A. {Oesch}, I.~{Labb{\'e}}, G.~D. {Illingworth}, G.~G.
+  {Fazio}, D.~{Coe}, B.~{Holwerda}, R.~{Smit}, M.~{Stefanon}, P.~G. {van
+  Dokkum}, M.~{Trenti}, M.~L.~N. {Ashby}, J.-S. {Huang}, L.~{Spitler},
+  C.~{Straatman}, L.~{Bradley}, and D.~{Magee}.
+\newblock {The Bright End of the z ~9 and z~10 UV Luminosity Functions Using
+  All Five CANDELS Fields*}.
+\newblock \emph{\apj}, 830:\penalty0 67, October 2016{\natexlab{b}}.
+\newblock \doi{10.3847/0004-637X/830/2/67}.
+
+\bibitem[{Bowler} et~al.(2015){Bowler}, {Dunlop}, {McLure}, {McCracken},
+  {Milvang-Jensen}, {Furusawa}, {Taniguchi}, {Le F{\`e}vre}, {Fynbo}, {Jarvis},
+  and {H{\"a}u{\ss}ler}]{Bowler2015}
+R.~A.~A. {Bowler}, J.~S. {Dunlop}, R.~J. {McLure}, H.~J. {McCracken},
+  B.~{Milvang-Jensen}, H.~{Furusawa}, Y.~{Taniguchi}, O.~{Le F{\`e}vre},
+  J.~P.~U. {Fynbo}, M.~J. {Jarvis}, and B.~{H{\"a}u{\ss}ler}.
+\newblock {The galaxy luminosity function at z~6 and evidence for rapid
+  evolution in the bright end from z~7 to 5}.
+\newblock \emph{\mnras}, 452:\penalty0 1817--1840, September 2015.
+\newblock \doi{10.1093/mnras/stv1403}.
+
+\bibitem[{Bowler} et~al.(2017){Bowler}, {Dunlop}, {McLure}, and
+  {McLeod}]{Bowler2017}
+R.~A.~A. {Bowler}, J.~S. {Dunlop}, R.~J. {McLure}, and D.~J. {McLeod}.
+\newblock {Unveiling the nature of bright z~7 galaxies with the Hubble Space
+  Telescope}.
+\newblock \emph{\mnras}, 466:\penalty0 3612--3635, April 2017.
+\newblock \doi{10.1093/mnras/stw3296}.
+
+\bibitem[{Bowman} and {Rogers}(2010)]{bowman2010}
+J.~D. {Bowman} and A.~E.~E. {Rogers}.
+\newblock {A lower limit of dz > 0.06 for the duration of the reionization
+  epoch}.
+\newblock \emph{Nature}, 468:\penalty0 796--798, December 2010.
+\newblock \doi{10.1038/nature09601}.
+
+\bibitem[{Bowman} et~al.(2006){Bowman}, {Morales}, and {Hewitt}]{Judd06}
+J.~D. {Bowman}, M.~F. {Morales}, and J.~N. {Hewitt}.
+\newblock {The Sensitivity of First-Generation Epoch of Reionization
+  Observatories and Their Potential for Differentiating Theoretical Power
+  Spectra}.
+\newblock \emph{ApJ}, 638:\penalty0 20--26, February 2006.
+\newblock \doi{10.1086/498703}.
+
+\bibitem[{Bowman} et~al.(2009){Bowman}, {Morales}, and {Hewitt}]{Judd08}
+J.~D. {Bowman}, M.~F. {Morales}, and J.~N. {Hewitt}.
+\newblock {Foreground Contamination in Interferometric Measurements of the
+  Redshifted 21 cm Power Spectrum}.
+\newblock \emph{ApJ}, 695:\penalty0 183--199, April 2009.
+\newblock \doi{10.1088/0004-637X/695/1/183}.
+
+\bibitem[{Bowman} et~al.(2013){Bowman}, {Cairns}, {Kaplan}, {Murphy}, {Oberoi},
+  {Staveley-Smith}, {Arcus}, {Barnes}, {Bernardi}, {Briggs}, {Brown}, {Bunton},
+  {Burgasser}, {Cappallo}, {Chatterjee}, {Corey}, {Coster}, {Deshpande},
+  {deSouza}, {Emrich}, {Erickson}, {Goeke}, {Gaensler}, {Greenhill},
+  {Harvey-Smith}, {Hazelton}, {Herne}, {Hewitt}, {Johnston-Hollitt}, {Kasper},
+  {Kincaid}, {Koenig}, {Kratzenberg}, {Lonsdale}, {Lynch}, {Matthews},
+  {McWhirter}, {Mitchell}, {Morales}, {Morgan}, {Ord}, {Pathikulangara},
+  {Prabu}, {Remillard}, {Robishaw}, {Rogers}, {Roshi}, {Salah}, {Sault},
+  {Shankar}, {Srivani}, {Stevens}, {Subrahmanyan}, {Tingay}, {Wayth},
+  {Waterson}, {Webster}, {Whitney}, {Williams}, {Williams}, and
+  {Wyithe}]{mwascience}
+J.~D. {Bowman}, I.~{Cairns}, D.~L. {Kaplan}, T.~{Murphy}, D.~{Oberoi},
+  L.~{Staveley-Smith}, W.~{Arcus}, D.~G. {Barnes}, G.~{Bernardi}, F.~H.
+  {Briggs}, S.~{Brown}, J.~D. {Bunton}, A.~J. {Burgasser}, R.~J. {Cappallo},
+  S.~{Chatterjee}, B.~E. {Corey}, A.~{Coster}, A.~{Deshpande}, L.~{deSouza},
+  D.~{Emrich}, P.~{Erickson}, R.~F. {Goeke}, B.~M. {Gaensler}, L.~J.
+  {Greenhill}, L.~{Harvey-Smith}, B.~J. {Hazelton}, D.~{Herne}, J.~N. {Hewitt},
+  M.~{Johnston-Hollitt}, J.~C. {Kasper}, B.~B. {Kincaid}, R.~{Koenig},
+  E.~{Kratzenberg}, C.~J. {Lonsdale}, M.~J. {Lynch}, L.~D. {Matthews}, S.~R.
+  {McWhirter}, D.~A. {Mitchell}, M.~F. {Morales}, E.~H. {Morgan}, S.~M. {Ord},
+  J.~{Pathikulangara}, T.~{Prabu}, R.~A. {Remillard}, T.~{Robishaw}, A.~E.~E.
+  {Rogers}, A.~A. {Roshi}, J.~E. {Salah}, R.~J. {Sault}, N.~U. {Shankar}, K.~S.
+  {Srivani}, J.~B. {Stevens}, R.~{Subrahmanyan}, S.~J. {Tingay}, R.~B. {Wayth},
+  M.~{Waterson}, R.~L. {Webster}, A.~R. {Whitney}, A.~J. {Williams}, C.~L.
+  {Williams}, and J.~S.~B. {Wyithe}.
+\newblock {Science with the Murchison Widefield Array}.
+\newblock \emph{PASA}, 30:\penalty0 e031, April 2013.
+\newblock \doi{10.1017/pas.2013.009}.
+
+\bibitem[Bowman et~al.(2007)Bowman, Barnes, Briggs, Corey, Lynch, Bhat,
+  Cappallo, Doeleman, Fanous, Herne, Hewitt, Johnston, Kasper, Kocz,
+  Kratzenberg, Lonsdale, Morales, Oberoi, Salah, Stansby, Stevens, Torr, Wayth,
+  Webster, and Wyithe]{bowman07}
+Judd~D. Bowman, David~G. Barnes, Frank~H. Briggs, Brian~E. Corey, Merv~J.
+  Lynch, N.~D.~Ramesh Bhat, Roger~J. Cappallo, Sheperd~S. Doeleman, Brian~J.
+  Fanous, David Herne, Jacqueline~N. Hewitt, Chris Johnston, Justin~C. Kasper,
+  Jonathon Kocz, Eric Kratzenberg, Colin~J. Lonsdale, Miguel~F. Morales, Divya
+  Oberoi, Joseph~E. Salah, Bruce Stansby, Jamie Stevens, Glen Torr, Randall
+  Wayth, Rachel~L. Webster, and J.~Stuart~B. Wyithe.
+\newblock Field deployment of prototype antenna tiles for the mileura widefield
+  array low frequency demonstrator.
+\newblock \emph{The Astronomical Journal}, 133\penalty0 (4):\penalty0 1505,
+  2007.
+\newblock URL \url{http://stacks.iop.org/1538-3881/133/i=4/a=1505}.
+
+\bibitem[{Bradley} et~al.(2012){Bradley}, {Trenti}, {Oesch}, {Stiavelli},
+  {Treu}, {Bouwens}, {Shull}, {Holwerda}, and {Pirzkal}]{Bradley2012}
+L.~D. {Bradley}, M.~{Trenti}, P.~A. {Oesch}, M.~{Stiavelli}, T.~{Treu}, R.~J.
+  {Bouwens}, J.~M. {Shull}, B.~W. {Holwerda}, and N.~{Pirzkal}.
+\newblock {The Brightest of Reionizing Galaxies Survey: Constraints on the
+  Bright End of the z \~{} 8 Luminosity Function}.
+\newblock \emph{\apj}, 760:\penalty0 108, December 2012.
+\newblock \doi{10.1088/0004-637X/760/2/108}.
+
+\bibitem[Bradley and Ries(2008)]{BradleyAndRies2008}
+R.F. Bradley and P.A. Ries.
+\newblock Mapping the beam of a low frequency antenna using satellite signals
+  (conference presentation, invited).
+\newblock National Radio Science Meeting, Boulder, CO, January 2008.
+
+\bibitem[{Braun}(2013)]{braun2013}
+R.~{Braun}.
+\newblock {Understanding synthesis imaging dynamic range}.
+\newblock \emph{\aap}, 551:\penalty0 A91, March 2013.
+\newblock \doi{10.1051/0004-6361/201220257}.
+
+\bibitem[Brueckmann(1963)]{brueckmann63}
+H.~Brueckmann.
+\newblock Antenna pattern measurement by satellite.
+\newblock \emph{IEEE Transactions on Antennas and Propogation}, page 143, 1963.
+
+\bibitem[Butler(1998)]{vlbamemo}
+Bryan Butler.
+\newblock Options for {VLBA} antennan surface measurement.
+\newblock Technical report, National Radio Astronomy Observatory, March 1998.
+\newblock {VLBA} Test Memo. No. 57.
+
+\bibitem[{Calvi} et~al.(2016){Calvi}, {Trenti}, {Stiavelli}, {Oesch},
+  {Bradley}, {Schmidt}, {Coe}, {Brammer}, {Bernard}, {Bouwens}, {Carrasco},
+  {Carollo}, {Holwerda}, {MacKenty}, {Mason}, {Shull}, and {Treu}]{Calvi}
+V.~{Calvi}, M.~{Trenti}, M.~{Stiavelli}, P.~{Oesch}, L.~D. {Bradley}, K.~B.
+  {Schmidt}, D.~{Coe}, G.~{Brammer}, S.~{Bernard}, R.~J. {Bouwens},
+  D.~{Carrasco}, C.~M. {Carollo}, B.~W. {Holwerda}, J.~W. {MacKenty}, C.~A.
+  {Mason}, J.~M. {Shull}, and T.~{Treu}.
+\newblock {Bright Galaxies at Hubble's Redshift Detection Frontier: Preliminary
+  Results and Design from the Redshift z~9-10 BoRG Pure-Parallel HST Survey}.
+\newblock \emph{\apj}, 817:\penalty0 120, February 2016.
+\newblock \doi{10.3847/0004-637X/817/2/120}.
+
+\bibitem[{Carroll} et~al.(2016){Carroll}, {Line}, {Morales}, {Barry},
+  {Beardsley}, {Hazelton}, {Jacobs}, {Pober}, {Sullivan}, {Webster},
+  {Bernardi}, {Bowman}, {Briggs}, {Cappallo}, {Corey}, {de Oliveira-Costa},
+  {Dillon}, {Emrich}, {Ewall-Wice}, {Feng}, {Gaensler}, {Goeke}, {Greenhill},
+  {Hewitt}, {Hurley-Walker}, {Johnston-Hollitt}, {Kaplan}, {Kasper}, {Kim},
+  {Kratzenberg}, {Lenc}, {Loeb}, {Lonsdale}, {Lynch}, {McKinley}, {McWhirter},
+  {Mitchell}, {Morgan}, {Neben}, {Oberoi}, {Offringa}, {Ord}, {Paul}, {Pindor},
+  {Prabu}, {Procopio}, {Riding}, {Rogers}, {Roshi}, {Shankar}, {Sethi},
+  {Srivani}, {Subrahmanyan}, {Tegmark}, {Thyagarajan}, {Tingay}, {Trott},
+  {Waterson}, {Wayth}, {Whitney}, {Williams}, {Williams}, {Wu}, and
+  {Wyithe}]{PattiCatalog1}
+P.~A. {Carroll}, J.~{Line}, M.~F. {Morales}, N.~{Barry}, A.~P. {Beardsley},
+  B.~J. {Hazelton}, D.~C. {Jacobs}, J.~C. {Pober}, I.~S. {Sullivan}, R.~L.
+  {Webster}, G.~{Bernardi}, J.~D. {Bowman}, F.~{Briggs}, R.~J. {Cappallo},
+  B.~E. {Corey}, A.~{de Oliveira-Costa}, J.~S. {Dillon}, D.~{Emrich},
+  A.~{Ewall-Wice}, L.~{Feng}, B.~M. {Gaensler}, R.~{Goeke}, L.~J. {Greenhill},
+  J.~N. {Hewitt}, N.~{Hurley-Walker}, M.~{Johnston-Hollitt}, D.~L. {Kaplan},
+  J.~C. {Kasper}, H.~{Kim}, E.~{Kratzenberg}, E.~{Lenc}, A.~{Loeb}, C.~J.
+  {Lonsdale}, M.~J. {Lynch}, B.~{McKinley}, S.~R. {McWhirter}, D.~A.
+  {Mitchell}, E.~{Morgan}, A.~R. {Neben}, D.~{Oberoi}, A.~R. {Offringa}, S.~M.
+  {Ord}, S.~{Paul}, B.~{Pindor}, T.~{Prabu}, P.~{Procopio}, J.~{Riding},
+  A.~E.~E. {Rogers}, A.~{Roshi}, N.~U. {Shankar}, S.~K. {Sethi}, K.~S.
+  {Srivani}, R.~{Subrahmanyan}, M.~{Tegmark}, N.~{Thyagarajan}, S.~J. {Tingay},
+  C.~M. {Trott}, M.~{Waterson}, R.~B. {Wayth}, A.~R. {Whitney}, A.~{Williams},
+  C.~L. {Williams}, C.~{Wu}, and J.~S.~B. {Wyithe}.
+\newblock {A high reliability survey of discrete Epoch of Reionization
+  foreground sources in the MWA EoR0 field}.
+\newblock \emph{\mnras}, 461:\penalty0 4151--4175, October 2016.
+\newblock \doi{10.1093/mnras/stw1599}.
+
+\bibitem[Chang et~al.(2010)Chang, Pen, Bandura, and Peterson]{Chang2010}
+Tzu-Ching Chang, Ue-Li Pen, Kevin Bandura, and Jeffrey~B Peterson.
+\newblock {An intensity map of hydrogen 21-cm emission at redshift z
+  approximately 0.8.}
+\newblock \emph{Nature}, 466\penalty0 (7305):\penalty0 463--465, 2010.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/nature09187}.
+\newblock URL \url{http://dx.doi.org/10.1038/nature09187}.
+
+\bibitem[Choudhuri(2010)]{choudhuri2010astrophysics}
+A.R. Choudhuri.
+\newblock \emph{Astrophysics for Physicists}.
+\newblock Astrophysics for Physicists. Cambridge Unive rsity Press, 2010.
+\newblock ISBN 9780521815536.
+\newblock URL \url{https://books.google.com/books?id=dl-3jdAfEEAC}.
+
+\bibitem[{Coe} et~al.(2015){Coe}, {Bradley}, and {Zitrin}]{Coe2015}
+D.~{Coe}, L.~{Bradley}, and A.~{Zitrin}.
+\newblock {Frontier Fields: High-redshift Predictions and Early Results}.
+\newblock \emph{\apj}, 800:\penalty0 84, February 2015.
+\newblock \doi{10.1088/0004-637X/800/2/84}.
+
+\bibitem[{Colegate} et~al.(2015){Colegate}, {Sutinjo}, {Hall}, {Padhi},
+  {Wayth}, {Bij de Vaate}, {Crosse}, {Emrich}, {Faulkner}, {Hurley-Walker}, {de
+  Lera Acedo}, {Juswardy}, {Razavi-Ghods}, {Tingay}, and {Williams}]{aavs}
+T.~M. {Colegate}, A.~T. {Sutinjo}, P.~J. {Hall}, S.~K. {Padhi}, R.~B. {Wayth},
+  J.~G. {Bij de Vaate}, B.~{Crosse}, D.~{Emrich}, A.~J. {Faulkner},
+  N.~{Hurley-Walker}, E.~{de Lera Acedo}, B.~{Juswardy}, N.~{Razavi-Ghods},
+  S.~J. {Tingay}, and A.~{Williams}.
+\newblock {Antenna array characterization via radio interferometry observation
+  of astronomical sources}.
+\newblock \emph{ArXiv e-prints}, January 2015.
+
+\bibitem[Colegate et~al.(2014)Colegate, Sutinjo, Hall, Padhi, Wayth, de~Vaate,
+  Crosse, Emrich, Faulkner, Hurley-Walker, de~Lera~Acedo, Juswardy,
+  Razavi-Ghods, Tingay, and Williams]{colegate14}
+T.M. Colegate, A.T. Sutinjo, P.J. Hall, S.K. Padhi, R.B. Wayth, J.G.Bij
+  de~Vaate, B.~Crosse, D.~Emrich, A.J. Faulkner, N.~Hurley-Walker,
+  E.~de~Lera~Acedo, B.~Juswardy, N.~Razavi-Ghods, S.J. Tingay, and A.~Williams.
+\newblock Antenna array characterization via radio interferometry observation
+  of astronomical sources.
+\newblock In \emph{Antenna Measurements Applications (CAMA), 2014 IEEE
+  Conference on}, pages 1--4, Nov 2014.
+\newblock \doi{10.1109/CAMA.2014.7003436}.
+
+\bibitem[{Comaschi} et~al.(2016){Comaschi}, {Yue}, and {Ferrara}]{Comaschi16}
+P.~{Comaschi}, B.~{Yue}, and A.~{Ferrara}.
+\newblock {Observational challenges in Ly{$\alpha$} intensity mapping}.
+\newblock \emph{\mnras}, 463:\penalty0 3193--3203, December 2016.
+\newblock \doi{10.1093/mnras/stw2198}.
+
+\bibitem[Condon et~al.(1998)Condon, Cotton, Greisen, Yin, Perley, Taylor, and
+  Broderick]{nvss}
+J.~J. Condon, W.~D. Cotton, E.~W. Greisen, Q.~F. Yin, R.~A. Perley, G.~B.
+  Taylor, and J.~J. Broderick.
+\newblock The nrao vla sky survey.
+\newblock \emph{The Astronomical Journal}, 115\penalty0 (5):\penalty0 1693,
+  1998.
+\newblock URL \url{http://stacks.iop.org/1538-3881/115/i=5/a=1693}.
+
+\bibitem[{Cooray} et~al.(2016){Cooray}, {Bock}, {Burgarella}, {Chary}, {Chang},
+  {Dor{\'e}}, {Fazio}, {Ferrara}, {Gong}, {Santos}, {Silva}, and
+  {Zemcov}]{cooray16}
+A.~{Cooray}, J.~{Bock}, D.~{Burgarella}, R.~{Chary}, T.-C. {Chang},
+  O.~{Dor{\'e}}, G.~{Fazio}, A.~{Ferrara}, Y.~{Gong}, M.~{Santos}, M.~{Silva},
+  and M.~{Zemcov}.
+\newblock {Cosmic Dawn Intensity Mapper}.
+\newblock \emph{ArXiv e-prints}, February 2016.
+
+\bibitem[Cooray et~al.(2012)Cooray, Smidt, {De Bernardis}, Gong, Stern, Ashby,
+  Eisenhardt, Frazer, Gonzalez, Kochanek, Koz{\l}owski, and Wright]{cooray12}
+Asantha Cooray, Joseph Smidt, Francesco {De Bernardis}, Yan Gong, Daniel Stern,
+  Matthew L.~N. Ashby, Peter~R. Eisenhardt, Christopher~C. Frazer, Anthony~H.
+  Gonzalez, Christopher~S. Kochanek, Szymon Koz{\l}owski, and Edward~L. Wright.
+\newblock {Near-infrared background anisotropies from diffuse intrahalo light
+  of galaxies}.
+\newblock \emph{Nature}, 490\penalty0 (7421):\penalty0 514--516, 2012.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/nature11474}.
+\newblock URL \url{http://dx.doi.org/10.1038/nature11474}.
+
+\bibitem[{Cutri} et~al.(2013){Cutri}, {Wright}, {Conrow}, {Fowler},
+  {Eisenhardt}, {Grillmair}, {Kirkpatrick}, {Masci}, {McCallon}, {Wheelock},
+  {Fajardo-Acosta}, {Yan}, {Benford}, {Harbut}, {Jarrett}, {Lake}, {Leisawitz},
+  {Ressler}, {Stanford}, {Tsai}, {Liu}, {Helou}, {Mainzer}, {Gettings},
+  {Gonzalez}, {Hoffman}, {Marsh}, {Padgett}, {Skrutskie}, {Beck}, {Papin}, and
+  {Wittman}]{allwise}
+R.~M. {Cutri}, E.~L. {Wright}, T.~{Conrow}, J.~W. {Fowler}, P.~R.~M.
+  {Eisenhardt}, C.~{Grillmair}, J.~D. {Kirkpatrick}, F.~{Masci}, H.~L.
+  {McCallon}, S.~L. {Wheelock}, S.~{Fajardo-Acosta}, L.~{Yan}, D.~{Benford},
+  M.~{Harbut}, T.~{Jarrett}, S.~{Lake}, D.~{Leisawitz}, M.~E. {Ressler}, S.~A.
+  {Stanford}, C.~W. {Tsai}, F.~{Liu}, G.~{Helou}, A.~{Mainzer}, D.~{Gettings},
+  A.~{Gonzalez}, D.~{Hoffman}, K.~A. {Marsh}, D.~{Padgett}, M.~F. {Skrutskie},
+  R.~P. {Beck}, M.~{Papin}, and M.~{Wittman}.
+\newblock {Explanatory Supplement to the AllWISE Data Release Products}.
+\newblock Technical report, November 2013.
+
+\bibitem[Cyburt et~al.(2016)Cyburt, Fields, Olive, and Yeh]{bbn}
+Richard~H. Cyburt, Brian~D. Fields, Keith~A. Olive, and Tsung-Han Yeh.
+\newblock Big bang nucleosynthesis: Present status.
+\newblock \emph{Rev. Mod. Phys.}, 88:\penalty0 015004, Feb 2016.
+\newblock \doi{10.1103/RevModPhys.88.015004}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.88.015004}.
+
+\bibitem[Czekala and Bradley(2010{\natexlab{a}})]{CzekalaAndBradley2010}
+I.~Czekala and R.~Bradley.
+\newblock Calibrating astronomical antenna arrays with man-made satellites
+  (conference presentation).
+\newblock American Institute of Aeronautics and Astronautics (AIAA), Region
+  I-MA Student Conference, Blacksburg, VA, April 2010{\natexlab{a}}.
+
+\bibitem[Czekala and Bradley(2010{\natexlab{b}})]{CzekalaAndBradley2010_2}
+I.~Czekala and R.~Bradley.
+\newblock Calibrating astronomical antenna arrays with orbiting data satellites
+  (conference presentation).
+\newblock Atlantic Coast Conference (ACC) `Meeting of the Minds' Conference,
+  Atlanta, GA, April 2010{\natexlab{b}}.
+
+\bibitem[{Dark Energy Survey Collaboration} et~al.(2016){Dark Energy Survey
+  Collaboration}, {Abbott}, {Abdalla}, {Aleksi{\'c}}, {Allam}, {Amara},
+  {Bacon}, {Balbinot}, {Banerji}, {Bechtol}, {Benoit-L{\'e}vy}, {Bernstein},
+  {Bertin}, {Blazek}, {Bonnett}, {Bridle}, {Brooks}, {Brunner}, {Buckley-Geer},
+  {Burke}, {Caminha}, {Capozzi}, {Carlsen}, {Carnero-Rosell}, {Carollo},
+  {Carrasco-Kind}, {Carretero}, {Castander}, {Clerkin}, {Collett}, {Conselice},
+  {Crocce}, {Cunha}, {D'Andrea}, {da Costa}, {Davis}, {Desai}, {Diehl},
+  {Dietrich}, {Dodelson}, {Doel}, {Drlica-Wagner}, {Estrada}, {Etherington},
+  {Evrard}, {Fabbri}, {Finley}, {Flaugher}, {Foley}, {Fosalba}, {Frieman},
+  {Garc{\'{\i}}a-Bellido}, {Gaztanaga}, {Gerdes}, {Giannantonio}, {Goldstein},
+  {Gruen}, {Gruendl}, {Guarnieri}, {Gutierrez}, {Hartley}, {Honscheid}, {Jain},
+  {James}, {Jeltema}, {Jouvel}, {Kessler}, {King}, {Kirk}, {Kron}, {Kuehn},
+  {Kuropatkin}, {Lahav}, {Li}, {Lima}, {Lin}, {Maia}, {Makler}, {Manera},
+  {Maraston}, {Marshall}, {Martini}, {McMahon}, {Melchior}, {Merson}, {Miller},
+  {Miquel}, {Mohr}, {Morice-Atkinson}, {Naidoo}, {Neilsen}, {Nichol}, {Nord},
+  {Ogando}, {Ostrovski}, {Palmese}, {Papadopoulos}, {Peiris}, {Peoples},
+  {Percival}, {Plazas}, {Reed}, {Refregier}, {Romer}, {Roodman}, {Ross},
+  {Rozo}, {Rykoff}, {Sadeh}, {Sako}, {S{\'a}nchez}, {Sanchez}, {Santiago},
+  {Scarpine}, {Schubnell}, {Sevilla-Noarbe}, {Sheldon}, {Smith}, {Smith},
+  {Soares-Santos}, {Sobreira}, {Soumagnac}, {Suchyta}, {Sullivan}, {Swanson},
+  {Tarle}, {Thaler}, {Thomas}, {Thomas}, {Tucker}, {Vieira}, {Vikram},
+  {Walker}, {Wechsler}, {Weller}, {Wester}, {Whiteway}, {Wilcox}, {Yanny},
+  {Zhang}, and {Zuntz}]{des16}
+{Dark Energy Survey Collaboration}, T.~{Abbott}, F.~B. {Abdalla},
+  J.~{Aleksi{\'c}}, S.~{Allam}, A.~{Amara}, D.~{Bacon}, E.~{Balbinot},
+  M.~{Banerji}, K.~{Bechtol}, A.~{Benoit-L{\'e}vy}, G.~M. {Bernstein},
+  E.~{Bertin}, J.~{Blazek}, C.~{Bonnett}, S.~{Bridle}, D.~{Brooks}, R.~J.
+  {Brunner}, E.~{Buckley-Geer}, D.~L. {Burke}, G.~B. {Caminha}, D.~{Capozzi},
+  J.~{Carlsen}, A.~{Carnero-Rosell}, M.~{Carollo}, M.~{Carrasco-Kind},
+  J.~{Carretero}, F.~J. {Castander}, L.~{Clerkin}, T.~{Collett},
+  C.~{Conselice}, M.~{Crocce}, C.~E. {Cunha}, C.~B. {D'Andrea}, L.~N. {da
+  Costa}, T.~M. {Davis}, S.~{Desai}, H.~T. {Diehl}, J.~P. {Dietrich},
+  S.~{Dodelson}, P.~{Doel}, A.~{Drlica-Wagner}, J.~{Estrada}, J.~{Etherington},
+  A.~E. {Evrard}, J.~{Fabbri}, D.~A. {Finley}, B.~{Flaugher}, R.~J. {Foley},
+  P.~{Fosalba}, J.~{Frieman}, J.~{Garc{\'{\i}}a-Bellido}, E.~{Gaztanaga}, D.~W.
+  {Gerdes}, T.~{Giannantonio}, D.~A. {Goldstein}, D.~{Gruen}, R.~A. {Gruendl},
+  P.~{Guarnieri}, G.~{Gutierrez}, W.~{Hartley}, K.~{Honscheid}, B.~{Jain},
+  D.~J. {James}, T.~{Jeltema}, S.~{Jouvel}, R.~{Kessler}, A.~{King}, D.~{Kirk},
+  R.~{Kron}, K.~{Kuehn}, N.~{Kuropatkin}, O.~{Lahav}, T.~S. {Li}, M.~{Lima},
+  H.~{Lin}, M.~A.~G. {Maia}, M.~{Makler}, M.~{Manera}, C.~{Maraston}, J.~L.
+  {Marshall}, P.~{Martini}, R.~G. {McMahon}, P.~{Melchior}, A.~{Merson}, C.~J.
+  {Miller}, R.~{Miquel}, J.~J. {Mohr}, X.~{Morice-Atkinson}, K.~{Naidoo},
+  E.~{Neilsen}, R.~C. {Nichol}, B.~{Nord}, R.~{Ogando}, F.~{Ostrovski},
+  A.~{Palmese}, A.~{Papadopoulos}, H.~V. {Peiris}, J.~{Peoples}, W.~J.
+  {Percival}, A.~A. {Plazas}, S.~L. {Reed}, A.~{Refregier}, A.~K. {Romer},
+  A.~{Roodman}, A.~{Ross}, E.~{Rozo}, E.~S. {Rykoff}, I.~{Sadeh}, M.~{Sako},
+  C.~{S{\'a}nchez}, E.~{Sanchez}, B.~{Santiago}, V.~{Scarpine}, M.~{Schubnell},
+  I.~{Sevilla-Noarbe}, E.~{Sheldon}, M.~{Smith}, R.~C. {Smith},
+  M.~{Soares-Santos}, F.~{Sobreira}, M.~{Soumagnac}, E.~{Suchyta},
+  M.~{Sullivan}, M.~{Swanson}, G.~{Tarle}, J.~{Thaler}, D.~{Thomas}, R.~C.
+  {Thomas}, D.~{Tucker}, J.~D. {Vieira}, V.~{Vikram}, A.~R. {Walker}, R.~H.
+  {Wechsler}, J.~{Weller}, W.~{Wester}, L.~{Whiteway}, H.~{Wilcox}, B.~{Yanny},
+  Y.~{Zhang}, and J.~{Zuntz}.
+\newblock {The Dark Energy Survey: more than dark energy - an overview}.
+\newblock \emph{\mnras}, 460:\penalty0 1270--1299, August 2016.
+\newblock \doi{10.1093/mnras/stw641}.
+
+\bibitem[{Datta} et~al.(2010){Datta}, {Bowman}, and {Carilli}]{Dattapowerspec}
+A.~{Datta}, J.~D. {Bowman}, and C.~L. {Carilli}.
+\newblock {Bright Source Subtraction Requirements for Redshifted 21 cm
+  Measurements}.
+\newblock \emph{ApJ}, 724:\penalty0 526--538, November 2010.
+\newblock \doi{10.1088/0004-637X/724/1/526}.
+
+\bibitem[{de Jong} et~al.(1985){de Jong}, {Klein}, {Wielebinski}, and
+  {Wunderlich}]{dejong85}
+T.~{de Jong}, U.~{Klein}, R.~{Wielebinski}, and E.~{Wunderlich}.
+\newblock {Radio continuum and far-infrared emission from spiral galaxies - A
+  close correlation}.
+\newblock \emph{\aap}, 147:\penalty0 L6--L9, June 1985.
+
+\bibitem[{de Oliveira-Costa} et~al.(2008){de Oliveira-Costa}, {Tegmark},
+  {Gaensler}, {Jonas}, {Landecker}, and {Reich}]{gsm}
+A.~{de Oliveira-Costa}, M.~{Tegmark}, B.~M. {Gaensler}, J.~{Jonas}, T.~L.
+  {Landecker}, and P.~{Reich}.
+\newblock {A model of diffuse Galactic radio emission from 10 MHz to 100 GHz}.
+\newblock \emph{MNRAS}, 388:\penalty0 247--260, July 2008.
+\newblock \doi{10.1111/j.1365-2966.2008.13376.x}.
+
+\bibitem[DeBoer(2015)]{feedoptimizationmemo}
+D.~DeBoer.
+\newblock Hera phase i feed design.
+\newblock Technical Memo~11, Dept. of Astronomy, University of California,
+  Berkeley, CA, December 2015.
+
+\bibitem[{DeBoer} et~al.(2017){DeBoer}, {Parsons}, {Aguirre}, {Alexander},
+  {Ali}, {Beardsley}, {Bernardi}, {Bowman}, {Bradley}, {Carilli}, {Cheng}, {de
+  Lera Acedo}, {Dillon}, {Ewall-Wice}, {Fadana}, {Fagnoni}, {Fritz},
+  {Furlanetto}, {Glendenning}, {Greig}, {Grobbelaar}, {Hazelton}, {Hewitt},
+  {Hickish}, {Jacobs}, {Julius}, {Kariseb}, {Kohn}, {Lekalake}, {Liu}, {Loots},
+  {MacMahon}, {Malan}, {Malgas}, {Maree}, {Mathison}, {Matsetela}, {Mesinger},
+  {Morales}, {Neben}, {Patra}, {Pieterse}, {Pober}, {Razavi-Ghods},
+  {Ringuette}, {Robnett}, {Rosie}, {Sell}, {Smith}, {Syce}, {Tegmark},
+  {Thyagarajan}, {Williams}, and {Zheng}]{deboer16}
+D.~R. {DeBoer}, A.~R. {Parsons}, J.~E. {Aguirre}, P.~{Alexander}, Z.~S. {Ali},
+  A.~P. {Beardsley}, G.~{Bernardi}, J.~D. {Bowman}, R.~F. {Bradley}, C.~L.
+  {Carilli}, C.~{Cheng}, E.~{de Lera Acedo}, J.~S. {Dillon}, A.~{Ewall-Wice},
+  G.~{Fadana}, N.~{Fagnoni}, R.~{Fritz}, S.~R. {Furlanetto}, B.~{Glendenning},
+  B.~{Greig}, J.~{Grobbelaar}, B.~J. {Hazelton}, J.~N. {Hewitt}, J.~{Hickish},
+  D.~C. {Jacobs}, A.~{Julius}, M.~{Kariseb}, S.~A. {Kohn}, T.~{Lekalake},
+  A.~{Liu}, A.~{Loots}, D.~{MacMahon}, L.~{Malan}, C.~{Malgas}, M.~{Maree},
+  N.~{Mathison}, E.~{Matsetela}, A.~{Mesinger}, M.~F. {Morales}, A.~R. {Neben},
+  N.~{Patra}, S.~{Pieterse}, J.~C. {Pober}, N.~{Razavi-Ghods}, J.~{Ringuette},
+  J.~{Robnett}, K.~{Rosie}, R.~{Sell}, C.~{Smith}, A.~{Syce}, M.~{Tegmark},
+  N.~{Thyagarajan}, P.~K.~G. {Williams}, and H.~{Zheng}.
+\newblock Hydrogen epoch of reionization array (hera).
+\newblock \emph{Publications of the Astronomical Society of the Pacific},
+  129\penalty0 (974):\penalty0 045001, 2017.
+\newblock URL \url{http://stacks.iop.org/1538-3873/129/i=974/a=045001}.
+
+\bibitem[Deguchi and et~al.(1993)]{deguchi93}
+H.~Deguchi and et~al.
+\newblock Radio holographic metrology with best-fit panel model of the nobeyama
+  45-m telescope.
+\newblock \emph{IEICE Trans. Comm.}, 37:\penalty0 1492--1499, 1993.
+
+\bibitem[Dewdney and Lazio(2008)]{ska1}
+PEF Dewdney and TJW Lazio.
+\newblock The square kilometer array (ska) radio telescope: Progress and
+  technical directions.
+\newblock \emph{Radio Science Bulletin}, \penalty0 (326):\penalty0 5, 2008.
+
+\bibitem[Dewdney et~al.(2009)Dewdney, Hall, Schilizzi, and Lazio]{ska2}
+Peter~E Dewdney, Peter~J Hall, Richard~T Schilizzi, and T~Joseph~LW Lazio.
+\newblock The square kilometre array.
+\newblock \emph{Proceedings of the IEEE}, 97\penalty0 (8):\penalty0 1482--1496,
+  2009.
+
+\bibitem[{Dewey}(1994)]{dewey94}
+R.~J. {Dewey}.
+\newblock {The effects of correlated noise in phased-array observations of
+  radio sources}.
+\newblock \emph{The Astronomical Journal}, 108:\penalty0 337--345, July 1994.
+\newblock \doi{10.1086/117073}.
+
+\bibitem[{Dillon} and {Parsons}(2016)]{dillonparsons16}
+J.~S. {Dillon} and A.~R. {Parsons}.
+\newblock {Redundant Array Configurations for 21 cm Cosmology}.
+\newblock \emph{\apj}, 826:\penalty0 181, August 2016.
+\newblock \doi{10.3847/0004-637X/826/2/181}.
+
+\bibitem[{Dillon} et~al.(2013){Dillon}, {Liu}, and {Tegmark}]{DillonFast}
+J.~S. {Dillon}, A.~{Liu}, and M.~{Tegmark}.
+\newblock {A fast method for power spectrum and foreground analysis for 21 cm
+  cosmology}.
+\newblock \emph{\prd}, 87\penalty0 (4):\penalty0 043005, February 2013.
+\newblock \doi{10.1103/PhysRevD.87.043005}.
+
+\bibitem[{Dillon} et~al.(2014){Dillon}, {Liu}, {Williams}, {Hewitt}, {Tegmark},
+  {Morgan}, {Levine}, {Morales}, {Tingay}, {Bernardi}, {Bowman}, {Briggs},
+  {Cappallo}, {Emrich}, {Mitchell}, {Oberoi}, {Prabu}, {Wayth}, and
+  {Webster}]{X13}
+J.~S. {Dillon}, A.~{Liu}, C.~L. {Williams}, J.~N. {Hewitt}, M.~{Tegmark}, E.~H.
+  {Morgan}, A.~M. {Levine}, M.~F. {Morales}, S.~J. {Tingay}, G.~{Bernardi},
+  J.~D. {Bowman}, F.~H. {Briggs}, R.~C. {Cappallo}, D.~{Emrich}, D.~A.
+  {Mitchell}, D.~{Oberoi}, T.~{Prabu}, R.~{Wayth}, and R.~L. {Webster}.
+\newblock {Overcoming real-world obstacles in 21 cm power spectrum estimation:
+  A method demonstration and results from early Murchison Widefield Array
+  data}.
+\newblock \emph{Phys. Rev. D}, 89\penalty0 (2):\penalty0 023002, January 2014.
+\newblock \doi{10.1103/PhysRevD.89.023002}.
+
+\bibitem[{Dillon} et~al.(2015){Dillon}, {Neben}, {Hewitt}, {Tegmark}, {Barry},
+  {Beardsley}, {Bowman}, {Briggs}, {Carroll}, {de Oliveira-Costa},
+  {Ewall-Wice}, {Feng}, {Greenhill}, {Hazelton}, {Hernquist}, {Hurley-Walker},
+  {Jacobs}, {Kim}, {Kittiwisit}, {Lenc}, {Line}, {Loeb}, {McKinley},
+  {Mitchell}, {Morales}, {Offringa}, {Paul}, {Pindor}, {Pober}, {Procopio},
+  {Riding}, {Sethi}, {Shankar}, {Subrahmanyan}, {Sullivan}, {Thyagarajan},
+  {Tingay}, {Trott}, {Wayth}, {Webster}, {Wyithe}, {Bernardi}, {Cappallo},
+  {Deshpande}, {Johnston-Hollitt}, {Kaplan}, {Lonsdale}, {McWhirter}, {Morgan},
+  {Oberoi}, {Ord}, {Prabu}, {Srivani}, {Williams}, and {Williams}]{dillonneben}
+J.~S. {Dillon}, A.~R. {Neben}, J.~N. {Hewitt}, M.~{Tegmark}, N.~{Barry}, A.~P.
+  {Beardsley}, J.~D. {Bowman}, F.~{Briggs}, P.~{Carroll}, A.~{de
+  Oliveira-Costa}, A.~{Ewall-Wice}, L.~{Feng}, L.~J. {Greenhill}, B.~J.
+  {Hazelton}, L.~{Hernquist}, N.~{Hurley-Walker}, D.~C. {Jacobs}, H.~S. {Kim},
+  P.~{Kittiwisit}, E.~{Lenc}, J.~{Line}, A.~{Loeb}, B.~{McKinley}, D.~A.
+  {Mitchell}, M.~F. {Morales}, A.~R. {Offringa}, S.~{Paul}, B.~{Pindor}, J.~C.
+  {Pober}, P.~{Procopio}, J.~{Riding}, S.~{Sethi}, N.~U. {Shankar},
+  R.~{Subrahmanyan}, I.~{Sullivan}, N.~{Thyagarajan}, S.~J. {Tingay},
+  C.~{Trott}, R.~B. {Wayth}, R.~L. {Webster}, S.~{Wyithe}, G.~{Bernardi}, R.~J.
+  {Cappallo}, A.~A. {Deshpande}, M.~{Johnston-Hollitt}, D.~L. {Kaplan}, C.~J.
+  {Lonsdale}, S.~R. {McWhirter}, E.~{Morgan}, D.~{Oberoi}, S.~M. {Ord},
+  T.~{Prabu}, K.~S. {Srivani}, A.~{Williams}, and C.~L. {Williams}.
+\newblock {Empirical covariance modeling for 21 cm power spectrum estimation: A
+  method demonstration and new limits from early Murchison Widefield Array
+  128-tile data}.
+\newblock \emph{\prd}, 91\penalty0 (12):\penalty0 123011, June 2015.
+\newblock \doi{10.1103/PhysRevD.91.123011}.
+
+\bibitem[Dillon et~al.(2015)Dillon, Tegmark, Liu, Ewall-Wice, Hewitt, Morales,
+  Neben, Parsons, and Zheng]{dillonmapmaking}
+Joshua~S. Dillon, Max Tegmark, Adrian Liu, Aaron Ewall-Wice, Jacqueline~N.
+  Hewitt, Miguel~F. Morales, Abraham~R. Neben, Aaron~R. Parsons, and Haoxuan
+  Zheng.
+\newblock Mapmaking for precision 21 cm cosmology.
+\newblock \emph{Phys. Rev. D}, 91:\penalty0 023002, Jan 2015.
+\newblock \doi{10.1103/PhysRevD.91.023002}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.91.023002}.
+
+\bibitem[{Dodelson} et~al.(2002){Dodelson}, {Narayanan}, {Tegmark}, {Scranton},
+  {Budav{\'a}ri}, {Connolly}, {Csabai}, {Eisenstein}, {Frieman}, {Gunn}, {Hui},
+  {Jain}, {Johnston}, {Kent}, {Loveday}, {Nichol}, {O'Connell}, {Scoccimarro},
+  {Sheth}, {Stebbins}, {Strauss}, {Szalay}, {Szapudi}, {Vogeley}, {Zehavi},
+  {Annis}, {Bahcall}, {Brinkman}, {Doi}, {Fukugita}, {Hennessy}, {Ivezi{\'c}},
+  {Knapp}, {Kunszt}, {Lamb}, {Lee}, {Lupton}, {Munn}, {Peoples}, {Pier},
+  {Rockosi}, {Schlegel}, {Stoughton}, {Tucker}, {Yanny}, and
+  {York}]{dodelson02}
+S.~{Dodelson}, V.~K. {Narayanan}, M.~{Tegmark}, R.~{Scranton},
+  T.~{Budav{\'a}ri}, A.~{Connolly}, I.~{Csabai}, D.~{Eisenstein}, J.~A.
+  {Frieman}, J.~E. {Gunn}, L.~{Hui}, B.~{Jain}, D.~{Johnston}, S.~{Kent},
+  J.~{Loveday}, R.~C. {Nichol}, L.~{O'Connell}, R.~{Scoccimarro}, R.~K.
+  {Sheth}, A.~{Stebbins}, M.~A. {Strauss}, A.~S. {Szalay}, I.~{Szapudi}, M.~S.
+  {Vogeley}, I.~{Zehavi}, J.~{Annis}, N.~A. {Bahcall}, J.~{Brinkman}, M.~{Doi},
+  M.~{Fukugita}, G.~{Hennessy}, {\v Z}.~{Ivezi{\'c}}, G.~R. {Knapp},
+  P.~{Kunszt}, D.~Q. {Lamb}, B.~C. {Lee}, R.~H. {Lupton}, J.~A. {Munn},
+  J.~{Peoples}, J.~R. {Pier}, C.~{Rockosi}, D.~{Schlegel}, C.~{Stoughton},
+  D.~L. {Tucker}, B.~{Yanny}, and D.~G. {York}.
+\newblock {The Three-dimensional Power Spectrum from Angular Clustering of
+  Galaxies in Early Sloan Digital Sky Survey Data}.
+\newblock \emph{ApJ}, 572:\penalty0 140--156, June 2002.
+\newblock \doi{10.1086/340225}.
+
+\bibitem[{Dor{\'e}} et~al.(2014){Dor{\'e}}, {Bock}, {Ashby}, {Capak}, {Cooray},
+  {de Putter}, {Eifler}, {Flagey}, {Gong}, {Habib}, {Heitmann}, {Hirata},
+  {Jeong}, {Katti}, {Korngut}, {Krause}, {Lee}, {Masters}, {Mauskopf},
+  {Melnick}, {Mennesson}, {Nguyen}, {{\"O}berg}, {Pullen}, {Raccanelli},
+  {Smith}, {Song}, {Tolls}, {Unwin}, {Venumadhav}, {Viero}, {Werner}, and
+  {Zemcov}]{ScienceWithSpherex}
+O.~{Dor{\'e}}, J.~{Bock}, M.~{Ashby}, P.~{Capak}, A.~{Cooray}, R.~{de Putter},
+  T.~{Eifler}, N.~{Flagey}, Y.~{Gong}, S.~{Habib}, K.~{Heitmann}, C.~{Hirata},
+  W.-S. {Jeong}, R.~{Katti}, P.~{Korngut}, E.~{Krause}, D.-H. {Lee},
+  D.~{Masters}, P.~{Mauskopf}, G.~{Melnick}, B.~{Mennesson}, H.~{Nguyen},
+  K.~{{\"O}berg}, A.~{Pullen}, A.~{Raccanelli}, R.~{Smith}, Y.-S. {Song},
+  V.~{Tolls}, S.~{Unwin}, T.~{Venumadhav}, M.~{Viero}, M.~{Werner}, and
+  M.~{Zemcov}.
+\newblock {Cosmology with the SPHEREX All-Sky Spectral Survey}.
+\newblock \emph{ArXiv e-prints}, December 2014.
+
+\bibitem[{Dor{\'e}} et~al.(2016){Dor{\'e}}, {Werner}, {Ashby}, {Banerjee},
+  {Battaglia}, {Bauer}, {Benjamin}, {Bleem}, {Bock}, {Boogert}, {Bull},
+  {Capak}, {Chang}, {Chiar}, {Cohen}, {Cooray}, {Crill}, {Cushing}, {de
+  Putter}, {Driver}, {Eifler}, {Feng}, {Ferraro}, {Finkbeiner}, {Gaudi},
+  {Greene}, {Hillenbrand}, {H{\"o}flich}, {Hsiao}, {Huffenberger}, {Jansen},
+  {Jeong}, {Joshi}, {Kim}, {Kim}, {Kirkpatrick}, {Korngut}, {Krause}, {Kriek},
+  {Leistedt}, {Li}, {Lisse}, {Mauskopf}, {Mechtley}, {Melnick}, {Mohr},
+  {Murphy}, {Neben}, {Neufeld}, {Nguyen}, {Pierpaoli}, {Pyo}, {Rhodes},
+  {Sandstrom}, {Schaan}, {Schlaufman}, {Silverman}, {Su}, {Stassun}, {Stevens},
+  {Strauss}, {Tielens}, {Tsai}, {Tolls}, {Unwin}, {Viero}, {Windhorst}, and
+  {Zemcov}]{SpherexWhitePaper}
+O.~{Dor{\'e}}, M.~W. {Werner}, M.~{Ashby}, P.~{Banerjee}, N.~{Battaglia},
+  J.~{Bauer}, R.~A. {Benjamin}, L.~E. {Bleem}, J.~{Bock}, A.~{Boogert},
+  P.~{Bull}, P.~{Capak}, T.-C. {Chang}, J.~{Chiar}, S.~H. {Cohen}, A.~{Cooray},
+  B.~{Crill}, M.~{Cushing}, R.~{de Putter}, S.~P. {Driver}, T.~{Eifler},
+  C.~{Feng}, S.~{Ferraro}, D.~{Finkbeiner}, B.~S. {Gaudi}, T.~{Greene},
+  L.~{Hillenbrand}, P.~A. {H{\"o}flich}, E.~{Hsiao}, K.~{Huffenberger}, R.~A.
+  {Jansen}, W.-S. {Jeong}, B.~{Joshi}, D.~{Kim}, M.~{Kim}, J.~D. {Kirkpatrick},
+  P.~{Korngut}, E.~{Krause}, M.~{Kriek}, B.~{Leistedt}, A.~{Li}, C.~M. {Lisse},
+  P.~{Mauskopf}, M.~{Mechtley}, G.~{Melnick}, J.~{Mohr}, J.~{Murphy},
+  A.~{Neben}, D.~{Neufeld}, H.~{Nguyen}, E.~{Pierpaoli}, J.~{Pyo}, J.~{Rhodes},
+  K.~{Sandstrom}, E.~{Schaan}, K.~C. {Schlaufman}, J.~{Silverman}, K.~{Su},
+  K.~{Stassun}, D.~{Stevens}, M.~A. {Strauss}, X.~{Tielens}, C.-W. {Tsai},
+  V.~{Tolls}, S.~{Unwin}, M.~{Viero}, R.~A. {Windhorst}, and M.~{Zemcov}.
+\newblock {Science Impacts of the SPHEREx All-Sky Optical to Near-Infrared
+  Spectral Survey: Report of a Community Workshop Examining Extragalactic,
+  Galactic, Stellar and Planetary Science}.
+\newblock \emph{ArXiv e-prints}, June 2016.
+
+\bibitem[{Dunlop} et~al.(2013){Dunlop}, {Rogers}, {McLure}, {Ellis},
+  {Robertson}, {Koekemoer}, {Dayal}, {Curtis-Lake}, {Wild}, {Charlot},
+  {Bowler}, {Schenker}, {Ouchi}, {Ono}, {Cirasuolo}, {Furlanetto}, {Stark},
+  {Targett}, and {Schneider}]{Dunlop2013}
+J.~S. {Dunlop}, A.~B. {Rogers}, R.~J. {McLure}, R.~S. {Ellis}, B.~E.
+  {Robertson}, A.~{Koekemoer}, P.~{Dayal}, E.~{Curtis-Lake}, V.~{Wild},
+  S.~{Charlot}, R.~A.~A. {Bowler}, M.~A. {Schenker}, M.~{Ouchi}, Y.~{Ono},
+  M.~{Cirasuolo}, S.~R. {Furlanetto}, D.~P. {Stark}, T.~A. {Targett}, and
+  E.~{Schneider}.
+\newblock {The UV continua and inferred stellar populations of galaxies at
+  z~7-9 revealed by the Hubble Ultra-Deep Field 2012 campaign}.
+\newblock \emph{\mnras}, 432:\penalty0 3520--3533, July 2013.
+\newblock \doi{10.1093/mnras/stt702}.
+
+\bibitem[{Eisenstein} et~al.(2011){Eisenstein}, {Weinberg}, {Agol}, {Aihara},
+  {Allende Prieto}, {Anderson}, {Arns}, {Aubourg}, {Bailey}, {Balbinot}, and
+  et~al.]{sdssiii}
+D.~J. {Eisenstein}, D.~H. {Weinberg}, E.~{Agol}, H.~{Aihara}, C.~{Allende
+  Prieto}, S.~F. {Anderson}, J.~A. {Arns}, {\'E}.~{Aubourg}, S.~{Bailey},
+  E.~{Balbinot}, and et~al.
+\newblock {SDSS-III: Massive Spectroscopic Surveys of the Distant Universe, the
+  Milky Way, and Extra-Solar Planetary Systems}.
+\newblock \emph{\aj}, 142:\penalty0 72, September 2011.
+\newblock \doi{10.1088/0004-6256/142/3/72}.
+
+\bibitem[Ellingson(2011)]{ellingson2011}
+S.W. Ellingson.
+\newblock Sensitivity of antenna arrays for long-wavelength radio astronomy.
+\newblock \emph{Antennas and Propagation, IEEE Transactions on}, 59\penalty0
+  (6):\penalty0 1855--1863, June 2011.
+\newblock ISSN 0018-926X.
+\newblock \doi{10.1109/TAP.2011.2122230}.
+
+\bibitem[{Ellis} et~al.(2013){Ellis}, {McLure}, {Dunlop}, {Robertson}, {Ono},
+  {Schenker}, {Koekemoer}, {Bowler}, {Ouchi}, {Rogers}, {Curtis-Lake},
+  {Schneider}, {Charlot}, {Stark}, {Furlanetto}, and {Cirasuolo}]{Ellis2013}
+R.~S. {Ellis}, R.~J. {McLure}, J.~S. {Dunlop}, B.~E. {Robertson}, Y.~{Ono},
+  M.~A. {Schenker}, A.~{Koekemoer}, R.~A.~A. {Bowler}, M.~{Ouchi}, A.~B.
+  {Rogers}, E.~{Curtis-Lake}, E.~{Schneider}, S.~{Charlot}, D.~P. {Stark},
+  S.~R. {Furlanetto}, and M.~{Cirasuolo}.
+\newblock {The Abundance of Star-forming Galaxies in the Redshift Range 8.5-12:
+  New Results from the 2012 Hubble Ultra Deep Field Campaign}.
+\newblock \emph{\apjl}, 763:\penalty0 L7, January 2013.
+\newblock \doi{10.1088/2041-8205/763/1/L7}.
+
+\bibitem[{Ewall-Wice} et~al.(2016{\natexlab{a}}){Ewall-Wice}, {Bradley},
+  {Deboer}, {Hewitt}, {Parsons}, {Aguirre}, {Ali}, {Bowman}, {Cheng}, {Neben},
+  {Patra}, {Thyagarajan}, {Venter}, {de Lera Acedo}, {Dillon}, {Dickenson},
+  {Doolittle}, {Egan}, {Hedrick}, {Klima}, {Kohn}, {Schaffner}, {Shelton},
+  {Saliwanchik}, {Taylor}, {Taylor}, {Tegmark}, and {Wirt}]{ewallwice16}
+A.~{Ewall-Wice}, R.~{Bradley}, D.~{Deboer}, J.~{Hewitt}, A.~{Parsons},
+  J.~{Aguirre}, Z.~S. {Ali}, J.~{Bowman}, C.~{Cheng}, A.~R. {Neben},
+  N.~{Patra}, N.~{Thyagarajan}, M.~{Venter}, E.~{de Lera Acedo}, J.~S.
+  {Dillon}, R.~{Dickenson}, P.~{Doolittle}, D.~{Egan}, M.~{Hedrick},
+  P.~{Klima}, S.~{Kohn}, P.~{Schaffner}, J.~{Shelton}, B.~{Saliwanchik}, H.~A.
+  {Taylor}, R.~{Taylor}, M.~{Tegmark}, and B.~{Wirt}.
+\newblock {The Hydrogen Epoch of Reionization Array Dish. II. Characterization
+  of Spectral Structure with Electromagnetic Simulations and Its Science
+  Implications.}
+\newblock \emph{\apj}, 831:\penalty0 196, November 2016{\natexlab{a}}.
+\newblock \doi{10.3847/0004-637X/831/2/196}.
+
+\bibitem[{Ewall-Wice} et~al.(2016{\natexlab{b}}){Ewall-Wice}, {Dillon}, {Liu},
+  and {Hewitt}]{ewallwice16b}
+A.~{Ewall-Wice}, J.~S. {Dillon}, A.~{Liu}, and J.~{Hewitt}.
+\newblock {The Impact of Modeling Errors on Interferometer Calibration for 21
+  cm Power Spectra}.
+\newblock \emph{ArXiv e-prints}, October 2016{\natexlab{b}}.
+
+\bibitem[{Feng} et~al.(2017){Feng}, {Cooray}, and {Keating}]{feng17}
+C.~{Feng}, A.~{Cooray}, and B.~{Keating}.
+\newblock {A halo model approach to the $\rm{21cm}$ and $\rm{Ly}\alpha$ cross
+  correlation}.
+\newblock \emph{ArXiv e-prints}, January 2017.
+
+\bibitem[{Fernandez} et~al.(2014){Fernandez}, {Zaroubi}, {Iliev}, {Mellema},
+  and {Jeli{\'c}}]{StarsAndReionization}
+E.~R. {Fernandez}, S.~{Zaroubi}, I.~T. {Iliev}, G.~{Mellema}, and
+  V.~{Jeli{\'c}}.
+\newblock {Stars and reionization: the cross-correlation of the 21 cm line and
+  the near-infrared background}.
+\newblock \emph{\mnras}, 440:\penalty0 298--306, May 2014.
+\newblock \doi{10.1093/mnras/stu261}.
+
+\bibitem[{Finkelstein}(2016)]{Finkelstein2015}
+S.~L. {Finkelstein}.
+\newblock {Observational Searches for Star-Forming Galaxies at z>6}.
+\newblock \emph{PASA}, 33:\penalty0 e037, August 2016.
+\newblock \doi{10.1017/pasa.2016.26}.
+
+\bibitem[{Fixsen} et~al.(2000){Fixsen}, {Moseley}, and {Arendt}]{fixen00}
+D.~J. {Fixsen}, S.~H. {Moseley}, and R.~G. {Arendt}.
+\newblock {Calibrating Array Detectors}.
+\newblock \emph{\apjs}, 128:\penalty0 651--658, June 2000.
+\newblock \doi{10.1086/313390}.
+
+\bibitem[Frebel and Norris(2015)]{Frebel2015}
+Anna Frebel and John~E. Norris.
+\newblock {Near-Field Cosmology with Metal-Poor Stars}.
+\newblock \emph{Annual Review of Astronomy and Astrophysics}, 53:\penalty0
+  631--688, 2015.
+\newblock ISSN 0066-4146.
+\newblock \doi{10.1146/annurev-astro-082214-122423}.
+\newblock URL
+  \url{http://arxiv.org/abs/1501.06921{\%}5Cnhttp://dx.doi.org/10.1146/annurev-astro-082214-122423}.
+
+\bibitem[{Fu} et~al.(2010){Fu}, {Yan}, {Scoville}, {Capak}, {Aussel}, {Le
+  Floc'h}, {Ilbert}, {Salvato}, {Kartaltepe}, {Frayer}, {Sanders}, {Sheth}, and
+  {Taniguchi}]{fu10}
+H.~{Fu}, L.~{Yan}, N.~Z. {Scoville}, P.~{Capak}, H.~{Aussel}, E.~{Le Floc'h},
+  O.~{Ilbert}, M.~{Salvato}, J.~S. {Kartaltepe}, D.~T. {Frayer}, D.~B.
+  {Sanders}, K.~{Sheth}, and Y.~{Taniguchi}.
+\newblock {Decomposing Star Formation and Active Galactic Nucleus with Spitzer
+  Mid-infrared Spectra: Luminosity Functions and Co-evolution}.
+\newblock \emph{ApJ}, 722:\penalty0 653--667, October 2010.
+\newblock \doi{10.1088/0004-637X/722/1/653}.
+
+\bibitem[Fukao et~al.(1985)Fukao, Sato, and Kato]{fukao85}
+S.~Fukao, T.~Sato, and S.~Kato.
+\newblock Monitoring of the mu radar antenna pattern by satellite {OHZORA}
+  ({OXOS-C}).
+\newblock \emph{J. Geomag. Geoelectr.}, 37:\penalty0 431, 1985.
+
+\bibitem[Furlanetto et~al.(2006)Furlanetto, Oh, and Briggs]{FurlanettoReview}
+S.R. Furlanetto, S.P. Oh, and F.H. Briggs.
+\newblock {Cosmology at low frequencies: The 21 cm transition and the
+  high-redshift Universe}.
+\newblock \emph{Physics Reports}, 433:\penalty0 181--301, October 2006.
+\newblock \doi{10.1016/j.physrep.2006.08.002}.
+
+\bibitem[Furlanetto and Lidz(2007)]{furlanettolidz07}
+Steven~R. Furlanetto and Adam Lidz.
+\newblock The cross-correlation of high-redshift 21 cm and galaxy surveys.
+\newblock \emph{ApJ}, 660\penalty0 (2):\penalty0 1030, 2007.
+\newblock URL \url{http://stacks.iop.org/0004-637X/660/i=2/a=1030}.
+
+\bibitem[Gardner et~al.(2006)Gardner, Mather, Clampin, Doyon, Greenhouse,
+  Hammel, Hutchings, Jakobsen, Lilly, Long, Lunine, McCaughrean, Mountain,
+  Nella, Rieke, Rieke, Rix, Smith, Sonneborn, Stiavelli, Stockman, Windhorst,
+  and Wright]{Gardner2006}
+Jonathan~P. Gardner, John~C. Mather, Mark Clampin, Rene Doyon, Matthew~A.
+  Greenhouse, Heidi~B. Hammel, John~B. Hutchings, Peter Jakobsen, Simon~J.
+  Lilly, Knox~S. Long, Jonathan~I. Lunine, Mark~J. McCaughrean, Matt Mountain,
+  John Nella, George~H. Rieke, Marcia~J. Rieke, Hans~Walter Rix, Eric~P. Smith,
+  George Sonneborn, Massimo Stiavelli, H.~S. Stockman, Rogier~A. Windhorst, and
+  Gillian~S. Wright.
+\newblock {The James Webb space telescope}.
+\newblock \emph{Space Science Reviews}, 123\penalty0 (4):\penalty0 485--606,
+  2006.
+\newblock ISSN 00386308.
+\newblock \doi{10.1007/s11214-006-8315-7}.
+
+\bibitem[{Garrett}(2009)]{LOFARinstrument}
+M.~A. {Garrett}.
+\newblock {Building LOFAR - status update}.
+\newblock \emph{ArXiv e-prints}, September 2009.
+
+\bibitem[Godwin and et~al.(1986)]{godwin86}
+Godwin and et~al.
+\newblock Improvement of the effelsberg 100 meter telescope based on
+  holographic reflector surface measurements.
+\newblock \emph{Astron. Astro.}, 167:\penalty0 390--394, 1986.
+
+\bibitem[{Gong} et~al.(2014){Gong}, {Silva}, {Cooray}, and {Santos}]{Gong2014}
+Y.~{Gong}, M.~{Silva}, A.~{Cooray}, and M.~G. {Santos}.
+\newblock {Foreground Contamination in Ly{$\alpha$} Intensity Mapping during
+  the Epoch of Reionization}.
+\newblock \emph{\apj}, 785:\penalty0 72, April 2014.
+\newblock \doi{10.1088/0004-637X/785/1/72}.
+
+\bibitem[{Gong} et~al.(2017){Gong}, {Cooray}, {Silva}, {Zemcov}, {Feng},
+  {Santos}, {Dore}, and {Chen}]{gong17}
+Y.~{Gong}, A.~{Cooray}, M.~B. {Silva}, M.~{Zemcov}, C.~{Feng}, M.~G. {Santos},
+  O.~{Dore}, and X.~{Chen}.
+\newblock {Intensity Mapping of H{$\alpha$}, H{$\beta$}, [OII], and [OIII]
+  Lines at z<5}.
+\newblock \emph{\apj}, 835:\penalty0 273, February 2017.
+\newblock \doi{10.3847/1538-4357/835/2/273}.
+
+\bibitem[G\'{o}rski et~al.(2005)G\'{o}rski, Hivon, Banday, Wandelt, Hansen,
+  Reinecke, and Bartelmann]{healpix}
+K.~M. G\'{o}rski, E.~Hivon, A.~J. Banday, B.~D. Wandelt, F.~K. Hansen,
+  M.~Reinecke, and M.~Bartelmann.
+\newblock Healpix: A framework for high-resolution discretization and fast
+  analysis of data distributed on the sphere.
+\newblock \emph{ApJ}, 622\penalty0 (2):\penalty0 759, 2005.
+
+\bibitem[{Griffiths}(1982)]{griffiths82}
+D.~J. {Griffiths}.
+\newblock {Hyperfine splitting in the ground state of hydrogen}.
+\newblock \emph{American Journal of Physics}, 50:\penalty0 698--703, August
+  1982.
+\newblock \doi{10.1119/1.12733}.
+
+\bibitem[Griffiths(2005)]{griffithsqm}
+D.J. Griffiths.
+\newblock \emph{Introduction to Quantum Mechanics}.
+\newblock Pearson Prentice Hall, 2005.
+\newblock ISBN 9780131118928.
+
+\bibitem[{Grogin} et~al.(2011){Grogin}, {Kocevski}, {Faber}, {Ferguson},
+  {Koekemoer}, {Riess}, {Acquaviva}, {Alexander}, {Almaini}, {Ashby}, {Barden},
+  {Bell}, {Bournaud}, {Brown}, {Caputi}, {Casertano}, {Cassata}, {Castellano},
+  {Challis}, {Chary}, {Cheung}, {Cirasuolo}, {Conselice}, {Roshan Cooray},
+  {Croton}, {Daddi}, {Dahlen}, {Dav{\'e}}, {de Mello}, {Dekel}, {Dickinson},
+  {Dolch}, {Donley}, {Dunlop}, {Dutton}, {Elbaz}, {Fazio}, {Filippenko},
+  {Finkelstein}, {Fontana}, {Gardner}, {Garnavich}, {Gawiser}, {Giavalisco},
+  {Grazian}, {Guo}, {Hathi}, {H{\"a}ussler}, {Hopkins}, {Huang}, {Huang},
+  {Jha}, {Kartaltepe}, {Kirshner}, {Koo}, {Lai}, {Lee}, {Li}, {Lotz}, {Lucas},
+  {Madau}, {McCarthy}, {McGrath}, {McIntosh}, {McLure}, {Mobasher},
+  {Moustakas}, {Mozena}, {Nandra}, {Newman}, {Niemi}, {Noeske}, {Papovich},
+  {Pentericci}, {Pope}, {Primack}, {Rajan}, {Ravindranath}, {Reddy}, {Renzini},
+  {Rix}, {Robaina}, {Rodney}, {Rosario}, {Rosati}, {Salimbeni}, {Scarlata},
+  {Siana}, {Simard}, {Smidt}, {Somerville}, {Spinrad}, {Straughn}, {Strolger},
+  {Telford}, {Teplitz}, {Trump}, {van der Wel}, {Villforth}, {Wechsler},
+  {Weiner}, {Wiklind}, {Wild}, {Wilson}, {Wuyts}, {Yan}, and {Yun}]{Grogin2011}
+N.~A. {Grogin}, D.~D. {Kocevski}, S.~M. {Faber}, H.~C. {Ferguson}, A.~M.
+  {Koekemoer}, A.~G. {Riess}, V.~{Acquaviva}, D.~M. {Alexander}, O.~{Almaini},
+  M.~L.~N. {Ashby}, M.~{Barden}, E.~F. {Bell}, F.~{Bournaud}, T.~M. {Brown},
+  K.~I. {Caputi}, S.~{Casertano}, P.~{Cassata}, M.~{Castellano}, P.~{Challis},
+  R.-R. {Chary}, E.~{Cheung}, M.~{Cirasuolo}, C.~J. {Conselice}, A.~{Roshan
+  Cooray}, D.~J. {Croton}, E.~{Daddi}, T.~{Dahlen}, R.~{Dav{\'e}}, D.~F. {de
+  Mello}, A.~{Dekel}, M.~{Dickinson}, T.~{Dolch}, J.~L. {Donley}, J.~S.
+  {Dunlop}, A.~A. {Dutton}, D.~{Elbaz}, G.~G. {Fazio}, A.~V. {Filippenko},
+  S.~L. {Finkelstein}, A.~{Fontana}, J.~P. {Gardner}, P.~M. {Garnavich},
+  E.~{Gawiser}, M.~{Giavalisco}, A.~{Grazian}, Y.~{Guo}, N.~P. {Hathi},
+  B.~{H{\"a}ussler}, P.~F. {Hopkins}, J.-S. {Huang}, K.-H. {Huang}, S.~W.
+  {Jha}, J.~S. {Kartaltepe}, R.~P. {Kirshner}, D.~C. {Koo}, K.~{Lai}, K.-S.
+  {Lee}, W.~{Li}, J.~M. {Lotz}, R.~A. {Lucas}, P.~{Madau}, P.~J. {McCarthy},
+  E.~J. {McGrath}, D.~H. {McIntosh}, R.~J. {McLure}, B.~{Mobasher}, L.~A.
+  {Moustakas}, M.~{Mozena}, K.~{Nandra}, J.~A. {Newman}, S.-M. {Niemi}, K.~G.
+  {Noeske}, C.~J. {Papovich}, L.~{Pentericci}, A.~{Pope}, J.~R. {Primack},
+  A.~{Rajan}, S.~{Ravindranath}, N.~A. {Reddy}, A.~{Renzini}, H.-W. {Rix},
+  A.~R. {Robaina}, S.~A. {Rodney}, D.~J. {Rosario}, P.~{Rosati},
+  S.~{Salimbeni}, C.~{Scarlata}, B.~{Siana}, L.~{Simard}, J.~{Smidt}, R.~S.
+  {Somerville}, H.~{Spinrad}, A.~N. {Straughn}, L.-G. {Strolger}, O.~{Telford},
+  H.~I. {Teplitz}, J.~R. {Trump}, A.~{van der Wel}, C.~{Villforth}, R.~H.
+  {Wechsler}, B.~J. {Weiner}, T.~{Wiklind}, V.~{Wild}, G.~{Wilson}, S.~{Wuyts},
+  H.-J. {Yan}, and M.~S. {Yun}.
+\newblock {CANDELS: The Cosmic Assembly Near-infrared Deep Extragalactic Legacy
+  Survey}.
+\newblock \emph{\apjs}, 197:\penalty0 35, December 2011.
+\newblock \doi{10.1088/0067-0049/197/2/35}.
+
+\bibitem[{Hall}(2005)]{ska}
+P.~J. {Hall}.
+\newblock \emph{{The Square Kilometre Array: An Engineering Perspective}}.
+\newblock 2005.
+
+\bibitem[{Harker} et~al.(2009){Harker}, {Zaroubi}, {Bernardi}, {Brentjens}, {de
+  Bruyn}, {Ciardi}, {Jeli{\'c}}, {Koopmans}, {Labropoulos}, {Mellema},
+  {Offringa}, {Pandey}, {Schaye}, {Thomas}, and {Yatawatta}]{Harker}
+G.~{Harker}, S.~{Zaroubi}, G.~{Bernardi}, M.~A. {Brentjens}, A.~G. {de Bruyn},
+  B.~{Ciardi}, V.~{Jeli{\'c}}, L.~V.~E. {Koopmans}, P.~{Labropoulos},
+  G.~{Mellema}, A.~{Offringa}, V.~N. {Pandey}, J.~{Schaye}, R.~M. {Thomas}, and
+  S.~{Yatawatta}.
+\newblock Non-parametric foreground subtraction for 21-cm epoch of reionization
+  experiments.
+\newblock \emph{MNRAS}, 397:\penalty0 1138--1152, August 2009.
+\newblock \doi{10.1111/j.1365-2966.2009.15081.x}.
+
+\bibitem[{Harker} et~al.(2010){Harker}, {Zaroubi}, {Bernardi}, {Brentjens}, {de
+  Bruyn}, {Ciardi}, {Jeli{\'c}}, {Koopmans}, {Labropoulos}, {Mellema},
+  {Offringa}, {Pandey}, {Pawlik}, {Schaye}, {Thomas}, and {Yatawatta}]{LOFAR2}
+G.~{Harker}, S.~{Zaroubi}, G.~{Bernardi}, M.~A. {Brentjens}, A.~G. {de Bruyn},
+  B.~{Ciardi}, V.~{Jeli{\'c}}, L.~V.~E. {Koopmans}, P.~{Labropoulos},
+  G.~{Mellema}, A.~{Offringa}, V.~N. {Pandey}, A.~H. {Pawlik}, J.~{Schaye},
+  R.~M. {Thomas}, and S.~{Yatawatta}.
+\newblock {Power spectrum extraction for redshifted 21-cm Epoch of Reionization
+  experiments: the LOFAR case}.
+\newblock \emph{MNRAS}, 405:\penalty0 2492--2504, July 2010.
+\newblock \doi{10.1111/j.1365-2966.2010.16628.x}.
+
+\bibitem[Harp et~al.(2011)Harp, Ackermann, Nadler, Blair, Davis, Wright,
+  Forster, DeBoer, Welch, Atkinson, Backer, Backus, Barott, Bauermeister,
+  Blitz, Bock, Bower, Bradford, Cheng, Croft, Dexter, Dreher, Engargiola,
+  Fields, Heiles, Helfer, Jordan, Jorgensen, Kilsdonk, Gutierrez-Kraybill,
+  Keating, Law, Lugten, MacMahon, McMahon, Milgrome, Siemion, Smolek, Thornton,
+  Pierson, Randall, Ross, Shostak, Tarter, Urry, Werthimer, Williams, and
+  Whysong]{harp2011}
+G.R. Harp, R.F. Ackermann, Z.J. Nadler, S.K. Blair, M.M. Davis, M.C.H. Wright,
+  J.R. Forster, D.R. DeBoer, W.J. Welch, S.~Atkinson, D.C. Backer, P.R. Backus,
+  W.~Barott, A.~Bauermeister, L.~Blitz, D.C.-J. Bock, G.C. Bower, T.~Bradford,
+  C.~Cheng, S.~Croft, M.~Dexter, J.~Dreher, G.~Engargiola, E.D. Fields,
+  C.~Heiles, T.~Helfer, J.~Jordan, S.~Jorgensen, T.~Kilsdonk,
+  C.~Gutierrez-Kraybill, G.~Keating, C.~Law, J.~Lugten, D.H.E. MacMahon,
+  P.~McMahon, O.~Milgrome, A.~Siemion, K.~Smolek, D.~Thornton, T.~Pierson,
+  K.~Randall, J.~Ross, S.~Shostak, J.C. Tarter, L.~Urry, D.~Werthimer, P.K.G.
+  Williams, and D.~Whysong.
+\newblock Primary beam and dish surface characterization at the allen telescope
+  array by radio holography.
+\newblock \emph{Antennas and Propagation, IEEE Transactions on}, 59\penalty0
+  (6):\penalty0 2004--2021, June 2011.
+\newblock \doi{10.1109/TAP.2011.2122214}.
+
+\bibitem[{Hazelton} and {others}(2015)]{HazeltonEppsilon}
+B.~{Hazelton} and {others}.
+\newblock \emph{in preparation.}, 2015.
+
+\bibitem[{Hazelton} et~al.(2013){Hazelton}, {Morales}, and
+  {Sullivan}]{Hazelton2013}
+B.~J. {Hazelton}, M.~F. {Morales}, and I.~S. {Sullivan}.
+\newblock {The Fundamental Multi-baseline Mode-mixing Foreground in 21 cm Epoch
+  of Reionization Observations}.
+\newblock \emph{{ApJ}}, 770:\penalty0 156, June 2013.
+\newblock \doi{10.1088/0004-637X/770/2/156}.
+
+\bibitem[{Helgason} et~al.(2016){Helgason}, {Ricotti}, {Kashlinsky}, and
+  {Bromm}]{kash4}
+K.~{Helgason}, M.~{Ricotti}, A.~{Kashlinsky}, and V.~{Bromm}.
+\newblock {On the physical requirements for a pre-reionization origin of the
+  unresolved near-infrared background}.
+\newblock \emph{\mnras}, 455:\penalty0 282--294, January 2016.
+\newblock \doi{10.1093/mnras/stv2209}.
+
+\bibitem[{Helou} et~al.(1985){Helou}, {Soifer}, and {Rowan-Robinson}]{helou85}
+G.~{Helou}, B.~T. {Soifer}, and M.~{Rowan-Robinson}.
+\newblock {Thermal infrared and nonthermal radio - Remarkable correlation in
+  disks of galaxies}.
+\newblock \emph{ApJL}, 298:\penalty0 L7--L11, November 1985.
+\newblock \doi{10.1086/184556}.
+
+\bibitem[{Henden} et~al.(2016){Henden}, {Templeton}, {Terrell}, {Smith},
+  {Levine}, and {Welch}]{apass}
+A.~A. {Henden}, M.~{Templeton}, D.~{Terrell}, T.~C. {Smith}, S.~{Levine}, and
+  D.~{Welch}.
+\newblock {VizieR Online Data Catalog: AAVSO Photometric All Sky Survey (APASS)
+  DR9 (Henden+, 2016)}.
+\newblock \emph{VizieR Online Data Catalog}, 2336, January 2016.
+
+\bibitem[{Heneka} et~al.(2016){Heneka}, {Cooray}, and {Feng}]{Heneka2016}
+C.~{Heneka}, A.~{Cooray}, and C.~{Feng}.
+\newblock {Probing the IGM with Ly$\mathrm{\alpha}$ and 21 cm fluctuations}.
+\newblock \emph{ArXiv e-prints}, November 2016.
+
+\bibitem[{High} et~al.(2010){High}, {Stubbs}, {Stalder}, {Gilmore}, and
+  {Tonry}]{high10}
+F.~W. {High}, C.~W. {Stubbs}, B.~{Stalder}, D.~K. {Gilmore}, and J.~L. {Tonry}.
+\newblock {Sky Variability in the y Band at the LSST Site}.
+\newblock \emph{\pasp}, 122:\penalty0 722, June 2010.
+\newblock \doi{10.1086/653715}.
+
+\bibitem[{Hinshaw} et~al.(2013){Hinshaw}, {Larson}, {Komatsu}, {Spergel},
+  {Bennett}, {Dunkley}, {Nolta}, {Halpern}, {Hill}, {Odegard}, {Page}, {Smith},
+  {Weiland}, {Gold}, {Jarosik}, {Kogut}, {Limon}, {Meyer}, {Tucker}, {Wollack},
+  and {Wright}]{hinshaw_et_al_2012}
+G.~{Hinshaw}, D.~{Larson}, E.~{Komatsu}, D.~N. {Spergel}, C.~L. {Bennett},
+  J.~{Dunkley}, M.~R. {Nolta}, M.~{Halpern}, R.~S. {Hill}, N.~{Odegard},
+  L.~{Page}, K.~M. {Smith}, J.~L. {Weiland}, B.~{Gold}, N.~{Jarosik},
+  A.~{Kogut}, M.~{Limon}, S.~S. {Meyer}, G.~S. {Tucker}, E.~{Wollack}, and
+  E.~L. {Wright}.
+\newblock {Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+  Cosmological Parameter Results}.
+\newblock \emph{ApJs}, 208:\penalty0 19, October 2013.
+\newblock \doi{10.1088/0067-0049/208/2/19}.
+
+\bibitem[{H{\"o}gbom}(1974)]{hogbomclean}
+J.~A. {H{\"o}gbom}.
+\newblock {Aperture Synthesis with a Non-Regular Distribution of Interferometer
+  Baselines}.
+\newblock \emph{\aaps}, 15:\penalty0 417, June 1974.
+
+\bibitem[{Huang} et~al.(2016){Huang}, {Brada{\v c}}, {Lemaux}, {Ryan}, {Hoag},
+  {Castellano}, {Amor{\'{\i}}n}, {Fontana}, {Brammer}, {Cain}, {Lubin},
+  {Merlin}, {Schmidt}, {Schrabback}, {Treu}, {Gonzalez}, {von der Linden}, and
+  {Knight}]{Huang2015}
+K.-H. {Huang}, M.~{Brada{\v c}}, B.~C. {Lemaux}, R.~E. {Ryan}, Jr., A.~{Hoag},
+  M.~{Castellano}, R.~{Amor{\'{\i}}n}, A.~{Fontana}, G.~B. {Brammer},
+  B.~{Cain}, L.~M. {Lubin}, E.~{Merlin}, K.~B. {Schmidt}, T.~{Schrabback},
+  T.~{Treu}, A.~H. {Gonzalez}, A.~{von der Linden}, and R.~I. {Knight}.
+\newblock {Spitzer UltRa Faint SUrvey Program (SURFS UP). II. IRAC-detected
+  Lyman-Break Galaxies at 6<z<10 behind Strong-lensing Clusters}.
+\newblock \emph{\apj}, 817:\penalty0 11, January 2016.
+\newblock \doi{10.3847/0004-637X/817/1/11}.
+
+\bibitem[{Hurley-Walker} et~al.(2014){Hurley-Walker}, {Morgan}, {Wayth},
+  {Bell}, {Bernardi}, {Bhat}, Frank~{Briggs}, A., {Ewall-Wice}, {Feng},
+  {Hazelton}, {Hindson}, {Jacobs}, {Kaplan}, {Kudryavtseva}, {Lenc},
+  {McKinley}, {Mitchell}, {Pindor}, {Procopio}, {Oberoi}, {Offringa}, {Ord},
+  {Riding}, {Bowman}, {Cappallo}, {Corey}, {Emrich}, {Gaensler}, {Goeke},
+  {Greenhill}, {Hewitt}, {Johnston-Hollitt}, {Kasper}, {Kratzenberg},
+  {Lonsdale}, {Lynch}, {McWhirter}, {Morales}, {Morgan}, {Prabu}, {Rogers},
+  {Roshi}, {Shankar}, {Srivani}, {Subrahmanyan}, {Tingay}, {Waterson},
+  {Webster}, {Whitney}, {Williams}, and {Williams}]{MWACS}
+N.~{Hurley-Walker}, J.~{Morgan}, R.~B. {Wayth}, M.~{Bell}, G.~{Bernardi},
+  R.~{Bhat}, F.~Frank~{Briggs}, {Deshpande}~A. A., A.~{Ewall-Wice}, L.~{Feng},
+  B.~{Hazelton}, L.~{Hindson}, D.~{Jacobs}, D.~{Kaplan}, N.~{Kudryavtseva},
+  E.~{Lenc}, B.~{McKinley}, D.~{Mitchell}, B.~{Pindor}, P.~{Procopio},
+  D.~{Oberoi}, M.~{Offringa}, S.~{Ord}, J.~{Riding}, J.~{Bowman},
+  R.~{Cappallo}, B.~{Corey}, D.~{Emrich}, B.~{Gaensler}, R.~{Goeke},
+  L.~{Greenhill}, J.~{Hewitt}, M.~{Johnston-Hollitt}, J.~{Kasper},
+  E.~{Kratzenberg}, C.~{Lonsdale}, M.~{Lynch}, R.~{McWhirter}, M.~{Morales},
+  E.~{Morgan}, T.~{Prabu}, A.~{Rogers}, A.~{Roshi}, U.~{Shankar}, K.~{Srivani},
+  R.~{Subrahmanyan}, S.~{Tingay}, M.~{Waterson}, R.~{Webster}, A.~{Whitney},
+  A.~{Williams}, and C.~{Williams}.
+\newblock {The Murchison Widefield Array Commissioning Survey: A Low-Frequency
+  Catalogue of 14 110 Compact Radio Sources over 6 100 Square Degrees}.
+\newblock \emph{PASA}, 31:\penalty0 e045, November 2014.
+\newblock \doi{10.1017/pasa.2014.40}.
+
+\bibitem[Hurtado et~al.(2001)Hurtado, Lorente, and Muravchik]{hurtado2001}
+M.~Hurtado, H.~Lorente, and C.~Muravchik.
+\newblock An in-situ method to measure the radiation pattern of a gps receiving
+  antenna.
+\newblock \emph{IEEE Transactions on Instrumentation and Measurement},
+  50:\penalty0 846, 2001.
+
+\bibitem[{Illingworth} et~al.(2013){Illingworth}, {Magee}, {Oesch}, {Bouwens},
+  {Labb{\'e}}, {Stiavelli}, {van Dokkum}, {Franx}, {Trenti}, {Carollo}, and
+  {Gonzalez}]{Illingworth2013}
+G.~D. {Illingworth}, D.~{Magee}, P.~A. {Oesch}, R.~J. {Bouwens},
+  I.~{Labb{\'e}}, M.~{Stiavelli}, P.~G. {van Dokkum}, M.~{Franx}, M.~{Trenti},
+  C.~M. {Carollo}, and V.~{Gonzalez}.
+\newblock {The HST eXtreme Deep Field (XDF): Combining All ACS and WFC3/IR Data
+  on the HUDF Region into the Deepest Field Ever}.
+\newblock \emph{\apjs}, 209:\penalty0 6, November 2013.
+\newblock \doi{10.1088/0067-0049/209/1/6}.
+
+\bibitem[{Jacobs} et~al.(2015{\natexlab{a}}){Jacobs}, {Beardsley}, {Hazelton},
+  {Thyagarajan}, and {Trott}]{Tsysmemo}
+D.~C. {Jacobs}, A.~{Beardsley}, B.~{Hazelton}, N.~{Thyagarajan}, and
+  C.~{Trott}.
+\newblock System temperatures of 21 cm arrays 2015.
+\newblock Technical Report~10, HERA Memo Series, 2015{\natexlab{a}}.
+
+\bibitem[{Jacobs} et~al.(2015{\natexlab{b}}){Jacobs}, {Pober}, {Parsons},
+  {Aguirre}, {Ali}, {Bowman}, {Bradley}, {Carilli}, {DeBoer}, {Dexter},
+  {Gugliucci}, {Klima}, {Liu}, {MacMahon}, {Manley}, {Moore}, {Stefan}, and
+  {Walbrugh}]{DannyMultiRedshift}
+D.~C. {Jacobs}, J.~C. {Pober}, A.~R. {Parsons}, J.~E. {Aguirre}, Z.~S. {Ali},
+  J.~{Bowman}, R.~F. {Bradley}, C.~L. {Carilli}, D.~R. {DeBoer}, M.~R.
+  {Dexter}, N.~E. {Gugliucci}, P.~{Klima}, A.~{Liu}, D.~H.~E. {MacMahon}, J.~R.
+  {Manley}, D.~F. {Moore}, I.~I. {Stefan}, and W.~P. {Walbrugh}.
+\newblock {Multiredshift Limits on the 21 cm Power Spectrum from PAPER}.
+\newblock \emph{\apj}, 801:\penalty0 51, March 2015{\natexlab{b}}.
+\newblock \doi{10.1088/0004-637X/801/1/51}.
+
+\bibitem[{Jacobs} et~al.(2016{\natexlab{a}}){Jacobs}, {Burba}, {Bowman},
+  {Neben}, {Stinnett}, and {Turner}]{drone3}
+D.~C. {Jacobs}, J.~{Burba}, J.~{Bowman}, A.~R. {Neben}, B.~{Stinnett}, and
+  L.~{Turner}.
+\newblock {The External Calibrator for Hydrogen Observatories}.
+\newblock \emph{ArXiv e-prints}, October 2016{\natexlab{a}}.
+
+\bibitem[{Jacobs} et~al.(2016{\natexlab{b}}){Jacobs}, {Hazelton}, {Trott},
+  {Dillon}, {Pindor}, {Sullivan}, {Pober}, {Barry}, {Beardsley}, {Bernardi},
+  {Bowman}, {Briggs}, {Cappallo}, {Carroll}, {Corey}, {de Oliveira-Costa},
+  {Emrich}, {Ewall-Wice}, {Feng}, {Gaensler}, {Goeke}, {Greenhill}, {Hewitt},
+  {Hurley-Walker}, {Johnston-Hollitt}, {Kaplan}, {Kasper}, {Kim},
+  {Kratzenberg}, {Lenc}, {Line}, {Loeb}, {Lonsdale}, {Lynch}, {McKinley},
+  {McWhirter}, {Mitchell}, {Morales}, {Morgan}, {Neben}, {Thyagarajan},
+  {Oberoi}, {Offringa}, {Ord}, {Paul}, {Prabu}, {Procopio}, {Riding}, {Rogers},
+  {Roshi}, {Udaya Shankar}, {Sethi}, {Srivani}, {Subrahmanyan}, {Tegmark},
+  {Tingay}, {Waterson}, {Wayth}, {Webster}, {Whitney}, {Williams}, {Williams},
+  {Wu}, and {Wyithe}]{JacobsPipelines}
+D.~C. {Jacobs}, B.~J. {Hazelton}, C.~M. {Trott}, J.~S. {Dillon}, B.~{Pindor},
+  I.~S. {Sullivan}, J.~C. {Pober}, N.~{Barry}, A.~P. {Beardsley},
+  G.~{Bernardi}, J.~D. {Bowman}, F.~{Briggs}, R.~J. {Cappallo}, P.~{Carroll},
+  B.~E. {Corey}, A.~{de Oliveira-Costa}, D.~{Emrich}, A.~{Ewall-Wice},
+  L.~{Feng}, B.~M. {Gaensler}, R.~{Goeke}, L.~J. {Greenhill}, J.~N. {Hewitt},
+  N.~{Hurley-Walker}, M.~{Johnston-Hollitt}, D.~L. {Kaplan}, J.~C. {Kasper},
+  H.~{Kim}, E.~{Kratzenberg}, E.~{Lenc}, J.~{Line}, A.~{Loeb}, C.~J.
+  {Lonsdale}, M.~J. {Lynch}, B.~{McKinley}, S.~R. {McWhirter}, D.~A.
+  {Mitchell}, M.~F. {Morales}, E.~{Morgan}, A.~R. {Neben}, N.~{Thyagarajan},
+  D.~{Oberoi}, A.~R. {Offringa}, S.~M. {Ord}, S.~{Paul}, T.~{Prabu},
+  P.~{Procopio}, J.~{Riding}, A.~E.~E. {Rogers}, A.~{Roshi}, N.~{Udaya
+  Shankar}, S.~K. {Sethi}, K.~S. {Srivani}, R.~{Subrahmanyan}, M.~{Tegmark},
+  S.~J. {Tingay}, M.~{Waterson}, R.~B. {Wayth}, R.~L. {Webster}, A.~R.
+  {Whitney}, A.~{Williams}, C.~L. {Williams}, C.~{Wu}, and J.~S.~B. {Wyithe}.
+\newblock {The Murchison Widefield Array 21 cm Power Spectrum Analysis
+  Methodology}.
+\newblock \emph{ApJ}, 825:\penalty0 114, July 2016{\natexlab{b}}.
+\newblock \doi{10.3847/0004-637X/825/2/114}.
+
+\bibitem[Jacobs et~al.(2013)Jacobs, Bowman, and Aguirre]{jacobs2013}
+D.C Jacobs, J.~Bowman, and J.E. Aguirre.
+\newblock The precision and accuracy of early epoch of reionization foreground
+  models: comparing {MWA} and {PAPER} 32-antenna source catalogs.
+\newblock \emph{ApJ}, 769\penalty0 (1):\penalty0 5, 2013.
+\newblock URL \url{http://stacks.iop.org/0004-637X/769/i=1/a=5}.
+
+\bibitem[{Jeli{\'c}} et~al.(2008){Jeli{\'c}}, {Zaroubi}, {Labropoulos},
+  {Thomas}, {Bernardi}, {Brentjens}, {de Bruyn}, {Ciardi}, {Harker},
+  {Koopmans}, {Pandey}, {Schaye}, and {Yatawatta}]{Jelic08}
+V.~{Jeli{\'c}}, S.~{Zaroubi}, P.~{Labropoulos}, R.~M. {Thomas}, G.~{Bernardi},
+  M.~A. {Brentjens}, A.~G. {de Bruyn}, B.~{Ciardi}, G.~{Harker}, L.~V.~E.
+  {Koopmans}, V.~N. {Pandey}, J.~{Schaye}, and S.~{Yatawatta}.
+\newblock Foreground simulations for the lofar-epoch of reionization
+  experiment.
+\newblock \emph{MNRAS}, 389:\penalty0 1319--1335, September 2008.
+\newblock \doi{10.1111/j.1365-2966.2008.13634.x}.
+
+\bibitem[{Jeli{\'c}} et~al.(2014){Jeli{\'c}}, {de Bruyn}, {Mevius}, {Abdalla},
+  {Asad}, {Bernardi}, {Brentjens}, {Bus}, {Chapman}, {Ciardi}, {Daiboo},
+  {Fernandez}, {Ghosh}, {Harker}, {Jensen}, {Kazemi}, {Koopmans},
+  {Labropoulos}, {Martinez-Rubi}, {Mellema}, {Offringa}, {Pandey}, {Patil},
+  {Thomas}, {Vedantham}, {Veligatla}, {Yatawatta}, {Zaroubi}, {Alexov},
+  {Anderson}, {Avruch}, {Beck}, {Bell}, {Bentum}, {Best}, {Bonafede},
+  {Bregman}, {Breitling}, {Broderick}, {Brouw}, {Br{\"u}ggen}, {Butcher},
+  {Conway}, {de Gasperin}, {de Geus}, {Deller}, {Dettmar}, {Duscha},
+  {Eisl{\"o}ffel}, {Engels}, {Falcke}, {Fallows}, {Fender}, {Ferrari},
+  {Frieswijk}, {Garrett}, {Grie{\ss}meier}, {Gunst}, {Hamaker}, {Hassall},
+  {Haverkorn}, {Heald}, {Hessels}, {Hoeft}, {H{\"o}randel}, {Horneffer}, {van
+  der Horst}, {Iacobelli}, {Juette}, {Karastergiou}, {Kondratiev}, {Kramer},
+  {Kuniyoshi}, {Kuper}, {van Leeuwen}, {Maat}, {Mann}, {McKay-Bukowski},
+  {McKean}, {Munk}, {Nelles}, {Norden}, {Paas}, {Pandey-Pommier}, {Pietka},
+  {Pizzo}, {Polatidis}, {Reich}, {R{\"o}ttgering}, {Rowlinson}, {Scaife},
+  {Schwarz}, {Serylak}, {Smirnov}, {Steinmetz}, {Stewart}, {Tagger}, {Tang},
+  {Tasse}, {ter Veen}, {Thoudam}, {Toribio}, {Vermeulen}, {Vocks}, {van
+  Weeren}, {Wijers}, {Wijnholds}, {Wucknitz}, and {Zarka}]{InitialLOFAR2}
+V.~{Jeli{\'c}}, A.~G. {de Bruyn}, M.~{Mevius}, F.~B. {Abdalla}, K.~M.~B.
+  {Asad}, G.~{Bernardi}, M.~A. {Brentjens}, S.~{Bus}, E.~{Chapman},
+  B.~{Ciardi}, S.~{Daiboo}, E.~R. {Fernandez}, A.~{Ghosh}, G.~{Harker},
+  H.~{Jensen}, S.~{Kazemi}, L.~V.~E. {Koopmans}, P.~{Labropoulos},
+  O.~{Martinez-Rubi}, G.~{Mellema}, A.~R. {Offringa}, V.~N. {Pandey}, A.~H.
+  {Patil}, R.~M. {Thomas}, H.~K. {Vedantham}, V.~{Veligatla}, S.~{Yatawatta},
+  S.~{Zaroubi}, A.~{Alexov}, J.~{Anderson}, I.~M. {Avruch}, R.~{Beck}, M.~E.
+  {Bell}, M.~J. {Bentum}, P.~{Best}, A.~{Bonafede}, J.~{Bregman},
+  F.~{Breitling}, J.~{Broderick}, W.~N. {Brouw}, M.~{Br{\"u}ggen}, H.~R.
+  {Butcher}, J.~E. {Conway}, F.~{de Gasperin}, E.~{de Geus}, A.~{Deller}, R.-J.
+  {Dettmar}, S.~{Duscha}, J.~{Eisl{\"o}ffel}, D.~{Engels}, H.~{Falcke}, R.~A.
+  {Fallows}, R.~{Fender}, C.~{Ferrari}, W.~{Frieswijk}, M.~A. {Garrett},
+  J.~{Grie{\ss}meier}, A.~W. {Gunst}, J.~P. {Hamaker}, T.~E. {Hassall},
+  M.~{Haverkorn}, G.~{Heald}, J.~W.~T. {Hessels}, M.~{Hoeft},
+  J.~{H{\"o}randel}, A.~{Horneffer}, A.~{van der Horst}, M.~{Iacobelli},
+  E.~{Juette}, A.~{Karastergiou}, V.~I. {Kondratiev}, M.~{Kramer},
+  M.~{Kuniyoshi}, G.~{Kuper}, J.~{van Leeuwen}, P.~{Maat}, G.~{Mann},
+  D.~{McKay-Bukowski}, J.~P. {McKean}, H.~{Munk}, A.~{Nelles}, M.~J. {Norden},
+  H.~{Paas}, M.~{Pandey-Pommier}, G.~{Pietka}, R.~{Pizzo}, A.~G. {Polatidis},
+  W.~{Reich}, H.~{R{\"o}ttgering}, A.~{Rowlinson}, A.~M.~M. {Scaife},
+  D.~{Schwarz}, M.~{Serylak}, O.~{Smirnov}, M.~{Steinmetz}, A.~{Stewart},
+  M.~{Tagger}, Y.~{Tang}, C.~{Tasse}, S.~{ter Veen}, S.~{Thoudam},
+  C.~{Toribio}, R.~{Vermeulen}, C.~{Vocks}, R.~J. {van Weeren}, R.~A.~M.~J.
+  {Wijers}, S.~J. {Wijnholds}, O.~{Wucknitz}, and P.~{Zarka}.
+\newblock {Initial LOFAR observations of epoch of reionization windows. II.
+  Diffuse polarized emission in the ELAIS-N1 field}.
+\newblock \emph{\aap}, 568:\penalty0 A101, August 2014.
+\newblock \doi{10.1051/0004-6361/201423998}.
+
+\bibitem[Jeli\'{c} et~al.(2010)Jeli\'{c}, Zaroubi, Labropoulos, Bernardi,
+  de~Bruyn, and Koopmans]{jelic2010}
+Vibor Jeli\'{c}, Saleem Zaroubi, Panagiotis Labropoulos, Gianni Bernardi, A.~G.
+  de~Bruyn, and L\'{e}on V.~E. Koopmans.
+\newblock Realistic simulations of the galactic polarized foreground:
+  consequences for 21-cm reionization detection experiments.
+\newblock \emph{MNRAS}, 409\penalty0 (4):\penalty0 1647--1659, 2010.
+\newblock \doi{10.1111/j.1365-2966.2010.17407.x}.
+
+\bibitem[{Kashlinsky} et~al.(2005){Kashlinsky}, {Arendt}, {Mather}, and
+  {Moseley}]{kash1}
+A.~{Kashlinsky}, R.~G. {Arendt}, J.~{Mather}, and S.~H. {Moseley}.
+\newblock {Tracing the first stars with fluctuations of the cosmic infrared
+  background}.
+\newblock \emph{\nat}, 438:\penalty0 45--50, November 2005.
+\newblock \doi{10.1038/nature04143}.
+
+\bibitem[{Kashlinsky} et~al.(2007){Kashlinsky}, {Arendt}, {Mather}, and
+  {Moseley}]{kash2}
+A.~{Kashlinsky}, R.~G. {Arendt}, J.~{Mather}, and S.~H. {Moseley}.
+\newblock {New Measurements of Cosmic Infrared Background Fluctuations from
+  Early Epochs}.
+\newblock \emph{\apjl}, 657:\penalty0 L131--L131, March 2007.
+\newblock \doi{10.1086/513272}.
+
+\bibitem[{Kashlinsky} et~al.(2012){Kashlinsky}, {Arendt}, {Ashby}, {Fazio},
+  {Mather}, and {Moseley}]{kash3}
+A.~{Kashlinsky}, R.~G. {Arendt}, M.~L.~N. {Ashby}, G.~G. {Fazio}, J.~{Mather},
+  and S.~H. {Moseley}.
+\newblock {New Measurements of the Cosmic Infrared Background Fluctuations in
+  Deep Spitzer/IRAC Survey Data and Their Cosmological Implications}.
+\newblock \emph{\apj}, 753:\penalty0 63, July 2012.
+\newblock \doi{10.1088/0004-637X/753/1/63}.
+
+\bibitem[{Kulkarni}(1989)]{kulkarni89}
+S.~R. {Kulkarni}.
+\newblock {Self-noise in interferometers - Radio and infrared}.
+\newblock \emph{The Astronomical Journal}, 98:\penalty0 1112--1130, September
+  1989.
+\newblock \doi{10.1086/115202}.
+
+\bibitem[{Kurcz} et~al.(2016){Kurcz}, {Bilicki}, {Solarz}, {Krupa}, {Pollo},
+  and {Ma{\l}ek}]{kurcz16}
+A.~{Kurcz}, M.~{Bilicki}, A.~{Solarz}, M.~{Krupa}, A.~{Pollo}, and
+  K.~{Ma{\l}ek}.
+\newblock {Towards automatic classification of all WISE sources}.
+\newblock \emph{\aap}, 592:\penalty0 A25, July 2016.
+\newblock \doi{10.1051/0004-6361/201628142}.
+
+\bibitem[Lasenby(1985)]{lasenby85}
+A.N. Lasenby.
+\newblock Surface measurements of the {NRAO} 12m antenna.
+\newblock In P.A. Shaver and K.~Kjar, editors, \emph{Proc. ESO-IRAM-Onsala
+  Workshop on '(Sub)Milimeter Astronomy'}, pages 77--83, 1985.
+
+\bibitem[Law et~al.(1997)Law, Khorrami, Sessions, and Shanahan]{law97}
+D.~C. Law, J.~R. Khorrami, W.~B. Sessions, and M.~K. Shanahan.
+\newblock Radiation patterns of a large {UHF} phased-array antenna: A
+  comparison of measurements using satellite repeaters and patterns derived
+  from measurements of antenna current distributions.
+\newblock \emph{IEEE Transactions on Antennas and Propagation Magazine},
+  39:\penalty0 88, 1997.
+
+\bibitem[{Lidz} et~al.(2008){Lidz}, {Zahn}, {McQuinn}, {Zaldarriaga}, and
+  {Hernquist}]{LidzRiseFall}
+A.~{Lidz}, O.~{Zahn}, M.~{McQuinn}, M.~{Zaldarriaga}, and L.~{Hernquist}.
+\newblock {Detecting the Rise and Fall of 21 cm Fluctuations with the Murchison
+  Widefield Array}.
+\newblock \emph{{ApJ}}, 680:\penalty0 962--974, June 2008.
+\newblock \doi{10.1086/587618}.
+
+\bibitem[{Lidz} et~al.(2009){Lidz}, {Zahn}, {Furlanetto}, {McQuinn},
+  {Hernquist}, and {Zaldarriaga}]{lidz09}
+A.~{Lidz}, O.~{Zahn}, S.~R. {Furlanetto}, M.~{McQuinn}, L.~{Hernquist}, and
+  M.~{Zaldarriaga}.
+\newblock {Probing Reionization with the 21 cm Galaxy Cross-Power Spectrum}.
+\newblock \emph{\apj}, 690:\penalty0 252--266, January 2009.
+\newblock \doi{10.1088/0004-637X/690/1/252}.
+
+\bibitem[{Liu}(2012)]{LiuThesis}
+A.~{Liu}.
+\newblock \emph{From theoretical promise to observational reality: calibration,
+  foreground subtraction, and signal extraction in hydrogen cosmology}.
+\newblock PhD thesis, Massachusetts Institute of Technology, June 2012.
+
+\bibitem[{Liu} and {Parsons}(2016)]{liu15b}
+A.~{Liu} and A.~R. {Parsons}.
+\newblock {Constraining cosmology and ionization history with combined 21 cm
+  power spectrum and global signal measurements}.
+\newblock \emph{\mnras}, 457:\penalty0 1864--1877, April 2016.
+\newblock \doi{10.1093/mnras/stw071}.
+
+\bibitem[{Liu} and {Tegmark}(2011)]{LT11}
+A.~{Liu} and M.~{Tegmark}.
+\newblock {A method for 21 cm power spectrum estimation in the presence of
+  foregrounds}.
+\newblock \emph{\prd}, 83\penalty0 (10):\penalty0 103006, May 2011.
+\newblock \doi{10.1103/PhysRevD.83.103006}.
+
+\bibitem[{Liu} and {Tegmark}(2012)]{AdrianForegrounds}
+A.~{Liu} and M.~{Tegmark}.
+\newblock {How well can we measure and understand foregrounds with 21-cm
+  experiments?}
+\newblock \emph{MNRAS}, 419:\penalty0 3491--3504, February 2012.
+\newblock \doi{10.1111/j.1365-2966.2011.19989.x}.
+
+\bibitem[{Liu} et~al.(2009{\natexlab{a}}){Liu}, {Tegmark}, {Bowman}, {Hewitt},
+  and {Zaldarriaga}]{paper2}
+A.~{Liu}, M.~{Tegmark}, J.~{Bowman}, J.~{Hewitt}, and M.~{Zaldarriaga}.
+\newblock {An improved method for 21-cm foreground removal}.
+\newblock \emph{MNRAS}, 398:\penalty0 401--406, September 2009{\natexlab{a}}.
+\newblock \doi{10.1111/j.1365-2966.2009.15156.x}.
+
+\bibitem[{Liu} et~al.(2009{\natexlab{b}}){Liu}, {Tegmark}, and
+  {Zaldarriaga}]{paper1}
+A.~{Liu}, M.~{Tegmark}, and M.~{Zaldarriaga}.
+\newblock {Will point sources spoil 21-cm tomography?}
+\newblock \emph{MNRAS}, 394:\penalty0 1575--1587, April 2009{\natexlab{b}}.
+\newblock \doi{10.1111/j.1365-2966.2009.14426.x}.
+
+\bibitem[{Liu} et~al.(2010){Liu}, {Tegmark}, {Morrison}, {Lutomirski}, and
+  {Zaldarriaga}]{liu10}
+A.~{Liu}, M.~{Tegmark}, S.~{Morrison}, A.~{Lutomirski}, and M.~{Zaldarriaga}.
+\newblock {Precision calibration of radio interferometers using redundant
+  baselines}.
+\newblock \emph{MNRAS}, 408:\penalty0 1029--1050, October 2010.
+\newblock \doi{10.1111/j.1365-2966.2010.17174.x}.
+
+\bibitem[{Liu} et~al.(2014{\natexlab{a}}){Liu}, {Parsons}, and
+  {Trott}]{AdrianWedge1}
+A.~{Liu}, A.~R. {Parsons}, and C.~M. {Trott}.
+\newblock {Epoch of reionization window. I. Mathematical formalism}.
+\newblock \emph{Phys. Rev. D}, 90\penalty0 (2):\penalty0 023018, July
+  2014{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRevD.90.023018}.
+
+\bibitem[{Liu} et~al.(2014{\natexlab{b}}){Liu}, {Parsons}, and
+  {Trott}]{AdrianWedge2}
+A.~{Liu}, A.~R. {Parsons}, and C.~M. {Trott}.
+\newblock {Epoch of reionization window. II. Statistical methods for foreground
+  wedge reduction}.
+\newblock \emph{Phys. Rev. D}, 90\penalty0 (2):\penalty0 023019, July
+  2014{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRevD.90.023019}.
+
+\bibitem[{Liu} et~al.(2016){Liu}, {Pritchard}, {Allison}, {Parsons}, {Seljak},
+  and {Sherwin}]{liu15a}
+A.~{Liu}, J.~R. {Pritchard}, R.~{Allison}, A.~R. {Parsons}, U.~{Seljak}, and
+  B.~D. {Sherwin}.
+\newblock {Eliminating the optical depth nuisance from the CMB with 21 cm
+  cosmology}.
+\newblock \emph{\prd}, 93\penalty0 (4):\penalty0 043013, February 2016.
+\newblock \doi{10.1103/PhysRevD.93.043013}.
+
+\bibitem[{Livermore} et~al.(2017){Livermore}, {Finkelstein}, and
+  {Lotz}]{Livermore2016}
+R.~C. {Livermore}, S.~L. {Finkelstein}, and J.~M. {Lotz}.
+\newblock {Directly Observing the Galaxies Likely Responsible for
+  Reionization}.
+\newblock \emph{\apj}, 835:\penalty0 113, February 2017.
+\newblock \doi{10.3847/1538-4357/835/2/113}.
+
+\bibitem[{Loeb} and {Furlanetto}(2013)]{aviBook}
+A.~{Loeb} and S.~R. {Furlanetto}.
+\newblock \emph{The First Galaxies In The Universe}.
+\newblock Princeton University Press, Princeton, NJ, 2013.
+
+\bibitem[Lonsdale et~al.(2009)Lonsdale, Cappallo, Morales, Briggs, Benkevitch,
+  Bowman, Bunton, Burns, Corey, deSouza, Doeleman, Derome, Deshpande, Gopala,
+  Greenhill, Herne, Hewitt, Kamini, Kasper, Kincaid, Kocz, Kowald, Kratzenberg,
+  Kumar, Lynch, Madhavi, Matejek, Mitchell, Morgan, Oberoi, Ord,
+  Pathikulangara, Prabu, Rogers, Roshi, Salah, Sault, Shankar, Srivani,
+  Stevens, Tingay, Vaccarella, Waterson, Wayth, Webster, Whitney, Williams, and
+  Williams]{lonsdale09}
+C.J. Lonsdale, R.J. Cappallo, M.F. Morales, F.H. Briggs, L.~Benkevitch, J.D.
+  Bowman, J.D. Bunton, S.~Burns, B.E. Corey, L.~deSouza, S.S. Doeleman,
+  M.~Derome, A.~Deshpande, M.R. Gopala, L.J. Greenhill, D.E. Herne, J.N.
+  Hewitt, P.A. Kamini, J.C. Kasper, B.B. Kincaid, J.~Kocz, E.~Kowald,
+  E.~Kratzenberg, D.~Kumar, M.J. Lynch, S.~Madhavi, M.~Matejek, D.A. Mitchell,
+  E.~Morgan, D.~Oberoi, S.~Ord, J.~Pathikulangara, T.~Prabu, A.~Rogers,
+  A.~Roshi, J.E. Salah, R.J. Sault, N.U. Shankar, K.S. Srivani, J.~Stevens,
+  S.~Tingay, A.~Vaccarella, M.~Waterson, R.B. Wayth, R.L. Webster, A.R.
+  Whitney, A.~Williams, and C.~Williams.
+\newblock The murchison widefield array: Design overview.
+\newblock \emph{Proceedings of the IEEE}, 97\penalty0 (8):\penalty0 1497--1506,
+  Aug 2009.
+\newblock ISSN 0018-9219.
+\newblock \doi{10.1109/JPROC.2009.2017564}.
+
+\bibitem[Madau and Dickinson(2014)]{madau14review}
+Piero Madau and Mark Dickinson.
+\newblock Cosmic star-formation history.
+\newblock \emph{Annual Review of Astronomy and Astrophysics}, 52\penalty0
+  (1):\penalty0 415--486, 2014.
+\newblock \doi{10.1146/annurev-astro-081811-125615}.
+\newblock URL \url{http://dx.doi.org/10.1146/annurev-astro-081811-125615}.
+
+\bibitem[{Mao}(2014)]{mao14}
+X.-C. {Mao}.
+\newblock {Probing Reionization with the Cross-power Spectrum of 21 cm and
+  Near-infrared Radiation Backgrounds}.
+\newblock \emph{\apj}, 790:\penalty0 148, August 2014.
+\newblock \doi{10.1088/0004-637X/790/2/148}.
+
+\bibitem[{Mao} et~al.(2008){Mao}, {Tegmark}, {McQuinn}, {Zaldarriaga}, and
+  {Zahn}]{mao08}
+Y.~{Mao}, M.~{Tegmark}, M.~{McQuinn}, M.~{Zaldarriaga}, and O.~{Zahn}.
+\newblock {How accurately can 21cm tomography constrain cosmology?}
+\newblock \emph{\prd}, 78\penalty0 (2):\penalty0 023529, July 2008.
+\newblock \doi{10.1103/PhysRevD.78.023529}.
+
+\bibitem[Masui et~al.(2013)Masui, Switzer, Banavar, Bandura, Blake, Calin,
+  Chang, Chen, Li, Liao, NatarThe Astronomical~Journalan, Pen, Peterson, Shaw,
+  and Voytek]{Masui2013}
+K.~W. Masui, E.~R. Switzer, N.~Banavar, K.~Bandura, C.~Blake, L.-M. Calin,
+  T.-C. Chang, X.~Chen, Y.-C. Li, Y.-W. Liao, A.~NatarThe
+  Astronomical~Journalan, U.-L. Pen, J.~B. Peterson, J.~R. Shaw, and T.~C.
+  Voytek.
+\newblock {MEASUREMENT OF 21 cm BRIGHTNESS FLUCTUATIONS AT z ∼ 0.8 IN
+  CROSS-CORRELATION}.
+\newblock \emph{ApJ}, 763\penalty0 (1):\penalty0 L20, 2013.
+\newblock ISSN 2041-8205.
+\newblock \doi{10.1088/2041-8205/763/1/L20}.
+\newblock URL \url{http://arxiv.org/abs/1208.0331}.
+
+\bibitem[{Mauch} and {Sadler}(2007)]{mauch07}
+T.~{Mauch} and E.~M. {Sadler}.
+\newblock {Radio sources in the 6dFGS: local luminosity functions at 1.4GHz for
+  star-forming galaxies and radio-loud AGN}.
+\newblock \emph{\mnras}, 375:\penalty0 931--950, March 2007.
+\newblock \doi{10.1111/j.1365-2966.2006.11353.x}.
+
+\bibitem[Mauch et~al.(2003)Mauch, Murphy, Buttery, Curran, Hunstead,
+  Piestrzynski, Robertson, and Sadler]{sumss2}
+T.~Mauch, T.~Murphy, H.~J. Buttery, J.~Curran, R.~W. Hunstead, B.~Piestrzynski,
+  J.~G. Robertson, and E.~M. Sadler.
+\newblock Sumss: a wide-field radio imaging survey of the southern sky – ii.
+  the source catalogue.
+\newblock \emph{MNRAS}, 342\penalty0 (4):\penalty0 1117--1130, 2003.
+\newblock \doi{10.1046/j.1365-8711.2003.06605.x}.
+\newblock URL
+  \url{http://mnras.oxfordjournals.org/content/342/4/1117.abstract}.
+
+\bibitem[{McLeod} et~al.(2015){McLeod}, {McLure}, {Dunlop}, {Robertson},
+  {Ellis}, and {Targett}]{McLeod2015}
+D.~J. {McLeod}, R.~J. {McLure}, J.~S. {Dunlop}, B.~E. {Robertson}, R.~S.
+  {Ellis}, and T.~A. {Targett}.
+\newblock {New redshift z~9 galaxies in the Hubble Frontier Fields:
+  implications for early evolution of the UV luminosity density}.
+\newblock \emph{\mnras}, 450:\penalty0 3032--3044, July 2015.
+\newblock \doi{10.1093/mnras/stv780}.
+
+\bibitem[{McLeod} et~al.(2016){McLeod}, {McLure}, and {Dunlop}]{McLeod2016}
+D.~J. {McLeod}, R.~J. {McLure}, and J.~S. {Dunlop}.
+\newblock {The z = 9-10 galaxy population in the Hubble Frontier Fields and
+  CLASH surveys: the z = 9 luminosity function and further evidence for a
+  smooth decline in ultraviolet luminosity density at z>8}.
+\newblock \emph{\mnras}, 459:\penalty0 3812--3824, July 2016.
+\newblock \doi{10.1093/mnras/stw904}.
+
+\bibitem[{McQuinn} et~al.(2007){McQuinn}, {Lidz}, {Zahn}, {Dutta}, {Hernquist},
+  and {Zaldarriaga}]{McQuinn06}
+M.~{McQuinn}, A.~{Lidz}, O.~{Zahn}, S.~{Dutta}, L.~{Hernquist}, and
+  M.~{Zaldarriaga}.
+\newblock {The morphology of HII regions during reionization}.
+\newblock \emph{MNRAS}, 377:\penalty0 1043--1063, May 2007.
+\newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
+
+\bibitem[{Mesinger}(2016)]{Mesinger16}
+A.~{Mesinger}, editor.
+\newblock \emph{{Understanding the Epoch of Cosmic Reionization}}, volume 423
+  of \emph{Astrophysics and Space Science Library}, 2016.
+\newblock \doi{10.1007/978-3-319-21957-8}.
+
+\bibitem[{Mesinger} et~al.(2011){Mesinger}, {Furlanetto}, and {Cen}]{21cmfast}
+A.~{Mesinger}, S.~{Furlanetto}, and R.~{Cen}.
+\newblock {21CMFAST: a fast, seminumerical simulation of the high-redshift
+  21-cm signal}.
+\newblock \emph{\mnras}, 411:\penalty0 955--972, February 2011.
+\newblock \doi{10.1111/j.1365-2966.2010.17731.x}.
+
+\bibitem[Mitchell et~al.(2008)Mitchell, Greenhill, Wayth, Sault, Lonsdale,
+  Cappallo, Morales, and Ord]{mwarts}
+D.A. Mitchell, L.J. Greenhill, R.B. Wayth, R.J. Sault, C.J. Lonsdale, R.J.
+  Cappallo, M.F. Morales, and S.M. Ord.
+\newblock Real-time calibration of the murchison widefield array.
+\newblock \emph{Selected Topics in Signal Processing, IEEE Journal of},
+  2\penalty0 (5):\penalty0 707--717, Oct 2008.
+\newblock ISSN 1932-4553.
+\newblock \doi{10.1109/JSTSP.2008.2005327}.
+
+\bibitem[{Mitchell-Wynne} et~al.(2015){Mitchell-Wynne}, {Cooray}, {Gong},
+  {Ashby}, {Dolch}, {Ferguson}, {Finkelstein}, {Grogin}, {Kocevski},
+  {Koekemoer}, {Primack}, and {Smidt}]{mw15}
+K.~{Mitchell-Wynne}, A.~{Cooray}, Y.~{Gong}, M.~{Ashby}, T.~{Dolch},
+  H.~{Ferguson}, S.~{Finkelstein}, N.~{Grogin}, D.~{Kocevski}, A.~{Koekemoer},
+  J.~{Primack}, and J.~{Smidt}.
+\newblock {Ultraviolet luminosity density of the universe during the epoch of
+  reionization}.
+\newblock \emph{Nature Communications}, 6:\penalty0 7945, September 2015.
+\newblock \doi{10.1038/ncomms8945}.
+
+\bibitem[{Moore} et~al.(2015){Moore}, {Aguirre}, {Parsons}, {Ali}, {Bradley},
+  {Carilli}, {DeBoer}, {Dexter}, {Gugliucci}, {Jacobs}, {Klima}, {Liu},
+  {MacMahon}, {Manley}, {Pober}, {Stefan}, and {Walbrugh}]{moore15}
+D.~{Moore}, J.~E. {Aguirre}, A.~{Parsons}, Z.~{Ali}, R.~{Bradley},
+  C.~{Carilli}, D.~{DeBoer}, M.~{Dexter}, N.~{Gugliucci}, D.~{Jacobs},
+  P.~{Klima}, A.~{Liu}, D.~{MacMahon}, J.~{Manley}, J.~{Pober}, I.~{Stefan},
+  and W.~{Walbrugh}.
+\newblock {New Limits on Polarized Power Spectra at 126 and 164 MHz: Relevance
+  to Epoch of Reionization Measurements}.
+\newblock \emph{ArXiv e-prints}, February 2015.
+
+\bibitem[Moore et~al.(2013)Moore, Aguirre, Parsons, Jacobs, and Pober]{moore13}
+David~F. Moore, James~E. Aguirre, Aaron~R. Parsons, Daniel~C. Jacobs, and
+  Jonathan~C. Pober.
+\newblock The effects of polarized foregrounds on 21 cm epoch of reionization
+  power spectrum measurements.
+\newblock \emph{ApJ}, 769\penalty0 (2):\penalty0 154, 2013.
+\newblock URL \url{http://stacks.iop.org/0004-637X/769/i=2/a=154}.
+
+\bibitem[{Morales}(2005)]{MiguelNoise}
+M.~F. {Morales}.
+\newblock {Power Spectrum Sensitivity and the Design of Epoch of Reionization
+  Observatories}.
+\newblock \emph{ApJ}, 619:\penalty0 678--683, February 2005.
+\newblock \doi{10.1086/426730}.
+
+\bibitem[{Morales} and {Matejek}(2009)]{moralesandmatejek}
+M.~F. {Morales} and M.~{Matejek}.
+\newblock {Software holography: interferometric data analysis for the
+  challenges of next generation observatories}.
+\newblock \emph{MNRAS}, 400:\penalty0 1814--1820, December 2009.
+\newblock \doi{10.1111/j.1365-2966.2009.15537.x}.
+
+\bibitem[{Morales} and {Wyithe}(2010)]{miguelreview}
+M.~F. {Morales} and J.~S.~B. {Wyithe}.
+\newblock {Reionization and Cosmology with 21-cm Fluctuations}.
+\newblock \emph{Annual Reviews of Astronomy and Astrophysics}, 48:\penalty0
+  127--171, September 2010.
+\newblock \doi{10.1146/annurev-astro-081309-130936}.
+
+\bibitem[{Morales} et~al.(2006){Morales}, {Bowman}, and
+  {Hewitt}]{MoralesBowmanHewittFGsub}
+M.~F. {Morales}, J.~D. {Bowman}, and J.~N. {Hewitt}.
+\newblock {Improving Foreground Subtraction in Statistical Observations of 21
+  cm Emission from the Epoch of Reionization}.
+\newblock \emph{ApJ}, 648:\penalty0 767--773, September 2006.
+\newblock \doi{10.1086/506135}.
+
+\bibitem[{Morales} et~al.(2012){Morales}, {Hazelton}, {Sullivan}, and
+  {Beardsley}]{MoralesPSShapes}
+M.~F. {Morales}, B.~{Hazelton}, I.~{Sullivan}, and A.~{Beardsley}.
+\newblock {Four Fundamental Foreground Power Spectrum Shapes for 21 cm
+  Cosmology Observations}.
+\newblock \emph{ApJ}, 752:\penalty0 137, June 2012.
+\newblock \doi{10.1088/0004-637X/752/2/137}.
+
+\bibitem[{Neben} et~al.(2015){Neben}, {Bradley}, {Hewitt}, {Bernardi},
+  {Bowman}, {Briggs}, {Cappallo}, {Deshpande}, {Goeke}, {Greenhill},
+  {Hazelton}, {Johnston-Hollitt}, {Kaplan}, {Lonsdale}, {McWhirter},
+  {Mitchell}, {Morales}, {Morgan}, {Oberoi}, {Ord}, {Prabu}, {Shankar},
+  {Srivani}, {Subrahmanyan}, {Tingay}, {Wayth}, {Webster}, {Williams}, and
+  {Williams}]{neben15}
+A.~R. {Neben}, R.~F. {Bradley}, J.~N. {Hewitt}, G.~{Bernardi}, J.~D. {Bowman},
+  F.~{Briggs}, R.~J. {Cappallo}, A.~A. {Deshpande}, R.~{Goeke}, L.~J.
+  {Greenhill}, B.~J. {Hazelton}, M.~{Johnston-Hollitt}, D.~L. {Kaplan}, C.~J.
+  {Lonsdale}, S.~R. {McWhirter}, D.~A. {Mitchell}, M.~F. {Morales},
+  E.~{Morgan}, D.~{Oberoi}, S.~M. {Ord}, T.~{Prabu}, N.~U. {Shankar}, K.~S.
+  {Srivani}, R.~{Subrahmanyan}, S.~J. {Tingay}, R.~B. {Wayth}, R.~L. {Webster},
+  A.~{Williams}, and C.~L. {Williams}.
+\newblock Measuring phased-array antenna beampatterns with high dynamic range
+  for the murchison widefield array using 137 {MH}z {ORBCOMM} satellites.
+\newblock \emph{Radio Science}, 50:\penalty0 614--629, July 2015.
+\newblock \doi{10.1002/2015RS005678}.
+
+\bibitem[{Neben} et~al.(2016{\natexlab{a}}){Neben}, {Bradley}, {Hewitt},
+  {DeBoer}, {Parsons}, {Aguirre}, {Ali}, {Cheng}, {Ewall-Wice}, {Patra},
+  {Thyagarajan}, {Bowman}, {Dickenson}, {Dillon}, {Doolittle}, {Egan},
+  {Hedrick}, {Jacobs}, {Kohn}, {Klima}, {Moodley}, {Saliwanchik}, {Schaffner},
+  {Shelton}, {Taylor}, {Taylor}, {Tegmark}, {Wirt}, and {Zheng}]{neben16b}
+A.~R. {Neben}, R.~F. {Bradley}, J.~N. {Hewitt}, D.~R. {DeBoer}, A.~R.
+  {Parsons}, J.~E. {Aguirre}, Z.~S. {Ali}, C.~{Cheng}, A.~{Ewall-Wice},
+  N.~{Patra}, N.~{Thyagarajan}, J.~{Bowman}, R.~{Dickenson}, J.~S. {Dillon},
+  P.~{Doolittle}, D.~{Egan}, M.~{Hedrick}, D.~C. {Jacobs}, S.~A. {Kohn}, P.~J.
+  {Klima}, K.~{Moodley}, B.~R.~B. {Saliwanchik}, P.~{Schaffner}, J.~{Shelton},
+  H.~A. {Taylor}, R.~{Taylor}, M.~{Tegmark}, B.~{Wirt}, and H.~{Zheng}.
+\newblock {The Hydrogen Epoch of Reionization Array Dish. I. Beam Pattern
+  Measurements and Science Implications}.
+\newblock \emph{ApJ}, 826:\penalty0 199, August 2016{\natexlab{a}}.
+\newblock \doi{10.3847/0004-637X/826/2/199}.
+
+\bibitem[{Neben} et~al.(2016{\natexlab{b}}){Neben}, {Hewitt}, {Bradley},
+  {Dillon}, {Bernardi}, {Bowman}, {Briggs}, {Cappallo}, {Corey}, {Deshpande},
+  {Goeke}, {Greenhill}, {Hazelton}, {Johnston-Hollitt}, {Kaplan}, {Lonsdale},
+  {McWhirter}, {Mitchell}, {Morales}, {Morgan}, {Oberoi}, {Ord}, {Prabu},
+  {Udaya Shankar}, {Srivani}, {Subrahmanyan}, {Tingay}, {Wayth}, {Webster},
+  {Williams}, and {Williams}]{neben16}
+A.~R. {Neben}, J.~N. {Hewitt}, R.~F. {Bradley}, J.~S. {Dillon}, G.~{Bernardi},
+  J.~D. {Bowman}, F.~{Briggs}, R.~J. {Cappallo}, B.~E. {Corey}, A.~A.
+  {Deshpande}, R.~{Goeke}, L.~J. {Greenhill}, B.~J. {Hazelton},
+  M.~{Johnston-Hollitt}, D.~L. {Kaplan}, C.~J. {Lonsdale}, S.~R. {McWhirter},
+  D.~A. {Mitchell}, M.~F. {Morales}, E.~{Morgan}, D.~{Oberoi}, S.~M. {Ord},
+  T.~{Prabu}, N.~{Udaya Shankar}, K.~S. {Srivani}, R.~{Subrahmanyan}, S.~J.
+  {Tingay}, R.~B. {Wayth}, R.~L. {Webster}, A.~{Williams}, and C.~L.
+  {Williams}.
+\newblock {Beamforming Errors in Murchison Widefield Array Phased Array
+  Antennas and their effects on Epoch of Reionization Science}.
+\newblock \emph{ApJ}, 820\penalty0 (1):\penalty0 44, 2016{\natexlab{b}}.
+\newblock URL \url{http://stacks.iop.org/0004-637X/820/i=1/a=44}.
+
+\bibitem[Neben et~al.(2014)Neben, Bradley, and Hewitt]{aasposter}
+A.R. Neben, R.F. Bradley, and J.N. Hewitt.
+\newblock Measuring antenna tile beams with high dynamic range for the
+  murchison widefield array ({MWA}) using 137 mhz {ORBCOMM} satellites.
+\newblock American Astronomical Society Meeting, Boston, MA, June 2014.
+
+\bibitem[{Newburgh} et~al.(2014{\natexlab{a}}){Newburgh}, {Addison}, {Amiri},
+  {Bandura}, {Bond}, {Connor}, {Cliche}, {Davis}, {Deng}, {Denman}, {Dobbs},
+  {Fandino}, {Fong}, {Gibbs}, {Gilbert}, {Griffin}, {Halpern}, {Hanna},
+  {Hincks}, {Hinshaw}, {H{\"o}fer}, {Klages}, {Landecker}, {Masui}, {Parra},
+  {Pen}, {Peterson}, {Recnik}, {Shaw}, {Sigurdson}, {Sitwell}, {Smecher},
+  {Smegal}, {Vanderlinde}, and {Wiebe}]{newburgh14}
+L.~B. {Newburgh}, G.~E. {Addison}, M.~{Amiri}, K.~{Bandura}, J.~R. {Bond},
+  L.~{Connor}, J.-F. {Cliche}, G.~{Davis}, M.~{Deng}, N.~{Denman}, M.~{Dobbs},
+  M.~{Fandino}, H.~{Fong}, K.~{Gibbs}, A.~{Gilbert}, E.~{Griffin},
+  M.~{Halpern}, D.~{Hanna}, A.~D. {Hincks}, G.~{Hinshaw}, C.~{H{\"o}fer},
+  P.~{Klages}, T.~{Landecker}, K.~{Masui}, J.~M. {Parra}, U.-L. {Pen},
+  J.~{Peterson}, A.~{Recnik}, J.~R. {Shaw}, K.~{Sigurdson}, M.~{Sitwell},
+  G.~{Smecher}, R.~{Smegal}, K.~{Vanderlinde}, and D.~{Wiebe}.
+\newblock {Calibrating CHIME: a new radio interferometer to probe dark energy}.
+\newblock In \emph{Ground-based and Airborne Telescopes V}, volume 9145 of
+  \emph{\procspie}, page 91454V, July 2014{\natexlab{a}}.
+\newblock \doi{10.1117/12.2056962}.
+
+\bibitem[{Newburgh} et~al.(2014{\natexlab{b}}){Newburgh}, {Addison}, {Amiri},
+  {Bandura}, {Bond}, {Connor}, {Cliche}, {Davis}, {Deng}, {Denman}, {Dobbs},
+  {Fandino}, {Fong}, {Gibbs}, {Gilbert}, {Griffin}, {Halpern}, {Hanna},
+  {Hincks}, {Hinshaw}, {H{\"o}fer}, {Klages}, {Landecker}, {Masui}, {Parra},
+  {Pen}, {Peterson}, {Recnik}, {Shaw}, {Sigurdson}, {Sitwell}, {Smecher},
+  {Smegal}, {Vanderlinde}, and {Wiebe}]{NewburghCHIMECal}
+L.~B. {Newburgh}, G.~E. {Addison}, M.~{Amiri}, K.~{Bandura}, J.~R. {Bond},
+  L.~{Connor}, J.-F. {Cliche}, G.~{Davis}, M.~{Deng}, N.~{Denman}, M.~{Dobbs},
+  M.~{Fandino}, H.~{Fong}, K.~{Gibbs}, A.~{Gilbert}, E.~{Griffin},
+  M.~{Halpern}, D.~{Hanna}, A.~D. {Hincks}, G.~{Hinshaw}, C.~{H{\"o}fer},
+  P.~{Klages}, T.~{Landecker}, K.~{Masui}, J.~M. {Parra}, U.-L. {Pen},
+  J.~{Peterson}, A.~{Recnik}, J.~R. {Shaw}, K.~{Sigurdson}, M.~{Sitwell},
+  G.~{Smecher}, R.~{Smegal}, K.~{Vanderlinde}, and D.~{Wiebe}.
+\newblock {Calibrating CHIME: a new radio interferometer to probe dark energy}.
+\newblock In \emph{Society of Photo-Optical Instrumentation Engineers (SPIE)
+  Conference Series}, volume 9145 of \emph{Society of Photo-Optical
+  Instrumentation Engineers (SPIE) Conference Series}, page~4, July
+  2014{\natexlab{b}}.
+\newblock \doi{10.1117/12.2056962}.
+
+\bibitem[{Nikutta} et~al.(2014){Nikutta}, {Hunt-Walker}, {Nenkova},
+  {Ivezi{\'c}}, and {Elitzur}]{nikutta14}
+R.~{Nikutta}, N.~{Hunt-Walker}, M.~{Nenkova}, {\v Z}.~{Ivezi{\'c}}, and
+  M.~{Elitzur}.
+\newblock {The meaning of WISE colours - I. The Galaxy and its satellites}.
+\newblock \emph{\mnras}, 442:\penalty0 3361--3379, August 2014.
+\newblock \doi{10.1093/mnras/stu1087}.
+
+\bibitem[{Oesch} et~al.(2013){Oesch}, {Bouwens}, {Illingworth}, {Labb{\'e}},
+  {Franx}, {van Dokkum}, {Trenti}, {Stiavelli}, {Gonzalez}, and
+  {Magee}]{Oesch2013}
+P.~A. {Oesch}, R.~J. {Bouwens}, G.~D. {Illingworth}, I.~{Labb{\'e}},
+  M.~{Franx}, P.~G. {van Dokkum}, M.~{Trenti}, M.~{Stiavelli}, V.~{Gonzalez},
+  and D.~{Magee}.
+\newblock {Probing the Dawn of Galaxies at z \~{} 9-12: New Constraints from
+  HUDF12/XDF and CANDELS data}.
+\newblock \emph{\apj}, 773:\penalty0 75, August 2013.
+\newblock \doi{10.1088/0004-637X/773/1/75}.
+
+\bibitem[{Offringa} et~al.(2015){Offringa}, {Wayth}, {Hurley-Walker}, {Kaplan},
+  {Barry}, {Beardsley}, {Bell}, {Bernardi}, {Bowman}, {Briggs}, {Callingham},
+  {Cappallo}, {Carroll}, {Deshpande}, {Dillon}, {Dwarakanath}, {Ewall-Wice},
+  {Feng}, {For}, {Gaensler}, {Greenhill}, {Hancock}, {Hazelton}, {Hewitt},
+  {Hindson}, {Jacobs}, {Johnston-Hollitt}, {Kapi{\'n}ska}, {Kim}, {Kittiwisit},
+  {Lenc}, {Line}, {Loeb}, {Lonsdale}, {McKinley}, {McWhirter}, {Mitchell},
+  {Morales}, {Morgan}, {Morgan}, {Neben}, {Oberoi}, {Ord}, {Paul}, {Pindor},
+  {Pober}, {Prabu}, {Procopio}, {Riding}, {Udaya Shankar}, {Sethi}, {Srivani},
+  {Staveley-Smith}, {Subrahmanyan}, {Sullivan}, {Tegmark}, {Thyagarajan},
+  {Tingay}, {Trott}, {Webster}, {Williams}, {Williams}, {Wu}, {Wyithe}, and
+  {Zheng}]{AndreMWARFI}
+A.~R. {Offringa}, R.~B. {Wayth}, N.~{Hurley-Walker}, D.~L. {Kaplan},
+  N.~{Barry}, A.~P. {Beardsley}, M.~E. {Bell}, G.~{Bernardi}, J.~D. {Bowman},
+  F.~{Briggs}, J.~R. {Callingham}, R.~J. {Cappallo}, P.~{Carroll}, A.~A.
+  {Deshpande}, J.~S. {Dillon}, K.~S. {Dwarakanath}, A.~{Ewall-Wice}, L.~{Feng},
+  B.-Q. {For}, B.~M. {Gaensler}, L.~J. {Greenhill}, P.~{Hancock}, B.~J.
+  {Hazelton}, J.~N. {Hewitt}, L.~{Hindson}, D.~C. {Jacobs},
+  M.~{Johnston-Hollitt}, A.~D. {Kapi{\'n}ska}, H.-S. {Kim}, P.~{Kittiwisit},
+  E.~{Lenc}, J.~{Line}, A.~{Loeb}, C.~J. {Lonsdale}, B.~{McKinley}, S.~R.
+  {McWhirter}, D.~A. {Mitchell}, M.~F. {Morales}, E.~{Morgan}, J.~{Morgan},
+  A.~R. {Neben}, D.~{Oberoi}, S.~M. {Ord}, S.~{Paul}, B.~{Pindor}, J.~C.
+  {Pober}, T.~{Prabu}, P.~{Procopio}, J.~{Riding}, N.~{Udaya Shankar},
+  S.~{Sethi}, K.~S. {Srivani}, L.~{Staveley-Smith}, R.~{Subrahmanyan}, I.~S.
+  {Sullivan}, M.~{Tegmark}, N.~{Thyagarajan}, S.~J. {Tingay}, C.~M. {Trott},
+  R.~L. {Webster}, A.~{Williams}, C.~L. {Williams}, C.~{Wu}, J.~S. {Wyithe},
+  and Q.~{Zheng}.
+\newblock {The Low-Frequency Environment of the Murchison Widefield Array:
+  Radio-Frequency Interference Analysis and Mitigation}.
+\newblock \emph{PASP}, 32:\penalty0 e008, March 2015.
+\newblock \doi{10.1017/pasa.2015.7}.
+
+\bibitem[{Ord} et~al.(2010){Ord}, {Mitchell}, {Wayth}, {Greenhill}, {Bernardi},
+  {Gleadow}, {Edgar}, {Clark}, {Allen}, {Arcus}, {Benkevitch}, {Bowman},
+  {Briggs}, {Bunton}, {Burns}, {Cappallo}, {Coles}, {Corey}, {Desouza},
+  {Doeleman}, {Derome}, {Deshpande}, {Emrich}, {Goeke}, {Gopalakrishna},
+  {Herne}, {Hewitt}, {Kamini}, {Kaplan}, {Kasper}, {Kincaid}, {Kocz}, {Kowald},
+  {Kratzenberg}, {Kumar}, {Lonsdale}, {Lynch}, {McWhirter}, {Madhavi},
+  {Matejek}, {Morales}, {Morgan}, {Oberoi}, {Pathikulangara}, {Prabu},
+  {Rogers}, {Roshi}, {Salah}, {Schinkel}, {Udaya Shankar}, {Srivani},
+  {Stevens}, {Tingay}, {Vaccarella}, {Waterson}, {Webster}, {Whitney},
+  {Williams}, and {Williams}]{ord2010}
+S.~M. {Ord}, D.~A. {Mitchell}, R.~B. {Wayth}, L.~J. {Greenhill}, G.~{Bernardi},
+  S.~{Gleadow}, R.~G. {Edgar}, M.~A. {Clark}, G.~{Allen}, W.~{Arcus},
+  L.~{Benkevitch}, J.~D. {Bowman}, F.~H. {Briggs}, J.~D. {Bunton}, S.~{Burns},
+  R.~J. {Cappallo}, W.~A. {Coles}, B.~E. {Corey}, L.~{Desouza}, S.~S.
+  {Doeleman}, M.~{Derome}, A.~{Deshpande}, D.~{Emrich}, R.~{Goeke}, M.~R.
+  {Gopalakrishna}, D.~{Herne}, J.~N. {Hewitt}, P.~A. {Kamini}, D.~L. {Kaplan},
+  J.~C. {Kasper}, B.~B. {Kincaid}, J.~{Kocz}, E.~{Kowald}, E.~{Kratzenberg},
+  D.~{Kumar}, C.~J. {Lonsdale}, M.~J. {Lynch}, S.~R. {McWhirter}, S.~{Madhavi},
+  M.~{Matejek}, M.~F. {Morales}, E.~{Morgan}, D.~{Oberoi}, J.~{Pathikulangara},
+  T.~{Prabu}, A.~E.~E. {Rogers}, A.~{Roshi}, J.~E. {Salah}, A.~{Schinkel},
+  N.~{Udaya Shankar}, K.~S. {Srivani}, J.~{Stevens}, S.~J. {Tingay},
+  A.~{Vaccarella}, M.~{Waterson}, R.~L. {Webster}, A.~R. {Whitney},
+  A.~{Williams}, and C.~{Williams}.
+\newblock {Interferometric Imaging with the 32 Element Murchison Wide-Field
+  Array}.
+\newblock \emph{PASP}, 122:\penalty0 1353--1366, November 2010.
+\newblock \doi{10.1086/657160}.
+
+\bibitem[{Paciga} et~al.(2013){Paciga}, {Albert}, {Bandura}, {Chang}, {Gupta},
+  {Hirata}, {Odegova}, {Pen}, {Peterson}, {Roy}, {Shaw}, {Sigurdson}, and
+  {Voytek}]{gmrtsignalloss}
+G.~{Paciga}, J.~G. {Albert}, K.~{Bandura}, T.-C. {Chang}, Y.~{Gupta},
+  C.~{Hirata}, J.~{Odegova}, U.-L. {Pen}, J.~B. {Peterson}, J.~{Roy}, J.~R.
+  {Shaw}, K.~{Sigurdson}, and T.~{Voytek}.
+\newblock {A simulation-calibrated limit on the H I power spectrum from the
+  GMRT Epoch of Reionization experiment}.
+\newblock \emph{MNRAS}, 433:\penalty0 639--647, July 2013.
+\newblock \doi{10.1093/mnras/stt753}.
+
+\bibitem[Paciga et~al.(2011)Paciga, Chang, Gupta, Nityanada, Odegova, Pen,
+  Peterson, Roy, and Sigurdson]{Paciga2011}
+Gregory Paciga, Tzu-Ching Chang, Yashwant Gupta, RThe Astronomical~Journalaram
+  Nityanada, Julia Odegova, Ue-Li Pen, Jeffrey~B. Peterson, Jayanta Roy, and
+  Kris Sigurdson.
+\newblock The gmrt epoch of reionization experiment: a new upper limit on the
+  neutral hydrogen power spectrum at z≈ 8.6.
+\newblock \emph{MNRAS}, 413\penalty0 (2):\penalty0 1174--1183, 2011.
+\newblock \doi{10.1111/j.1365-2966.2011.18208.x}.
+\newblock URL
+  \url{http://mnras.oxfordjournals.org/content/413/2/1174.abstract}.
+
+\bibitem[{Park} et~al.(2014){Park}, {Kim}, {Wyithe}, and {Lacey}]{park14}
+J.~{Park}, H.-S. {Kim}, J.~S.~B. {Wyithe}, and C.~G. {Lacey}.
+\newblock {The cross-power spectrum between 21 cm emission and galaxies in
+  hierarchical galaxy formation models}.
+\newblock \emph{\mnras}, 438:\penalty0 2474--2482, March 2014.
+\newblock \doi{10.1093/mnras/stt2366}.
+
+\bibitem[{Parsons} et~al.(2012{\natexlab{a}}){Parsons}, {Pober}, {McQuinn},
+  {Jacobs}, and {Aguirre}]{AaronSensitivity}
+A.~{Parsons}, J.~{Pober}, M.~{McQuinn}, D.~{Jacobs}, and J.~{Aguirre}.
+\newblock {A Sensitivity and Array-configuration Study for Measuring the Power
+  Spectrum of 21 cm Emission from Reionization}.
+\newblock \emph{ApJ}, 753:\penalty0 81, July 2012{\natexlab{a}}.
+\newblock \doi{10.1088/0004-637X/753/1/81}.
+
+\bibitem[{Parsons} et~al.(2012{\natexlab{b}}){Parsons}, {Pober}, {McQuinn},
+  {Jacobs}, and {Aguirre}]{parsons12b}
+A.~{Parsons}, J.~{Pober}, M.~{McQuinn}, D.~{Jacobs}, and J.~{Aguirre}.
+\newblock {A Sensitivity and Array-configuration Study for Measuring the Power
+  Spectrum of 21 cm Emission from Reionization}.
+\newblock \emph{ApJ}, 753:\penalty0 81, July 2012{\natexlab{b}}.
+\newblock \doi{10.1088/0004-637X/753/1/81}.
+
+\bibitem[{Parsons} and {Backer}(2009)]{parsonsandbacker}
+A.~R. {Parsons} and D.~C. {Backer}.
+\newblock {Calibration of Low-Frequency, Wide-Field Radio Interferometers Using
+  Delay/Delay-Rate Filtering}.
+\newblock \emph{The Astronomical Journal}, 138:\penalty0 219--226, July 2009.
+\newblock \doi{10.1088/0004-6256/138/1/219}.
+
+\bibitem[{Parsons} et~al.(2010){Parsons}, {Backer}, {Foster}, {Wright},
+  {Bradley}, {Gugliucci}, {Parashare}, {Benoit}, {Aguirre}, {Jacobs},
+  {Carilli}, {Herne}, {Lynch}, {Manley}, and {Werthimer}]{parsons10}
+A.~R. {Parsons}, D.~C. {Backer}, G.~S. {Foster}, M.~C.~H. {Wright}, R.~F.
+  {Bradley}, N.~E. {Gugliucci}, C.~R. {Parashare}, E.~E. {Benoit}, J.~E.
+  {Aguirre}, D.~C. {Jacobs}, C.~L. {Carilli}, D.~{Herne}, M.~J. {Lynch}, J.~R.
+  {Manley}, and D.~J. {Werthimer}.
+\newblock {The Precision Array for Probing the Epoch of Re-ionization: Eight
+  Station Results}.
+\newblock \emph{The Astronomical Journal}, 139:\penalty0 1468--1480, April
+  2010.
+\newblock \doi{10.1088/0004-6256/139/4/1468}.
+
+\bibitem[{Parsons} et~al.(2012{\natexlab{c}}){Parsons}, {Pober}, {Aguirre},
+  {Carilli}, {Jacobs}, and {Moore}]{AaronDelay}
+A.~R. {Parsons}, J.~C. {Pober}, J.~E. {Aguirre}, C.~L. {Carilli}, D.~C.
+  {Jacobs}, and D.~F. {Moore}.
+\newblock {A Per-baseline, Delay-spectrum Technique for Accessing the 21 cm
+  Cosmic Reionization Signature}.
+\newblock \emph{{ApJ}}, 756:\penalty0 165, September 2012{\natexlab{c}}.
+\newblock \doi{10.1088/0004-637X/756/2/165}.
+
+\bibitem[{Parsons} et~al.(2012{\natexlab{d}}){Parsons}, {Pober}, {Aguirre},
+  {Carilli}, {Jacobs}, and {Moore}]{parsons12a}
+A.~R. {Parsons}, J.~C. {Pober}, J.~E. {Aguirre}, C.~L. {Carilli}, D.~C.
+  {Jacobs}, and D.~F. {Moore}.
+\newblock {A Per-baseline, Delay-spectrum Technique for Accessing the 21 cm
+  Cosmic Reionization Signature}.
+\newblock \emph{ApJ}, 756:\penalty0 165, September 2012{\natexlab{d}}.
+\newblock \doi{10.1088/0004-637X/756/2/165}.
+
+\bibitem[{Parsons} et~al.(2014){Parsons}, {Liu}, {Aguirre}, {Ali}, {Bradley},
+  {Carilli}, {DeBoer}, {Dexter}, {Gugliucci}, {Jacobs}, {Klima}, {MacMahon},
+  {Manley}, {Moore}, {Pober}, {Stefan}, and {Walbrugh}]{parsons14}
+A.~R. {Parsons}, A.~{Liu}, J.~E. {Aguirre}, Z.~S. {Ali}, R.~F. {Bradley}, C.~L.
+  {Carilli}, D.~R. {DeBoer}, M.~R. {Dexter}, N.~E. {Gugliucci}, D.~C. {Jacobs},
+  P.~{Klima}, D.~H.~E. {MacMahon}, J.~R. {Manley}, D.~F. {Moore}, J.~C.
+  {Pober}, I.~I. {Stefan}, and W.~P. {Walbrugh}.
+\newblock {New Limits on 21 cm Epoch of Reionization from PAPER-32 Consistent
+  with an X-Ray Heated Intergalactic Medium at z = 7.7}.
+\newblock \emph{{ApJ}}, 788:\penalty0 106, June 2014.
+\newblock \doi{10.1088/0004-637X/788/2/106}.
+
+\bibitem[{Parsons} et~al.(2016){Parsons}, {Liu}, {Ali}, and
+  {Cheng}]{parsonsoptimalfringeratefiltering}
+A.~R. {Parsons}, A.~{Liu}, Z.~S. {Ali}, and C.~{Cheng}.
+\newblock {Optimized Beam Sculpting with Generalized Fringe-rate Filters}.
+\newblock \emph{ApJ}, 820:\penalty0 51, March 2016.
+\newblock \doi{10.3847/0004-637X/820/1/51}.
+
+\bibitem[Parsons and DeBoer(2015)]{dishmemo}
+A.R. Parsons and D.~DeBoer.
+\newblock Configuration of the hera element.
+\newblock Technical Memo~5, Dept. of Astronomy, University of California,
+  Berkeley, CA, August 2015.
+
+\bibitem[{Patra} et~al.(2017){Patra}, {Parsons}, {DeBoer}, {Thyagarajan},
+  {Ewall-Wice}, {Hsyu}, {Kuk Leung}, {Day}, {Aguirre}, {Alexander}, {Ali},
+  {Beardsley}, {Bowman}, {Bradley}, {Carilli}, {Cheng}, {de Lera Acedo},
+  {Dillon}, {Fadana}, {Fagnoni}, {Fritz}, {Furlanetto}, {Glendenning}, {Greig},
+  {Grobbelaar}, {Hazelton}, {Hewitt}, {Jacobs}, {Julius}, {Kariseb}, {Kohn},
+  {Lebedeva}, {Lekalake}, {Liu}, {Loots}, {MacMahon}, {Malan}, {Malgas},
+  {Maree}, {Martinot}, {Mathison}, {Matsetela}, {Mesinger}, {Morales}, {Neben},
+  {Pieterse}, {Pober}, {Razavi-Ghods}, {Ringuette}, {Robnett}, {Rosie}, {Sell},
+  {Smith}, {Syce}, {Tegmark}, {Williams}, and {Zheng}]{patra16}
+N.~{Patra}, A.~R. {Parsons}, D.~R. {DeBoer}, N.~{Thyagarajan}, A.~{Ewall-Wice},
+  G.~{Hsyu}, T.~{Kuk Leung}, C.~K. {Day}, J.~E. {Aguirre}, P.~{Alexander},
+  Z.~S. {Ali}, A.~P. {Beardsley}, J.~D. {Bowman}, R.~F. {Bradley}, C.~L.
+  {Carilli}, C.~{Cheng}, E.~{de Lera Acedo}, J.~S. {Dillon}, G.~{Fadana},
+  N.~{Fagnoni}, R.~{Fritz}, S.~R. {Furlanetto}, B.~{Glendenning}, B.~{Greig},
+  J.~{Grobbelaar}, B.~J. {Hazelton}, J.~N. {Hewitt}, D.~C. {Jacobs},
+  A.~{Julius}, M.~{Kariseb}, S.~A. {Kohn}, A.~{Lebedeva}, T.~{Lekalake},
+  A.~{Liu}, A.~{Loots}, D.~{MacMahon}, L.~{Malan}, C.~{Malgas}, M.~{Maree},
+  Z.~{Martinot}, N.~{Mathison}, E.~{Matsetela}, A.~{Mesinger}, M.~F. {Morales},
+  A.~R. {Neben}, S.~{Pieterse}, J.~C. {Pober}, N.~{Razavi-Ghods},
+  J.~{Ringuette}, J.~{Robnett}, K.~{Rosie}, R.~{Sell}, C.~{Smith}, A.~{Syce},
+  M.~{Tegmark}, P.~K.~G. {Williams}, and H.~{Zheng}.
+\newblock {The Hydrogen Epoch of Reionization Array Dish III: Measuring
+  Chromaticity of Prototype Element with Reflectometry}.
+\newblock \emph{ArXiv e-prints}, January 2017.
+
+\bibitem[{Planck Collaboration} et~al.(2016{\natexlab{a}}){Planck
+  Collaboration}, {Ade}, {Aghanim}, {Arnaud}, {Ashdown}, {Aumont},
+  {Baccigalupi}, {Banday}, {Barreiro}, {Bartlett}, and et~al.]{planck16}
+{Planck Collaboration}, P.~A.~R. {Ade}, N.~{Aghanim}, M.~{Arnaud},
+  M.~{Ashdown}, J.~{Aumont}, C.~{Baccigalupi}, A.~J. {Banday}, R.~B.
+  {Barreiro}, J.~G. {Bartlett}, and et~al.
+\newblock {Planck 2015 results. XIII. Cosmological parameters}.
+\newblock \emph{\aap}, 594:\penalty0 A13, September 2016{\natexlab{a}}.
+\newblock \doi{10.1051/0004-6361/201525830}.
+
+\bibitem[{Planck Collaboration} et~al.(2016{\natexlab{b}}){Planck
+  Collaboration}, {Aghanim, N.}, {Ashdown, M.}, {Aumont, J.}, {Baccigalupi,
+  C.}, {Ballardini, M.}, {Banday, A. J.}, {Barreiro, R. B.}, {Bartolo, N.},
+  {Basak, S.}, {Battye, R.}, {Benabed, K.}, {Bernard, J.-P.}, {Bersanelli, M.},
+  {Bielewicz, P.}, {Bock, J. J.}, {Bonaldi, A.}, {Bonavera, L.}, {Bond, J. R.},
+  {Borrill, J.}, {Bouchet, F. R.}, {Boulanger, F.}, {Bucher, M.}, {Burigana,
+  C.}, {Butler, R. C.}, {Calabrese, E.}, {Cardoso, J.-F.}, {Carron, J.},
+  {Challinor, A.}, {Chiang, H. C.}, {Colombo, L. P. L.}, {Combet, C.}, {Comis,
+  B.}, {Coulais, A.}, {Crill, B. P.}, {Curto, A.}, {Cuttaia, F.}, {Davis, R.
+  J.}, {de Bernardis, P.}, {de Rosa, A.}, {de Zotti, G.}, {Delabrouille, J.},
+  {Delouis, J.-M.}, {Di Valentino, E.}, {Dickinson, C.}, {Diego, J. M.},
+  {Doré, O.}, {Douspis, M.}, {Ducout, A.}, {Dupac, X.}, {Efstathiou, G.},
+  {Elsner, F.}, {Enßlin, T. A.}, {Eriksen, H. K.}, {Falgarone, E.}, {Fantaye,
+  Y.}, {Finelli, F.}, {Forastieri, F.}, {Frailis, M.}, {Fraisse, A. A.},
+  {Franceschi, E.}, {Frolov, A.}, {Galeotta, S.}, {Galli, S.}, {Ganga, K.},
+  {Génova-Santos, R. T.}, {Gerbino, M.}, {Ghosh, T.}, {González-Nuevo, J.},
+  {Górski, K. M.}, {Gratton, S.}, {Gruppuso, A.}, {Gudmundsson, J. E.},
+  {Hansen, F. K.}, {Helou, G.}, {Henrot-Versillé, S.}, {Herranz, D.}, {Hivon,
+  E.}, {Huang, Z.}, {Ilić, S.}, {Jaffe, A. H.}, {Jones, W. C.}, {Keihänen,
+  E.}, {Keskitalo, R.}, {Kisner, T. S.}, {Knox, L.}, {Krachmalnicoff, N.},
+  {Kunz, M.}, {Kurki-Suonio, H.}, {Lagache, G.}, {Lamarre, J.-M.}, {Langer,
+  M.}, {Lasenby, A.}, {Lattanzi, M.}, {Lawrence, C. R.}, {Le Jeune, M.},
+  {Leahy, J. P.}, {Levrier, F.}, {Liguori, M.}, {Lilje, P. B.},
+  {López-Caniego, M.}, {Ma, Y.-Z.}, {Macías-Pérez, J. F.}, {Maggio, G.},
+  {Mangilli, A.}, {Maris, M.}, {Martin, P. G.}, {Martínez-González, E.},
+  {Matarrese, S.}, {Mauri, N.}, {McEwen, J. D.}, {Meinhold, P. R.},
+  {Melchiorri, A.}, {Mennella, A.}, {Migliaccio, M.}, {Miville-Deschênes,
+  M.-A.}, {Molinari, D.}, {Moneti, A.}, {Montier, L.}, {Morgante, G.}, {Moss,
+  A.}, {Mottet, S.}, {Naselsky, P.}, {Natoli, P.}, {Oxborrow, C. A.}, {Pagano,
+  L.}, {Paoletti, D.}, {Partridge, B.}, {Patanchon, G.}, {Patrizii, L.},
+  {Perdereau, O.}, {Perotto, L.}, {Pettorino, V.}, {Piacentini, F.},
+  {Plaszczynski, S.}, {Polastri, L.}, {Polenta, G.}, {Puget, J.-L.}, {Rachen,
+  J. P.}, {Racine, B.}, {Reinecke, M.}, {Remazeilles, M.}, {Renzi, A.}, {Rocha,
+  G.}, {Rossetti, M.}, {Roudier, G.}, {Rubiño-Martín, J. A.}, {Ruiz-Granados,
+  B.}, {Salvati, L.}, {Sandri, M.}, {Savelainen, M.}, {Scott, D.}, {Sirri, G.},
+  {Sunyaev, R.}, {Suur-Uski, A.-S.}, {Tauber, J. A.}, {Tenti, M.}, {Toffolatti,
+  L.}, {Tomasi, M.}, {Tristram, M.}, {Trombetti, T.}, {Valiviita, J.}, {Van
+  Tent, F.}, {Vibert, L.}, {Vielva, P.}, {Villa, F.}, {Vittorio, N.}, {Wandelt,
+  B. D.}, {Watson, R.}, {Wehus, I. K.}, {White, M.}, {Zacchei, A.}, and {Zonca,
+  A.}]{plancktau16}
+{Planck Collaboration}, {Aghanim, N.}, {Ashdown, M.}, {Aumont, J.},
+  {Baccigalupi, C.}, {Ballardini, M.}, {Banday, A. J.}, {Barreiro, R. B.},
+  {Bartolo, N.}, {Basak, S.}, {Battye, R.}, {Benabed, K.}, {Bernard, J.-P.},
+  {Bersanelli, M.}, {Bielewicz, P.}, {Bock, J. J.}, {Bonaldi, A.}, {Bonavera,
+  L.}, {Bond, J. R.}, {Borrill, J.}, {Bouchet, F. R.}, {Boulanger, F.},
+  {Bucher, M.}, {Burigana, C.}, {Butler, R. C.}, {Calabrese, E.}, {Cardoso,
+  J.-F.}, {Carron, J.}, {Challinor, A.}, {Chiang, H. C.}, {Colombo, L. P. L.},
+  {Combet, C.}, {Comis, B.}, {Coulais, A.}, {Crill, B. P.}, {Curto, A.},
+  {Cuttaia, F.}, {Davis, R. J.}, {de Bernardis, P.}, {de Rosa, A.}, {de Zotti,
+  G.}, {Delabrouille, J.}, {Delouis, J.-M.}, {Di Valentino, E.}, {Dickinson,
+  C.}, {Diego, J. M.}, {Doré, O.}, {Douspis, M.}, {Ducout, A.}, {Dupac, X.},
+  {Efstathiou, G.}, {Elsner, F.}, {Enßlin, T. A.}, {Eriksen, H. K.},
+  {Falgarone, E.}, {Fantaye, Y.}, {Finelli, F.}, {Forastieri, F.}, {Frailis,
+  M.}, {Fraisse, A. A.}, {Franceschi, E.}, {Frolov, A.}, {Galeotta, S.},
+  {Galli, S.}, {Ganga, K.}, {Génova-Santos, R. T.}, {Gerbino, M.}, {Ghosh,
+  T.}, {González-Nuevo, J.}, {Górski, K. M.}, {Gratton, S.}, {Gruppuso, A.},
+  {Gudmundsson, J. E.}, {Hansen, F. K.}, {Helou, G.}, {Henrot-Versillé, S.},
+  {Herranz, D.}, {Hivon, E.}, {Huang, Z.}, {Ilić, S.}, {Jaffe, A. H.}, {Jones,
+  W. C.}, {Keihänen, E.}, {Keskitalo, R.}, {Kisner, T. S.}, {Knox, L.},
+  {Krachmalnicoff, N.}, {Kunz, M.}, {Kurki-Suonio, H.}, {Lagache, G.},
+  {Lamarre, J.-M.}, {Langer, M.}, {Lasenby, A.}, {Lattanzi, M.}, {Lawrence, C.
+  R.}, {Le Jeune, M.}, {Leahy, J. P.}, {Levrier, F.}, {Liguori, M.}, {Lilje, P.
+  B.}, {López-Caniego, M.}, {Ma, Y.-Z.}, {Macías-Pérez, J. F.}, {Maggio,
+  G.}, {Mangilli, A.}, {Maris, M.}, {Martin, P. G.}, {Martínez-González, E.},
+  {Matarrese, S.}, {Mauri, N.}, {McEwen, J. D.}, {Meinhold, P. R.},
+  {Melchiorri, A.}, {Mennella, A.}, {Migliaccio, M.}, {Miville-Deschênes,
+  M.-A.}, {Molinari, D.}, {Moneti, A.}, {Montier, L.}, {Morgante, G.}, {Moss,
+  A.}, {Mottet, S.}, {Naselsky, P.}, {Natoli, P.}, {Oxborrow, C. A.}, {Pagano,
+  L.}, {Paoletti, D.}, {Partridge, B.}, {Patanchon, G.}, {Patrizii, L.},
+  {Perdereau, O.}, {Perotto, L.}, {Pettorino, V.}, {Piacentini, F.},
+  {Plaszczynski, S.}, {Polastri, L.}, {Polenta, G.}, {Puget, J.-L.}, {Rachen,
+  J. P.}, {Racine, B.}, {Reinecke, M.}, {Remazeilles, M.}, {Renzi, A.}, {Rocha,
+  G.}, {Rossetti, M.}, {Roudier, G.}, {Rubiño-Martín, J. A.}, {Ruiz-Granados,
+  B.}, {Salvati, L.}, {Sandri, M.}, {Savelainen, M.}, {Scott, D.}, {Sirri, G.},
+  {Sunyaev, R.}, {Suur-Uski, A.-S.}, {Tauber, J. A.}, {Tenti, M.}, {Toffolatti,
+  L.}, {Tomasi, M.}, {Tristram, M.}, {Trombetti, T.}, {Valiviita, J.}, {Van
+  Tent, F.}, {Vibert, L.}, {Vielva, P.}, {Villa, F.}, {Vittorio, N.}, {Wandelt,
+  B. D.}, {Watson, R.}, {Wehus, I. K.}, {White, M.}, {Zacchei, A.}, and {Zonca,
+  A.}
+\newblock Planck intermediate results - xlvi. reduction of large-scale
+  systematic effects in hfi polarization maps and estimation of the
+  reionization optical depth.
+\newblock \emph{Astronomy and Astrophysics}, 596:\penalty0 A107,
+  2016{\natexlab{b}}.
+\newblock \doi{10.1051/0004-6361/201628890}.
+\newblock URL \url{http://dx.doi.org/10.1051/0004-6361/201628890}.
+
+\bibitem[{Pober} et~al.(2012){Pober}, {Parsons}, {Jacobs}, {Aguirre},
+  {Bradley}, {Carilli}, {Gugliucci}, {Moore}, and {Parashare}]{pober12}
+J.~C. {Pober}, A.~R. {Parsons}, D.~C. {Jacobs}, J.~E. {Aguirre}, R.~F.
+  {Bradley}, C.~L. {Carilli}, N.~E. {Gugliucci}, D.~F. {Moore}, and C.~R.
+  {Parashare}.
+\newblock {A Technique for Primary Beam Calibration of Drift-scanning,
+  Wide-field Antenna Elements}.
+\newblock \emph{The Astronomical Journal}, 143:\penalty0 53, February 2012.
+\newblock \doi{10.1088/0004-6256/143/2/53}.
+
+\bibitem[{Pober} et~al.(2013){Pober}, {Parsons}, {Aguirre}, {Ali}, {Bradley},
+  {Carilli}, {DeBoer}, {Dexter}, {Gugliucci}, {Jacobs}, {Klima}, {MacMahon},
+  {Manley}, {Moore}, {Stefan}, and {Walbrugh}]{pober13}
+J.~C. {Pober}, A.~R. {Parsons}, J.~E. {Aguirre}, Z.~{Ali}, R.~F. {Bradley},
+  C.~L. {Carilli}, D.~{DeBoer}, M.~{Dexter}, N.~E. {Gugliucci}, D.~C. {Jacobs},
+  P.~J. {Klima}, D.~{MacMahon}, J.~{Manley}, D.~F. {Moore}, I.~I. {Stefan}, and
+  W.~P. {Walbrugh}.
+\newblock {Opening the 21 cm Epoch of Reionization Window: Measurements of
+  Foreground Isolation with PAPER}.
+\newblock \emph{ApJL}, 768:\penalty0 L36, May 2013.
+\newblock \doi{10.1088/2041-8205/768/2/L36}.
+
+\bibitem[{Pober} et~al.(2015){Pober}, {Ali}, {Parsons}, {McQuinn}, {Aguirre},
+  {Bernardi}, {Bradley}, {Carilli}, {Cheng}, {DeBoer}, {Dexter}, {Furlanetto},
+  {Grobbelaar}, {Horrell}, {Jacobs}, {Klima}, {Kohn}, {Liu}, {MacMahon},
+  {Maree}, {Mesinger}, {Moore}, {Razavi-Ghods}, {Stefan}, {Walbrugh}, {Walker},
+  and {Zheng}]{PoberPAPER64Heating}
+J.~C. {Pober}, Z.~S. {Ali}, A.~R. {Parsons}, M.~{McQuinn}, J.~E. {Aguirre},
+  G.~{Bernardi}, R.~F. {Bradley}, C.~L. {Carilli}, C.~{Cheng}, D.~R. {DeBoer},
+  M.~R. {Dexter}, S.~R. {Furlanetto}, J.~{Grobbelaar}, J.~{Horrell}, D.~C.
+  {Jacobs}, P.~J. {Klima}, S.~A. {Kohn}, A.~{Liu}, D.~H.~E. {MacMahon},
+  M.~{Maree}, A.~{Mesinger}, D.~F. {Moore}, N.~{Razavi-Ghods}, I.~I. {Stefan},
+  W.~P. {Walbrugh}, A.~{Walker}, and H.~{Zheng}.
+\newblock {PAPER-64 Constraints On Reionization. II. The Temperature of the z
+  =8.4 Intergalactic Medium}.
+\newblock \emph{ApJ}, 809:\penalty0 62, August 2015.
+\newblock \doi{10.1088/0004-637X/809/1/62}.
+
+\bibitem[{Pober} et~al.(2016){Pober}, {Hazelton}, {Beardsley}, {Barry},
+  {Martinot}, {Sullivan}, {Morales}, {Bell}, {Bernardi}, {Bhat}, {Bowman},
+  {Briggs}, {Cappallo}, {Carroll}, {Corey}, {de Oliveira-Costa}, {Deshpande},
+  {Dillon}, {Emrich}, {Ewall-Wice}, {Feng}, {Goeke}, {Greenhill}, {Hewitt},
+  {Hindson}, {Hurley-Walker}, {Jacobs}, {Johnston-Hollitt}, {Kaplan}, {Kasper},
+  {Kim}, {Kittiwisit}, {Kratzenberg}, {Kudryavtseva}, {Lenc}, {Line}, {Loeb},
+  {Lonsdale}, {Lynch}, {McKinley}, {McWhirter}, {Mitchell}, {Morgan}, {Neben},
+  {Oberoi}, {Offringa}, {Ord}, {Paul}, {Pindor}, {Prabu}, {Procopio}, {Riding},
+  {Rogers}, {Roshi}, {Sethi}, {Udaya Shankar}, {Srivani}, {Subrahmanyan},
+  {Tegmark}, {Thyagarajan}, {Tingay}, {Trott}, {Waterson}, {Wayth}, {Webster},
+  {Whitney}, {Williams}, {Williams}, and {Wyithe}]{pober16}
+J.~C. {Pober}, B.~J. {Hazelton}, A.~P. {Beardsley}, N.~A. {Barry}, Z.~E.
+  {Martinot}, I.~S. {Sullivan}, M.~F. {Morales}, M.~E. {Bell}, G.~{Bernardi},
+  N.~D.~R. {Bhat}, J.~D. {Bowman}, F.~{Briggs}, R.~J. {Cappallo}, P.~{Carroll},
+  B.~E. {Corey}, A.~{de Oliveira-Costa}, A.~A. {Deshpande}, J.~S. {Dillon},
+  D.~{Emrich}, A.~M. {Ewall-Wice}, L.~{Feng}, R.~{Goeke}, L.~J. {Greenhill},
+  J.~N. {Hewitt}, L.~{Hindson}, N.~{Hurley-Walker}, D.~C. {Jacobs},
+  M.~{Johnston-Hollitt}, D.~L. {Kaplan}, J.~C. {Kasper}, H.-S. {Kim},
+  P.~{Kittiwisit}, E.~{Kratzenberg}, N.~{Kudryavtseva}, E.~{Lenc}, J.~{Line},
+  A.~{Loeb}, C.~J. {Lonsdale}, M.~J. {Lynch}, B.~{McKinley}, S.~R. {McWhirter},
+  D.~A. {Mitchell}, E.~{Morgan}, A.~R. {Neben}, D.~{Oberoi}, A.~R. {Offringa},
+  S.~M. {Ord}, S.~{Paul}, B.~{Pindor}, T.~{Prabu}, P.~{Procopio}, J.~{Riding},
+  A.~E.~E. {Rogers}, A.~{Roshi}, S.~K. {Sethi}, N.~{Udaya Shankar}, K.~S.
+  {Srivani}, R.~{Subrahmanyan}, M.~{Tegmark}, N.~{Thyagarajan}, S.~J. {Tingay},
+  C.~M. {Trott}, M.~{Waterson}, R.~B. {Wayth}, R.~L. {Webster}, A.~R.
+  {Whitney}, A.~{Williams}, C.~L. {Williams}, and J.~S.~B. {Wyithe}.
+\newblock {The Importance of Wide-field Foreground Removal for 21 cm Cosmology:
+  A Demonstration with Early MWA Epoch of Reionization Observations}.
+\newblock \emph{ApJ}, 819:\penalty0 8, March 2016.
+\newblock \doi{10.3847/0004-637X/819/1/8}.
+
+\bibitem[Pober et~al.(2014)Pober, Liu, Dillon, Aguirre, Bowman, Bradley,
+  Carilli, DeBoer, Hewitt, Jacobs, McQuinn, Morales, Parsons, Tegmark, and
+  Werthimer]{PoberNextGen}
+Jonathan~C. Pober, Adrian Liu, Joshua~S. Dillon, James~E. Aguirre, Judd~D.
+  Bowman, Richard~F. Bradley, Chris~L. Carilli, David~R. DeBoer, Jacqueline~N.
+  Hewitt, Daniel~C. Jacobs, Matthew McQuinn, Miguel~F. Morales, Aaron~R.
+  Parsons, Max Tegmark, and Dan~J. Werthimer.
+\newblock What next-generation 21 cm power spectrum measurements can teach us
+  about the epoch of reionization.
+\newblock \emph{ApJ}, 782\penalty0 (2):\penalty0 66, 2014.
+\newblock URL \url{http://stacks.iop.org/0004-637X/782/i=2/a=66}.
+
+\bibitem[{Prescott} et~al.(2016){Prescott}, {Mauch}, {Jarvis}, {McAlpine},
+  {Smith}, {Fine}, {Johnston}, {Hardcastle}, {Baldry}, {Brough}, {Brown},
+  {Bremer}, {Driver}, {Hopkins}, {Kelvin}, {Loveday}, {Norberg}, {Obreschkow},
+  and {Sadler}]{prescott16}
+M.~{Prescott}, T.~{Mauch}, M.~J. {Jarvis}, K.~{McAlpine}, D.~J.~B. {Smith},
+  S.~{Fine}, R.~{Johnston}, M.~J. {Hardcastle}, I.~K. {Baldry}, S.~{Brough},
+  M.~J.~I. {Brown}, M.~N. {Bremer}, S.~P. {Driver}, A.~M. {Hopkins}, L.~S.
+  {Kelvin}, J.~{Loveday}, P.~{Norberg}, D.~{Obreschkow}, and E.~M. {Sadler}.
+\newblock {Galaxy And Mass Assembly (GAMA): the 325 MHz radio luminosity
+  function of AGN and star-forming galaxies}.
+\newblock \emph{\mnras}, 457:\penalty0 730--744, March 2016.
+\newblock \doi{10.1093/mnras/stv3020}.
+
+\bibitem[{Pritchard} and {Loeb}(2012)]{PritchardLoebReview}
+J.~R. {Pritchard} and A.~{Loeb}.
+\newblock {21 cm cosmology in the 21st century}.
+\newblock \emph{Reports on Progress in Physics}, 75\penalty0 (8):\penalty0
+  086901, August 2012.
+\newblock \doi{10.1088/0034-4885/75/8/086901}.
+
+\bibitem[{Pullen} et~al.(2014){Pullen}, {Dor{\'e}}, and {Bock}]{pullen14}
+A.~R. {Pullen}, O.~{Dor{\'e}}, and J.~{Bock}.
+\newblock {Intensity Mapping across Cosmic Times with the Ly{$\alpha$} Line}.
+\newblock \emph{\apj}, 786:\penalty0 111, May 2014.
+\newblock \doi{10.1088/0004-637X/786/2/111}.
+
+\bibitem[{Pupillo} et~al.(2015){Pupillo}, {Naldi}, {Bianchi}, {Mattana},
+  {Monari}, {Perini}, {Poloni}, {Schiaffino}, {Bolli}, {Lingua}, {Aicardi},
+  {Bendea}, {Maschio}, {Piras}, {Virone}, {Paonessa}, {Farooqui}, {Tibaldi},
+  {Addamo}, {Peverini}, {Tascone}, and {Wijnholds}]{drone2}
+G.~{Pupillo}, G.~{Naldi}, G.~{Bianchi}, A.~{Mattana}, J.~{Monari}, F.~{Perini},
+  M.~{Poloni}, M.~{Schiaffino}, P.~{Bolli}, A.~{Lingua}, I.~{Aicardi},
+  H.~{Bendea}, P.~{Maschio}, M.~{Piras}, G.~{Virone}, F.~{Paonessa},
+  Z.~{Farooqui}, A.~{Tibaldi}, G.~{Addamo}, O.~A. {Peverini}, R.~{Tascone}, and
+  S.~J. {Wijnholds}.
+\newblock {Medicina array demonstrator: calibration and radiation pattern
+  characterization using a UAV-mounted radio-frequency source}.
+\newblock \emph{Experimental Astronomy}, 39:\penalty0 405--421, June 2015.
+\newblock \doi{10.1007/s10686-015-9456-z}.
+
+\bibitem[{Ram Marthi} and {Chengalur}(2013)]{redundant4}
+V.~{Ram Marthi} and J.~{Chengalur}.
+\newblock {Non-linear Redundancy Calibration}.
+\newblock \emph{ArXiv e-prints}, October 2013.
+
+\bibitem[{Repp} et~al.(2016){Repp}, {Ebeling}, and {Richard}]{Ebeling2016}
+A.~{Repp}, H.~{Ebeling}, and J.~{Richard}.
+\newblock {A systematic search for lensed high-redshift galaxies in HST images
+  of MACS clusters}.
+\newblock \emph{\mnras}, 457:\penalty0 1399--1409, April 2016.
+\newblock \doi{10.1093/mnras/stw002}.
+
+\bibitem[{Ricker} et~al.(2014){Ricker}, {Winn}, {Vanderspek}, {Latham},
+  {Bakos}, {Bean}, {Berta-Thompson}, {Brown}, {Buchhave}, {Butler}, {Butler},
+  {Chaplin}, {Charbonneau}, {Christensen-Dalsgaard}, {Clampin}, {Deming},
+  {Doty}, {De Lee}, {Dressing}, {Dunham}, {Endl}, {Fressin}, {Ge}, {Henning},
+  {Holman}, {Howard}, {Ida}, {Jenkins}, {Jernigan}, {Johnson}, {Kaltenegger},
+  {Kawai}, {Kjeldsen}, {Laughlin}, {Levine}, {Lin}, {Lissauer}, {MacQueen},
+  {Marcy}, {McCullough}, {Morton}, {Narita}, {Paegert}, {Palle}, {Pepe},
+  {Pepper}, {Quirrenbach}, {Rinehart}, {Sasselov}, {Sato}, {Seager},
+  {Sozzetti}, {Stassun}, {Sullivan}, {Szentgyorgyi}, {Torres}, {Udry}, and
+  {Villasenor}]{ricker14}
+G.~R. {Ricker}, J.~N. {Winn}, R.~{Vanderspek}, D.~W. {Latham}, G.~{\'A}.
+  {Bakos}, J.~L. {Bean}, Z.~K. {Berta-Thompson}, T.~M. {Brown}, L.~{Buchhave},
+  N.~R. {Butler}, R.~P. {Butler}, W.~J. {Chaplin}, D.~{Charbonneau},
+  J.~{Christensen-Dalsgaard}, M.~{Clampin}, D.~{Deming}, J.~{Doty}, N.~{De
+  Lee}, C.~{Dressing}, E.~W. {Dunham}, M.~{Endl}, F.~{Fressin}, J.~{Ge},
+  T.~{Henning}, M.~J. {Holman}, A.~W. {Howard}, S.~{Ida}, J.~{Jenkins},
+  G.~{Jernigan}, J.~A. {Johnson}, L.~{Kaltenegger}, N.~{Kawai}, H.~{Kjeldsen},
+  G.~{Laughlin}, A.~M. {Levine}, D.~{Lin}, J.~J. {Lissauer}, P.~{MacQueen},
+  G.~{Marcy}, P.~R. {McCullough}, T.~D. {Morton}, N.~{Narita}, M.~{Paegert},
+  E.~{Palle}, F.~{Pepe}, J.~{Pepper}, A.~{Quirrenbach}, S.~A. {Rinehart},
+  D.~{Sasselov}, B.~{Sato}, S.~{Seager}, A.~{Sozzetti}, K.~G. {Stassun},
+  P.~{Sullivan}, A.~{Szentgyorgyi}, G.~{Torres}, S.~{Udry}, and
+  J.~{Villasenor}.
+\newblock {Transiting Exoplanet Survey Satellite (TESS)}.
+\newblock In \emph{Space Telescopes and Instrumentation 2014: Optical,
+  Infrared, and Millimeter Wave}, volume 9143 of \emph{\procspie}, page 914320,
+  August 2014.
+\newblock \doi{10.1117/12.2063489}.
+
+\bibitem[Ries(2007)]{ries07}
+P.~Ries.
+\newblock Beam patterns of low frequnecy radio antennas using {LEO} satellites.
+\newblock {M.S.} thesis, University of Virginia, Charlottesville, 2007.
+
+\bibitem[{Riess} et~al.(2016){Riess}, {Macri}, {Hoffmann}, {Scolnic},
+  {Casertano}, {Filippenko}, {Tucker}, {Reid}, {Jones}, {Silverman},
+  {Chornock}, {Challis}, {Yuan}, {Brown}, and {Foley}]{reiss16}
+A.~G. {Riess}, L.~M. {Macri}, S.~L. {Hoffmann}, D.~{Scolnic}, S.~{Casertano},
+  A.~V. {Filippenko}, B.~E. {Tucker}, M.~J. {Reid}, D.~O. {Jones}, J.~M.
+  {Silverman}, R.~{Chornock}, P.~{Challis}, W.~{Yuan}, P.~J. {Brown}, and R.~J.
+  {Foley}.
+\newblock {A 2.4\% Determination of the Local Value of the Hubble Constant}.
+\newblock \emph{ApJ}, 826:\penalty0 56, July 2016.
+\newblock \doi{10.3847/0004-637X/826/1/56}.
+
+\bibitem[{Roberts-Borsani} et~al.(2016){Roberts-Borsani}, {Bouwens}, {Oesch},
+  {Labbe}, {Smit}, {Illingworth}, {van Dokkum}, {Holden}, {Gonzalez},
+  {Stefanon}, {Holwerda}, and {Wilkins}]{Roberts-Borsani2016}
+G.~W. {Roberts-Borsani}, R.~J. {Bouwens}, P.~A. {Oesch}, I.~{Labbe}, R.~{Smit},
+  G.~D. {Illingworth}, P.~{van Dokkum}, B.~{Holden}, V.~{Gonzalez},
+  M.~{Stefanon}, B.~{Holwerda}, and S.~{Wilkins}.
+\newblock {z>7 Galaxies with Red Spitzer/IRAC [3.6]-[4.5] Colors in the Full
+  CANDELS Data Set: The Brightest-Known Galaxies at z \~{} 7-9 and a Probable
+  Spectroscopic Confirmation at z = 7.48}.
+\newblock \emph{\apj}, 823:\penalty0 143, June 2016.
+\newblock \doi{10.3847/0004-637X/823/2/143}.
+
+\bibitem[{Robertson} et~al.(2013){Robertson}, {Furlanetto}, {Schneider},
+  {Charlot}, {Ellis}, {Stark}, {McLure}, {Dunlop}, {Koekemoer}, {Schenker},
+  {Ouchi}, {Ono}, {Curtis-Lake}, {Rogers}, {Bowler}, and
+  {Cirasuolo}]{Robertson2013}
+B.~E. {Robertson}, S.~R. {Furlanetto}, E.~{Schneider}, S.~{Charlot}, R.~S.
+  {Ellis}, D.~P. {Stark}, R.~J. {McLure}, J.~S. {Dunlop}, A.~{Koekemoer}, M.~A.
+  {Schenker}, M.~{Ouchi}, Y.~{Ono}, E.~{Curtis-Lake}, A.~B. {Rogers}, R.~A.~A.
+  {Bowler}, and M.~{Cirasuolo}.
+\newblock {New Constraints on Cosmic Reionization from the 2012 Hubble Ultra
+  Deep Field Campaign}.
+\newblock \emph{\apj}, 768:\penalty0 71, May 2013.
+\newblock \doi{10.1088/0004-637X/768/1/71}.
+
+\bibitem[{Robertson} et~al.(2015){Robertson}, {Ellis}, {Furlanetto}, and
+  {Dunlop}]{RobertsonReionization2015}
+B.~E. {Robertson}, R.~S. {Ellis}, S.~R. {Furlanetto}, and J.~S. {Dunlop}.
+\newblock {Cosmic Reionization and Early Star-Forming Galaxies: A Joint
+  Analysis of New Constraints from Planck and Hubble Space Telescope}.
+\newblock \emph{ArXiv e-prints}, February 2015.
+
+\bibitem[Rochblatt and Seidel(1992)]{rochblatt92}
+D.J. Rochblatt and B.L. Seidel.
+\newblock Microwave antenna holography.
+\newblock \emph{IEEE Trans. Mic. Theory Tech.}, MTT-40:\penalty0 1294--1300,
+  1992.
+
+\bibitem[{Salvini} and {Wijnholds}(2014)]{Salvini2014}
+S.~{Salvini} and S.~J. {Wijnholds}.
+\newblock {Fast gain calibration in radio astronomy using alternating direction
+  implicit methods: Analysis and applications}.
+\newblock \emph{\aap}, 571:\penalty0 A97, November 2014.
+\newblock \doi{10.1051/0004-6361/201424487}.
+
+\bibitem[{Schmidt} et~al.(2014){Schmidt}, {Treu}, {Trenti}, {Bradley}, {Kelly},
+  {Oesch}, {Holwerda}, {Shull}, and {Stiavelli}]{Schmidt2014}
+K.~B. {Schmidt}, T.~{Treu}, M.~{Trenti}, L.~D. {Bradley}, B.~C. {Kelly}, P.~A.
+  {Oesch}, B.~W. {Holwerda}, J.~M. {Shull}, and M.~{Stiavelli}.
+\newblock {The Luminosity Function at z \~{} 8 from 97 Y-band Dropouts:
+  Inferences about Reionization}.
+\newblock \emph{\apj}, 786:\penalty0 57, May 2014.
+\newblock \doi{10.1088/0004-637X/786/1/57}.
+
+\bibitem[{SDSS Collaboration} et~al.(2016){SDSS Collaboration}, {Albareti},
+  {Allende Prieto}, {Almeida}, {Anders}, {Anderson}, {Andrews},
+  {Aragon-Salamanca}, {Argudo-Fernandez}, {Armengaud}, and et~al.]{sdssdr13}
+{SDSS Collaboration}, F.~D. {Albareti}, C.~{Allende Prieto}, A.~{Almeida},
+  F.~{Anders}, S.~{Anderson}, B.~H. {Andrews}, A.~{Aragon-Salamanca},
+  M.~{Argudo-Fernandez}, E.~{Armengaud}, and et~al.
+\newblock {The Thirteenth Data Release of the Sloan Digital Sky Survey: First
+  Spectroscopic Data from the SDSS-IV Survey MApping Nearby Galaxies at Apache
+  Point Observatory}.
+\newblock \emph{ArXiv e-prints}, August 2016.
+
+\bibitem[{Seymour} et~al.(2007){Seymour}, {Stern}, {De Breuck}, {Vernet},
+  {Rettura}, {Dickinson}, {Dey}, {Eisenhardt}, {Fosbury}, {Lacy}, {McCarthy},
+  {Miley}, {Rocca-Volmerange}, {R{\"o}ttgering}, {Stanford}, {Teplitz}, {van
+  Breugel}, and {Zirm}]{seymour07}
+N.~{Seymour}, D.~{Stern}, C.~{De Breuck}, J.~{Vernet}, A.~{Rettura},
+  M.~{Dickinson}, A.~{Dey}, P.~{Eisenhardt}, R.~{Fosbury}, M.~{Lacy},
+  P.~{McCarthy}, G.~{Miley}, B.~{Rocca-Volmerange}, H.~{R{\"o}ttgering}, S.~A.
+  {Stanford}, H.~{Teplitz}, W.~{van Breugel}, and A.~{Zirm}.
+\newblock {The Massive Hosts of Radio Galaxies across Cosmic Time}.
+\newblock \emph{\apjs}, 171:\penalty0 353--375, August 2007.
+\newblock \doi{10.1086/517887}.
+
+\bibitem[{Shaw} et~al.(2014){Shaw}, {Sigurdson}, {Pen}, {Stebbins}, and
+  {Sitwell}]{Richard}
+J.~R. {Shaw}, K.~{Sigurdson}, U.-L. {Pen}, A.~{Stebbins}, and M.~{Sitwell}.
+\newblock {All-sky Interferometry with Spherical Harmonic Transit Telescopes}.
+\newblock \emph{ApJ}, 781:\penalty0 57, February 2014.
+\newblock \doi{10.1088/0004-637X/781/2/57}.
+
+\bibitem[{Shaw} et~al.(2015){Shaw}, {Sigurdson}, {Sitwell}, {Stebbins}, and
+  {Pen}]{shaw15}
+J.~R. {Shaw}, K.~{Sigurdson}, M.~{Sitwell}, A.~{Stebbins}, and U.-L. {Pen}.
+\newblock {Coaxing cosmic 21 cm fluctuations from the polarized sky using m
+  -mode analysis}.
+\newblock \emph{\prd}, 91\penalty0 (8):\penalty0 083514, April 2015.
+\newblock \doi{10.1103/PhysRevD.91.083514}.
+
+\bibitem[{Silva} et~al.(2013){Silva}, {Santos}, {Gong}, {Cooray}, and
+  {Bock}]{silva12}
+M.~B. {Silva}, M.~G. {Santos}, Y.~{Gong}, A.~{Cooray}, and J.~{Bock}.
+\newblock {Intensity Mapping of Ly{$\alpha$} Emission during the Epoch of
+  Reionization}.
+\newblock \emph{\apj}, 763:\penalty0 132, February 2013.
+\newblock \doi{10.1088/0004-637X/763/2/132}.
+
+\bibitem[{Slee}(1995)]{Slee1995}
+O.~B. {Slee}.
+\newblock {Radio sources observed with the Culgoora circular array}.
+\newblock \emph{Australian Journal of Physics}, 48:\penalty0 143--186, 1995.
+
+\bibitem[{Spergel} et~al.(2013){Spergel}, {Gehrels}, {Breckinridge}, {Donahue},
+  {Dressler}, {Gaudi}, {Greene}, {Guyon}, {Hirata}, {Kalirai}, {Kasdin},
+  {Moos}, {Perlmutter}, {Postman}, {Rauscher}, {Rhodes}, {Wang}, {Weinberg},
+  {Centrella}, {Traub}, {Baltay}, {Colbert}, {Bennett}, {Kiessling},
+  {Macintosh}, {Merten}, {Mortonson}, {Penny}, {Rozo}, {Savransky},
+  {Stapelfeldt}, {Zu}, {Baker}, {Cheng}, {Content}, {Dooley}, {Foote},
+  {Goullioud}, {Grady}, {Jackson}, {Kruk}, {Levine}, {Melton}, {Peddie},
+  {Ruffa}, and {Shaklan}]{Spergel2013}
+D.~{Spergel}, N.~{Gehrels}, J.~{Breckinridge}, M.~{Donahue}, A.~{Dressler},
+  B.~S. {Gaudi}, T.~{Greene}, O.~{Guyon}, C.~{Hirata}, J.~{Kalirai}, N.~J.
+  {Kasdin}, W.~{Moos}, S.~{Perlmutter}, M.~{Postman}, B.~{Rauscher},
+  J.~{Rhodes}, Y.~{Wang}, D.~{Weinberg}, J.~{Centrella}, W.~{Traub},
+  C.~{Baltay}, J.~{Colbert}, D.~{Bennett}, A.~{Kiessling}, B.~{Macintosh},
+  J.~{Merten}, M.~{Mortonson}, M.~{Penny}, E.~{Rozo}, D.~{Savransky},
+  K.~{Stapelfeldt}, Y.~{Zu}, C.~{Baker}, E.~{Cheng}, D.~{Content}, J.~{Dooley},
+  M.~{Foote}, R.~{Goullioud}, K.~{Grady}, C.~{Jackson}, J.~{Kruk}, M.~{Levine},
+  M.~{Melton}, C.~{Peddie}, J.~{Ruffa}, and S.~{Shaklan}.
+\newblock {Wide-Field InfraRed Survey Telescope-Astrophysics Focused Telescope
+  Assets WFIRST-AFTA Final Report}.
+\newblock \emph{ArXiv e-prints}, May 2013.
+
+\bibitem[{Sullivan} et~al.(2012){Sullivan}, {Morales}, {Hazelton}, {Arcus},
+  {Barnes}, {Bernardi}, {Briggs}, {Bowman}, {Bunton}, {Cappallo}, {Corey},
+  {Deshpande}, {deSouza}, {Emrich}, {Gaensler}, {Goeke}, {Greenhill}, {Herne},
+  {Hewitt}, {Johnston-Hollitt}, {Kaplan}, {Kasper}, {Kincaid}, {Koenig},
+  {Kratzenberg}, {Lonsdale}, {Lynch}, {McWhirter}, {Mitchell}, {Morgan},
+  {Oberoi}, {Ord}, {Pathikulangara}, {Prabu}, {Remillard}, {Rogers}, {Roshi},
+  {Salah}, {Sault}, {Udaya Shankar}, {Srivani}, {Stevens}, {Subrahmanyan},
+  {Tingay}, {Wayth}, {Waterson}, {Webster}, {Whitney}, {Williams}, {Williams},
+  and {Wyithe}]{fhd}
+I.~S. {Sullivan}, M.~F. {Morales}, B.~J. {Hazelton}, W.~{Arcus}, D.~{Barnes},
+  G.~{Bernardi}, F.~H. {Briggs}, J.~D. {Bowman}, J.~D. {Bunton}, R.~J.
+  {Cappallo}, B.~E. {Corey}, A.~{Deshpande}, L.~{deSouza}, D.~{Emrich}, B.~M.
+  {Gaensler}, R.~{Goeke}, L.~J. {Greenhill}, D.~{Herne}, J.~N. {Hewitt},
+  M.~{Johnston-Hollitt}, D.~L. {Kaplan}, J.~C. {Kasper}, B.~B. {Kincaid},
+  R.~{Koenig}, E.~{Kratzenberg}, C.~J. {Lonsdale}, M.~J. {Lynch}, S.~R.
+  {McWhirter}, D.~A. {Mitchell}, E.~{Morgan}, D.~{Oberoi}, S.~M. {Ord},
+  J.~{Pathikulangara}, T.~{Prabu}, R.~A. {Remillard}, A.~E.~E. {Rogers},
+  A.~{Roshi}, J.~E. {Salah}, R.~J. {Sault}, N.~{Udaya Shankar}, K.~S.
+  {Srivani}, J.~{Stevens}, R.~{Subrahmanyan}, S.~J. {Tingay}, R.~B. {Wayth},
+  M.~{Waterson}, R.~L. {Webster}, A.~R. {Whitney}, A.~{Williams}, C.~L.
+  {Williams}, and J.~S.~B. {Wyithe}.
+\newblock {Fast Holographic Deconvolution: A New Technique for Precision Radio
+  Interferometry}.
+\newblock \emph{ApJ}, 759:\penalty0 17, November 2012.
+\newblock \doi{10.1088/0004-637X/759/1/17}.
+
+\bibitem[{Sullivan} and {Simcoe}(2012)]{sullivan12}
+P.~W. {Sullivan} and R.~A. {Simcoe}.
+\newblock {A Calibrated Measurement of the Near-IR Continuum Sky Brightness
+  Using Magellan/FIRE}.
+\newblock \emph{\pasp}, 124:\penalty0 1336--1346, December 2012.
+\newblock \doi{10.1086/668849}.
+
+\bibitem[Sutinjo et~al.(2015)Sutinjo, O'Sullivan, Lenc, Wayth, Padhi, Hall, and
+  Tingay]{sutinjo15}
+A.~Sutinjo, J.~O'Sullivan, E.~Lenc, R.~B. Wayth, S.~Padhi, P.~Hall, and S.~J.
+  Tingay.
+\newblock Understanding instrumental stokes leakage in murchison widefield
+  array polarimetry.
+\newblock \emph{Radio Science}, 50\penalty0 (1):\penalty0 52--65, 2015.
+\newblock ISSN 1944-799X.
+\newblock \doi{10.1002/2014RS005517}.
+\newblock URL \url{http://dx.doi.org/10.1002/2014RS005517}.
+
+\bibitem[{Sutinjo} et~al.(2015){Sutinjo}, {Colegate}, {Wayth}, {Hall}, {de Lera
+  Acedo}, {Booler}, {Faulkner}, {Feng}, {Hurley-Walker}, {Juswardy}, {Padhi},
+  {Razavi-Ghods}, {Sokolowski}, {Tingay}, and {Bij de Vaate}]{aavs2}
+A.~T. {Sutinjo}, T.~M. {Colegate}, R.~B. {Wayth}, P.~J. {Hall}, E.~{de Lera
+  Acedo}, T.~{Booler}, A.~J. {Faulkner}, L.~{Feng}, N.~{Hurley-Walker},
+  B.~{Juswardy}, S.~K. {Padhi}, N.~{Razavi-Ghods}, M.~{Sokolowski}, S.~J.
+  {Tingay}, and J.~G. {Bij de Vaate}.
+\newblock {Characterization of a Low-Frequency Radio Astronomy Prototype Array
+  in Western Australia}.
+\newblock \emph{IEEE Transactions on Antennas and Propagation}, 63:\penalty0
+  5433--5442, December 2015.
+\newblock \doi{10.1109/TAP.2015.2487504}.
+
+\bibitem[{Sutter} et~al.(2012){Sutter}, {Wandelt}, and {Malu}]{GibbsPSE}
+P.~M. {Sutter}, B.~D. {Wandelt}, and S.~S. {Malu}.
+\newblock {Bayesian Angular Power Spectrum Analysis of Interferometric Data}.
+\newblock \emph{ApJs}, 202:\penalty0 9, September 2012.
+\newblock \doi{10.1088/0067-0049/202/1/9}.
+
+\bibitem[{Sutter} et~al.(2014){Sutter}, {Wandelt}, {McEwen}, {Bunn}, {Karakci},
+  {Korotkov}, {Timbie}, {Tucker}, and {Zhang}]{SutterBayesianImaging}
+P.~M. {Sutter}, B.~D. {Wandelt}, J.~D. {McEwen}, E.~F. {Bunn}, A.~{Karakci},
+  A.~{Korotkov}, P.~{Timbie}, G.~S. {Tucker}, and L.~{Zhang}.
+\newblock {Probabilistic image reconstruction for radio interferometers}.
+\newblock \emph{MNRAS}, 438:\penalty0 768--778, February 2014.
+\newblock \doi{10.1093/mnras/stt2244}.
+
+\bibitem[{Switzer} and {Liu}(2014)]{EricAdrianEmpiricalGlobalForegrounds}
+E.~R. {Switzer} and A.~{Liu}.
+\newblock {Erasing the Variable: Empirical Foreground Discovery for Global 21
+  cm Spectrum Experiments}.
+\newblock \emph{{ApJ}}, 793:\penalty0 102, October 2014.
+\newblock \doi{10.1088/0004-637X/793/2/102}.
+
+\bibitem[Taylor et~al.(1999)Taylor, Carilli, and Perley]{synthesisimaging}
+G.~B. Taylor, C.~L. Carilli, and R.~A. Perley, editors.
+\newblock \emph{Synthesis Imaging in Radio Astronomy II}, volume 180, 1999.
+  Astronomical Society of the Pacific Conference Series.
+\newblock ISBN 1-58381-005-6.
+
+\bibitem[{Tegmark}(1997)]{Maxpowerspeclossless}
+M.~{Tegmark}.
+\newblock {How to measure CMB power spectra without losing information}.
+\newblock \emph{\prd}, 55:\penalty0 5895--5907, May 1997.
+\newblock \doi{10.1103/PhysRevD.55.5895}.
+
+\bibitem[{Tegmark} and {Zaldarriaga}(2002)]{tegmark02b}
+M.~{Tegmark} and M.~{Zaldarriaga}.
+\newblock {Separating the early universe from the late universe: Cosmological
+  parameter estimation beyond the black box}.
+\newblock \emph{\prd}, 66\penalty0 (10):\penalty0 103508, November 2002.
+\newblock \doi{10.1103/PhysRevD.66.103508}.
+
+\bibitem[{Tegmark} et~al.(1998){Tegmark}, {Hamilton}, {Strauss}, {Vogeley}, and
+  {Szalay}]{Maxgalaxysurvey1}
+M.~{Tegmark}, A.~J.~S. {Hamilton}, M.~A. {Strauss}, M.~S. {Vogeley}, and A.~S.
+  {Szalay}.
+\newblock {Measuring the Galaxy Power Spectrum with Future Redshift Surveys}.
+\newblock \emph{ApJ}, 499:\penalty0 555--+, May 1998.
+\newblock \doi{10.1086/305663}.
+
+\bibitem[{Tegmark} et~al.(2002){Tegmark}, {Dodelson}, {Eisenstein},
+  {Narayanan}, {Scoccimarro}, {Scranton}, {Strauss}, {Connolly}, {Frieman},
+  {Gunn}, {Hui}, {Jain}, {Johnston}, {Kent}, {Loveday}, {Nichol}, {O'Connell},
+  {Sheth}, {Stebbins}, {Szalay}, {Szapudi}, {Vogeley}, {Zehavi}, {Annis},
+  {Bahcall}, {Brinkmann}, {Csabai}, {Doi}, {Fukugita}, {Hennessy},
+  {Ivez{\'{\i}}c}, {Knapp}, {Lamb}, {Lee}, {Lupton}, {McKay}, {Kunszt}, {Munn},
+  {Peoples}, {Pier}, {Richmond}, {Rockosi}, {Schlegel}, {Stoughton}, {Tucker},
+  {Yanny}, and {York}]{tegmark02}
+M.~{Tegmark}, S.~{Dodelson}, D.~J. {Eisenstein}, V.~{Narayanan},
+  R.~{Scoccimarro}, R.~{Scranton}, M.~A. {Strauss}, A.~{Connolly}, J.~A.
+  {Frieman}, J.~E. {Gunn}, L.~{Hui}, B.~{Jain}, D.~{Johnston}, S.~{Kent},
+  J.~{Loveday}, R.~C. {Nichol}, L.~{O'Connell}, R.~K. {Sheth}, A.~{Stebbins},
+  A.~S. {Szalay}, I.~{Szapudi}, M.~S. {Vogeley}, I.~{Zehavi}, J.~{Annis}, N.~A.
+  {Bahcall}, J.~{Brinkmann}, I.~{Csabai}, M.~{Doi}, M.~{Fukugita},
+  G.~{Hennessy}, {\v Z}.~{Ivez{\'{\i}}c}, G.~R. {Knapp}, D.~Q. {Lamb}, B.~C.
+  {Lee}, R.~H. {Lupton}, T.~A. {McKay}, P.~{Kunszt}, J.~A. {Munn},
+  J.~{Peoples}, J.~R. {Pier}, M.~{Richmond}, C.~{Rockosi}, D.~{Schlegel},
+  C.~{Stoughton}, D.~L. {Tucker}, B.~{Yanny}, and D.~G. {York}.
+\newblock {The Angular Power Spectrum of Galaxies from Early Sloan Digital Sky
+  Survey Data}.
+\newblock \emph{ApJ}, 571:\penalty0 191--205, May 2002.
+\newblock \doi{10.1086/339894}.
+
+\bibitem[Thompson et~al.(2001)Thompson, Moran, and
+  Swenson~Jr.]{thompsonmoranswenson}
+A.R. Thompson, J.M. Moran, and G.W. Swenson~Jr.
+\newblock \emph{Interferometry and Synthesis in Radio Astronomy}.
+\newblock Wiley, 2 edition, 2001.
+\newblock ISBN 978-0-471-25492-8.
+
+\bibitem[{Thyagarajan} et~al.(2011){Thyagarajan}, {Helfand}, {White}, and
+  {Becker}]{nithyaVLA}
+N.~{Thyagarajan}, D.~J. {Helfand}, R.~L. {White}, and R.~H. {Becker}.
+\newblock {Variable and Transient Radio Sources in the FIRST Survey}.
+\newblock \emph{\apj}, 742:\penalty0 49, November 2011.
+\newblock \doi{10.1088/0004-637X/742/1/49}.
+
+\bibitem[{Thyagarajan} et~al.(2013){Thyagarajan}, {Udaya Shankar},
+  {Subrahmanyan}, {Arcus}, {Bernardi}, {Bowman}, {Briggs}, {Bunton},
+  {Cappallo}, {Corey}, {deSouza}, {Emrich}, {Gaensler}, {Goeke}, {Greenhill},
+  {Hazelton}, {Herne}, {Hewitt}, {Johnston-Hollitt}, {Kaplan}, {Kasper},
+  {Kincaid}, {Koenig}, {Kratzenberg}, {Lonsdale}, {Lynch}, {McWhirter},
+  {Mitchell}, {Morales}, {Morgan}, {Oberoi}, {Ord}, {Pathikulangara},
+  {Remillard}, {Rogers}, {Anish Roshi}, {Salah}, {Sault}, {Srivani}, {Stevens},
+  {Thiagaraj}, {Tingay}, {Wayth}, {Waterson}, {Webster}, {Whitney}, {Williams},
+  {Williams}, and {Wyithe}]{nithya13}
+N.~{Thyagarajan}, N.~{Udaya Shankar}, R.~{Subrahmanyan}, W.~{Arcus},
+  G.~{Bernardi}, J.~D. {Bowman}, F.~{Briggs}, J.~D. {Bunton}, R.~J. {Cappallo},
+  B.~E. {Corey}, L.~{deSouza}, D.~{Emrich}, B.~M. {Gaensler}, R.~F. {Goeke},
+  L.~J. {Greenhill}, B.~J. {Hazelton}, D.~{Herne}, J.~N. {Hewitt},
+  M.~{Johnston-Hollitt}, D.~L. {Kaplan}, J.~C. {Kasper}, B.~B. {Kincaid},
+  R.~{Koenig}, E.~{Kratzenberg}, C.~J. {Lonsdale}, M.~J. {Lynch}, S.~R.
+  {McWhirter}, D.~A. {Mitchell}, M.~F. {Morales}, E.~H. {Morgan}, D.~{Oberoi},
+  S.~M. {Ord}, J.~{Pathikulangara}, R.~A. {Remillard}, A.~E.~E. {Rogers},
+  D.~{Anish Roshi}, J.~E. {Salah}, R.~J. {Sault}, K.~S. {Srivani}, J.~B.
+  {Stevens}, P.~{Thiagaraj}, S.~J. {Tingay}, R.~B. {Wayth}, M.~{Waterson},
+  R.~L. {Webster}, A.~R. {Whitney}, A.~J. {Williams}, C.~L. {Williams}, and
+  J.~S.~B. {Wyithe}.
+\newblock {A Study of Fundamental Limitations to Statistical Detection of
+  Redshifted H I from the Epoch of Reionization}.
+\newblock \emph{\apj}, 776:\penalty0 6, October 2013.
+\newblock \doi{10.1088/0004-637X/776/1/6}.
+
+\bibitem[{Thyagarajan} et~al.(2015b){Thyagarajan}, {Jacobs}, {Bowman}, {Barry},
+  {Beardsley}, {Bernardi}, {Briggs}, {Cappallo}, {Carroll}, {Deshpande}, {de
+  Oliveira-Costa}, {Dillon}, {Ewall-Wice}, {Feng}, {Greenhill}, {Hazelton},
+  {Hernquist}, {Hewitt}, {Hurley-Walker}, {Johnston-Hollitt}, {Kaplan}, {Kim},
+  {Kittiwisit}, {Lenc}, {Line}, {Loeb}, {Lonsdale}, {McKinley}, {McWhirter},
+  {Mitchell}, {Morales}, {Morgan}, {Neben}, {Oberoi}, {Offringa}, {Ord},
+  {Paul}, {Pindor}, {Pober}, {Prabu}, {Procopio}, {Riding}, {Udaya Shankar},
+  {Sethi}, {Srivani}, {Subrahmanyan}, {Sullivan}, {Tegmark}, {Tingay}, {Trott},
+  {Wayth}, {Webster}, {Williams}, {Williams}, and {Wyithe}]{nithya15b}
+N.~{Thyagarajan}, D.~C. {Jacobs}, J.~D. {Bowman}, N.~{Barry}, A.~P.
+  {Beardsley}, G.~{Bernardi}, F.~{Briggs}, R.~J. {Cappallo}, P.~{Carroll},
+  A.~A. {Deshpande}, A.~{de Oliveira-Costa}, J.~S. {Dillon}, A.~{Ewall-Wice},
+  L.~{Feng}, L.~J. {Greenhill}, B.~J. {Hazelton}, L.~{Hernquist}, J.~N.
+  {Hewitt}, N.~{Hurley-Walker}, M.~{Johnston-Hollitt}, D.~L. {Kaplan}, H.-S.
+  {Kim}, P.~{Kittiwisit}, E.~{Lenc}, J.~{Line}, A.~{Loeb}, C.~J. {Lonsdale},
+  B.~{McKinley}, S.~R. {McWhirter}, D.~A. {Mitchell}, M.~F. {Morales},
+  E.~{Morgan}, A.~R. {Neben}, D.~{Oberoi}, A.~R. {Offringa}, S.~M. {Ord},
+  S.~{Paul}, B.~{Pindor}, J.~C. {Pober}, T.~{Prabu}, P.~{Procopio},
+  J.~{Riding}, N.~{Udaya Shankar}, S.~K. {Sethi}, K.~S. {Srivani},
+  R.~{Subrahmanyan}, I.~S. {Sullivan}, M.~{Tegmark}, S.~J. {Tingay}, C.~M.
+  {Trott}, R.~B. {Wayth}, R.~L. {Webster}, A.~{Williams}, C.~L. {Williams}, and
+  J.~S.~B. {Wyithe}.
+\newblock {Confirmation of Wide-field Signatures in Redshifted 21 cm Power
+  Spectra}.
+\newblock \emph{ApJ}, 807:\penalty0 L28, July 2015b.
+\newblock \doi{10.1088/2041-8205/807/2/L28}.
+
+\bibitem[{Thyagarajan} et~al.(2016){Thyagarajan}, {Parsons}, {DeBoer},
+  {Bowman}, {Ewall-Wice}, {Neben}, and {Patra}]{nithya16}
+N.~{Thyagarajan}, A.~R. {Parsons}, D.~R. {DeBoer}, J.~D. {Bowman}, A.~M.
+  {Ewall-Wice}, A.~R. {Neben}, and N.~{Patra}.
+\newblock {Effects of Antenna Beam Chromaticity on Redshifted 21 cm Power
+  Spectrum and Implications for Hydrogen Epoch of Reionization Array}.
+\newblock \emph{ApJ}, 825:\penalty0 9, July 2016.
+\newblock \doi{10.3847/0004-637X/825/1/9}.
+
+\bibitem[Thyagarajan et~al.(2015)Thyagarajan, Jacobs, Bowman, Barry, Beardsley,
+  Bernardi, Briggs, Cappallo, Carroll, Corey, de~Oliveira-Costa, Dillon,
+  Emrich, Ewall-Wice, Feng, Goeke, Greenhill, Hazelton, Hewitt, Hurley-Walker,
+  Johnston-Hollitt, Kaplan, Kasper, Kim, Kittiwisit, Kratzenberg, Lenc, Line,
+  Loeb, Lonsdale, Lynch, McKinley, McWhirter, Mitchell, Morales, Morgan, Neben,
+  Oberoi, Offringa, Ord, Paul, Pindor, Pober, Prabu, Procopio, Riding, Rogers,
+  Roshi, Shankar, Sethi, Srivani, Subrahmanyan, Sullivan, Tegmark, Tingay,
+  Trott, Waterson, Wayth, Webster, Whitney, Williams, Williams, Wu, and
+  Wyithe]{nithya15}
+Nithyanandan Thyagarajan, Daniel~C. Jacobs, Judd~D. Bowman, N.~Barry, A.~P.
+  Beardsley, G.~Bernardi, F.~Briggs, R.~J. Cappallo, P.~Carroll, B.~E. Corey,
+  A.~de~Oliveira-Costa, Joshua~S. Dillon, D.~Emrich, A.~Ewall-Wice, L.~Feng,
+  R.~Goeke, L.~J. Greenhill, B.~J. Hazelton, J.~N. Hewitt, N.~Hurley-Walker,
+  M.~Johnston-Hollitt, D.~L. Kaplan, J.~C. Kasper, Han-Seek Kim, P.~Kittiwisit,
+  E.~Kratzenberg, E.~Lenc, J.~Line, A.~Loeb, C.~J. Lonsdale, M.~J. Lynch,
+  B.~McKinley, S.~R. McWhirter, D.~A. Mitchell, M.~F. Morales, E.~Morgan, A.~R.
+  Neben, D.~Oberoi, A.~R. Offringa, S.~M. Ord, Sourabh Paul, B.~Pindor, J.~C.
+  Pober, T.~Prabu, P.~Procopio, J.~Riding, A.~E.~E. Rogers, A.~Roshi, N.~Udaya
+  Shankar, Shiv~K. Sethi, K.~S. Srivani, R.~Subrahmanyan, I.~S. Sullivan,
+  M.~Tegmark, S.~J. Tingay, C.~M. Trott, M.~Waterson, R.~B. Wayth, R.~L.
+  Webster, A.~R. Whitney, A.~Williams, C.~L. Williams, C.~Wu, and J.~S.~B.
+  Wyithe.
+\newblock Foregrounds in wide-field redshifted 21 cm power spectra.
+\newblock \emph{ApJ}, 804\penalty0 (1):\penalty0 14, 2015.
+\newblock URL \url{http://stacks.iop.org/0004-637X/804/i=1/a=14}.
+
+\bibitem[Tingay et~al.(2013)Tingay, Goeke, Bowman, Emrich, Ord, Mitchell,
+  Morales, Booler, Crosse, Wayth, Lonsdale, Tremblay, Pallot, Colegate,
+  Wicenec, Kudryavtseva, Arcus, Barnes, Bernardi, Briggs, Burns, Bunton,
+  Cappallo, Corey, Deshpande, Desouza, Gaensler, Greenhill, Hall, Hazelton,
+  Herne, Hewitt, Johnston-Hollitt, Kaplan, Kasper, Kincaid, Koenig,
+  Kratzenberg, Lynch, Mckinley, Mcwhirter, Morgan, Oberoi, Pathikulangara,
+  Prabu, Remillard, Rogers, Roshi, Salah, Sault, Udaya-Shankar, Schlagenhaufer,
+  Srivani, Stevens, Subrahmanyan, Waterson, Webster, Whitney, Williams,
+  Williams, and Wyithe]{tingay13}
+S.~J. Tingay, R.~Goeke, J.~D. Bowman, D.~Emrich, S.~M. Ord, D.~A. Mitchell,
+  M.~F. Morales, T.~Booler, B.~Crosse, R.~B. Wayth, C.~J. Lonsdale,
+  S.~Tremblay, D.~Pallot, T.~Colegate, A.~Wicenec, N.~Kudryavtseva, W.~Arcus,
+  D.~Barnes, G.~Bernardi, F.~Briggs, S.~Burns, J.~D. Bunton, R.~J. Cappallo,
+  B.~E. Corey, A.~Deshpande, L.~Desouza, B.~M. Gaensler, L.~J. Greenhill, P.~J.
+  Hall, B.~J. Hazelton, D.~Herne, J.~N. Hewitt, M.~Johnston-Hollitt, D.~L.
+  Kaplan, J.~C. Kasper, B.~B. Kincaid, R.~Koenig, E.~Kratzenberg, M.~J. Lynch,
+  B.~Mckinley, S.~R. Mcwhirter, E.~Morgan, D.~Oberoi, J.~Pathikulangara,
+  T.~Prabu, R.~A. Remillard, A.~E.~E. Rogers, A.~Roshi, J.~E. Salah, R.~J.
+  Sault, N.~Udaya-Shankar, F.~Schlagenhaufer, K.~S. Srivani, J.~Stevens,
+  R.~Subrahmanyan, M.~Waterson, R.~L. Webster, A.~R. Whitney, A.~Williams,
+  C.~L. Williams, and J.~S.~B. Wyithe.
+\newblock The murchison widefield array: The square kilometre array precursor
+  at low radio frequencies.
+\newblock \emph{PASA}, 30, 1 2013.
+\newblock ISSN 1448-6083.
+\newblock \doi{10.1017/pasa.2012.007}.
+\newblock URL \url{http://journals.cambridge.org/article_S1323358012000070}.
+
+\bibitem[{Tonry}(2011)]{tonry11}
+J.~L. {Tonry}.
+\newblock {An Early Warning System for Asteroid Impact}.
+\newblock \emph{\pasp}, 123:\penalty0 58--73, January 2011.
+\newblock \doi{10.1086/657997}.
+
+\bibitem[{Tonry} et~al.(2012){Tonry}, {Stubbs}, {Lykke}, {Doherty}, {Shivvers},
+  {Burgett}, {Chambers}, {Hodapp}, {Kaiser}, {Kudritzki}, {Magnier}, {Morgan},
+  {Price}, and {Wainscoat}]{tonry12}
+J.~L. {Tonry}, C.~W. {Stubbs}, K.~R. {Lykke}, P.~{Doherty}, I.~S. {Shivvers},
+  W.~S. {Burgett}, K.~C. {Chambers}, K.~W. {Hodapp}, N.~{Kaiser}, R.-P.
+  {Kudritzki}, E.~A. {Magnier}, J.~S. {Morgan}, P.~A. {Price}, and R.~J.
+  {Wainscoat}.
+\newblock {The Pan-STARRS1 Photometric System}.
+\newblock \emph{\apj}, 750:\penalty0 99, May 2012.
+\newblock \doi{10.1088/0004-637X/750/2/99}.
+
+\bibitem[{Trenti} et~al.(2011){Trenti}, {Bradley}, {Stiavelli}, {Oesch},
+  {Treu}, {Bouwens}, {Shull}, {MacKenty}, {Carollo}, and
+  {Illingworth}]{Trenti2011}
+M.~{Trenti}, L.~D. {Bradley}, M.~{Stiavelli}, P.~{Oesch}, T.~{Treu}, R.~J.
+  {Bouwens}, J.~M. {Shull}, J.~W. {MacKenty}, C.~M. {Carollo}, and G.~D.
+  {Illingworth}.
+\newblock {The Brightest of Reionizing Galaxies Survey: Design and Preliminary
+  Results}.
+\newblock \emph{\apjl}, 727:\penalty0 L39, February 2011.
+\newblock \doi{10.1088/2041-8205/727/2/L39}.
+
+\bibitem[{Trott}(2014)]{TrottObservingModes}
+C.~M. {Trott}.
+\newblock {Comparison of Observing Modes for Statistical Estimation of the 21
+  cm Signal from the Epoch of Reionisation}.
+\newblock \emph{PASP}, 31:\penalty0 e026, July 2014.
+\newblock \doi{10.1017/pasa.2014.23}.
+
+\bibitem[{Trott} et~al.(2012){Trott}, {Wayth}, and {Tingay}]{CathWedge}
+C.~M. {Trott}, R.~B. {Wayth}, and S.~J. {Tingay}.
+\newblock {The Impact of Point-source Subtraction Residuals on 21 cm Epoch of
+  Reionization Estimation}.
+\newblock \emph{ApJ}, 757:\penalty0 101, September 2012.
+\newblock \doi{10.1088/0004-637X/757/1/101}.
+
+\bibitem[{van Haarlem} et~al.(2013){van Haarlem}, {Wise}, {Gunst}, {Heald},
+  {McKean}, {Hessels}, {de Bruyn}, {Nijboer}, {Swinbank}, {Fallows},
+  {Brentjens}, {Nelles}, {Beck}, {Falcke}, {Fender}, {H{\"o}randel},
+  {Koopmans}, {Mann}, {Miley}, {R{\"o}ttgering}, {Stappers}, {Wijers},
+  {Zaroubi}, {van den Akker}, {Alexov}, {Anderson}, {Anderson}, {van Ardenne},
+  {Arts}, {Asgekar}, {Avruch}, {Batejat}, {B{\"a}hren}, {Bell}, {Bell}, {van
+  Bemmel}, {Bennema}, {Bentum}, {Bernardi}, {Best}, {B{\^i}rzan}, {Bonafede},
+  {Boonstra}, {Braun}, {Bregman}, {Breitling}, {van de Brink}, {Broderick},
+  {Broekema}, {Brouw}, {Br{\"u}ggen}, {Butcher}, {van Cappellen}, {Ciardi},
+  {Coenen}, {Conway}, {Coolen}, {Corstanje}, {Damstra}, {Davies}, {Deller},
+  {Dettmar}, {van Diepen}, {Dijkstra}, {Donker}, {Doorduin}, {Dromer}, {Drost},
+  {van Duin}, {Eisl{\"o}ffel}, {van Enst}, {Ferrari}, {Frieswijk}, {Gankema},
+  {Garrett}, {de Gasperin}, {Gerbers}, {de Geus}, {Grie{\ss}meier}, {Grit},
+  {Gruppen}, {Hamaker}, {Hassall}, {Hoeft}, {Holties}, {Horneffer}, {van der
+  Horst}, {van Houwelingen}, {Huijgen}, {Iacobelli}, {Intema}, {Jackson},
+  {Jelic}, {de Jong}, {Juette}, {Kant}, {Karastergiou}, {Koers}, {Kollen},
+  {Kondratiev}, {Kooistra}, {Koopman}, {Koster}, {Kuniyoshi}, {Kramer},
+  {Kuper}, {Lambropoulos}, {Law}, {van Leeuwen}, {Lemaitre}, {Loose}, {Maat},
+  {Macario}, {Markoff}, {Masters}, {McFadden}, {McKay-Bukowski}, {Meijering},
+  {Meulman}, {Mevius}, {Middelberg}, {Millenaar}, {Miller-Jones}, {Mohan},
+  {Mol}, {Morawietz}, {Morganti}, {Mulcahy}, {Mulder}, {Munk}, {Nieuwenhuis},
+  {van Nieuwpoort}, {Noordam}, {Norden}, {Noutsos}, {Offringa}, {Olofsson},
+  {Omar}, {Orr{\'u}}, {Overeem}, {Paas}, {Pandey-Pommier}, {Pandey}, {Pizzo},
+  {Polatidis}, {Rafferty}, {Rawlings}, {Reich}, {de Reijer}, {Reitsma},
+  {Renting}, {Riemers}, {Rol}, {Romein}, {Roosjen}, {Ruiter}, {Scaife}, {van
+  der Schaaf}, {Scheers}, {Schellart}, {Schoenmakers}, {Schoonderbeek},
+  {Serylak}, {Shulevski}, {Sluman}, {Smirnov}, {Sobey}, {Spreeuw}, {Steinmetz},
+  {Sterks}, {Stiepel}, {Stuurwold}, {Tagger}, {Tang}, {Tasse}, {Thomas},
+  {Thoudam}, {Toribio}, {van der Tol}, {Usov}, {van Veelen}, {van der Veen},
+  {ter Veen}, {Verbiest}, {Vermeulen}, {Vermaas}, {Vocks}, {Vogt}, {de Vos},
+  {van der Wal}, {van Weeren}, {Weggemans}, {Weltevrede}, {White}, {Wijnholds},
+  {Wilhelmsson}, {Wucknitz}, {Yatawatta}, {Zarka}, {Zensus}, and {van
+  Zwieten}]{lofar}
+M.~P. {van Haarlem}, M.~W. {Wise}, A.~W. {Gunst}, G.~{Heald}, J.~P. {McKean},
+  J.~W.~T. {Hessels}, A.~G. {de Bruyn}, R.~{Nijboer}, J.~{Swinbank},
+  R.~{Fallows}, M.~{Brentjens}, A.~{Nelles}, R.~{Beck}, H.~{Falcke},
+  R.~{Fender}, J.~{H{\"o}randel}, L.~V.~E. {Koopmans}, G.~{Mann}, G.~{Miley},
+  H.~{R{\"o}ttgering}, B.~W. {Stappers}, R.~A.~M.~J. {Wijers}, S.~{Zaroubi},
+  M.~{van den Akker}, A.~{Alexov}, J.~{Anderson}, K.~{Anderson}, A.~{van
+  Ardenne}, M.~{Arts}, A.~{Asgekar}, I.~M. {Avruch}, F.~{Batejat},
+  L.~{B{\"a}hren}, M.~E. {Bell}, M.~R. {Bell}, I.~{van Bemmel}, P.~{Bennema},
+  M.~J. {Bentum}, G.~{Bernardi}, P.~{Best}, L.~{B{\^i}rzan}, A.~{Bonafede},
+  A.-J. {Boonstra}, R.~{Braun}, J.~{Bregman}, F.~{Breitling}, R.~H. {van de
+  Brink}, J.~{Broderick}, P.~C. {Broekema}, W.~N. {Brouw}, M.~{Br{\"u}ggen},
+  H.~R. {Butcher}, W.~{van Cappellen}, B.~{Ciardi}, T.~{Coenen}, J.~{Conway},
+  A.~{Coolen}, A.~{Corstanje}, S.~{Damstra}, O.~{Davies}, A.~T. {Deller}, R.-J.
+  {Dettmar}, G.~{van Diepen}, K.~{Dijkstra}, P.~{Donker}, A.~{Doorduin},
+  J.~{Dromer}, M.~{Drost}, A.~{van Duin}, J.~{Eisl{\"o}ffel}, J.~{van Enst},
+  C.~{Ferrari}, W.~{Frieswijk}, H.~{Gankema}, M.~A. {Garrett}, F.~{de
+  Gasperin}, M.~{Gerbers}, E.~{de Geus}, J.-M. {Grie{\ss}meier}, T.~{Grit},
+  P.~{Gruppen}, J.~P. {Hamaker}, T.~{Hassall}, M.~{Hoeft}, H.~A. {Holties},
+  A.~{Horneffer}, A.~{van der Horst}, A.~{van Houwelingen}, A.~{Huijgen},
+  M.~{Iacobelli}, H.~{Intema}, N.~{Jackson}, V.~{Jelic}, A.~{de Jong},
+  E.~{Juette}, D.~{Kant}, A.~{Karastergiou}, A.~{Koers}, H.~{Kollen}, V.~I.
+  {Kondratiev}, E.~{Kooistra}, Y.~{Koopman}, A.~{Koster}, M.~{Kuniyoshi},
+  M.~{Kramer}, G.~{Kuper}, P.~{Lambropoulos}, C.~{Law}, J.~{van Leeuwen},
+  J.~{Lemaitre}, M.~{Loose}, P.~{Maat}, G.~{Macario}, S.~{Markoff},
+  J.~{Masters}, R.~A. {McFadden}, D.~{McKay-Bukowski}, H.~{Meijering},
+  H.~{Meulman}, M.~{Mevius}, E.~{Middelberg}, R.~{Millenaar}, J.~C.~A.
+  {Miller-Jones}, R.~N. {Mohan}, J.~D. {Mol}, J.~{Morawietz}, R.~{Morganti},
+  D.~D. {Mulcahy}, E.~{Mulder}, H.~{Munk}, L.~{Nieuwenhuis}, R.~{van
+  Nieuwpoort}, J.~E. {Noordam}, M.~{Norden}, A.~{Noutsos}, A.~R. {Offringa},
+  H.~{Olofsson}, A.~{Omar}, E.~{Orr{\'u}}, R.~{Overeem}, H.~{Paas},
+  M.~{Pandey-Pommier}, V.~N. {Pandey}, R.~{Pizzo}, A.~{Polatidis},
+  D.~{Rafferty}, S.~{Rawlings}, W.~{Reich}, J.-P. {de Reijer}, J.~{Reitsma},
+  G.~A. {Renting}, P.~{Riemers}, E.~{Rol}, J.~W. {Romein}, J.~{Roosjen},
+  M.~{Ruiter}, A.~{Scaife}, K.~{van der Schaaf}, B.~{Scheers}, P.~{Schellart},
+  A.~{Schoenmakers}, G.~{Schoonderbeek}, M.~{Serylak}, A.~{Shulevski},
+  J.~{Sluman}, O.~{Smirnov}, C.~{Sobey}, H.~{Spreeuw}, M.~{Steinmetz}, C.~G.~M.
+  {Sterks}, H.-J. {Stiepel}, K.~{Stuurwold}, M.~{Tagger}, Y.~{Tang},
+  C.~{Tasse}, I.~{Thomas}, S.~{Thoudam}, M.~C. {Toribio}, B.~{van der Tol},
+  O.~{Usov}, M.~{van Veelen}, A.-J. {van der Veen}, S.~{ter Veen}, J.~P.~W.
+  {Verbiest}, R.~{Vermeulen}, N.~{Vermaas}, C.~{Vocks}, C.~{Vogt}, M.~{de Vos},
+  E.~{van der Wal}, R.~{van Weeren}, H.~{Weggemans}, P.~{Weltevrede},
+  S.~{White}, S.~J. {Wijnholds}, T.~{Wilhelmsson}, O.~{Wucknitz},
+  S.~{Yatawatta}, P.~{Zarka}, A.~{Zensus}, and J.~{van Zwieten}.
+\newblock {LOFAR: The LOw-Frequency ARray}.
+\newblock \emph{\aap}, 556:\penalty0 A2, August 2013.
+\newblock \doi{10.1051/0004-6361/201220873}.
+
+\bibitem[{Vedantham} et~al.(2012){Vedantham}, {Udaya Shankar}, and
+  {Subrahmanyan}]{VedanthamWedge}
+H.~{Vedantham}, N.~{Udaya Shankar}, and R.~{Subrahmanyan}.
+\newblock {Imaging the Epoch of Reionization: Limitations from Foreground
+  Confusion and Imaging Algorithms}.
+\newblock \emph{ApJ}, 745:\penalty0 176, February 2012.
+\newblock \doi{10.1088/0004-637X/745/2/176}.
+
+\bibitem[Virone et~al.(2014)Virone, Paonessa, Peverini, Addamo, Orta, Tascone,
+  and Bolli]{drone1}
+G.~Virone, F.~Paonessa, O.A. Peverini, G.~Addamo, R.~Orta, R.~Tascone, and
+  P.~Bolli.
+\newblock Antenna pattern measurements with a flying far-field source
+  (hexacopter).
+\newblock In \emph{Antenna Measurements Applications (CAMA), 2014 IEEE
+  Conference on}, pages 1--2, Nov 2014.
+\newblock \doi{10.1109/CAMA.2014.7003370}.
+
+\bibitem[{Vogelsberger} et~al.(2014){Vogelsberger}, {Genel}, {Springel},
+  {Torrey}, {Sijacki}, {Xu}, {Snyder}, {Bird}, {Nelson}, and
+  {Hernquist}]{Vogelsberger2014}
+M.~{Vogelsberger}, S.~{Genel}, V.~{Springel}, P.~{Torrey}, D.~{Sijacki},
+  D.~{Xu}, G.~{Snyder}, S.~{Bird}, D.~{Nelson}, and L.~{Hernquist}.
+\newblock {Properties of galaxies reproduced by a hydrodynamic simulation}.
+\newblock \emph{\nat}, 509:\penalty0 177--182, May 2014.
+\newblock \doi{10.1038/nature13316}.
+
+\bibitem[{Wang} et~al.(2006){Wang}, {Tegmark}, {Santos}, and {Knox}]{xiaomin}
+X.~{Wang}, M.~{Tegmark}, M.~G. {Santos}, and L.~{Knox}.
+\newblock {21 cm Tomography with Foregrounds}.
+\newblock \emph{ApJ}, 650:\penalty0 529--537, October 2006.
+\newblock \doi{10.1086/506597}.
+
+\bibitem[{Wieringa}(1992)]{redundant3}
+M.~H. {Wieringa}.
+\newblock {An investigation of the telescope based calibration methods
+  'redundancy' and 'self-cal'}.
+\newblock \emph{Experimental Astronomy}, 2:\penalty0 203--225, 1992.
+\newblock \doi{10.1007/BF00420576}.
+
+\bibitem[{Wikipedia, the free encyclopedia}(2009)]{HydrogenSpinFlipGraphic}
+{Wikipedia, the free encyclopedia}.
+\newblock Hydrogen spin flip transition, 2009.
+\newblock URL
+  \url{https://commons.wikimedia.org/wiki/File:Hydrogen-SpinFlip.svg}.
+\newblock [Online; accessed December 25, 2016].
+
+\bibitem[{Wilkins} et~al.(2016){Wilkins}, {Bouwens}, {Oesch}, {Labb{\'e}},
+  {Sargent}, {Caruana}, {Wardlow}, and {Clay}]{Wilkins12015}
+S.~M. {Wilkins}, R.~J. {Bouwens}, P.~A. {Oesch}, I.~{Labb{\'e}}, M.~{Sargent},
+  J.~{Caruana}, J.~{Wardlow}, and S.~{Clay}.
+\newblock {Quantifying the UV-continuum slopes of galaxies to z ~10 using deep
+  Hubble+Spitzer/IRAC observations}.
+\newblock \emph{\mnras}, 455:\penalty0 659--667, January 2016.
+\newblock \doi{10.1093/mnras/stv2263}.
+
+\bibitem[{Williams} et~al.(2012){Williams}, {Hewitt}, {Levine}, {de
+  Oliveira-Costa}, {Bowman}, {Briggs}, {Gaensler}, {Hernquist}, {Mitchell},
+  {Morales}, {Sethi}, {Subrahmanyan}, {Sadler}, {Arcus}, {Barnes}, {Bernardi},
+  {Bunton}, {Cappallo}, {Crosse}, {Corey}, {Deshpande}, {deSouza}, {Emrich},
+  {Goeke}, {Greenhill}, {Hazelton}, {Herne}, {Kaplan}, {Kasper}, {Kincaid},
+  {Koenig}, {Kratzenberg}, {Lonsdale}, {Lynch}, {McWhirter}, {Morgan},
+  {Oberoi}, {Ord}, {Pathikulangara}, {Prabu}, {Remillard}, {Rogers}, {Anish
+  Roshi}, {Salah}, {Sault}, {Udaya Shankar}, {Srivani}, {Stevens}, {Tingay},
+  {Wayth}, {Waterson}, {Webster}, {Whitney}, {Williams}, and
+  {Wyithe}]{williamsimaging}
+C.~L. {Williams}, J.~N. {Hewitt}, A.~M. {Levine}, A.~{de Oliveira-Costa}, J.~D.
+  {Bowman}, F.~H. {Briggs}, B.~M. {Gaensler}, L.~L. {Hernquist}, D.~A.
+  {Mitchell}, M.~F. {Morales}, S.~K. {Sethi}, R.~{Subrahmanyan}, E.~M.
+  {Sadler}, W.~{Arcus}, D.~G. {Barnes}, G.~{Bernardi}, J.~D. {Bunton}, R.~C.
+  {Cappallo}, B.~W. {Crosse}, B.~E. {Corey}, A.~{Deshpande}, L.~{deSouza},
+  D.~{Emrich}, R.~F. {Goeke}, L.~J. {Greenhill}, B.~J. {Hazelton}, D.~{Herne},
+  D.~L. {Kaplan}, J.~C. {Kasper}, B.~B. {Kincaid}, R.~{Koenig},
+  E.~{Kratzenberg}, C.~J. {Lonsdale}, M.~J. {Lynch}, S.~R. {McWhirter}, E.~H.
+  {Morgan}, D.~{Oberoi}, S.~M. {Ord}, J.~{Pathikulangara}, T.~{Prabu}, R.~A.
+  {Remillard}, A.~E.~E. {Rogers}, D.~{Anish Roshi}, J.~E. {Salah}, R.~J.
+  {Sault}, N.~{Udaya Shankar}, K.~S. {Srivani}, J.~B. {Stevens}, S.~J.
+  {Tingay}, R.~B. {Wayth}, M.~{Waterson}, R.~L. {Webster}, A.~R. {Whitney},
+  A.~J. {Williams}, and J.~S.~B. {Wyithe}.
+\newblock {Low-frequency Imaging of Fields at High Galactic Latitude with the
+  Murchison Widefield Array 32 Element Prototype}.
+\newblock \emph{ApJ}, 755:\penalty0 47, August 2012.
+\newblock \doi{10.1088/0004-637X/755/1/47}.
+
+\bibitem[Williams(2012)]{williamsthesis2012}
+Christopher~Leigh Williams.
+\newblock \emph{Initial exploration of 21-cm cosmology with imaging and power
+  spectra from the murchison widefield array}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 6 2012.
+
+\bibitem[{Willott} et~al.(2003){Willott}, {Rawlings}, {Jarvis}, and
+  {Blundell}]{Willott03}
+C.~J. {Willott}, S.~{Rawlings}, M.~J. {Jarvis}, and K.~M. {Blundell}.
+\newblock {Near-infrared imaging and the K-z relation for radio galaxies in the
+  7C Redshift Survey}.
+\newblock \emph{\mnras}, 339:\penalty0 173--188, February 2003.
+\newblock \doi{10.1046/j.1365-8711.2003.06172.x}.
+
+\bibitem[{Wright} et~al.(2010){Wright}, {Eisenhardt}, {Mainzer}, {Ressler},
+  {Cutri}, {Jarrett}, {Kirkpatrick}, {Padgett}, {McMillan}, {Skrutskie},
+  {Stanford}, {Cohen}, {Walker}, {Mather}, {Leisawitz}, {Gautier}, {McLean},
+  {Benford}, {Lonsdale}, {Blain}, {Mendez}, {Irace}, {Duval}, {Liu}, {Royer},
+  {Heinrichsen}, {Howard}, {Shannon}, {Kendall}, {Walsh}, {Larsen}, {Cardon},
+  {Schick}, {Schwalm}, {Abid}, {Fabinsky}, {Naes}, and {Tsai}]{Wright2010}
+E.~L. {Wright}, P.~R.~M. {Eisenhardt}, A.~K. {Mainzer}, M.~E. {Ressler}, R.~M.
+  {Cutri}, T.~{Jarrett}, J.~D. {Kirkpatrick}, D.~{Padgett}, R.~S. {McMillan},
+  M.~{Skrutskie}, S.~A. {Stanford}, M.~{Cohen}, R.~G. {Walker}, J.~C. {Mather},
+  D.~{Leisawitz}, T.~N. {Gautier}, III, I.~{McLean}, D.~{Benford}, C.~J.
+  {Lonsdale}, A.~{Blain}, B.~{Mendez}, W.~R. {Irace}, V.~{Duval}, F.~{Liu},
+  D.~{Royer}, I.~{Heinrichsen}, J.~{Howard}, M.~{Shannon}, M.~{Kendall}, A.~L.
+  {Walsh}, M.~{Larsen}, J.~G. {Cardon}, S.~{Schick}, M.~{Schwalm}, M.~{Abid},
+  B.~{Fabinsky}, L.~{Naes}, and C.-W. {Tsai}.
+\newblock {The Wide-field Infrared Survey Explorer (WISE): Mission Description
+  and Initial On-orbit Performance}.
+\newblock \emph{\aj}, 140:\penalty0 1868-1881, December 2010.
+\newblock \doi{10.1088/0004-6256/140/6/1868}.
+
+\bibitem[{Wyithe} and {Morales}(2007)]{skew}
+J.~S.~B. {Wyithe} and M.~F. {Morales}.
+\newblock {Biased reionization and non-Gaussianity in redshifted 21-cm
+  intensity maps of the reionization epoch}.
+\newblock \emph{\mnras}, 379:\penalty0 1647--1657, August 2007.
+\newblock \doi{10.1111/j.1365-2966.2007.12048.x}.
+
+\bibitem[{Xu} et~al.(1994){Xu}, {Lisenfeld}, and {Voelk}]{xu94}
+C.~{Xu}, U.~{Lisenfeld}, and H.~J. {Voelk}.
+\newblock {Cool-FIR/radio correlation for late-type galaxies - The case for
+  Supernova progenitors}.
+\newblock \emph{\aap}, 285:\penalty0 19--26, May 1994.
+
+\bibitem[{Yatawatta} et~al.(2013{\natexlab{a}}){Yatawatta}, {de Bruyn},
+  {Brentjens}, {Labropoulos}, {Pandey}, {Kazemi}, {Zaroubi}, {Koopmans},
+  {Offringa}, {Jeli{\'c}}, {Martinez Rubi}, {Veligatla}, {Wijnholds}, {Brouw},
+  {Bernardi}, {Ciardi}, {Daiboo}, {Harker}, {Mellema}, {Schaye}, {Thomas},
+  {Vedantham}, {Chapman}, {Abdalla}, {Alexov}, {Anderson}, {Avruch}, {Batejat},
+  {Bell}, {Bell}, {Bentum}, {Best}, {Bonafede}, {Bregman}, {Breitling}, {van de
+  Brink}, {Broderick}, {Br{\"u}ggen}, {Conway}, {de Gasperin}, {de Geus},
+  {Duscha}, {Falcke}, {Fallows}, {Ferrari}, {Frieswijk}, {Garrett},
+  {Griessmeier}, {Gunst}, {Hassall}, {Hessels}, {Hoeft}, {Iacobelli}, {Juette},
+  {Karastergiou}, {Kondratiev}, {Kramer}, {Kuniyoshi}, {Kuper}, {van Leeuwen},
+  {Maat}, {Mann}, {McKean}, {Mevius}, {Mol}, {Munk}, {Nijboer}, {Noordam},
+  {Norden}, {Orru}, {Paas}, {Pandey-Pommier}, {Pizzo}, {Polatidis}, {Reich},
+  {R{\"o}ttgering}, {Sluman}, {Smirnov}, {Stappers}, {Steinmetz}, {Tagger},
+  {Tang}, {Tasse}, {ter Veen}, {Vermeulen}, {van Weeren}, {Wise}, {Wucknitz},
+  and {Zarka}]{lofareorpaper}
+S.~{Yatawatta}, A.~G. {de Bruyn}, M.~A. {Brentjens}, P.~{Labropoulos}, V.~N.
+  {Pandey}, S.~{Kazemi}, S.~{Zaroubi}, L.~V.~E. {Koopmans}, A.~R. {Offringa},
+  V.~{Jeli{\'c}}, O.~{Martinez Rubi}, V.~{Veligatla}, S.~J. {Wijnholds}, W.~N.
+  {Brouw}, G.~{Bernardi}, B.~{Ciardi}, S.~{Daiboo}, G.~{Harker}, G.~{Mellema},
+  J.~{Schaye}, R.~{Thomas}, H.~{Vedantham}, E.~{Chapman}, F.~B. {Abdalla},
+  A.~{Alexov}, J.~{Anderson}, I.~M. {Avruch}, F.~{Batejat}, M.~E. {Bell}, M.~R.
+  {Bell}, M.~{Bentum}, P.~{Best}, A.~{Bonafede}, J.~{Bregman}, F.~{Breitling},
+  R.~H. {van de Brink}, J.~W. {Broderick}, M.~{Br{\"u}ggen}, J.~{Conway},
+  F.~{de Gasperin}, E.~{de Geus}, S.~{Duscha}, H.~{Falcke}, R.~A. {Fallows},
+  C.~{Ferrari}, W.~{Frieswijk}, M.~A. {Garrett}, J.~M. {Griessmeier}, A.~W.
+  {Gunst}, T.~E. {Hassall}, J.~W.~T. {Hessels}, M.~{Hoeft}, M.~{Iacobelli},
+  E.~{Juette}, A.~{Karastergiou}, V.~I. {Kondratiev}, M.~{Kramer},
+  M.~{Kuniyoshi}, G.~{Kuper}, J.~{van Leeuwen}, P.~{Maat}, G.~{Mann}, J.~P.
+  {McKean}, M.~{Mevius}, J.~D. {Mol}, H.~{Munk}, R.~{Nijboer}, J.~E. {Noordam},
+  M.~J. {Norden}, E.~{Orru}, H.~{Paas}, M.~{Pandey-Pommier}, R.~{Pizzo}, A.~G.
+  {Polatidis}, W.~{Reich}, H.~J.~A. {R{\"o}ttgering}, J.~{Sluman},
+  O.~{Smirnov}, B.~{Stappers}, M.~{Steinmetz}, M.~{Tagger}, Y.~{Tang},
+  C.~{Tasse}, S.~{ter Veen}, R.~{Vermeulen}, R.~J. {van Weeren}, M.~{Wise},
+  O.~{Wucknitz}, and P.~{Zarka}.
+\newblock {Initial deep LOFAR observations of epoch of reionization windows. I.
+  The north celestial pole}.
+\newblock \emph{\aap}, 550:\penalty0 A136, February 2013{\natexlab{a}}.
+\newblock \doi{10.1051/0004-6361/201220874}.
+
+\bibitem[{Yatawatta} et~al.(2013{\natexlab{b}}){Yatawatta}, {de Bruyn},
+  {Brentjens}, {Labropoulos}, {Pandey}, {Kazemi}, {Zaroubi}, {Koopmans},
+  {Offringa}, {Jeli{\'c}}, {Martinez Rubi}, {Veligatla}, {Wijnholds}, {Brouw},
+  {Bernardi}, {Ciardi}, {Daiboo}, {Harker}, {Mellema}, {Schaye}, {Thomas},
+  {Vedantham}, {Chapman}, {Abdalla}, {Alexov}, {Anderson}, {Avruch}, {Batejat},
+  {Bell}, {Bell}, {Bentum}, {Best}, {Bonafede}, {Bregman}, {Breitling}, {van de
+  Brink}, {Broderick}, {Br{\"u}ggen}, {Conway}, {de Gasperin}, {de Geus},
+  {Duscha}, {Falcke}, {Fallows}, {Ferrari}, {Frieswijk}, {Garrett},
+  {Griessmeier}, {Gunst}, {Hassall}, {Hessels}, {Hoeft}, {Iacobelli}, {Juette},
+  {Karastergiou}, {Kondratiev}, {Kramer}, {Kuniyoshi}, {Kuper}, {van Leeuwen},
+  {Maat}, {Mann}, {McKean}, {Mevius}, {Mol}, {Munk}, {Nijboer}, {Noordam},
+  {Norden}, {Orru}, {Paas}, {Pandey-Pommier}, {Pizzo}, {Polatidis}, {Reich},
+  {R{\"o}ttgering}, {Sluman}, {Smirnov}, {Stappers}, {Steinmetz}, {Tagger},
+  {Tang}, {Tasse}, {ter Veen}, {Vermeulen}, {van Weeren}, {Wise}, {Wucknitz},
+  and {Zarka}]{InitialLOFAR1}
+S.~{Yatawatta}, A.~G. {de Bruyn}, M.~A. {Brentjens}, P.~{Labropoulos}, V.~N.
+  {Pandey}, S.~{Kazemi}, S.~{Zaroubi}, L.~V.~E. {Koopmans}, A.~R. {Offringa},
+  V.~{Jeli{\'c}}, O.~{Martinez Rubi}, V.~{Veligatla}, S.~J. {Wijnholds}, W.~N.
+  {Brouw}, G.~{Bernardi}, B.~{Ciardi}, S.~{Daiboo}, G.~{Harker}, G.~{Mellema},
+  J.~{Schaye}, R.~{Thomas}, H.~{Vedantham}, E.~{Chapman}, F.~B. {Abdalla},
+  A.~{Alexov}, J.~{Anderson}, I.~M. {Avruch}, F.~{Batejat}, M.~E. {Bell}, M.~R.
+  {Bell}, M.~{Bentum}, P.~{Best}, A.~{Bonafede}, J.~{Bregman}, F.~{Breitling},
+  R.~H. {van de Brink}, J.~W. {Broderick}, M.~{Br{\"u}ggen}, J.~{Conway},
+  F.~{de Gasperin}, E.~{de Geus}, S.~{Duscha}, H.~{Falcke}, R.~A. {Fallows},
+  C.~{Ferrari}, W.~{Frieswijk}, M.~A. {Garrett}, J.~M. {Griessmeier}, A.~W.
+  {Gunst}, T.~E. {Hassall}, J.~W.~T. {Hessels}, M.~{Hoeft}, M.~{Iacobelli},
+  E.~{Juette}, A.~{Karastergiou}, V.~I. {Kondratiev}, M.~{Kramer},
+  M.~{Kuniyoshi}, G.~{Kuper}, J.~{van Leeuwen}, P.~{Maat}, G.~{Mann}, J.~P.
+  {McKean}, M.~{Mevius}, J.~D. {Mol}, H.~{Munk}, R.~{Nijboer}, J.~E. {Noordam},
+  M.~J. {Norden}, E.~{Orru}, H.~{Paas}, M.~{Pandey-Pommier}, R.~{Pizzo}, A.~G.
+  {Polatidis}, W.~{Reich}, H.~J.~A. {R{\"o}ttgering}, J.~{Sluman},
+  O.~{Smirnov}, B.~{Stappers}, M.~{Steinmetz}, M.~{Tagger}, Y.~{Tang},
+  C.~{Tasse}, S.~{ter Veen}, R.~{Vermeulen}, R.~J. {van Weeren}, M.~{Wise},
+  O.~{Wucknitz}, and P.~{Zarka}.
+\newblock {Initial deep LOFAR observations of epoch of reionization windows. I.
+  The north celestial pole}.
+\newblock \emph{\aap}, 550:\penalty0 A136, February 2013{\natexlab{b}}.
+\newblock \doi{10.1051/0004-6361/201220874}.
+
+\bibitem[{Yue} et~al.(2016){Yue}, {Ferrara}, and {Salvaterra}]{yue16}
+B.~{Yue}, A.~{Ferrara}, and R.~{Salvaterra}.
+\newblock {Updated analysis of near-infrared background fluctuations}.
+\newblock \emph{ArXiv e-prints}, January 2016.
+
+\bibitem[{Yun} et~al.(2001){Yun}, {Reddy}, and {Condon}]{yun01}
+M.~S. {Yun}, N.~A. {Reddy}, and J.~J. {Condon}.
+\newblock {Radio Properties of Infrared-selected Galaxies in the IRAS 2 Jy
+  Sample}.
+\newblock \emph{\apj}, 554:\penalty0 803--822, June 2001.
+\newblock \doi{10.1086/323145}.
+
+\bibitem[Zaroubi(2013)]{zaroubi}
+Saleem Zaroubi.
+\newblock The epoch of reionization.
+\newblock In Tommy Wiklind, Bahram Mobasher, and Volker Bromm, editors,
+  \emph{The First Galaxies}, volume 396 of \emph{Astrophysics and Space Science
+  Library}, pages 45--101. Springer Berlin Heidelberg, 2013.
+\newblock ISBN 978-3-642-32361-4.
+
+\bibitem[{Zemcov} et~al.(2014){Zemcov}, {Smidt}, {Arai}, {Bock}, {Cooray},
+  {Gong}, {Kim}, {Korngut}, {Lam}, {Lee}, {Matsumoto}, {Matsuura}, {Nam},
+  {Roudier}, {Tsumura}, and {Wada}]{zemcov14}
+M.~{Zemcov}, J.~{Smidt}, T.~{Arai}, J.~{Bock}, A.~{Cooray}, Y.~{Gong}, M.~G.
+  {Kim}, P.~{Korngut}, A.~{Lam}, D.~H. {Lee}, T.~{Matsumoto}, S.~{Matsuura},
+  U.~W. {Nam}, G.~{Roudier}, K.~{Tsumura}, and T.~{Wada}.
+\newblock {On the origin of near-infrared extragalactic background light
+  anisotropy}.
+\newblock \emph{Science}, 346:\penalty0 732--735, November 2014.
+\newblock \doi{10.1126/science.1258168}.
+
+\bibitem[Zheng et~al.(2014)Zheng, Tegmark, Buza, Dillon, Gharibyan, Hickish,
+  Kunz, Liu, Losh, Lutomirski, Morrison, Narayanan, Perko, Rosner, Sanchez,
+  Schutz, Tribiano, Valdez, Yang, Adami, Zelko, Zheng, Armstrong, Bradley,
+  Dexter, Ewall-Wice, Magro, Matejek, Morgan, Neben, Pan, Penna, Peterson, Su,
+  Villasenor, Williams, and Zhu]{zheng14}
+H.~Zheng, M.~Tegmark, V.~Buza, J.~S. Dillon, H.~Gharibyan, J.~Hickish, E.~Kunz,
+  A.~Liu, J.~Losh, A.~Lutomirski, S.~Morrison, S.~Narayanan, A.~Perko,
+  D.~Rosner, N.~Sanchez, K.~Schutz, S.~M. Tribiano, M.~Valdez, H.~Yang, K.~Zarb
+  Adami, I.~Zelko, K.~Zheng, R.~P. Armstrong, R.~F. Bradley, M.~R. Dexter,
+  A.~Ewall-Wice, A.~Magro, M.~Matejek, E.~Morgan, A.~R. Neben, Q.~Pan, R.~F.
+  Penna, C.~M. Peterson, M.~Su, J.~Villasenor, C.~L. Williams, and Y.~Zhu.
+\newblock Miteor: a scalable interferometer for precision 21 cm cosmology.
+\newblock \emph{MNRAS}, 445\penalty0 (2):\penalty0 1084--1103, 2014.
+\newblock \doi{10.1093/mnras/stu1773}.
+\newblock URL
+  \url{http://mnras.oxfordjournals.org/content/445/2/1084.abstract}.
+
+\end{thebibliography}
