@@ -15,7 +15,7 @@ The Murchison Widefield Array (MWA) \citep{lonsdale09,tingay13,mwascience} is no
 
 
 \begin{figure}
-%\centering
+\centering
 \includegraphics[width=8.38cm]{chap2_beamforming_errors/tile_photo.pdf}
 \caption[A deployed MWA tile in the Murchison Radio Observatory.]{One of the 128 deployed MWA tiles in the Murchison Radio Observatory, Western Australia.}
 \label{fig:tilephoto}
@@ -33,7 +33,7 @@ As a first step towards understanding the magnitude of these effects to guide de
 
  \begin{figure*}[t]
  \centering
-\includegraphics[height=2.5in]{chap2_beamforming_errors/zenith_and_offzenith_beams-eps-converted-to.pdf}
+\includegraphics[height=2.3in]{chap2_beamforming_errors/zenith_and_offzenith_beams-eps-converted-to.pdf}
 \caption[Ideal (no beamforming errors) beams for zenith (left) and off-zenith (right) pointings.]{Ideal (no beamforming errors) beams for a zenith pointing (left) and a representative off-zenith pointing (right) shown in sine-projection in units of dB at 150\,MHz. The off-zenith beam is pointed at $(\theta,\phi) = (53^\circ,101^\circ)$. }
 \label{fig:idealbeams}
 \end{figure*}
@@ -223,7 +223,7 @@ In forming image cubes from interferometric visibilities, primary beam models ar
 
 
 \begin{figure*}[t]
-\includegraphics[width=7in]{chap2_beamforming_errors/bf_errors_in_visibilities.pdf}
+\includegraphics[width=6.5in]{chap2_beamforming_errors/bf_errors_in_visibilities.pdf}
 \caption[Simulations of the effects of beamforming errors on foreground subtraction and avoidance techniques for a single baseline analysis.]{We simulate delay power spectra for a single baseline at 150\,MHz ($z\sim8.5$) using the Global Sky Model and point source catalogs with and without beamforming errors (dipole gain and delay errors of RMS 0.5\,dB and 50\,ps and delay slope errors of RMS 5ps/\,MHz). We use a bandwidth of 20\,MHz and a Blackman-Harris window function. Left: The total foreground power $P_\mathrm{fg}$ (thick black line) is predominantly contained within this baseline's horizon limits (vertical dotted lines) where it dominates over the cosmological signal, but falls rapidly below that signal just outside the horizon limits (the ``EOR window''). This demonstrates that the ``foreground avoidance'' approach reveals the cosmological signal even in the presence of frequency dependent beamforming errors. Measurement of the cosmological signal within the baseline's horizon limits, where it is largest, requires model subtraction with $3-4$ orders of magnitude more dynamic range in power than is achieved by subtracting an otherwise perfect foreground model with unmodeled beamforming errors $P_\mathrm{res}$ (thin black line). Right: the fractional visibility residual $|V_\mathrm{res}/V_\mathrm{fg}|$ after subtraction is largest near the baseline's horizon limits (corresponding to large zenith angles near the horizon, where the effects of beamforming errors are largest, and lowest at zero delay (in the plane bisecting the baseline and including zenith). }
 \label{fig:bferrorsinps}
 \end{figure*}
@@ -268,7 +268,7 @@ These science goals informed the instrumentation requirements as follows. The de
 Though it is tuned to some extent to achieve the high surface brightness sensitivity required by EOR science, this design also permits a host of other low frequency science ranging from transient searches and source surveys to solar and ionospheric science \citep{mwascience}. The MWA tile design is, therefore, a compromise to meet different science goals. Further optimization for EOR science is possible, for example, HERA, is pursuing larger antenna elements to increase sensitivity without extra computing cost. At the array level, the HERA antennas will be positioned on a regular grid to achieve many redundant baselines, and thus allow coherent integration on individual power spectrum modes.
 
 \begin{figure*}[h]
-\includegraphics[width=7in]{chap2_beamforming_errors/beamformer_signal_path.pdf}
+\includegraphics[width=6in]{chap2_beamforming_errors/beamformer_signal_path.pdf}
 \caption[Beamformer signal path.]{For each polarization, each of 16 dipole signals passes through a balun/LNA (represented by the first amplifier in the diagram) mounted in the dipole hub with a gain varying between 16--25\,dB across the band. The signal is then carried into the beamformer, where it goes through a low pass filter, an amplifier, 5 switchable delay lines, a series of two-way power combiners which sums the 16 dipole signals, then two more amplifiers. The delay lines are replaced by matching attenuators when disengaged. Walsh switching may be implemented directly after the power combiners. Driving just one beamformer input, the gain totals roughly 33\,dB at 150\,MHz accounting for losses in the power combiners and other components. }
 \label{fig:beamformersdiagram}
 \end{figure*}

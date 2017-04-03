@@ -36,10 +36,10 @@ In Section \ref{sec:measurementsystem} we discuss our beam measurement system in
 
 \subsection{Overview}
 
-Figure \ref{fig:systemoverviewdiagram} shows a schematic diagram of our antenna setup and measurement chain. A reference antenna (see Section \ref{sec:refant}) and an Antenna-Under-Test (AUT) both pick up transmitted signals from a passing ORBCOMM satellite, which are mixed down, sampled, and fast fourier transformed by our data acquisition system (see Section \ref{sec:daq}), and finally the power as a function of frequency from both antennas is saved to disk at every time step. Note that in practice, both our antennas are dual-polarization, necessitating two additional measurement chains like these. Additionally, an ORBCOMM Interface Box (typically supplied to commercial users of the ORBCOMM constellation) interfaces with each passing satellite and outputs its identifier (which allows precise prediction of the satellite's location using orbital data) and frequency channel (which specifies which $\sim$20 kHz wide ORBCOMM band between 137--138 MHz the satellite is transmitting on). 
+Figure \ref{fig:systemoverviewdiagram} shows a schematic diagram of our antenna setup and measurement chain. A reference antenna (see Section \ref{sec:refant}) and an Antenna-Under-Test (AUT) both pick up transmitted signals from a passing ORBCOMM satellite, which are mixed down, sampled, and fast fourier transformed by our data acquisition system (see Section \ref{sec:daq}), and finally the power as a function of frequency from both antennas is saved to disk at every time step. Note that in practice, both our antennas are dual-polarization, necessitating two additional measurement chains like these. Additionally, an ORBCOMM Interface Box (typically supplied to commercial users of the ORBCOMM constellation) interfaces with each passing satellite and outputs its identifier (which allows precise prediction of the satellite's location using orbital data) and frequency channel (which specifies which $\sim$20 kHz wide ORBCOMM band between 137--138\,MHz the satellite is transmitting on). 
 
 \begin{figure}
-\includegraphics[width=7in]{chap1_precision_beammapping_figures/system_overview_diagram.pdf}
+\includegraphics[width=6.25in]{chap1_precision_beammapping_figures/system_overview_diagram.pdf}
 \caption[Simplified diagram of our beam measurement system and data flow.]{Simplified diagram of our beam measurement system and data flow. ORBCOMM satellite signals are received by our Reference Antenna and the AUT, each passing through the receiver chain described in Sec. \ref{sec:measurementsystem} which outputs a power spectrum with 2 kHz resolution between 137--138 MHz every $\sim$200 ms. At each time step, a copy of {\tt predict} running on our data acquisition computer outputs the positions and IDs of all ORBCOMM satellites above the horizon, while transmission frequencies are logged by our ORBCOMM Interface box. }
 \label{fig:systemoverviewdiagram}
 \end{figure}
@@ -62,8 +62,8 @@ During data collection, we record the satellite positions using the Linux progra
 Our reference antenna is a simple dual-polarization dipole mounted above a 2 m $\times$ 2 m ground plane, elevated 48.3 cm above the soil (see left panel of Figure \ref{fig:antennas}). The antenna itself is made from 90.4 cm long and 0.5 inch diameter copper tubing, and is encapsulated in 2 in diameter Schedule 40 PVC tubing. The beampattern of the dipole was derived from an electromagnetic analysis of the physical structure over a finite ground plane using CST Microwave Studio\footnote{\ULurl{https://www.cst.com/Products/CSTMWS}}. The soil is modeled as a cube of lossy dielectric 3.05 m on a side having a relative permittivity of 13 and electrical conductivity of 0.005 S/m. 
 
 \begin{figure}
-\includegraphics[height=1.5in]{chap1_precision_beammapping_figures/ref_ant.jpg}
-\includegraphics[height=1.5in]{chap1_precision_beammapping_figures/apr14tile.jpg}
+\includegraphics[height=1.35in]{chap1_precision_beammapping_figures/ref_ant.jpg}
+\includegraphics[height=1.35in]{chap1_precision_beammapping_figures/apr14tile.jpg}
 \caption[Photos of our reference antenna (left) and the MWA tile (right)]{Reference antenna on 2 m $\times$ 2 m ground screen (left) (see Section \ref{sec:refant}) and MWA antenna tile on 5 m $\times$ 5 m ground screen (right) (see Section \ref{sec:mwatile}) deployed at the National Radio Astronomy Observatory--Green Bank.}
 \label{fig:antennas} 
 \end{figure}
