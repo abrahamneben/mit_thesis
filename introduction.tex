@@ -242,7 +242,7 @@ And the full expression for the visibility on baseline (u,w) due to a source at 
 \begin{equation}
 	V(u,w)=|V_0|^2 e^{2\pi i (u\ell+\text{w}\lambda\sqrt{1-\ell^2})}
 \end{equation}
-where $V_0$ is proportional to the power received from that source through a constant determined during calibration. 
+where $|V_0|^2$ is proportional to the power received from that source through a constant determined during calibration. 
 
 Generalizing this for a 1D sky with an intensity distribution per angle of $I(\ell)$ we have $V(u,w)=\int I(\ell)e^{2\pi i (u\ell+\text{w}\lambda\sqrt{1-\ell^2})}d\theta$. Note that $\ell=\sin\theta$, implying that $d\ell=\cos\theta d\theta$, and thus that $d\theta=d\ell/\sqrt{1-\ell^2}$. This gives the final expression for a visibility in our 1D case.
 \begin{equation}
@@ -255,7 +255,7 @@ Treating the more general case of a 2D sky gives
 \begin{equation}
 V(u,v,w)=\int I(\ell,m)e^{2\pi i (u\ell+vm+\text{w}\lambda\sqrt{1-\ell^2-m^2})}\frac{d\ell}{\sqrt{1-\ell^2-m^2}}
 \end{equation}
-where $\ell$ and $m$ are the sines of the angles in orthogonal directions away from zenith, and $u$ and $v$ are the components of the baseline in the plane orthogonal to zenith measured in units of wavelengths \citep{thompsonmoranswenson}. Note that in fact these equations do not require $u$ and $v$ to be defined relative to zenith, we could instead compute them as components of the baseline in the plane orthogonal to an arbitrary \textit{phase center}. In that case, $w$ would be component in the direction of the phase center. For instance, in a interferometer with steerable dishes, it typically makes sense to choose the phase center of the analysis to coincide with the pointing center of the dishes. 
+where $\ell$ and $m$ are the sines of the angles in orthogonal directions away from zenith, and $u$ and $v$ are the components of the baseline in the plane orthogonal to zenith measured in units of wavelengths \citep{thompsonmoranswenson}. Note that in fact these equations do not require $u$ and $v$ to be defined relative to zenith, we could instead compute them as components of the baseline in the plane orthogonal to an arbitrary \textit{phase center}. In that case, $w$ would be the component in the direction of that phase center. For instance, in a interferometer with steerable dishes, it typically makes sense to choose the phase center of the analysis to coincide with the pointing center of the dishes. 
 
 Real world interferometers have non-uniform and incomplete sampling in $u$ space, encoded by a sampling function $S(u)$. We may view this function as a sum of delta functions located at all the sampled $u$ values: $S(u)=\sum_{i,j}\delta(u_i-u_j)$, where $i,j$ index the antennas. Multiplying the true visibility function $V(u)$ by this sampling function, then fourier transforming, is equivalent (by the convolution theorem) to convolving the true sky image by the fourier transform of the sampling function, known as the synthesized beam. This is known as the \textit{dirty image}. Unlike in optical astronomy where the point spread function is close to a gaussian or an Airy function, the synthesized beam is generally non-compact with significant sidelobes due to sparse baseline sampling.  
 
