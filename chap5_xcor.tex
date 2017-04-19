@@ -25,17 +25,12 @@
 
 
 
-\chapter{Foreground and sensitivity analysis for broad band 21\,cm--Ly$\alpha$ and 21\,cm--H$\alpha$ correlation experiments probing the Epoch of Reionization}
+\chapter{Foreground and sensitivity analysis for broad band (2D) 21\,cm--Ly$\alpha$ and 21\,cm--H$\alpha$ correlation experiments probing the Epoch of Reionization}
 \label{chap:xcor}
 
 Brian Stalder performed the infrared observations and the rough calibration and flat-fielding. John Tonry gave advice on infrared observations. I did all other analysis and wrote the paper.
 
-THE TEXT IN THIS SECTION WAS COPIED FROM XCOR-PAPER-REV4 ON APRIL 2, 2017. IT NEEDS TO BE UPDATED TO MATCH THE CURRENT VERSION OF THAT PAPER.
-
-ALSO I NEED TO RECOPY THE IMAGES FROM THE PAPER TO THIS THESIS FOLDER.
-
 A detection of the predicted anticorrelation between $21$\,cm and either Ly$\alpha$ or H$\alpha$ from the Epoch of Reionization (EOR) would be a powerful probe of the astrophysics of the EOR. While 3D intensity maps isolate foregrounds in the lowest $k_\parallel$ modes, infrared surveys cannot yet match the field of view and redshift resolution of radio intensity mapping experiments. In contrast, 2D (i.e., broad band) infrared intensity maps can be measured with current experiments and are not sensitivity limited. We find that 2D experiments can measure of order 100\% of the 3D fluctuation power at $k<0.2$\,Mpc$^{-1}$ while preserving the correlation properties. However, we show that foregrounds pose two challenges: (1) simple geometric effects result in percent-level correlations between fluxes in these two bands, even if their luminosities are uncorrelated; and (2) the largely uncorrelated radio and infrared foreground residuals contribute a sample variance noise to the cross spectrum. The first challenge demands better foreground masking and subtraction, while the second requires measurements over large fields of view with many independent samples to average down uncorrelated radio and infrared power. Using radio and infrared observations from the Murchison Widefield Array (MWA) and the Asteroid Terrestrial-impact Last Alert System (ATLAS) we set an upper limit on the 21\,cm--Ly$\alpha$ power spectrum at $z\sim7$ of $\Delta^2<181$\,$(\text{kJy/sr}\cdot \text{mK})$ (95\%) at $\ell\sim800$. We predict the levels of foreground flux correlation and the sample variance noise in several possible future experiments, and show that higher resolution radio and infrared surveys such as LOFAR, SKA-LOW, Hubble, Dark Energy Survey can start to probe optimistic models of the 21\,cm--Ly$\alpha$ EOR cross spectrum.
-
 
 \section{Introduction}
 
@@ -177,7 +172,7 @@ To characterize the bright sources relevant to broad band  21\,cm--Ly$\alpha$ an
 
 \begin{figure*}[t]
 \centering
-\includegraphics[width=6.5in]{chap5_xcor/catalog_histograms.pdf}
+\includegraphics[width=6in]{chap5_xcor/catalog_histograms.pdf}
 \caption[Histogram of source fluxes in the 185\,MHz, 850\,nm, and 4.5\,$\mu$m catalogs.]{Histogram of source fluxes in the 185\,MHz catalog (left), the 4.5\,$\mu$m catalog (center), and the 850\,nm catalog (right). The catalogs are complete to roughly 250\,mJy, 0.09\,mJy, and 0.5\,mJy respectively.}
 \label{fig:cataloghistograms}
 \end{figure*}
@@ -234,7 +229,7 @@ To further probe which mid infrared sources are responsible for this correlation
 
 \begin{figure*}[h]
 \centering
-\includegraphics[width=7in]{chap5_xcor/mwa_wise_qsoagn_gal_xspec.pdf}
+\includegraphics[width=6in]{chap5_xcor/mwa_wise_qsoagn_gal_xspec.pdf}
 \caption[Auto and cross spectra of 185\,MHz and 4.5\,$\mu$m sources, for both AGN and SF cuts of the infrared catalog.]{Power spectrum of 185\,MHz sources (left panel), 4.5\,$\mu$m sources (center panel), and coherence between 185\,MHz and 4.5\,$\mu$m sources (right panel). We roughly separate the 4.5\,$\mu$m sources into starforming galaxies (SF) and active galactic nuclei (AGN) as illustrated in Fig.  \ref{fig:wisecolorcolor}. We find that the 185\,MHz--4.5\,$\mu$m correlation observed in Fig. \ref{fig:correlationsandSNRs} holds only for the starforming galaxies in the infrared sample. }
 \label{fig:wisexspec}
 \end{figure*}
@@ -332,7 +327,7 @@ Our approach is to mask each image at ATLAS's native $1.86''$ resolution, then c
 
 \begin{figure*}[h]
 \centering
-\includegraphics[width=7in]{chap5_xcor/big_foreground_masking_study_2_magoffset=20_56+0_274.pdf}
+\includegraphics[width=6in]{chap5_xcor/big_foreground_masking_study_2_magoffset=20_56+0_274.pdf}
 \caption[Images of our 850\,nm field after various stages of foreground masking.]{The rows of this figure illustrate our four stages of foreground removal on ATLAS images, as detailed in Sec. \ref{sec:resirfg}. We apply this process to all four $4^\circ$ deep ATLAS fields shown in Fig. \ref{fig:surveyoverview}, but here show the one centered at (RA,Dec)$=2.74^\circ, -24.79^\circ$) for illustration. The first row shows the results of masking $4'$ around all nearly saturated regions; the second row shows the results of masking out to $5\sigma$; the third row shows the results after masking out to $12\sigma$ and all pixels above 70\,kJy/sr over the background, and the last row shows the results after masking the nearly horizontal or vertical fourier modes. In each row, we show the central $9'$ field at $1.86''$ resolution (left), the entire $4^\circ$ field after coarse gridding to $3.5'$ (center), and the FFT of the coarse gridded field to highlight systematics (right). Note that the left and center panels of the bottom row are identical to those in the row above it, illustrating that the image space mask is the same, only the fourier mask is different.}
 \label{fig:bigfgmaskingstudy}
 \end{figure*}
@@ -368,7 +363,7 @@ Note that $\mathcal{F}$ is an $N_\text{pix}\times N_\text{pix}$ matrix with elem
 
 \begin{figure*}[h]
 \centering
-\includegraphics[width=7in]{chap5_xcor/big_foreground_masking_study_pspecs_2_magoffset=20_56+0_274.pdf}
+\includegraphics[width=6in]{chap5_xcor/big_foreground_masking_study_pspecs_2_magoffset=20_56+0_274.pdf}
 \caption[Power spectra of our 850\,nm field after various stages of foreground masking.]{\textbf{Left panel:} Power spectra of our broad band ATLAS images after various stages of foreground removal as described in Sec. \ref{sec:resirfg}. The error bars show the sample variance noise estimated by the standard deviation over our four $4^\circ$ fields (see Fig. \ref{fig:surveyoverview}). Black dots show our final ATLAS 850\,nm power spectrum after all stages of foreground removal. \textbf{Right panel:} We compare our ATLAS power spectrum (black dots) to the 1.1\,$\mu$m power spectrum of \citet{zemcov14} (Z14) (cyan dots) using the CIBER experiment and the 850\,nm power spectrum of \citet{mw15} (MW15) using $10'$ Hubble mosaics. We show the intrahalo light (IHL) models of ZI4 (cyan dashed line) and MW15 (red dashed line), as well as the diffuse galactic light (DGL) model of the latter authors. These results show that finer angular resolution can help reduce the foregrounds in the $\ell\sim10^2-10^4$ modes that can be cross correlated with 21\,cm EOR intensity mapping experiments. The gray area shows the predicted EOR contribution to the infrared anisotropies from MW15.}
 \label{fig:bigfgmaskingstudypspecs}
 \end{figure*}
@@ -384,7 +379,7 @@ In Fig. \ref{fig:bigfgmaskingstudypspecs} (right panel) we compare our final res
 
 \begin{figure*}[h]
 \centering
-\includegraphics[width=7in]{chap5_xcor/spectra3D_to_2D.pdf}
+\includegraphics[width=6in]{chap5_xcor/spectra3D_to_2D.pdf}
 \caption[Study of the relationship between power spectra recovered from 2D and 3D surveys, both for 21\,cm and 850\,nm cubes.]{As described in Sec. \ref{sec:modelingthecrossspectrum}, we identify optimistic (red solid lines) and pessimistic (black solid lines) Ly$\alpha$ (left panel) and 21\,cm (center panel) 3D power spectra from \citet{Gong2014} and \citet{PoberNextGen}, respectively, and use the coherence function from \citet{Heneka2016} (right panel, black solid) for both scenarios. We then simulate approximate cubes assuming gaussian statistics, average them over frequency, and plot the angular power spectra of Ly$\alpha$ (left panel, dashed lines) and 21\,cm emission (center panel, dashed lines), and their coherence functions (right panel, dashed lines). Power on short angular scales ($\ell\gtrsim10^4$) is suppressed by a factor of $\sim100$ (in power units), while power on longer angular scales ($\ell\lesssim10^2$) is suppressed by only a factor of $\sim2$ compared to the 3D power spectrum. This indicates that there remains significant observable signal in broad band 21\,cm--Ly$\alpha$ cross spectrum observations. }
 \label{fig:spectra3Dto2D}
 \end{figure*}
@@ -515,7 +510,6 @@ Finally, we used our foreground subtracted and masked MWA and ATLAS images to se
 A percent-level correlation between radio and infrared foreground fluxes, of the sort suggested by our catalog correlation analyses, remains below this upper limit, but will be crucial for future experiments. We weigh the impact of a percent-level radio--infrared foreground correlation against the sample variance noise due to their uncorrelated part for several possible future experiments. The simplest improvement we consider is increasing the ATLAS survey area by a factor of $\sim10$ and subtracting radio fluxes below the MWA's confusion limit using the GMRT catalog. We predict that the sensitivity boost of these improvements should reveal the cross spectrum floor due to the percent-level geometric flux correlations. Pushing down this floor requires foreground reduction due to higher resolution radio surveys such as LOFAR and SKA-LOW and infrared surveys such as Hubble and the Dark Energy Survey, though future work is needed to better understand these geometric flux correlations at very deep flux cuts.
 
 We conclude that detecting the predicted EOR anticorrelation between redshifted 21\,cm and Ly$\alpha$ emission in 2D (i.e., broad band) images is close to being within reach of current surveys, and future analyses using SKA-LOW can begin to significantly constrain EOR parameter space. These 2D experiments will be valuable complements to future 3D correlation analyses using infrared cubes measured using the proposed SPHEREx and Cosmic Dawn Intensity Mapper telescopes. These 3D surveys exchange foreground challenges for sensitivity and cost challenges, but will eventually probe the short spatial scales inaccessible to 2D surveys. The decade of direction observation of the EOR is upon us, and correlation experiments will help us move from the era of detection to the era of astrophysics.
-
 
 \begin{subappendices}
 
