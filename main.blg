@@ -13,51 +13,62 @@ A level-1 auxiliary file: conclusion.aux
 A level-1 auxiliary file: skynoise.aux
 A level-1 auxiliary file: synchrotron.aux
 A level-1 auxiliary file: biblio.aux
-The style file: apj.bst
-Reallocated field_info (elt_size=4) to 11049 items from 5000.
+The style file: mnras.bst
+Reallocated field_info (elt_size=4) to 12101 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for "AaronSensitivity"
+Warning--I didn't find a database entry for "AaronDelay"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Warning--empty institution in allwise
 Warning--empty publisher in ska
-You've used 263 entries,
-            2988 wiz_defined-function locations,
-            2039 strings with 110861 characters,
-and the built_in function-call counts, 152586 in all, are:
-= -- 9565
-> -- 16207
-< -- 75
-+ -- 5437
-- -- 5139
-* -- 15937
-:= -- 30258
-add.period$ -- 263
-call.type$ -- 263
-change.case$ -- 1691
-chr.to.int$ -- 253
-cite$ -- 265
-duplicate$ -- 4876
-empty$ -- 7116
-format.name$ -- 6036
-if$ -- 28448
+`series' is a missing field, not a string, for entry synthesisimaging
+while executing---line 1822 of file mnras.bst
+"" is a string literal, not an integer, for entry synthesisimaging
+while executing---line 1822 of file mnras.bst
+`series' is a missing field, not a string, for entry synthesisimaging
+while executing---line 1822 of file mnras.bst
+You've used 261 entries,
+            2881 wiz_defined-function locations,
+            2703 strings with 130159 characters,
+and the built_in function-call counts, 117492 in all, are:
+= -- 9584
+> -- 8234
+< -- 466
++ -- 3851
+- -- 1027
+* -- 15218
+:= -- 18132
+add.period$ -- 0
+call.type$ -- 261
+change.case$ -- 526
+chr.to.int$ -- 248
+cite$ -- 263
+duplicate$ -- 5924
+empty$ -- 6066
+format.name$ -- 1885
+if$ -- 20035
 int.to.chr$ -- 14
-int.to.str$ -- 1
-missing$ -- 237
-newline$ -- 793
-num.names$ -- 1058
-pop$ -- 1729
+int.to.str$ -- 0
+missing$ -- 250
+newline$ -- 807
+num.names$ -- 1627
+pop$ -- 1448
 preamble$ -- 1
-purify$ -- 1681
+purify$ -- 1044
 quote$ -- 0
-skip$ -- 4096
+skip$ -- 3333
 stack$ -- 0
-substring$ -- 5255
-swap$ -- 102
-text.length$ -- 11
+substring$ -- 6513
+swap$ -- 2870
+text.length$ -- 1066
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2352
+type$ -- 2334
 warning$ -- 2
-while$ -- 812
+while$ -- 1806
 width$ -- 0
-write$ -- 2613
-(There were 2 warnings)
+write$ -- 2657
+(There were 3 error messages)

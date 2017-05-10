@@ -7,13 +7,13 @@
 \contentsline {subsection}{\numberline {1.2.2}21cm emission from the Dark Ages and Epoch of Reionization}{27}{subsection.1.2.2}
 \contentsline {subsubsection}{\numberline {1.2.2.1}Microscopic radiative transfer using Einstein A and B coefficients}{27}{subsubsection.1.2.2.1}
 \contentsline {subsubsection}{\numberline {1.2.2.2}Brightness temperature of an HI cloud in the EOR}{30}{subsubsection.1.2.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Simulations of the 21\tmspace +\thinmuskip {.1667em}cm signal}{33}{subsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.3.1}The global signal}{33}{subsubsection.1.2.3.1}
+\contentsline {subsection}{\numberline {1.2.3}Simulations of the 21\tmspace +\thinmuskip {.1667em}cm signal}{32}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}The global signal}{32}{subsubsection.1.2.3.1}
 \contentsline {subsubsection}{\numberline {1.2.3.2}The power spectrum}{35}{subsubsection.1.2.3.2}
-\contentsline {section}{\numberline {1.3}Measuring the 21\tmspace +\thinmuskip {.1667em}cm signal with radio interferometers}{37}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}The basics of radio interferometry}{37}{subsection.1.3.1}
+\contentsline {section}{\numberline {1.3}Measuring the 21\tmspace +\thinmuskip {.1667em}cm signal with radio interferometers}{35}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}The basics of radio interferometry}{35}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}From image cubes to power spectra}{41}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Sensitivity challenges}{43}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.3}Sensitivity challenges}{42}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Foreground challenges}{45}{subsection.1.3.4}
 \contentsline {subsection}{\numberline {1.3.5}A new generation of low frequency radio interefrometers}{47}{subsection.1.3.5}
 \contentsline {chapter}{\numberline {2}Measuring High Dynamic Range MWA Beampatterns using 137 MHz ORBCOMM Satellites}{49}{chapter.2}

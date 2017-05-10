@@ -35,7 +35,7 @@ The evolution of the Lyman alpha forest in quasar spectra into a ``trough'' of c
 \end{figure}
 
 % CMB optical depth measurements
-An orthogonal constraint on the redshift of reionization derives from the measurement of the Thomson scattering optical depth $\tau$ between us and recombination. Scattering of CMB photons off free electrons tends to smear out the temperature anisotropies, damping the power on all angular scales scales as $e^{-2\tau}$. However there are very few free electrons in the intergalactic medium prior to reionization, so nearly all scattering occurs only after that time.  Assuming reionization occurred instantaneously at $z_\text{re}$, the Thomson scattering optical depth is 
+An orthogonal constraint on the redshift of reionization derives from the measurement of the Thomson scattering optical depth $\tau$ between us and recombination. Scattering of CMB photons off free electrons tends to smear out the temperature anisotropies, damping the power on all angular scales scales as $e^{-2\tau}$. However, there are very few free electrons in the intergalactic medium prior to reionization, so nearly all scattering occurs only after that time.  Assuming reionization occurred instantaneously at $z_\text{re}$, the Thomson scattering optical depth is 
 \begin{equation}
 \label{eqn:opticaldepthcmb}
 	\tau=\int n_e\sigma_t ds=\sigma_t c\int_0^{z_{re}}\frac{dz}{H(z)(1+z)}\frac{\Omega_M(1+z)^3\rho_c}{m_p}
@@ -83,9 +83,14 @@ In this section I go through a straightforward theoretical calculation of the ob
 
 \subsubsection{Microscopic radiative transfer using Einstein A and B coefficients}
 
-The Hydrogen atom is not a simple quantum mechanical system; even less so taking into account fine and hyperfine structure. Fortunately in the cool, dilute intergalactic medium, the problem simplifies greatly. Essentially all hydrogen atoms are in the ground state at temperatures  $T<<10\text{eV}/k_B\sim10^5$K, which is always the case before the EOR when gas temperatures are $10-100$\,K, and after the EOR when they are $100-1000$\,K \citep{FurlanettoReview}. Thus only the hyperfine ground states are allowed, and we may regard such atoms at two level systems with an energy spacing of $\Delta E=hc/\lambda\approx6\mu$\,eV, where $\lambda=21$\,cm, and there is a three-fold degeneracy of the upper state. The four states are roughly equally populated as $T>>\Delta E/k_B =0.06$K, giving number densities of excited and ground state atoms which we write as $n_2=\frac{3}{4}n_H$ and $n_1=\frac{1}{4}n_H$, where $n_H$ is the overall density of hydrogen atoms. Lastly, note that the spontaneous emission lifetime of the upper excited state is roughly $10^7$\,years.
+The Hydrogen atom is not a simple quantum mechanical system; even less so taking into account fine and hyperfine structure. Fortunately in the cool, dilute intergalactic medium, the problem simplifies greatly. Essentially all hydrogen atoms are in the ground state at temperatures  $T<<10\text{eV}/k_B\sim10^5$K, which is always the case before the EOR when gas temperatures are $10-100$\,K, and after the EOR when they are $100-1000$\,K \citep{FurlanettoReview}. Thus only the hyperfine ground states are allowed, and we may regard such atoms at two level systems with an energy spacing of $\Delta E=hc/\lambda\approx6\mu$\,eV, where $\lambda=21$\,cm, and there is a three-fold degeneracy of the upper state. The four states are roughly equally populated as $T>>\Delta E/k_B =0.06$K, giving number densities of excited and ground state atoms which we write as $n_2=3n_H/4$ and $n_1=n_H/4$, where $n_H$ is the overall density of hydrogen atoms. Lastly, note that the spontaneous emission lifetime of the upper excited state is roughly $10^7$\,years.
 
-Before considering radiative transfer through the universe of 21\,cm emission from a hydrogen cloud at high redshift, we first comment on the different parts of this non-thermodynamic equilibrium problem, and present the Einstein A and B coefficients we will use to treat them. The three temperatures in this problem are: (1) the hydrogen gas temperature, which encodes the root mean square velocities of the particles; (2), the spin temperature, defined as the temperature of an ensemble of two level atoms having the same ratio of excited to ground state atoms as our system; and (3) the temperature of the cosmic microwave background, a blackbody radiation field which backlights our neutral hydrogen clouds during the EOR. 
+Before considering radiative transfer through the universe of 21\,cm emission from a hydrogen cloud at high redshift, we first comment on the different parts of this non-thermodynamic equilibrium problem, and present the Einstein A and B coefficients we will use to treat them. The three temperatures in this problem are:
+\begin{enumerate}
+\item The hydrogen gas temperature, $T_g$, which encodes the root mean square velocities of the particles
+\item The spin temperature, $T_s$, defined as the temperature of an ensemble of two level atoms having the same ratio of excited to ground state atoms as our system
+\item The temperature of the cosmic microwave background, $T_\gamma$, a blackbody radiation field which backlights our neutral hydrogen clouds during the EOR. 
+\end{enumerate}
 
 Our task is to calculate the emergent intensity through an HI cloud with optical depth $\tau$ backlit by the CMB. From standard radiative transfer theory, the answer is $I_\nu=I_0e^{-\tau}+S_\nu(1-e^{-\tau})$, however because our three temperatures are not the same, the source function 
 \begin{equation}
@@ -217,7 +222,7 @@ Consider first a pair of antennas (termed a \textit{baseline}) on the ground sep
 \label{eqn:vis1D}
 	V_{12}\equiv\langle V_1(t)V_2^*(t)\rangle=\langle(V_0 e^{i\omega t})(V_0^*e^{-i(\omega t-2\pi u\sin \theta)})\rangle = |V_0|^2 e^{2\pi i u\theta}
 \end{equation}
-using the small angle approximation and measuring the baseline length in units of wavelengths $u\equiv b/\lambda$. We can see that $u$ and $\theta$ are fourier dual variables. If we can measure the visibility at many different baseline lengths, then we can grid them in $u$ space and take the fourier transform to get their representation in the $\theta$ space, i.e., the sky image.
+using the small angle approximation and measuring the baseline length in units of wavelengths $u\equiv b/\lambda$. We can see that $u$ and $\theta$ are Fourier dual variables. If we can measure the visibility at many different baseline lengths, then we can grid them in $u$ space and take the Fourier transform to get their representation in the $\theta$ space, i.e., the sky image.
 
 \begin{figure}[h]
     \centering
@@ -257,9 +262,9 @@ V(u,v,w)=\int I(\ell,m)e^{2\pi i (u\ell+vm+\text{w}\lambda\sqrt{1-\ell^2-m^2})}\
 \end{equation}
 where $\ell$ and $m$ are the sines of the angles in orthogonal directions away from zenith, and $u$ and $v$ are the components of the baseline in the plane orthogonal to zenith measured in units of wavelengths \citep{thompsonmoranswenson}. Note that in fact these equations do not require $u$ and $v$ to be defined relative to zenith, we could instead compute them as components of the baseline in the plane orthogonal to an arbitrary \textit{phase center}. In that case, $w$ would be the component in the direction of that phase center. For instance, in a interferometer with steerable dishes, it typically makes sense to choose the phase center of the analysis to coincide with the pointing center of the dishes. 
 
-Real world interferometers have non-uniform and incomplete sampling in $u$ space, encoded by a sampling function $S(u)$. We may view this function as a sum of delta functions located at all the sampled $u$ values: $S(u)=\sum_{i,j}\delta(u_i-u_j)$, where $i,j$ index the antennas. Multiplying the true visibility function $V(u)$ by this sampling function, then fourier transforming, is equivalent (by the convolution theorem) to convolving the true sky image by the fourier transform of the sampling function, known as the synthesized beam. This is known as the \textit{dirty image}. Unlike in optical astronomy where the point spread function is close to a gaussian or an Airy function, the synthesized beam is generally non-compact with significant sidelobes due to sparse baseline sampling.  
+Real world interferometers have non-uniform and incomplete sampling in $u$ space, encoded by a sampling function $S(u)$. We may view this function as a sum of delta functions located at all the sampled $u$ values: $S(u)=\sum_{i,j}\delta(u_i-u_j)$, where $i,j$ index the antennas. Multiplying the true visibility function $V(u)$ by this sampling function, then Fourier transforming, is equivalent (by the convolution theorem) to convolving the true sky image by the Fourier transform of the sampling function, known as the synthesized beam. This is known as the \textit{dirty image}. Unlike in optical astronomy where the point spread function is close to a gaussian or an Airy function, the synthesized beam is generally non-compact with significant sidelobes due to sparse baseline sampling.  
 
-The strategy is typically to distribute the antennas pseudo randomly to achieve as many different baselines as possible, calculate the dirty image, then use an iterative procedure known as CLEAN \citep{hogbomclean} and its variants to incrementally deconvolve the synthesized beam from the true sky image. This procedure makes the often valid assumption that the true sky is simply a collection of isolated point sources. The statistics of the resulting \textit{clean image} are difficult to quantify as CLEAN is a non-linear algorithm, but in practice it is found to work quite well and is indispensable to characterizing the compact radio sources between us and the EOR signal (i.e., \textit{foregrounds}). A last note is that a number of methods have been developed to treat the non-coplanar baselines effect which disrupts the simple fourier relationship between baseline space and image space, the most popular of which is an extension of CLEAN known as w-projection \citep{wproj}.
+The strategy is typically to distribute the antennas pseudo randomly to achieve as many different baselines as possible, calculate the dirty image, then use an iterative procedure known as CLEAN \citep{hogbomclean} and its variants to incrementally deconvolve the synthesized beam from the true sky image. This procedure makes the often valid assumption that the true sky is simply a collection of isolated point sources. The statistics of the resulting \textit{clean image} are difficult to quantify as CLEAN is a non-linear algorithm, but in practice it is found to work quite well and is indispensable to characterizing the compact radio sources between us and the EOR signal (i.e., \textit{foregrounds}). A last note is that a number of methods have been developed to treat the non-coplanar baselines effect which disrupts the simple Fourier relationship between baseline space and image space, the most popular of which is an extension of CLEAN known as w-projection \citep{wproj}.
 
 %There are several methods to deal with the w-term during imaging: faceting (Cornwell & Perley 1992); a three-dimensional Fourier transform (Perley 1999); ; w-stacking (Humphreys & Cornwell 2011); and warped snapshots (Perley 1999). Hybrid methods are sometimes useful, such as with the w-snapshots method (Cornwell, Voronkov & Humphreys 2012).
 
@@ -267,16 +272,16 @@ The strategy is typically to distribute the antennas pseudo randomly to achieve 
 
 First generation experiments lack the sensitivity to directly image 21\,cm emission from the EOR, and aim instead at statistical detections of the signal which combine many low SNR pixels into a significant statistic. The most prominent of these methods is estimation of the power spectrum.
 
-To understand how cosmological power spectrum measurements are made, let us first consider the space that the interferometer measurements reside in. The fundamental measurements are cross correlations, also known as visibilities, at different frequencies. We have shown in the previous section that each visibility is a measure of a different sky fourier mode $(u,v)$, coordinates which are dual to $(\theta_x,\theta_y)$. However, each frequency corresponds to a different cosmological redshift, and thus, distance from us. Interferometric visibilities thus live in an awkward mixed fourier space. To study foregrounds, we must fourier transform along $u$ and $v$ to reach 3D image space, but to make power spectrum measurements, we must transform along $f$ to reach 3D fourier space. This is illustrated in Fig. \ref{fig:ifospace}, where we denote the fourier dual to $f$ as $\eta$, termed \textit{delay}.
+To understand how cosmological power spectrum measurements are made, let us first consider the space that the interferometer measurements reside in. The fundamental measurements are cross correlations, also known as visibilities, at different frequencies. We have shown in the previous section that each visibility is a measure of a different sky Fourier mode $(u,v)$, coordinates which are dual to $(\theta_x,\theta_y)$. However, each frequency corresponds to a different cosmological redshift, and thus, distance from us. Interferometric visibilities thus live in an awkward mixed Fourier space. To study foregrounds, we must Fourier transform along $u$ and $v$ to reach 3D image space, but to make power spectrum measurements, we must transform along $f$ to reach 3D Fourier space. This is illustrated in Fig. \ref{fig:ifospace}, where we denote the Fourier dual to $f$ as $\eta$, termed \textit{delay}.
 
 \begin{figure}[h]
     \centering
     \includegraphics[width=1\textwidth]{chap0_intro/ifo_space.pdf}
-    \caption{Representation of the relation between image space (left), fourier space (right), and interferometer space (center).}
+    \caption{Representation of the relation between image space (left), Fourier space (right), and interferometer space (center).}
     \label{fig:ifospace}
 \end{figure}
 
-We seek to estimate the spatial power spectrum of 21\,cm emission in comoving units, that is, as a function of wave number $k$ with units of inverse comoving distance. We must first rescale $u$ and $v$ to $k_x$ and $k_y$. For brevity, consider only the $x$ dimension. $u$ is defined by the fourier factor $e^{2\pi i u\theta}$, which we must match with $k_x$, defined by $e^{ik_x x}$, where $x$ is the comoving distance transverse to the line of sight. Setting their exponents equal and using $x=D\theta$, where $D$ is the transverse comoving distance to the redshift of interest, we find.
+We seek to estimate the spatial power spectrum of 21\,cm emission in comoving units, that is, as a function of wave number $k$ with units of inverse comoving distance. We must first rescale $u$ and $v$ to $k_x$ and $k_y$. For brevity, consider only the $x$ dimension. $u$ is defined by the Fourier factor $e^{2\pi i u\theta}$, which we must match with $k_x$, defined by $e^{ik_x x}$, where $x$ is the comoving distance transverse to the line of sight. Setting their exponents equal and using $x=D\theta$, where $D$ is the transverse comoving distance to the redshift of interest, we find.
 
 \begin{eqnarray}
 	k_x=\frac{2\pi u}{D} \\ 
@@ -292,7 +297,7 @@ To relate $k_z$ to $\eta$, we must first match the exponents in $e^{i k_z x_\par
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{chap0_intro/ifo_space_cosmo.pdf}
-    \caption{Representation of the rescaling between instrument fourier space and cosmological fourier space.}
+    \caption{Representation of the rescaling between instrument Fourier space and cosmological fourier space.}
     \label{fig:ifospacecosmo}
 \end{figure}
 
@@ -326,7 +331,7 @@ While the diffuse synchrotron emission in our galaxy generates the noise on our 
 \begin{figure}
 	\centering
 	\includegraphics[width=5in]{chap0_intro/wedge-diagram.png}
-	\caption[aeouaoeu]{Frequency-dependent sampling by interferometers imprints frequency dependence on otherwise smooth or flat spectrum foregrounds (see Sec. \ref{sec:foregroundchallenges}). This results in foreground contamination largely in a wedge-shaped region in $k_\parallel,k_\perp$ space, whose complement is termed the EOR window. Reproduced from \citet{dillonthesis2015}}
+	\caption[Frequency-dependent sampling by interferometers imprints frequency dependence on otherwise smooth or flat spectrum foregrounds]{Frequency-dependent sampling by interferometers imprints frequency dependence on otherwise smooth or flat spectrum foregrounds (see Sec. \ref{sec:foregroundchallenges}). This results in foreground contamination largely in a wedge-shaped region in $k_\parallel,k_\perp$ space, whose complement is termed the EOR window. Reproduced from \citet{dillonthesis2015}}
 	\label{fig:wedgediagram}
 \end{figure}
 
