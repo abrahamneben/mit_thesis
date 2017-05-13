@@ -57,18 +57,18 @@
 \contentsline {figure}{\numberline {6-1}{\ignorespaces Diagram of the MWA deep integration field and our ATLAS surveys.}}{184}{figure.6.1}
 \contentsline {figure}{\numberline {6-2}{\ignorespaces Histogram of source fluxes in the 185\tmspace +\thinmuskip {.1667em}MHz, 850\tmspace +\thinmuskip {.1667em}nm, and 4.5\tmspace +\thinmuskip {.1667em}$\mu $m catalogs.}}{186}{figure.6.2}
 \contentsline {figure}{\numberline {6-3}{\ignorespaces To improve the rough initial ATLAS calibration, we cross match ATLAS sources with those from APASS.}}{188}{figure.6.3}
-\contentsline {figure}{\numberline {6-4}{\ignorespaces Image space correlation coefficient between 185\tmspace +\thinmuskip {.1667em}MHz and 4.5\tmspace +\thinmuskip {.1667em}$\mu $m sources (left), and 185\tmspace +\thinmuskip {.1667em}MHz and 850\tmspace +\thinmuskip {.1667em}nm sources (right).}}{217}{figure.6.4}
-\contentsline {figure}{\numberline {6-5}{\ignorespaces Color-color plots of ALLWISE sources showing that cutting out the brightest 10\% cleanly removes the stars.}}{218}{figure.6.5}
-\contentsline {figure}{\numberline {6-6}{\ignorespaces Auto and cross spectra of 185\tmspace +\thinmuskip {.1667em}MHz and 4.5\tmspace +\thinmuskip {.1667em}$\mu $m sources, for both AGN and SF cuts of the infrared catalog.}}{218}{figure.6.6}
-\contentsline {figure}{\numberline {6-7}{\ignorespaces Histogram of SDSS fluxes of stars and galaxies in a similar field to our ATLAS field.}}{219}{figure.6.7}
-\contentsline {figure}{\numberline {6-8}{\ignorespaces AGN and SF luminosity functions at 8\tmspace +\thinmuskip {.1667em}$\mu $m from (left) and at 1.4\tmspace +\thinmuskip {.1667em}GHz (right).}}{219}{figure.6.8}
-\contentsline {figure}{\numberline {6-9}{\ignorespaces Apparent correlation of radio and mid-infrared fluxes from a mock survey.}}{220}{figure.6.9}
-\contentsline {figure}{\numberline {6-10}{\ignorespaces Raw, residual (post foreground subtraction), and noise power spectra of 185\tmspace +\thinmuskip {.1667em}MHz broad band images from various data selections.}}{221}{figure.6.10}
-\contentsline {figure}{\numberline {6-11}{\ignorespaces Images of our 850\tmspace +\thinmuskip {.1667em}nm field after various stages of foreground masking.}}{222}{figure.6.11}
-\contentsline {figure}{\numberline {6-12}{\ignorespaces Power spectra of our 850\tmspace +\thinmuskip {.1667em}nm field after various stages of foreground masking.}}{223}{figure.6.12}
-\contentsline {figure}{\numberline {6-13}{\ignorespaces Study of the relationship between power spectra recovered from 2D and 3D surveys, both for 21\tmspace +\thinmuskip {.1667em}cm and 850\tmspace +\thinmuskip {.1667em}nm cubes.}}{224}{figure.6.13}
-\contentsline {figure}{\numberline {6-14}{\ignorespaces Measured cross spectrum between 185\tmspace +\thinmuskip {.1667em}MHz and 850\tmspace +\thinmuskip {.1667em}nm images after our best foreground subtraction and masking.}}{225}{figure.6.14}
-\contentsline {figure}{\numberline {6-15}{\ignorespaces Experimental design study for 21\tmspace +\thinmuskip {.1667em}cm--Ly$\alpha $ cross spectrum measurements, weighting foreground cross spectra due to flux correlatians against foreground sample variance.}}{226}{figure.6.15}
+\contentsline {figure}{\numberline {6-4}{\ignorespaces Image space correlation coefficient between 185\tmspace +\thinmuskip {.1667em}MHz and 4.5\tmspace +\thinmuskip {.1667em}$\mu $m sources (left), and 185\tmspace +\thinmuskip {.1667em}MHz and 850\tmspace +\thinmuskip {.1667em}nm sources (right).}}{216}{figure.6.4}
+\contentsline {figure}{\numberline {6-5}{\ignorespaces Color-color plots of ALLWISE sources showing that cutting out the brightest 10\% cleanly removes the stars.}}{217}{figure.6.5}
+\contentsline {figure}{\numberline {6-6}{\ignorespaces Auto and cross spectra of 185\tmspace +\thinmuskip {.1667em}MHz and 4.5\tmspace +\thinmuskip {.1667em}$\mu $m sources, for both AGN and SF cuts of the infrared catalog.}}{217}{figure.6.6}
+\contentsline {figure}{\numberline {6-7}{\ignorespaces Histogram of SDSS fluxes of stars and galaxies in a similar field to our ATLAS field.}}{218}{figure.6.7}
+\contentsline {figure}{\numberline {6-8}{\ignorespaces AGN and SF luminosity functions at 8\tmspace +\thinmuskip {.1667em}$\mu $m from (left) and at 1.4\tmspace +\thinmuskip {.1667em}GHz (right).}}{218}{figure.6.8}
+\contentsline {figure}{\numberline {6-9}{\ignorespaces Apparent correlation of radio and mid-infrared fluxes from a mock survey.}}{219}{figure.6.9}
+\contentsline {figure}{\numberline {6-10}{\ignorespaces Raw, residual (post foreground subtraction), and noise power spectra of 185\tmspace +\thinmuskip {.1667em}MHz broad band images from various data selections.}}{220}{figure.6.10}
+\contentsline {figure}{\numberline {6-11}{\ignorespaces Images of our 850\tmspace +\thinmuskip {.1667em}nm field after various stages of foreground masking.}}{221}{figure.6.11}
+\contentsline {figure}{\numberline {6-12}{\ignorespaces Power spectra of our 850\tmspace +\thinmuskip {.1667em}nm field after various stages of foreground masking.}}{222}{figure.6.12}
+\contentsline {figure}{\numberline {6-13}{\ignorespaces Study of the relationship between power spectra recovered from 2D and 3D surveys, both for 21\tmspace +\thinmuskip {.1667em}cm and 850\tmspace +\thinmuskip {.1667em}nm cubes.}}{223}{figure.6.13}
+\contentsline {figure}{\numberline {6-14}{\ignorespaces Measured cross spectrum between 185\tmspace +\thinmuskip {.1667em}MHz and 850\tmspace +\thinmuskip {.1667em}nm images after our best foreground subtraction and masking.}}{224}{figure.6.14}
+\contentsline {figure}{\numberline {6-15}{\ignorespaces Experimental design study for 21\tmspace +\thinmuskip {.1667em}cm--Ly$\alpha $ cross spectrum measurements, weighting foreground cross spectra due to flux correlatians against foreground sample variance.}}{225}{figure.6.15}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {A-1}{\ignorespaces The level of self noise in baselines is set by their separation.}}{236}{figure.A.1}

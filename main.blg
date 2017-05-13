@@ -14,11 +14,10 @@ A level-1 auxiliary file: skynoise.aux
 A level-1 auxiliary file: synchrotron.aux
 A level-1 auxiliary file: biblio.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 12101 items from 5000.
+Reallocated field_info (elt_size=4) to 12074 items from 5000.
 Database file #1: main.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for "AaronSensitivity"
-Warning--I didn't find a database entry for "AaronDelay"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
@@ -32,7 +31,7 @@ while executing---line 1822 of file mnras.bst
 while executing---line 1822 of file mnras.bst
 You've used 261 entries,
             2881 wiz_defined-function locations,
-            2703 strings with 130159 characters,
+            2701 strings with 130139 characters,
 and the built_in function-call counts, 117492 in all, are:
 = -- 9584
 > -- 8234

@@ -88,10 +88,10 @@
 \contentsline {section}{\numberline {6.2}Power spectrum and correlation conventions}{180}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}Power spectrum definitions}{180}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}Cross spectrum vs. coherence}{182}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}Observations and Imaging}{183}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}21\tmspace +\thinmuskip {.1667em}cm Observations}{183}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.3}Observations and Imaging}{182}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}21\tmspace +\thinmuskip {.1667em}cm Observations}{182}{subsection.6.3.1}
 \contentsline {subsection}{\numberline {6.3.2}IR Observations}{184}{subsection.6.3.2}
-\contentsline {section}{\numberline {6.4}Point source foregrounds}{186}{section.6.4}
+\contentsline {section}{\numberline {6.4}Point source foregrounds}{185}{section.6.4}
 \contentsline {subsection}{\numberline {6.4.1}Catalogs}{186}{subsection.6.4.1}
 \contentsline {subsection}{\numberline {6.4.2}Catalog radio--infrared flux correlations}{187}{subsection.6.4.2}
 \contentsline {subsection}{\numberline {6.4.3}Simulations of distance-induced flux correlation}{192}{subsection.6.4.3}
@@ -99,10 +99,10 @@
 \contentsline {subsection}{\numberline {6.5.1}Residual 21\tmspace +\thinmuskip {.1667em}cm foregrounds}{195}{subsection.6.5.1}
 \contentsline {subsection}{\numberline {6.5.2}Residual IR foregrounds}{197}{subsection.6.5.2}
 \contentsline {subsection}{\numberline {6.5.3}Modeling the 21\tmspace +\thinmuskip {.1667em}cm--Ly$\alpha $ cross spectrum}{202}{subsection.6.5.3}
-\contentsline {subsection}{\numberline {6.5.4}Limits on the 21\tmspace +\thinmuskip {.1667em}cm--Ly$\alpha $ cross spectrum and an experimental design study}{204}{subsection.6.5.4}
+\contentsline {subsection}{\numberline {6.5.4}Limits on the 21\tmspace +\thinmuskip {.1667em}cm--Ly$\alpha $ cross spectrum and an experimental design study}{203}{subsection.6.5.4}
 \contentsline {section}{\numberline {6.6}Discussion}{208}{section.6.6}
-\contentsline {section}{\numberline {6.A}Power spectrum of photon shot noise}{212}{section.c.6.A}
-\contentsline {section}{\numberline {6.B}Relation between the power spectrum of image cubes and broadband images}{213}{section.c.6.B}
+\contentsline {section}{\numberline {6.A}Power spectrum of photon shot noise}{211}{section.c.6.A}
+\contentsline {section}{\numberline {6.B}Relation between the power spectrum of image cubes and broadband images}{212}{section.c.6.B}
 \contentsline {section}{\numberline {6.C}Extending the optimal quadratic power spectrum estimator to the cross spectrum case}{214}{section.c.6.C}
 \contentsline {chapter}{\numberline {7}Conclusion}{227}{chapter.7}
 \contentsline {chapter}{\numberline {A}Review of noise in radio interferometers}{231}{appendix.A}
